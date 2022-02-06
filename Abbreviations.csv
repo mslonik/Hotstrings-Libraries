@@ -104,6 +104,8 @@ C‖dita‖SI‖En‖DITA‖
 *‖dita/‖CL‖En‖Darwin Information Typing Architecture‖https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architec
 ‖diy‖SI‖En‖DIY‖
 *‖diy/‖SI‖En‖Do It Yourself‖
+‖dmu‖SI‖En‖DMU‖
+*‖dmu/‖SI‖En‖Diesel Multiple Unit‖
 C‖dnd‖SI‖En‖D&D‖
 *‖dnd/‖SI‖En‖Drag&Drop‖
 C‖dns‖SI‖En‖DNS‖
@@ -129,12 +131,16 @@ C‖ei‖SI‖En‖EI‖
 *‖ei/‖CL‖En‖Emotional Intelligence‖
 C‖emc‖SI‖En‖EMC‖
 *‖emc/‖CL‖En‖Electro-Magnetic Compatibility‖
+‖emea‖SI‖En‖EMEA‖
+‖emea/‖SI‖En‖Europe, the Middle East and Africa‖
 C‖emf‖SI‖En‖EMF‖
 *‖emf/‖CL‖En‖Enhanced Metafile‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 C‖emi‖SI‖En‖EMI‖
 *‖emi/‖CL‖En‖Electromagnetic Interference‖
 C‖ems‖SI‖En‖EMS‖
 *‖ems/‖CL‖En‖Electronics Manufacturing Services‖
+‖emu‖SI‖En‖EMU‖
+*‖emu/‖SI‖En‖Electric Multiple Unit‖
 C‖eol‖SI‖En‖EOL‖
 ‖eol/‖SI‖En‖End of Life‖
 C‖eq‖SI‖En‖EQ ‖
@@ -207,6 +213,8 @@ C‖ic‖SI‖En‖IC‖
 *‖ic/‖CL‖En‖Interoperability Constituent‖
 C‖ide‖SI‖En‖IDE‖
 *‖ide/‖SI‖En‖Integrated Development Environment‖
+‖iot‖SI‖En‖IoT‖
+*‖iot/‖SI‖En‖Internet of Things‖
 C‖ip‖SI‖En‖IP‖
 *‖ip/‖MCL‖En‖IP Code, Ingress Protection code¦https://en.wikipedia.org/wiki/IP_Code‖
 C‖iq‖SI‖En‖IQ‖
@@ -271,6 +279,8 @@ C‖nda‖SI‖En‖NDA‖
 *‖nfc/‖SI‖En‖Near-Field Communication‖https://en.wikipedia.org/wiki/Near-field_communication
 *‖nic/‖SI‖En‖Network Interface Card‖
 *‖nic`t‖SI‖En‖NIC‖
+‖nobo‖SI‖En‖NoBo‖
+*‖nobo/‖SI‖En‖Notified Body‖
 ‖ntp‖SI‖En‖NTP‖
 *‖ntp/‖SI‖En‖Network Time Protocol‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 ‖ocr‖SI‖En‖OCR‖
@@ -356,10 +366,9 @@ C‖rpu‖SI‖En‖RPU‖
 *‖rsa/‖MSI‖En‖Rivest–Shamir–Adleman¦a public-key cryptosystem that is widely used for secure data transmission‖https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 C‖rtc‖SI‖En‖RTC‖
 *‖rtc/‖SI‖En‖Real Time Clock‖
-C‖sa‖SI‖En‖SA‖
 *‖sa/‖CL‖En‖Specific Application‖
+*C‖sa`t‖SI‖En‖SA‖
 C‖saas‖SI‖En‖SaaS‖
-*‖saas/‖SI‖En‖Software as a Service‖https://en.wikipedia.org/wiki/Software_as_a_service
 ‖scada‖SI‖En‖SCADA‖
 *‖scada/‖SI‖En‖Supervisory Control and Data Acquisition‖https://en.wikipedia.org/wiki/SCADA
 ‖scm‖SI‖En‖SCM‖
