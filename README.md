@@ -9,9 +9,9 @@ In this article there are described libraries belonging to the following cathego
 
 Text replacement format:
 
-| text to be replaced | →     | replacement options | →     | replaced text |
-| :---:               | :---: | :---:               | :---: | :---:         |
-| triggerstring + trigger | → | (triggerstring) options | → | hotstring |
+| text to be replaced     | →     | replacement options     | →     | replaced text | output function |
+| :---:                   | :---: | :---:                   | :---: | :---:         | :---: |
+| triggerstring + trigger | →     | (triggerstring) options | →     | hotstring     | how hotstring is produced |
 
 ## The free Library files
 
@@ -35,7 +35,36 @@ Incoterms |
 
 ### Abbreviations.csv ###
 
-Examples:
+Acronyms (fitting into cathegory of abbreviations) can be used in up to 3x forms:
+- short version, e.g. **ADC**
+- expanded version, e.g. **Analog to Digital Converter**
+- full version, explaining definition of acronym: 
+
+Thanks to **Hotstrings** application all three forms can be easily applied.
+
+Example:
+
+| triggerstring + trigger | →     | (triggerstring) options | →     | hotstring     | output function |
+| :---:                   | :---: | :---:                   | :---: | :---:         | :---:           |
+| adc                     | →     | C                       | →     | ADC           | SI              |
+| adc/                    | →     | *                       | →     | Analog to Digital Converter¦analog-to-digital converter is a system that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal | MSI                            |
+
+**Remark:** For my libraries I use the following convention: if I want to immediately trigger a phrase, I use one of the characters freely available keys of keyboard, but seldomly used for other purposes. There are coupe of candidates: "~", "/", "\". I decided to use "/" as it is relatively easy reachable.
+
+### AccentsDiacritics.csv  ###
+
+Example:
+
+| triggerstring + trigger | →     | (triggerstring) options | →     | hotstring     | output function |
+| :---:                   | :---: | :---:                   | :---: | :---:         | :---:           |
+| a^                      | →     | C*?                     | →     | å¦ä¦â¦à¦á¦ą¦ā | MSI             |
+
+Thanks to the option:
+- "?" this definition can be called even from within any word,
+- "C" it is case sensitive (small letter a^ will produce corresponding hotstring),
+- "*" the trigger is a part of triggerstring (trigger = "^").
+
+After triggerstring + trigger is pressed, user can choose from the list of 7x diacritics one fitting to the current purpose.
 
 ## Not-free libraries ##
 
