@@ -49,7 +49,17 @@ Example:
 | adc                     | →     | C                       | →     | ADC           | SI              |
 | adc/                    | →     | *                       | →     | Analog to Digital Converter¦analog-to-digital converter is a system that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal | MSI                            |
 
-**Remark:** For my libraries I use the following convention: if I want to immediately trigger a phrase, I use one of the characters freely available keys of keyboard, but seldomly used for other purposes. There are coupe of candidates: "~", "/", "\". I decided to use "/" as it is relatively easy reachable.
+**Remarks:** 
+
+1. Convention. For my libraries I use the following convention: 
+   - if I want to immediately trigger a phrase, I use one of the characters freely available keys of keyboard, but seldomly used for other purposes. There are coupe of candidates: "~", "/", "\". I decided to use "/" as it is relatively easy reachable;
+   - short version of acronyms are usually present in a sentence, so to trigger such hotstring it is enough to press one of usual triggers (e.g. space, dot (.), colon (,) etc.). This way I don't have to enter the acronyms in capital letters - they are converted to capitals by AutoHotkey automatically. Additionally I use option "C": in case I'd enter abbreviation in capital letters (following above example: ADC), then AutoHotkey is not used to convert it between small letters and capital letters, what spares some time of microprocessor 😉;
+   - additionally for reference purposes for some definitions I use comment field for storage of link to definitions.
+
+1. Unification of language.
+   - If many people use the same set of abbreviations and definitions in written form, 
+
+Sometimes acronym names are the same as words used 
 
 ### AccentsDiacritics.csv  ###
 
