@@ -1,15 +1,6 @@
 ﻿*‖-/‖MSI‖En‖- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¦-----------------------------------------------------------------------------------------¦= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = ¦===========================================================¦# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #¦################################################################‖
 B0?‖.ahk‖SI‖En‖‖only for extensions
-B0?‖.csv‖SI‖En‖‖only for extensions
-B0?‖.docx‖SI‖En‖‖only for extensions
-B0?‖.easm‖SI‖En‖‖only for extensions
-B0?‖.exe‖SI‖En‖‖
-B0?‖.gif‖SI‖En‖‖
-B0?‖.pdf‖SI‖En‖‖only for extensions
-B0?‖.png‖SI‖En‖‖
-B0?‖.svg‖SI‖En‖‖only for extensions
-B0?‖.xlsx‖SI‖En‖‖only for extensions
-B0?‖.xml‖SI‖En‖‖only for extensions
+B0?‖.fbx‖SI‖En‖‖only for file extensions
 C*‖2d‖MSI‖En‖2D¦two-dimensional‖
 C‖2fa‖SI‖En‖2FA‖
 *‖2fa/‖SI‖En‖Two-Factor Authentication‖
@@ -22,9 +13,9 @@ C‖ac‖SI‖En‖AC‖
 C‖acl‖SI‖En‖ACL‖
 *‖acl/‖SI‖En‖Access Control List‖
 C‖adc‖SI‖En‖ADC‖
-*‖adc/‖SI‖En‖Aanalog to Digital Converter‖
+*‖adc/‖MSI‖En‖Analog to digital Converter¦is a system in electronics that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal.‖
 C‖ahk‖SI‖En‖AHK‖
-*‖ahk/‖CL‖En‖AutoHotkey‖https://www.autohotkey.com/
+*‖ahk/‖MSI‖En‖AutoHotkey¦https://www.autohotkey.com/docs/AutoHotkey.htm‖https://www.autohotkey.com/
 ‖ai‖SI‖En‖AI‖
 ‖ai/‖SI‖En‖Artificial Inteligence‖
 C‖ansi‖SI‖En‖ANSI‖
@@ -83,20 +74,24 @@ C‖cots‖SI‖En‖COTS‖
 *‖cots/‖CL‖En‖Commercial Off-The-Shelf‖
 ‖covid‖MSI‖En‖COVID-19¦👑🦠‖U+1F451 | U+83CC
 *‖covid/‖CL‖En‖severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)‖
+‖cr‖SI‖En‖CR‖Carriage Return
+*C‖cr/‖SI‖En‖Carriage Return‖
 C‖crc‖SI‖En‖CRC‖
 *‖crc/‖SI‖En‖Cyclic Redundancy Check‖
+C‖crlf‖SI‖En‖CRLF‖
+*C‖crlf/‖SI‖En‖Carriage Return {+} Line Feed‖
 C‖crm‖SI‖En‖CRM‖
 *‖crm/‖SI‖En‖Customer Relationship Management‖
 C‖cso‖SI‖En‖CSO‖
 *‖cso/‖SI‖En‖Chief Sales Officer‖
-C‖csv‖SI‖En‖CSV‖
-*‖csv/‖SI‖En‖Comma Separated Values‖https://en.wikipedia.org/wiki/Comma-separated_values
 C‖cv‖SI‖En‖CV‖
 ‖cv/‖SI‖En‖Curriculum Vitae‖course of life
 C‖dc‖SI‖En‖DC‖
 *‖dc/‖CL‖En‖Direct Current‖
 C‖ddns‖SI‖En‖DDNS‖
 *‖ddns/‖CL‖En‖Dynamic DNS‖https://en.wikipedia.org/wiki/Dynamic_DNS
+‖ddos‖SI‖En‖DDoS‖
+*‖ddos/‖SI‖En‖Distributed Denial of Service‖
 ‖dftba‖SI‖En‖DFTBA‖
 *‖dftba/‖SI‖En‖Don't Forget To Be Awsome‖
 C‖dhcp‖SI‖En‖DHCP‖
@@ -112,8 +107,11 @@ C‖dnd‖SI‖En‖D&D‖
 *‖dnd/‖SI‖En‖Drag&Drop‖
 C‖dns‖SI‖En‖DNS‖
 ‖dns/‖SI‖En‖Domain Name System‖https://en.wikipedia.org/wiki/Domain_Name_System
-C‖docx‖SI‖En‖DOCX‖https://en.wikipedia.org/wiki/Office_Open_XML
 *‖doors/‖SI‖En‖ Dynamic Object Oriented Requirements System‖https://www.ibm.com/pl-pl/products/requirements-management
+‖dos‖SI‖En‖DoS‖
+*‖dos/‖SI‖En‖Denial of Service‖
+‖drm‖CL‖En‖DRM‖
+*‖drm/‖CL‖En‖Digital Right Management‖
 C‖dsl‖SI‖En‖DSL‖
 *‖dsl/‖SI‖En‖Digital Subscriber Line‖https://en.wikipedia.org/wiki/Digital_subscriber_line
 C‖dslr‖SI‖En‖DSLR‖
@@ -124,11 +122,12 @@ C‖dwg‖SI‖En‖DWG‖
 *‖dwg/‖SI‖En‖Drawings binary file format‖https://en.wikipedia.org/wiki/.dwg
 C‖dxf‖SI‖En‖DXF‖
 *‖dxf/‖SI‖En‖Drawing Exchange Format‖
-C‖easm‖SI‖En‖EASM‖
 C‖ebit‖SI‖En‖EBIT‖
 *‖ebit/‖SI‖En‖Earnings Before Interest and Taxes‖
 C‖ebitda‖SI‖En‖EBITDA‖
 *‖ebitda/‖SI‖En‖Earnings before interest, taxes, depreciation and amortization‖https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_d
+‖ecm‖SI‖En‖ECM‖
+*C‖ecm/‖SI‖En‖Enterprise Content Management‖
 C‖ei‖SI‖En‖EI‖
 *‖ei/‖CL‖En‖Emotional Intelligence‖
 C‖emc‖SI‖En‖EMC‖
@@ -144,7 +143,7 @@ C‖ems‖SI‖En‖EMS‖
 ‖emu‖SI‖En‖EMU‖
 *‖emu/‖SI‖En‖Electric Multiple Unit‖
 C‖eol‖SI‖En‖EOL‖
-‖eol/‖SI‖En‖End of Life‖
+*‖eol/‖SI‖En‖End of Life‖
 C‖eq‖SI‖En‖EQ ‖
 *‖eq/‖CL‖En‖Emotional Quotient‖
 C‖era‖SI‖En‖ERA‖
@@ -165,16 +164,18 @@ C‖eu‖SI‖En‖EU‖
 *‖eu/‖SI‖En‖European Union‖
 C‖eut‖SI‖En‖EUT‖
 *‖eut/‖SI‖En‖Equipment Under Test‖
-CB0?‖exe‖SI‖En‖EXE‖
-*C‖exe/‖SI‖En‖executable‖
 C‖fai‖SI‖En‖FAI‖
 *‖fai/‖CL‖En‖First Article Inspection‖
 C‖faq‖SI‖En‖FAQ‖
 *‖faq/‖CL‖En‖Frequently Asked Questions‖
 C‖fat‖SI‖En‖FAT‖
 *‖fat/‖CL‖En‖Factory Acceptance Test‖
+‖fbx‖SI‖En‖FBX‖
+*‖fbx/‖SI‖En‖(Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006‖
 ‖fido‖SI‖En‖FIDO‖
 *‖fido/‖MSI‖En‖Fast IDentity Online¦The FIDO Alliance is an open industry association launched in February 2013 whose stated mission is to develop and promote authentication standards that "help reduce the world’s over-reliance on passwords".‖https://en.wikipedia.org/wiki/FIDO_Alliance
+C‖fifa‖SI‖En‖FIFA‖
+*C‖fifa/‖MSI‖En‖Fédération Internationale de Football Association¦International Federation of Association Football‖
 C‖fmea‖SI‖En‖FMEA‖
 *‖fmea/‖CL‖En‖Failure Mode and Effects Analysis‖
 C‖fmeca‖SI‖En‖FMECA‖
@@ -185,8 +186,6 @@ C‖ga‖SI‖En‖GA‖Generic Application
 *‖ga/‖MSI‖En‖Generic Application¦generische Anwendung‖
 C‖gdpr‖SI‖En‖GDPR‖
 *‖gdpr/‖SI‖En‖General Data Protection Regulation‖
-C‖gif‖SI‖En‖GIF‖
-*‖gif/‖SI‖En‖Graphics Interchange Format‖
 C‖gmt‖SI‖En‖GMT‖
 *‖gmt/‖MSI‖En‖Greenwich Mean Time¦Poland: GMT + 01:00¦Polska: GMT + 01:00‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
 C‖gnu‖SI‖En‖GNU‖
@@ -236,6 +235,8 @@ C‖lan‖SI‖En‖LAN‖
 *‖lcd/‖SI‖En‖Liquid Cristal Display‖
 C‖led‖SI‖En‖LED‖
 *‖led/‖CL‖En‖Light Emitting Diode‖
+‖lf‖SI‖En‖LF‖Line Feed
+*‖lf/‖SI‖En‖Line Feed‖
 C‖lgbt‖SI‖En‖LGBT‖
 *‖lgbt/‖SI‖En‖Lesbian Gay Bisexual Transgender‖
 C‖llc‖CL‖En‖LLC‖
@@ -273,6 +274,8 @@ C‖mut‖SI‖En‖MUT‖
 *‖mut/‖CL‖En‖Mean Up Time‖
 *‖nas/‖SI‖En‖Network Attached Storage‖
 *‖nas`t‖SI‖En‖NAS‖
+‖nato‖SI‖En‖NATO‖
+*‖nato/‖SI‖En‖North Atlantic Treaty Organization‖
 C‖ncr‖SI‖En‖NCR‖
 *‖ncr/‖CL‖En‖Non Conformance Report‖
 C‖nda‖SI‖En‖NDA‖
@@ -297,8 +300,6 @@ C‖pcb‖SI‖En‖PCB‖
 *‖pcb/‖CL‖En‖Printed Circuit Board‖
 C‖pcn‖SI‖En‖PCN‖
 *‖pcn/‖SI‖En‖Product Change Notification‖
-C‖pdf‖SI‖En‖PDF‖
-*‖pdf/‖CL‖En‖Portable Document Format‖
 ?‖pgp‖SI‖En‖PGP‖
 *‖pgp/‖SI‖En‖Pretty Good Privacy‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 C‖phd‖SI‖En‖PhD‖
@@ -313,7 +314,6 @@ C‖plc‖SI‖En‖PLC‖
 *‖plc/‖SI‖En‖Programmable Logic Controller‖https://en.wikipedia.org/wiki/Programmable_logic_controller
 C‖plm‖SI‖En‖PLM‖
 *‖plm/‖CL‖En‖Product Lifecycle Management‖
-C‖png‖SI‖En‖PNG‖
 *‖png/‖SI‖En‖Portable Network Graphics‖
 ‖pnp‖SI‖En‖PnP‖
 *‖pnp/‖MSI‖En‖device with a specification that facilitates the discovery of a hardware component in a system without the need for physical device configuration or user intervention in resolving resource conflicts¦Plug and Play‖https://en.wikipedia.org/wiki/Plug_and_play
@@ -405,10 +405,10 @@ C‖srac‖SI‖En‖SRAC‖
 *‖stem/‖SI‖En‖Science Technology Engineering and Mathematics‖
 C‖suv‖SI‖En‖SUV‖
 *‖suv/‖SI‖En‖Sport Utility Vehicle‖
-C‖svg‖SI‖En‖SVG‖
-*‖svg/‖SI‖En‖Scalable Vector Graphics‖
 C‖sw‖SI‖En‖SW‖
 *‖sw/‖SI‖En‖software‖
+C‖swift‖SI‖En‖SWIFT‖
+*C‖swift/‖SI‖En‖Society for Worldwide Interbank Financial Telecommunication‖
 C‖tco‖SI‖En‖TCO‖
 *‖tco/‖SI‖En‖Total Cost of Ownership‖
 C‖tffr‖SI‖En‖TFFR‖
@@ -425,6 +425,8 @@ C‖tsi‖SI‖En‖TSI‖
 *‖tsi/‖CL‖En‖Technical Specifications for Interoperability‖
 ‖u2f‖SI‖En‖U2F‖
 *‖u2f/‖SI‖En‖Universal 2nd Factor‖https://en.wikipedia.org/wiki/Universal_2nd_Factor
+C‖uefa‖SI‖En‖UEFA‖
+*C‖uefa/‖SI‖En‖Union of European Football Associations‖
 C‖uefi‖SI‖En‖UEFI‖
 *‖uefi/‖SI‖En‖Unified Extensible Firmware Interface‖https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interf
 C‖ui‖SI‖En‖UI‖
@@ -437,6 +439,8 @@ C‖url‖SI‖En‖URL‖
 *‖url/‖SI‖En‖Uniform Resource Locator‖https://en.wikipedia.org/wiki/URL
 C‖usb‖SI‖En‖USB‖
 *‖usb/‖CL‖En‖Universal Serial Bus‖
+‖usp‖SI‖En‖USP‖
+*‖usp/‖SI‖En‖Unique Selling Point‖
 ‖utc‖SI‖En‖UTC‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 *‖utc/‖SI‖En‖Coordinated Universal Time‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 C‖utf‖SI‖En‖UTF‖
@@ -473,5 +477,3 @@ C‖www‖SI‖En‖WWW‖
 *‖www/‖SI‖En‖World Wide Web‖
 C‖wysiwyg‖SI‖En‖WYSIWYG‖
 *‖wysiwyg/‖SI‖En‖What You See Is What You Get‖
-C‖xlsx‖SI‖En‖XLSX‖
-C‖xml‖SI‖En‖XML‖

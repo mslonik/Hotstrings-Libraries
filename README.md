@@ -56,10 +56,11 @@ Example:
    - short version of acronyms are usually present in a sentence, so to trigger such hotstring it is enough to press one of usual triggers (e.g. space, dot (.), colon (,) etc.). This way I don't have to enter the acronyms in capital letters - they are converted to capitals by AutoHotkey automatically. Additionally I use option "C": in case I'd enter abbreviation in capital letters (following above example: ADC), then AutoHotkey is not used to convert it between small letters and capital letters, what spares some time of microprocessor 😉;
    - additionally for reference purposes for some definitions I use comment field for storage of link to definitions.
 
-1. Unification of language.
-   - If many people use the same set of abbreviations and definitions in written form, 
+1. Unification of language / culture.
+   - If many people use the same set of abbreviations and definitions in written form, it builds at customers confidence and understanding. The same terms, the same definitions brings together and reduces area for misunderstanding. You can use **Hotstrings** aplication as basic aid for understanding.
+   - You can use the same principle for definitions and names of your products in your company. For example all people in e-mail correspondence will use the same, unified definitions, no matter if it is technical documentation, datasheet or just a marketing leaflet.
 
-Sometimes acronym names are the same as words used 
+1. Sometimes acronym names are the same as words used 
 
 ### AccentsDiacritics.csv  ###
 
