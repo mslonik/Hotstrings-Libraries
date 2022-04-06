@@ -1,4 +1,6 @@
-﻿*C1?OZ‖^commandkey ‖SI‖En‖{U+2318}‖place of interest sign (U+2318)
+;; Helps type computer-keys symbols. ;; 28 definitions.
+
+*C1?OZ‖^commandkey ‖SI‖En‖{U+2318}‖place of interest sign (U+2318)
 *C1?OZ‖^applekey ‖SI‖En‖{U+2318}‖place of interest sign (U+2318)
 *C1?OZ‖^winkey ‖SI‖En‖{U+229E}‖squared plus (U+229E)
 *C1?OZ‖^windowskey ‖SI‖En‖{U+229E}‖squared plus (U+229E)
