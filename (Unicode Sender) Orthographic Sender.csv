@@ -1,4 +1,4 @@
-﻿;; Orthographic Sender: Helps type some common orthographical marks without copy pasting. This library tries to avoid symbols and pictograms. ;; 169 definitions.
+;; Orthographic Sender: Helps type some common orthographical marks without copy pasting. This library tries to avoid symbols and pictograms. ;; 171 definitions.
 
 *C1?OZ‖^apostrophe ‖SI‖En‖{U+02BC}‖modifier letter apostrophe (U+02BC)
 
@@ -151,7 +151,9 @@
 ‍*C1?OZ‖^halftriangularcolon ‖SI‖En‖{U+02D1}‖modifier letter half triangular colon (U+02D1)
 *C1?OZ‖^halftrianglecolon ‖SI‖En‖{U+02D1}‖modifier letter half triangular colon (U+02D1)
 *C1?OZ‖^tricolon ‖SI‖En‖{U+205D}‖tricolon (U+205D)
+*C1?OZ‖^triplecolon ‖SI‖En‖{U+205D}‖tricolon (U+205D)
 *C1?OZ‖^quadcolon ‖SI‖En‖{U+205E}‖vertical four dots (U+205E)
+*C1?OZ‖^quadruplecolon ‖SI‖En‖{U+205E}‖vertical four dots (U+205E)
 
 *C1?OZ‖^interrobang ‖SI‖En‖{U+203D}‖interrobang (U+203D)
 *C1?OZ‖^interabang ‖SI‖En‖{U+203D}‖interrobang (U+203D)
