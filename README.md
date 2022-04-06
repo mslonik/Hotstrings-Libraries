@@ -17,7 +17,9 @@ Text replacement format:
 
 | **library name** | **library description** | **remarks**|
 | :---:            | :---                   | :---:      |
-| Abbreviations.csv | Technical abbreviations (mainly acronyms). | ~480 definitions  |
+| (Unicode Sender) Orthographic Sender.csv | Helps type orthographic characters not found on the keyboard. | ~171 definitions  |
+| (Unicode Sender) Currency Symbols.csv | Helps type the symbols of world currencies. | 61 definitions  |
+| (Unicode Sender) Computer-Keys Symbols.csv | Helps type computer-keys symbols. | 28 definitions  |
 | AccentsDiacritics.csv | So called diacritics or accented letters not present in English. | ~25 definitions |
 | AutoCorrectionHotstrings.csv | Automatic corrections of mispelled words and couple more abbreviations. | ~25 definitions |
 | CapitalLetters.csv | Auto-capitalization of first letter in the first word like week days, month days, geographical names.  | ~80 definitions |

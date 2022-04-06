@@ -1,4 +1,6 @@
-﻿*C1OZ‖ਾ‖SI‖En‖{U+0A05}‖gurmukhi letter a - Automatic Replace
+;; Automatically fixes some typing mistakes related to vowel maatras. Intended to be used alongside this keyboard layout program: https://github.com/SalviaSage/Keyboard-Layouts/tree/master/Indic%20Typers/Gurmukhi%20Typer
+
+*C1OZ‖ਾ‖SI‖En‖{U+0A05}‖gurmukhi letter a - Automatic Replace
 *C1OZ‖ਿ‖SI‖En‖{U+0A07}‖gurmukhi letter i - Automatic Replace
 *C1OZ‖ੀ‖SI‖En‖{U+0A08}‖gurmukhi letter ii - Automatic Replace
 *C1OZ‖ੁ‖SI‖En‖{U+0A09}‖gurmukhi letter u - Automatic Replace

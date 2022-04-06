@@ -1,0 +1,13 @@
+﻿; Helps replace the word final sigma with a different letter for correct spelling. ;; 11 definitions.
+
+*?Z‖σ ‖SI‖En‖{U+03C2} ‖final sigma automatic replace - space
+*?Z‖σ.‖SI‖En‖{U+03C2}.‖final sigma automatic replace - period
+*?Z‖σ,‖SI‖En‖{U+03C2},‖final sigma automatic replace - comma
+*?Z‖σ:‖SI‖En‖{U+03C2}:‖final sigma automatic replace - colon
+*?Z‖σ;‖SI‖En‖{U+03C2};‖final sigma automatic replace - semicolon
+*?Z‖σ?‖SI‖En‖{U+03C2}?‖final sigma automatic replace - question mark
+*?Z‖σ!‖SI‖En‖{U+03C2}!‖final sigma automatic replace - exclamation mark
+*?Z‖σ)‖SI‖En‖{U+03C2})‖final sigma automatic replace - parenthesis close
+*?Z‖σ]‖SI‖En‖{U+03C2}]‖final sigma automatic replace - bracket close
+*?Z‖σ"‖SI‖En‖{U+03C2}"‖final sigma automatic replace - quotation mark close 2
+*?Z‖σ”‖SI‖En‖{U+03C2}”‖final sigma automatic replace - quotation mark close 3
