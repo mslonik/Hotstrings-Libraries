@@ -30,6 +30,7 @@ C*‖friday‖SI‖En‖Friday‖
 C*‖german‖CL‖En‖German‖
 C*‖germany‖CL‖En‖Germany‖
 *‖ghana‖SI‖En‖Ghana‖
+*‖heinrich‖SI‖En‖Heinrich‖Current 1-digit day of the week (1-7). 1 is Sunday in all locales.
 *‖india‖SI‖En‖India‖
 C‖iran‖SI‖En‖Iran‖
 *‖istanbul‖SI‖En‖Istanbul‖
@@ -65,6 +66,7 @@ C*‖south‖SI‖En‖South‖
 C*‖sunday‖SI‖En‖Sunday‖
 C*‖sweden‖SI‖En‖Sweden‖
 C*‖swedish‖SI‖En‖Swidish‖
+*‖switzerland‖SI‖En‖Switzerland‖Current 1-digit day of the week (1-7). 1 is Sunday in all locales.
 C‖szczecin‖SI‖En‖Szczecin‖
 C*‖taiwan‖SI‖En‖Taiwan‖
 *‖tczew‖SI‖En‖Tczew‖
