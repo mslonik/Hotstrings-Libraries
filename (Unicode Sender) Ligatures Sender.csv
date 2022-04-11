@@ -1,0 +1,9 @@
+﻿;; This library sends ligatures ;; 6 definitions.
+
+*C1?OZ‖^oeligature ‖SI‖En‖{U+0153}‖latin small ligature oe (U+0153)
+*C1?OZ‖^capitaloeligature ‖SI‖En‖{U+0152}‖latin capital ligature oe (U+0152)
+*C1?OZ‖^oeligaturecapital ‖SI‖En‖{U+0152}‖latin capital ligature oe (U+0152)
+
+*C1?OZ‖^aeligature ‖SI‖En‖{U+00E6}‖latin small letter ae (U+00E6)
+*C1?OZ‖^capitalaeligature ‖SI‖En‖{U+00C6)}‖latin capital letter ae (U+00C6)
+*C1?OZ‖^aeligaturecapital ‖SI‖En‖{U+00C6}‖latin capital letter ae (U+00C6)
