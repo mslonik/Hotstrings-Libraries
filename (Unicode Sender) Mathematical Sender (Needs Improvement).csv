@@ -1,4 +1,4 @@
-﻿;; Sends mathematical symbols. ;; 56 definitions.
+;; Sends mathematical symbols. ;; 60 definitions.
 
 *C1?OZ‖^plusminus ‖SI‖En‖{U+00B1}‖plus-minus sign (U+00B1)
 *C1?OZ‖^plusminussign ‖SI‖En‖{U+00B1}‖plus-minus sign (U+00B1)
@@ -45,9 +45,13 @@
 
 *C1?OZ‖^planckconstant ‖SI‖En‖{U+210E}‖planck constant (U+210E)
 *C1?OZ‖^eulerconstant ‖SI‖En‖{U+210E}‖euler constant (U+2107)
+*C1?OZ‖^eulersconstant ‖SI‖En‖{U+210E}‖euler constant (U+2107)
 *C1?OZ‖^goldenratio ‖SI‖En‖{U+1D711}‖mathematical italic small phi (U+1D711)
-*C1?OZ‖^pi ‖SI‖En‖{U+1D70B}‖mathematical italic small pi (U+1D70B)
+*C1?OZ‖^goldenratioconstant ‖SI‖En‖{U+1D711}‖mathematical italic small phi (U+1D711)
+*C1?OZ‖^piconstant ‖SI‖En‖{U+1D70B}‖mathematical italic small pi (U+1D70B)
 *C1?OZ‖^econstant ‖SI‖En‖{U+1D452}‖mathematical italic small e (U+1D452)
+*C1?OZ‖^silverratio ‖SI‖En‖{U+1D6FF}{U+1D634}‖mathematical italic small delta (U+1D6FF) + mathematical sans-serif italic small s (U+1D634)
+*C1?OZ‖^silverratioconstant ‖SI‖En‖{U+1D6FF}{U+1D634}‖mathematical italic small delta (U+1D6FF) + mathematical sans-serif italic small s (U+1D634)
 
 *C1?OZ‖^variablex ‖SI‖En‖{U+1D465}‖mathematical italic small x (U+1D465)
 *C1?OZ‖^variabley ‖SI‖En‖{U+1D466}‖mathematical italic small y (U+1D466)
