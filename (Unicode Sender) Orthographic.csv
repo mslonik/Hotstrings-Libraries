@@ -1,6 +1,12 @@
-;; Orthographic Sender: Helps type some common orthographical marks without copy pasting. This library tries to avoid symbols and pictograms. ;; 171 definitions.
+;; Orthographic Sender: Helps type some common orthographical marks without copy pasting. This library tries to avoid symbols and pictograms. ;; 165 definitions.
 
 *C1?OZ‖^apostrophe ‖SI‖En‖{U+02BC}‖modifier letter apostrophe (U+02BC)
+*C1?OZ‖^okina ‖SI‖En‖{U+02BB}‖modifier letter turned comma (U+02BB)
+*C1?OZ‖^saltillo ‖SI‖En‖{U+A78C}‖latin small letter saltillo (U+A78C)
+*C1?OZ‖^capitalsaltillo ‖SI‖En‖{U+A78B}‖latin capital letter saltillo (U+A78B)
+
+*C1?OZ‖^glottalstop ‖SI‖En‖{U+0294}‖latin letter glottal stop (U+0294)
+*C1?OZ‖^capitalglottalstop ‖SI‖En‖{U+0241}‖latin capital letter glottal stop (U+0241)
 
 *C1?OZ‖^prime ‖SI‖En‖{U+2032}‖prime (U+2032)
 *C1?OZ‖^doubleprime ‖SI‖En‖{U+2033}‖double prime (U+2033)
@@ -10,6 +16,7 @@
 *C1?OZ‖^asterism ‖SI‖En‖{U+2042}‖asterism (U+2042)
 *C1?OZ‖^lowasterisk ‖SI‖En‖{U+204E}‖low asterisk (U+204E)
 *C1?OZ‖^doubleasterisk ‖SI‖En‖{U+2051}‖two asterisks aligned vertically (U+2051)
+*C1?OZ‖^heavyasterisk ‖SI‖En‖{U+2731}‖heavy asterisk (U+2731)
 
 *C1?OZ‖^estimatesign ‖SI‖En‖{U+212E}‖estimated symbol (U+212E)
 *C1?OZ‖^estimatesymbol ‖SI‖En‖{U+212E}‖estimated symbol (U+212E)
@@ -27,8 +34,10 @@
 *C1?OZ‖^ellipsis ‖SI‖En‖{U+2026}‖horizontal ellipsis (U+2026)
 *C1?OZ‖^hyphenationpoint ‖SI‖En‖{U+2027}‖hyphenation point (U+2027)
 *C1?OZ‖^interpunct ‖SI‖En‖{U+00B7}‖middle dot (U+00B7)
+*C1?OZ‖^interpunctus ‖SI‖En‖{U+00B7}‖middle dot (U+00B7)
 *C1?OZ‖^interpoint ‖SI‖En‖{U+00B7}‖middle dot (U+00B7)
 *C1?OZ‖^middledot ‖SI‖En‖{U+00B7}‖middle dot (U+00B7)
+*C1?OZ‖^centerdot ‖SI‖En‖{U+00B7}‖middle dot (U+00B7)
 *C1?OZ‖^centereddot ‖SI‖En‖{U+00B7}‖middle dot (U+00B7)
 *C1?OZ‖^doubleperiod ‖SI‖En‖{U+2025}‖two dot leader (U+2025)
 
@@ -39,7 +48,8 @@
 *C1?OZ‖^zigzagline ‖SI‖En‖{U+299A}‖vertical zigzag line (U+299A)
 
 *C1?OZ‖^dagger ‖SI‖En‖{U+2020}‖dagger (U+2020)
-*C1?OZ‖^doubledagger ‖SI‖En‖{U+2021}‖ouble dagger (U+2021)
+*C1?OZ‖^cross ‖SI‖En‖{U+2020}‖dagger (U+2020)
+*C1?OZ‖^doubledagger ‖SI‖En‖{U+2021}‖double dagger (U+2021)
 *C1?OZ‖^sectionsign ‖SI‖En‖{U+00A7}‖section sign (U+00A7)
 *C1?OZ‖^halfsectionsign ‖SI‖En‖{U+2E39}‖top half section sign (U+2E39)
 *C1?OZ‖^manicule ‖SI‖En‖{U+261E}‖white right pointing index (U+261E)
@@ -63,6 +73,9 @@
 *C1?OZ‖^trademarksign ‖SI‖En‖{U+2122}‖trade mark sign (U+2122)
 
 *C1?OZ‖^hyphen ‖SI‖En‖{U+2010}‖hyphen (U+2010)
+*C1?OZ‖^nonbreakinghyphen ‖SI‖En‖{U+2011}‖non-breaking hyphen (U+2011)
+*C1?OZ‖^non-breakinghyphen ‖SI‖En‖{U+2011}‖non-breaking hyphen (U+2011)
+
 *C1?OZ‖^endash ‖SI‖En‖{U+2013}‖en dash (U+2013)
 *C1?OZ‖^emdash ‖SI‖En‖{U+2014}‖em dash (U+2014)
 *C1?OZ‖^twoemdash ‖SI‖En‖{U+2E3A}‖two-em dash (U+2E3A)
@@ -78,16 +91,23 @@
 *C1?OZ‖^ohm ‖SI‖En‖{U+2126}‖ohm sign (U+2126)
 *C1?OZ‖^ohmsign ‖SI‖En‖{U+2126}‖ohm sign (U+2126)
 *C1?OZ‖^ohmsymbol ‖SI‖En‖{U+2126}‖ohm sign (U+2126)
+*C1?OZ‖^reverseohm ‖SI‖En‖{U+2127}‖inverted ohm sign (U+2127)
+*C1?OZ‖^reverseohmsign ‖SI‖En‖{U+2127}‖inverted ohm sign (U+2127)
+*C1?OZ‖^reverseohmsymbol ‖SI‖En‖{U+2127}‖inverted ohm sign (U+2127)
+*C1?OZ‖^invertedohm ‖SI‖En‖{U+2127}‖inverted ohm sign (U+2127)
+*C1?OZ‖^invertedohmsign ‖SI‖En‖{U+2127}‖inverted ohm sign (U+2127)
+*C1?OZ‖^invertedohmsymbol ‖SI‖En‖{U+2127}‖inverted ohm sign (U+2127)
 
 *C1?OZ‖^checkmark ‖SI‖En‖{U+2713}‖check mark (U+2713)
+*C1?OZ‖^xmark ‖SI‖En‖{U+2717}‖ballot x (U+2717)
+*C1?OZ‖^ballotx ‖SI‖En‖{U+2717}‖ballot x (U+2717)
+*C1?OZ‖^ballotmark ‖SI‖En‖{U+2717}‖ballot x (U+2717)
 
 *C1?OZ‖^masculineordinal ‖SI‖En‖{U+00BA}‖masculine ordinal indicator (U+00BA)
 *C1?OZ‖^feminineordinal ‖SI‖En‖{U+00AA}‖feminine ordinal indicator (U+00AA)
 
 *C1?OZ‖^roughbreathing ‖SI‖En‖{U+0314}‖combining reversed comma above (U+0314)
 *C1?OZ‖^smoothbreathing ‖SI‖En‖{U+1FBF}‖greek psili (U+1FBF)
-*C1?OZ‖^psili ‖SI‖En‖{U+1FBF}‖greek psili (U+1FBF)
-*C1?OZ‖^greekpsili ‖SI‖En‖{U+1FBF}‖greek psili (U+1FBF)
 
 *C1?OZ‖^bullet ‖SI‖En‖{U+2022}‖bullet (U+2022)
 *C1?OZ‖^hyphenbullet ‖SI‖En‖{U+2043}‖hyphen bullet (U+2043)
@@ -98,8 +118,6 @@
 *C1?OZ‖^uparrow ‖SI‖En‖{U+2191}‖upwards arrow (U+2191)
 *C1?OZ‖^rightarrow ‖SI‖En‖{U+2192}‖rightwards arrow (U+2192)
 *C1?OZ‖^downarrow ‖SI‖En‖{U+2193}‖downwards arrow (U+2193)
-
-*C1?OZ‖^scruple ‖SI‖En‖{U+2108}‖scruple (U+2108)
 
 *C1?OZ‖^careof ‖SI‖En‖{U+2105}‖care of (U+2105)
 *C1?OZ‖^cadauna ‖SI‖En‖{U+2106}‖cada una (U+2106)
@@ -115,12 +133,10 @@
 *C1?OZ‖^dottedcircle ‖SI‖En‖{U+25CC}‖dotted circle (U+25CC)
 *C1?OZ‖^dottedsquare ‖SI‖En‖{U+2B1A}‖dotted square (U+2B1A)
 
-*C1?OZ‖^homothetic ‖SI‖En‖{U+223B}‖homothetic (U+223B)
-
-*C1?OZ‖^uncertainty sign ‖SI‖En‖{U+2BD1}‖uncertainty sign (U+2BD1)
+*C1?OZ‖^uncertaintysign ‖SI‖En‖{U+2BD1}‖uncertainty sign (U+2BD1)
 
 *C1?OZ‖^overline ‖SI‖En‖{U+203E}‖overline (U+203E)
-*C1?OZ‖^fractionslash ‖SI‖En‖{U+2044}‖fraction slash (U+2044)
+*C1?OZ‖^topline ‖SI‖En‖{U+203E}‖overline (U+203E)
 
 *C1?OZ‖^referencemark ‖SI‖En‖{U+203B}‖reference mark (U+203B)
 *C1?OZ‖^dottedcross ‖SI‖En‖{U+205C}‖dotted cross (U+205C)
@@ -131,13 +147,9 @@
 *C1?OZ‖^yensign ‖SI‖En‖{U+00A5}‖yen sign (U+00A5)
 *C1?OZ‖^eurosign ‖SI‖En‖{U+20AC}‖euro sign (U+20AC)
 
-*C1?OZ‖^permille ‖SI‖En‖{U+2040}‖character tie (U+2040)
-*C1?OZ‖^permillesign ‖SI‖En‖{U+2030}‖per mille sign (U+2030)
-*C1?OZ‖^pertenthousand ‖SI‖En‖{U+2031}‖per ten thousand sign (U+2031)
-*C1?OZ‖^pertenthousandsign ‖SI‖En‖{U+2031}‖per ten thousand sign (U+2031)
-*C1?OZ‖^basispoint ‖SI‖En‖{U+2031}‖per ten thousand sign (U+2031)
-
 *C1?OZ‖^nobreakspace ‖SI‖En‖{U+00A0}‖no-break space (U+00A0)
+*C1?OZ‖^nonbreakingspace ‖SI‖En‖{U+00A0}‖no-break space (U+00A0)
+*C1?OZ‖^non-breakingspace ‖SI‖En‖{U+00A0}‖no-break space (U+00A0)
 *C1?OZ‖^hairspace ‖SI‖En‖{U+200A}‖hair space (U+200A)
 *C1?OZ‖^thinspace ‖SI‖En‖{U+2009}‖thin space (U+2009)
 *C1?OZ‖^enspace ‖SI‖En‖{U+2002}‖en space (U+2002)
@@ -170,30 +182,9 @@
 *C1?OZ‖^questionexclamation ‖SI‖En‖{U+2048}‖question exclamation mark (U+2048)
 *C1?OZ‖^questionexclamationmark ‖SI‖En‖{U+2048}‖question exclamation mark (U+2048)
 
-*C1?OZ‖^plusminus ‖SI‖En‖{U+00B1}‖plus-minus sign (U+00B1)
-*C1?OZ‖^plusminussign ‖SI‖En‖{U+00B1}‖plus-minus sign (U+00B1)
-*C1?OZ‖^minusplus ‖SI‖En‖{U+2213}‖minus-or-plus sign (U+2213)
-*C1?OZ‖^minusplussign ‖SI‖En‖{U+2213}‖minus-or-plus sign (U+2213)
-*C1?OZ‖^notequals ‖SI‖En‖{U+2260}‖not equal to (U+2260)
-*C1?OZ‖^notequalssign ‖SI‖En‖{U+2260}‖not equal to (U+2260)
-*C1?OZ‖^notequalto ‖SI‖En‖{U+2260}‖not equal to (U+2260)
-*C1?OZ‖^emptyset ‖SI‖En‖{U+2205}‖empty set (U+2205)
-*C1?OZ‖^lessthanorequal ‖SI‖En‖{U+2264}‖less-than or equal to (U+2264)
-*C1?OZ‖^lessthanorequalto ‖SI‖En‖{U+2264}‖less-than or equal to (U+2264)
-*C1?OZ‖^greaterthanorequal ‖SI‖En‖{U+2265}‖greater-than or equal to (U+2265)
-*C1?OZ‖^greaterthanorequalto ‖SI‖En‖{U+2265}‖greater-than or equal to (U+2265)
-*C1?OZ‖^multiplicationsign ‖SI‖En‖{U+00D7}‖multiplication sign (U+00D7)
-*C1?OZ‖^divisionsign ‖SI‖En‖{U+00F7}‖division sign (U+00F7)
-*C1?OZ‖^longdivision ‖SI‖En‖{U+27CC}‖long division (U+27CC)
-*C1?OZ‖^longdivisionsign ‖SI‖En‖{U+27CC}‖long division (U+27CC)
-*C1?OZ‖^squareroot ‖SI‖En‖{U+221A}‖square root (U+221A)
-*C1?OZ‖^infinity ‖SI‖En‖{U+221E}‖infinity (U+221E)
-*C1?OZ‖^infinitysign ‖SI‖En‖{U+221E}‖infinity (U+221E)
-*C1?OZ‖^angle ‖SI‖En‖{U+2221}‖measured angle (U+2221)
-*C1?OZ‖^rightangle ‖SI‖En‖{U+22BE}‖right angle with arc (U+22BE)
-
 *C1?Z‖^quotationmarks ‖SI‖En‖“”{left 1}‖quotation marks open-close
 *C1?Z‖^lowhighquotationmarks ‖SI‖En‖„“{left 1}‖low-high quotation marks open-close
+*C1?Z‖^lowquotationmarks ‖SI‖En‖⹂„{left 1}‖low quotation marks open-close
 *C1?Z‖^singlequotationmarks ‖SI‖En‖‘’{left 1}‖single quotation marks open-close
 *C1?Z‖^parentheses ‖SI‖En‖(){left 1}‖parentheses open-close
 *C1?Z‖^parenthesis ‖SI‖En‖(){left 1}‖parentheses open-close
@@ -202,6 +193,7 @@
 *C1?Z‖^brackets ‖SI‖En‖[]{left 1}‖brackets open-close
 *C1?Z‖^curlybrackets ‖SI‖En‖{}{left 1}‖curly brackets open-close
 *C1?Z‖^strings ‖SI‖En‖""{left 1}‖strings open-close
+*C1?Z‖^singlestrings ‖SI‖En‖''{left 1}‖strings open-close
 *C1?Z‖^guillemets ‖SI‖En‖«»{left 1}‖guillemets open-close
 *C1?Z‖^singleguillemets ‖SI‖En‖‹›{left 1}‖chevrons open-close
 *C1?Z‖^chevrons ‖SI‖En‖‹›{left 1}‖chevrons open-close
