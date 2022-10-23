@@ -1,0 +1,16 @@
+﻿/*
+License: 		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘)
+
+Purpose:		ASCII box drawing characters. Based on: https://en.wikipedia.org/wiki/Box-drawing_character
+
+Notes:		Could be combined with ASCII box drawing online editors (e.g. https://textik.com/). Macros exchanging characters could be prepared e.g. in Notepad++.
+*/
+*‖boxes/‖MSI‖En‖╒═╤╕`n│ ││`n╞═╪╡`n╘═╧╛¦╓─╥╖`n║ ║║`n╟─╫╢`n╙─╨╜¦╔═╦╗`n║ ║║`n╠═╬╣`n╚═╩╝¦┌─┬┐`n│ ││`n├─┼┤`n└─┴┘‖https://en.wikipedia.org/wiki/Box-drawing_character
+*‖dboxline1/‖MSI‖En‖╔═╦╗╠╣¦╔¦═¦╦¦╗¦╠¦╣‖https://en.wikipedia.org/wiki/Box-drawing_character
+*‖dboxline2/‖MSI‖En‖║╚╝╩╬¦║¦╚¦╝¦╩¦╬‖https://en.wikipedia.org/wiki/Box-drawing_character
+*‖dboxline2par1/‖MSI‖En‖╒═╕╘╛╞¦╒¦═¦╕¦╘¦╛¦╞‖https://en.wikipedia.org/wiki/Box-drawing_character
+*‖dboxline2par2/‖MSI‖En‖╡╤╧╪¦╡¦╤¦╧¦╪‖https://en.wikipedia.org/wiki/Box-drawing_character
+*‖dboxline2ver1/‖MSI‖En‖║╓╖╙╜╟¦║¦╓¦╖¦╙¦╜¦╟‖https://en.wikipedia.org/wiki/Box-drawing_character
+*‖dboxline2ver2/‖MSI‖En‖╢╨╫━	¦╢¦╨¦╫¦━	‖https://en.wikipedia.org/wiki/Box-drawing_character

@@ -1,4 +1,13 @@
-﻿C*‖africa‖SI‖En‖Africa‖
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski, http://mslonik.pl, 🐘
+
+Purpose:		Automatically change capitalization of frequently used words like first names, day / month names, geographical names etc.
+
+Notes:		Thanks to this library it is possible to enter those names quicker without pressing Shift keyboard keys.
+*/
+C*‖africa‖SI‖En‖Africa‖
 C*‖alic‖SI‖En‖Alic‖
 C*‖america‖SI‖En‖America‖
 C*‖april‖SI‖En‖April‖
@@ -17,6 +26,7 @@ C*‖bucharest‖SI‖En‖Bucharest‖
 C*‖cracow‖SI‖En‖Cracow‖
 *‖daniel‖SI‖En‖Daniel‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 C*‖december‖SI‖En‖December‖
+‖dutch‖SI‖En‖Dutch‖
 C*‖east‖SI‖En‖East‖
 C*‖egypt‖SI‖En‖Egypt‖
 C*‖england‖CL‖En‖England‖
@@ -26,7 +36,10 @@ C*‖europ‖SI‖En‖Europ‖
 C*‖europe‖SI‖En‖Europe‖
 C*‖february‖SI‖En‖February‖
 *‖france‖SI‖En‖France‖
+‖french‖SI‖En‖French‖
 C*‖friday‖SI‖En‖Friday‖
+*‖gdansk‖SI‖En‖Gdańsk‖
+*‖gdańsk‖SI‖En‖Gdańsk‖
 C*‖german‖CL‖En‖German‖
 C*‖germany‖CL‖En‖Germany‖
 *‖ghana‖SI‖En‖Ghana‖
@@ -39,7 +52,9 @@ C*‖january‖SI‖En‖January‖
 C*‖july‖SI‖En‖July‖
 C*‖june‖SI‖En‖June‖
 C*?‖kamil‖SI‖En‖Kamil‖
+*‖kasandr‖SI‖En‖Kasandr‖
 C*‖koln‖SI‖En‖Köln‖
+*‖lithuania‖SI‖En‖Lithuania‖
 C*‖manuel‖SI‖En‖Manuel‖
 *‖markus‖SI‖En‖Markus‖
 *‖mexico‖SI‖En‖Mexico‖
@@ -62,6 +77,7 @@ C*‖saturday‖SI‖En‖Saturday‖
 C*‖september‖SI‖En‖September‖
 C*‖slavic‖SI‖En‖Slavic‖
 *‖slovakia‖SI‖En‖Slovakia‖
+*C‖sopot‖SI‖En‖Sopot‖
 C*‖south‖SI‖En‖South‖
 C*‖sunday‖SI‖En‖Sunday‖
 C*‖sweden‖SI‖En‖Sweden‖
@@ -76,6 +92,8 @@ C*‖tuesday‖SI‖En‖Tuesday‖
 C‖usa‖SI‖En‖USA‖
 *‖usa/‖SI‖En‖United States of America‖
 C‖usd‖SI‖En‖USD‖
+*C‖waddinxveen‖SI‖En‖Waddinxveen‖
+*C‖wednesday‖SI‖En‖Wednesday‖
 C*‖west‖SI‖En‖West‖
 C*‖wrzeszcz‖SI‖En‖Wrzeszcz‖
 C*‖zeltweg‖SI‖En‖Zeltweg‖

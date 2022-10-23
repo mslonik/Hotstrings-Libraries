@@ -1,4 +1,13 @@
-﻿*‖(-:‖SI‖En‖🙃‖U+1F643
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Collection of Unicode characters in form of hotstring definitions.
+
+Notes:		Some Unicode characters are not present in all fonts. Then if unsuccessful you'll see empty character box: ☐. Some pictograms are very small. To see it expand the size of font.
+*/
+*‖(-:‖SI‖En‖🙃‖U+1F643
 *‖:(‖CL‖En‖🙁‖
 *‖:)‖CL‖En‖🙂‖
 *‖:*‖CL‖En‖😳‖
@@ -17,11 +26,13 @@
 *‖;-)‖CL‖En‖😉‖
 *‖<3/‖CL‖En‖♡‖
 *‖ad2res2/‖SI‖En‖✉‖
+*‖alcohol/‖SI‖En‖🍾🥃🍷🍸🍺‖U+1F376 | U+1F943 | U+1F377 | U+1F378 | U+1F37A
 *‖ambulance/‖SI‖En‖🚑‖{U+1F691}
 *‖beer‖SI‖En‖🍺‖{U+1F37A}
 *‖bicycle/‖MSI‖En‖🚲¦🚴¦🚵¦🚳‖
 *‖box/‖SI‖En‖☐‖
 *‖bug/‖SI‖En‖🐛‖U+1F41B
+*‖bulb/‖SI‖En‖💡‖
 *‖candle/‖SI‖En‖🕯‖U+1F56F
 *‖car/‖SI‖En‖🚙‖U+1F699
 *‖cars/‖SI‖En‖🚙🚐🚕🚑🚐🚗🚛🚚‖
@@ -36,6 +47,7 @@
 *‖copyright/‖SI‖En‖©‖https://en.wikipedia.org/wiki/SCADA
 *‖cow/‖SI‖En‖🐄‖
 *‖def/‖SI‖En‖≝‖U+225D
+*‖dog/‖SI‖En‖🐕‖U+1F415
 *‖elephant/‖SI‖En‖🐘‖U+1F418
 *‖email/‖SI‖En‖{BackSpace}📧‖
 *‖facepalm/‖SI‖En‖🤦‖
@@ -64,7 +76,7 @@
 *‖printer/‖SI‖En‖🖨‖
 *‖recycle/‖SI‖En‖♻‖
 *‖reserved/‖SI‖En‖Ⓡ‖https://en.wikipedia.org/wiki/SCADA
-*‖run2er/‖SI‖En‖🏃‖
+*‖run2er/‖SI‖Dis‖🏃‖
 *‖runner/‖SI‖En‖🏃‖
 *‖snow/‖SI‖En‖🌨‖
 *‖snowflake/‖SI‖En‖❄‖

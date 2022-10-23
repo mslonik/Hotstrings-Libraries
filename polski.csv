@@ -1,0 +1,38 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘)
+
+Purpose:		Set of hotstrings specific to Polish language.
+
+Notes:		In future this set should be divided into smaller sets dedicated to specific subject, e.g. geographical names.
+
+Example:		litwa → Litwa.
+*/
+
+*‖austri‖SI‖En‖Austri‖
+*‖bałtyk‖SI‖En‖Bałtyk‖
+*‖cdn/‖SI‖En‖ciąg dalszy nastąpi‖
+‖codzienn‖SI‖En‖co dzień‖
+‖codzień‖SI‖En‖co dzień‖
+*‖conajmniej‖SI‖En‖co najmniej‖
+*‖fik‖SI‖Dis‖fikumiku‖
+*‖fiku/‖SI‖Dis‖fiku`amiku`n‖
+*‖gdyn‖SI‖En‖Gdyn‖
+*‖gruzin‖SI‖En‖Gruzin‖
+*‖gruzj‖SI‖En‖Gruzj‖
+*B0Z‖j.w.‖SI‖En‖‖
+‖jw‖SI‖En‖j.w.‖
+*‖jw/‖SI‖En‖jak wyżej‖
+*‖litwa‖SI‖En‖Litwa‖
+*B0Z‖m.in.‖SI‖En‖‖
+C*‖niemcy‖SI‖En‖Niemcy‖
+C*‖niemiec‖SI‖En‖Niemiec‖
+*B0Z‖np.‖SI‖En‖‖
+C*‖polacy‖SI‖En‖Polacy‖
+*‖polsce‖SI‖En‖Polsce‖
+C*‖polska‖CL‖En‖Polska‖
+C*‖polski‖MSI‖En‖Polski¦polski‖
+*B0Z‖tj.‖SI‖En‖‖
+*B0Z‖tzn.‖SI‖En‖‖
+*B0Z‖tzw.‖SI‖En‖‖

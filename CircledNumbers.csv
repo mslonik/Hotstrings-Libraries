@@ -1,4 +1,13 @@
-﻿C*‖LiteraA‖SI‖En‖{U+24B6}‖
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Unicode characters used to denote items on pictures / diagrams / figures.
+
+Notes:		For some items it is useful to put text in form of Unicode characters to denote items. E.g. ⑤. Next, below picture, in a legend it is possible to reference to such item.
+*/
+C*‖LiteraA‖SI‖En‖{U+24B6}‖
 C*‖LiteraB‖SI‖En‖{U+24B7}‖
 C*‖LiteraC‖SI‖En‖{U+24B8}‖
 C*‖LiteraD‖SI‖En‖{U+24B9}‖

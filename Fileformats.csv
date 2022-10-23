@@ -1,4 +1,13 @@
-﻿B0?‖.ahk‖SI‖En‖‖only for extensions
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		1. Explain meaining of specific file extensions / name of applications which apply that name. 2. Enable not capitalized extensions aif used within filenames. 3. Capitalize file extension names when such extension is present standalone.
+
+Examples:	Ad. 1. svg/ → Scalable Vector Graphics. Ad 2. Filename.txt ← hotstring was triggered, but file extension wasn't capitalized. Ad. 3. This is file extension PDF.
+*/
+B0?‖.ahk‖SI‖En‖‖only for extensions
 B0?‖.csv‖SI‖En‖‖only for extensions
 B0?‖.docx‖SI‖En‖‖only for extensions
 B0?‖.dwf‖SI‖En‖‖
@@ -16,7 +25,7 @@ B0?‖.xlsx‖SI‖En‖‖only for extensions
 B0?‖.xml‖SI‖En‖‖only for extensions
 C‖csv‖SI‖En‖CSV‖
 *‖csv/‖SI‖En‖Comma Separated Values‖https://en.wikipedia.org/wiki/Comma-separated_values
-C‖docx‖SI‖En‖DOCX‖https://en.wikipedia.org/wiki/Office_Open_XML
+CO‖docx‖SI‖En‖DOCX‖https://en.wikipedia.org/wiki/Office_Open_XML
 C‖dwf‖SI‖En‖DWF‖
 *C‖dwf/‖MSI‖En‖Design Web Format¦file format developed by Autodesk for the efficient distribution and communication of rich design data to anyone who needs to view, review, or print design files‖https://en.wikipedia.org/wiki/Design_Web_Format
 C‖dwfx‖SI‖En‖DWFX‖https://en.wikipedia.org/wiki/Design_Web_Format
