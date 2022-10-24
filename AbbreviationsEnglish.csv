@@ -59,7 +59,7 @@ C‖cam‖SI‖En‖CAM‖
 *‖can/‖CL‖En‖Controller Area Network‖https://en.wikipedia.org/wiki/CAN_bus
 C‖cat‖SI‖En‖CAT‖
 *‖cat/‖CL‖En‖Computer Assisted Translation‖https://en.wikipedia.org/wiki/Computer-assisted_translation
-*‖cc/‖MSI‖En‖CC0 Creative Commons "No Rights Reserved"¦CC BY Creative Commons Attribution¦CC BY-SA Creative Commons Attribution-ShareAlike¦CC BY-NC Creative Commons Attribution-NonCommercial¦BY-NC-SA Creative Commons NonCommercial-ShareAlike¦BY-ND Creative Commons Attribution-NoDerivatives¦BY-NC-ND Creative Commons Attribution-NonCommercial-NoDerivatives‖https://en.wikipedia.org/wiki/Creative_Commons_license
+*‖cc/‖MSI‖En‖CC0 (Creative Commons "No Rights Reserved")¦CC BY (Creative Commons Attribution)¦CC BY-SA (Creative Commons Attribution-ShareAlike)¦CC BY-NC (Creative Commons Attribution-NonCommercial)¦BY-NC-SA (Creative Commons NonCommercial-ShareAlike)¦BY-ND (Creative Commons Attribution-NoDerivatives)¦BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)‖https://en.wikipedia.org/wiki/Creative_Commons_license
 *‖ccms/‖SI‖En‖Component Content Management System‖
 C‖cctv‖CL‖En‖CCTV‖
 *‖cctv/‖CL‖En‖Closed-Circuit Television‖
@@ -231,6 +231,8 @@ C‖ic‖SI‖En‖IC‖
 *‖ic/‖CL‖En‖Interoperability Constituent‖
 C‖ide‖SI‖En‖IDE‖
 *‖ide/‖SI‖En‖Integrated Development Environment‖
+‖iec‖SI‖En‖IEC‖
+*C1‖iec/‖MSI‖En‖International Electrotechnical Commission¦https://www.iec.ch/homepage‖
 ‖iot‖SI‖En‖IoT‖
 *‖iot/‖SI‖En‖Internet of Things‖
 C‖ip‖SI‖En‖IP‖

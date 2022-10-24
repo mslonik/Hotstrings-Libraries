@@ -1,0 +1,23 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘)
+
+Purpose:		Markdown lightweight markup language cheat sheet.
+
+Notes:		Prepared according to GitHub requirements.
+
+Example:		mdquoting/ → > text
+*/
+
+*‖mdcolor/‖MSI‖En‖hex color: `{#}0969DA`¦RGB color: `rgb(9, 105, 218)`‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdcomment/‖SI‖En‖<{!}-- This content will not appear in the rendered Markdown -->‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdescape/‖SI‖En‖Let's rename \*our-new-project\* to \*our-old-project\*.‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdfootnote/‖SI‖En‖Here is a simple footnote[{^}1].`n`nA footnote can also have multiple lines[{^}2].  `n`nYou can also use words, to fit your writing style more closely[{^}note].`n`n[{^}1]: My reference.`n[{^}2]: Every new line should be prefixed with 2 spaces.  `n  This allows you to have a footnote with multiple lines.`n[{^}note]:`n    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  `n    This footnote also has been made with a different syntax using 4 spaces for new lines.‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdheadings/‖MSI‖En‖{#} The largest heading¦{#}{#} The second largest heading¦{#}{#}{#} The third largest heading¦{#}{#}{#}{#} The fourth largest heading¦{#}{#}{#}{#}{#}{#} The smallest heading‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdimage/‖SI‖En‖{!}[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdlink/‖SI‖En‖This site was built using [GitHub Pages](https://pages.github.com/).‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdlists/‖MSI‖En‖- George Washington`n- John Adams`n- Thomas Jefferson¦1. James Madison`n2. James Monroe`n3. John Quincy Adams¦1. First list item`n   - First nested list item`n     - Second nested list item‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdquoting/‖MSI‖En‖> text¦`single command``¦````nBlock of code`n````¦``````AutoHotkey`n`tFormatted block of code.`n``````‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdstyling/‖MSI‖En‖**bold**¦*italic*¦~~strikethrough~~¦<sub>subscript</sub>¦<sup>superscript</sup>‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*‖mdtable/‖SI‖En‖| Left-aligned | Center-aligned | Right-aligned |`n| :---         |     :---:      |          ---: |`n| git status   | git status     | git status    |`n| git diff     | git diff       | git diff      |‖https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organi

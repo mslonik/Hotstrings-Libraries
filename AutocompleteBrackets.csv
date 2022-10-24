@@ -1,0 +1,15 @@
+﻿/*
+License:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+Author:		Maciej Słojewski (🐘)
+
+Purpose:		Autocomplete of brakcets and quotes.
+
+Notes:		–
+
+Example:		–
+*/
+*‖"/‖SI‖En‖„”{left}‖
+*‖(‖SI‖En‖(){Left}‖
+*‖[‖SI‖En‖[]{Left}‖
+*‖{‖SI‖En‖{{}{}}{Left}‖
