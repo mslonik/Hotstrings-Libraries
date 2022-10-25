@@ -1,0 +1,112 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski
+
+Purpose:		Reduce usage of "Shift" keys on time of writing as much as possible.
+
+Notes:		This trick comes from Jack Dunning blog (https://jacks-autohotkey-blog.com/). It became apparent that with simple auto-replace hotstrings the task cannot be done. This library has S1 prefix, what means "special" library no. 1. No. 1 means that last character is typed as capital letter, but is backfeeded to triggerstring. Thanks to this trick it is possible to call abbreviation hotstrings definitions even if they start new sentence. Unfortunately with current setup this trick doesn't work with abbreviation hotstrings which finish sentence (are just before „.”).
+               The library is no longer used as it was replaced by FirstCapitalHotstrings.ahk script.
+
+Examples:	     The first sentence. The second sentence. API starts new sentence.
+*/
+*C?‖! a‖S1‖En‖{!} A‖
+*C?‖! b‖S1‖En‖{!} B‖
+*C?‖! c‖S1‖En‖{!} C‖
+*C?‖! d‖S1‖En‖{!} D‖
+*C?‖! e‖S1‖En‖{!} E‖
+*C?‖! f‖S1‖En‖{!} F‖
+*C?‖! g‖S1‖En‖{!} G‖
+*C?‖! h‖S1‖En‖{!} H‖
+*C?‖! i‖S1‖En‖{!} I‖
+*C?‖! j‖S1‖En‖{!} J‖
+*C?‖! k‖S1‖En‖{!} K‖
+*C?‖! l‖S1‖En‖{!} L‖
+*C?‖! m‖S1‖En‖{!} M‖
+*C?‖! n‖S1‖En‖{!} N‖
+*C?‖! o‖S1‖En‖{!} O‖
+*C?‖! p‖S1‖En‖{!} P‖
+*C?‖! r‖S1‖En‖{!} R‖
+*C?‖! s‖S1‖En‖{!} S‖
+*C?‖! t‖S1‖En‖{!} T‖
+*C?‖! u‖S1‖En‖{!} U‖
+*C?‖! v‖S1‖En‖{!} V‖
+*C?‖! w‖S1‖En‖{!} W‖
+*C?‖! x‖S1‖En‖{!} X‖
+*C?‖! y‖S1‖En‖{!} Y‖
+*C?‖! z‖S1‖En‖{!} Z‖
+*C?‖. a‖S1‖En‖. A‖
+*C?‖. b‖S1‖En‖. B‖
+*C?‖. c‖S1‖En‖. C‖
+*C?‖. d‖S1‖En‖. D‖
+*C?‖. e‖S1‖En‖. E‖
+*C?‖. f‖S1‖En‖. F‖
+*C?‖. g‖S1‖En‖. G‖
+*C?‖. h‖S1‖En‖. H‖
+*C?‖. i‖S1‖En‖. I‖
+*C?‖. j‖S1‖En‖. J‖
+*C?‖. k‖S1‖En‖. K‖
+*C?‖. l‖S1‖En‖. L‖
+*C?‖. m‖S1‖En‖. M‖
+*C?‖. n‖S1‖En‖. N‖
+*C?‖. o‖S1‖En‖. O‖
+*C?‖. p‖S1‖En‖. P‖
+*C?‖. r‖S1‖En‖. R‖
+*C?‖. s‖S1‖En‖. S‖
+*C?‖. t‖S1‖En‖. T‖
+*C?‖. u‖S1‖En‖. U‖
+*C?‖. v‖S1‖En‖. V‖
+*C?‖. w‖S1‖En‖. W‖
+*C?‖. x‖S1‖En‖. X‖
+*C?‖. y‖S1‖En‖. Y‖
+*C?‖. z‖S1‖En‖. Z‖
+*C?‖? a‖S1‖En‖? A‖
+*C?‖? b‖S1‖En‖? B‖
+*C?‖? c‖S1‖En‖? C‖
+*C?‖? d‖S1‖En‖? D‖
+*C?‖? e‖S1‖En‖? E‖
+*C?‖? f‖S1‖En‖? F‖
+*C?‖? g‖S1‖En‖? G‖
+*C?‖? h‖S1‖En‖? H‖
+*C?‖? i‖S1‖En‖? I‖
+*C?‖? j‖S1‖En‖? J‖
+*C?‖? k‖S1‖En‖? K‖
+*C?‖? l‖S1‖En‖? L‖
+*C?‖? m‖S1‖En‖? M‖
+*C?‖? n‖S1‖En‖? N‖
+*C?‖? o‖S1‖En‖? O‖
+*C?‖? p‖S1‖En‖? P‖
+*C?‖? r‖S1‖En‖? R‖
+*C?‖? s‖S1‖En‖? S‖
+*C?‖? t‖S1‖En‖? T‖
+*C?‖? u‖S1‖En‖? U‖
+*C?‖? v‖S1‖En‖? V‖
+*C?‖? w‖S1‖En‖? W‖
+*C?‖? x‖S1‖En‖? X‖
+*C?‖? y‖S1‖En‖? Y‖
+*C?‖? z‖S1‖En‖? Z‖
+B0*C?‖`na‖S1‖En‖{BS}A‖
+B0*C?‖`nb‖S1‖En‖{BS}B‖
+B0*C?‖`nc‖S1‖En‖{BS}C‖
+B0*C?‖`nd‖S1‖En‖{BS}D‖
+B0*C?‖`ne‖S1‖En‖{BS}E‖
+B0*C?‖`nf‖S1‖En‖{BS}F‖
+B0*C?‖`ng‖S1‖En‖{BS}G‖
+B0*C?‖`nh‖S1‖En‖{BS}H‖
+B0*C?‖`ni‖S1‖En‖{BS}I‖
+B0*C?‖`nj‖S1‖En‖{BS}J‖
+B0*C?‖`nk‖S1‖En‖{BS}K‖
+B0*C?‖`nl‖S1‖En‖{BS}L‖
+B0*C?‖`nm‖S1‖En‖{BS}M‖
+B0*C?‖`nn‖S1‖En‖{BS}N‖
+B0*C?‖`no‖S1‖En‖{BS}O‖
+B0*C?‖`np‖S1‖En‖{BS}P‖
+B0*C?‖`nr‖S1‖En‖{BS}R‖
+B0*C?‖`ns‖S1‖En‖{BS}S‖
+B0*C?‖`nt‖S1‖En‖{BS}T‖
+B0*C?‖`nu‖S1‖En‖{BS}U‖
+B0*C?‖`nv‖S1‖En‖{BS}V‖
+B0*C?‖`nw‖S1‖En‖{BS}W‖
+B0*C?‖`nx‖S1‖En‖{BS}X‖
+B0*C?‖`ny‖S1‖En‖{BS}Y‖
+B0*C?‖`nz‖S1‖En‖{BS}Z‖

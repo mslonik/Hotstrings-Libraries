@@ -1,0 +1,16 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski
+
+Purpose:		Definitions which can be used to run specific hotkeys for Hotstring application.
+
+Notes:		For example Hotstrings application is configured by user to switch triggerstring tips when ScrollLock is pressed, even if ScrollLock is not available
+               on specific keyboard, this hotstring still can be run and it will activate Hotstrings application.
+               This is "S2" (special function category 2). It means that the whole hotstring will be feedback (fed in) to Hotstrings application.
+
+Examples:	     numlock/ -> NumLock will be pressed even if it is not physically available on particular keyboard and such hotstring will be sent to Hotstrins application.
+*/
+*?‖numlock/‖S2‖En‖{NumLock}‖
+*?‖scrolllock/‖S2‖En‖{ScrollLock}‖
+*?‖capslock/‖S2‖En‖{CapsLock}‖
