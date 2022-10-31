@@ -1,4 +1,15 @@
-﻿*‖A_DD‖SI‖En‖A_DD‖Current 2-digit day of the month (01-31).
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘)
+
+Purpose:		AutoHotkey time constants and few "time marks" based on AutoHotkey time constants.
+
+Notes:		It is possible to combine them.
+
+Example:		d[ → 20221025_
+*/
+*‖A_DD‖SI‖En‖A_DD‖Current 2-digit day of the month (01-31).
 *‖A_DDD‖SI‖En‖A_DDD‖Current day of the week's abbreviation in the current user's language, e.g. Sun
 *‖A_DDDD‖SI‖En‖A_DDDD‖Current day of the week's full name in the current user's language, e.g. Sunday
 *‖A_Hour‖SI‖En‖A_Hour‖Current 2-digit hour (00-23) in 24-hour time.
@@ -7,9 +18,9 @@
 *‖A_MMM‖SI‖En‖A_MMM‖Current month's abbreviation in the current user's language, e.g
 *‖A_MMMM‖SI‖En‖A_MMMM‖Current month's full name in the current user's language, e.g. J
 *‖A_Mon‖SI‖En‖A_Mon‖Current 2-digit month (01-12).
-*‖A_MSec‖SI‖En‖A_MSec‖Current 3-digit millisecond (000-999). 
+*‖A_MSec‖SI‖En‖A_MSec‖Current 3-digit millisecond (000-999).
 *‖A_Now‖SI‖En‖A_Now‖The current local time in YYYYMMDDHH24MISS format.
-*‖A_NowUTC‖SI‖En‖A_NowUTC‖The current Coordinated Universal Time (UTC) in YYYYMMDDHH24MISS format. UTC = GMT. 
+*‖A_NowUTC‖SI‖En‖A_NowUTC‖The current Coordinated Universal Time (UTC) in YYYYMMDDHH24MISS format. UTC = GMT.
 *‖A_Sec‖SI‖En‖A_Sec‖Current 2-digit second (00-59).
 *‖A_TickCount‖SI‖En‖A_TickCount‖The number of milliseconds that have elapsed since the system was started.
 *‖A_WDay‖SI‖En‖A_WDay‖Current 1-digit day of the week (1-7). 1 is Sunday in all locales.

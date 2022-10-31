@@ -1,4 +1,15 @@
-﻿*‖abc/‖SI‖En‖siedemnaście‖
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:        Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:       Test definitions useful to check if Hotstrings application works correctly.
+
+Notes:         Some examples are clever and contain exceptions.
+
+Examples:	     ex21` contains backtick (`) as trigger.
+*/
+*‖abc/‖SI‖En‖siedemnaście‖
 *‖ex1/‖SI‖En‖Something and comma, then comma alone ,‖Hotstring, Escape Sequence: ;
 *‖ex10/‖SI‖En‖tab (the more typical horizontal variety){tab}and again: `t‖Hotstring, Escape Sequence, `t
 *‖ex11/‖SI‖En‖vertical tab: `v‖Hotstring, Escape Sequence, `v; Ctrl + K

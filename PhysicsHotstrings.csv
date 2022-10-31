@@ -9,13 +9,16 @@ Notes:		This library contains even more staff like bullets, arrows etc.
 
 Examples:	Greek alphabet letters, physics unit names and many more.
 */
+
 *‖%%‖SI‖En‖‰‖
+*‖**‖MSI‖En‖·¦×‖U+00B7 | U+00D7
+*‖**/‖MSI‖En‖·¦×‖U+00B7 | U+00D7
 *‖*/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 *‖+-‖CL‖En‖±‖
 *‖-	‖MSI‖En‖-¦−¦–¦—‖U+2010, U+2212, U+2013, U+2014
 *‖-+‖CL‖En‖±‖
 *‖--‖CL‖En‖–‖
-*‖->‖MCL‖En‖→¦←¦↔‖
+*‖->‖MCL‖En‖→¦←¦↔¦↓¦↑‖
 *‖/=‖CL‖En‖≠‖
 *‖<=‖CL‖En‖≤‖
 *‖>=‖CL‖En‖≥‖

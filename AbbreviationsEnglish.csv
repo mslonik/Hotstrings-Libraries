@@ -251,6 +251,8 @@ C‖lad‖SI‖En‖LAD‖
 C‖lan‖SI‖En‖LAN‖
 *‖lan/‖SI‖En‖Local Area Network‖
 *C‖latex‖SI‖En‖LaTeX‖
+‖lca‖SI‖En‖LCA‖
+*‖lca/‖MSI‖En‖Life Cycle Assessment¦środowiskowa ocena cyklu życia¦Life cycle assessment or LCA (also known as life cycle analysis) is a methodology for assessing environmental impacts associated with all the stages of the life cycle of a commercial product, process, or service. For instance, in the case of a manufactured product, environmental impacts are assessed from raw material extraction and processing (cradle), through the product's manufacture, distribution and use, to the recycling or final disposal of the materials composing it (grave).¦Środowiskowa ocena cyklu życia (ang. life cycle assessment, LCA) – ocena cyklu życia. Jest to technika z zakresu procesów zarządczych, mająca na celu ocenę potencjalnych zagrożeń środowiska. Istotą tej metody jest nastawienie nie tylko na ocenę wyniku końcowego danego procesu technologicznego, ale także oszacowanie i ocena konsekwencji całego procesu dla środowiska naturalnego.‖
 ‖lcc‖SI‖En‖LCC‖
 *‖lcc/‖SI‖En‖Life Cycle Cost‖
 ‖lcd‖SI‖En‖LCD‖
@@ -483,7 +485,7 @@ C‖usb‖SI‖En‖USB‖
 C‖utf‖SI‖En‖UTF‖
 *‖utf/‖CL‖En‖Unicode Transformation Format‖
 C‖uv‖SI‖En‖UV‖
-*‖uv/‖SI‖En‖Ultra Violet‖
+*‖uv/‖SI‖En‖Ultraviolet form of electromagetic radiation, shorter than that of visible light, but longer than X-rays.‖https://en.wikipedia.org/wiki/Ultraviolet
 C‖ux‖SI‖En‖UX‖
 *‖ux/‖CL‖En‖User Experience‖
 C‖vat‖SI‖En‖VAT‖
