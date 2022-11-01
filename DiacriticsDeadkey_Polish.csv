@@ -1,0 +1,29 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Demonstration of dead key hotstrings used to enter diacritic characters (actually Polish diacritics).
+
+Notes:		Actually key used to enter diacritics is not dead as it is displayed on the screen, but concept is similar: two keys have to be entered to get one diacritic key. As "dead key" the slash "/" is applied.
+
+Example:		/a → ą
+*/
+*C?‖/a‖SI‖En‖ą‖
+*C?‖/c‖SI‖En‖ć‖
+*C?‖/e‖SI‖En‖ę‖
+*C?‖/l‖SI‖En‖ł‖
+*C?‖/n‖SI‖En‖ń‖
+*C?‖/o‖SI‖En‖ó‖
+*C?‖/s‖SI‖En‖ś‖
+*C?‖/x‖SI‖En‖ź‖
+*C?‖/z‖SI‖En‖ż‖
+*C?‖/A‖SI‖En‖Ą‖
+*C?‖/C‖SI‖En‖Ć‖
+*C?‖/E‖SI‖En‖Ę‖
+*C?‖/L‖SI‖En‖Ł‖
+*C?‖/N‖SI‖En‖Ń‖
+*C?‖/O‖SI‖En‖Ó‖
+*C?‖/S‖SI‖En‖Ś‖
+*C?‖/X‖SI‖En‖Ź‖
+*C?‖/Z‖SI‖En‖Ż‖
