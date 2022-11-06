@@ -1,0 +1,17 @@
+﻿/*
+License:		GNU GPL ver. 3.x https://www.gnu.org/licenses/gpl-3.0.html
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Exception hotstrings for First Capital concept.
+
+Notes:		All hotstrings are empty on purpose. All hotstrings are finished with ".". The First Capital concept: Because of some overlapping some definitions have to be shifted to separate library file.
+
+Example:		np. → 
+*/
+*B0Z‖j.w.‖SI‖En‖‖
+*B0Z‖m.in.‖SI‖En‖‖
+*B0Z‖np.‖SI‖En‖‖
+*B0Z‖tj.‖SI‖En‖‖
+*B0Z‖tzn.‖SI‖En‖‖
+*B0Z‖tzw.‖SI‖En‖‖
