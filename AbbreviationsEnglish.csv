@@ -24,10 +24,11 @@ C‖acl‖SI‖En‖ACL‖
 *‖acl/‖SI‖En‖Access Control List‖
 C1‖adc‖SI‖En‖ADC‖
 *‖adc/‖MSI‖En‖Analog to digital Converter¦is a system in electronics that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal.‖
-C‖ahk‖SI‖En‖AHK‖
 *‖ahk/‖MSI‖En‖AutoHotkey¦https://www.autohotkey.com/docs/AutoHotkey.htm‖https://www.autohotkey.com/
 ‖ai‖SI‖En‖AI‖
 ‖ai/‖SI‖En‖Artificial Inteligence‖
+C‖altgr‖SI‖En‖AltGr‖
+*C‖altgr/‖MSI‖En‖alternate graphics¦LControl & RAlt‖
 C‖ansi‖SI‖En‖ANSI‖
 *‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
 C1‖api‖SI‖En‖API‖
@@ -55,8 +56,8 @@ C‖cad‖SI‖En‖CAD‖
 *‖cad/‖CL‖En‖Computer Aided Design‖https://en.wikipedia.org/wiki/Computer-aided_design
 C‖cam‖SI‖En‖CAM‖
 *‖cam/‖SI‖En‖Computer Aided Manufacturing‖https://en.wikipedia.org/wiki/Computer-aided_manufacturing
-*‖can	‖SI‖En‖CAN‖
 *‖can/‖CL‖En‖Controller Area Network‖https://en.wikipedia.org/wiki/CAN_bus
+*‖can`t‖SI‖En‖CAN‖
 C‖cat‖SI‖En‖CAT‖
 *‖cat/‖CL‖En‖Computer Assisted Translation‖https://en.wikipedia.org/wiki/Computer-assisted_translation
 *‖cc/‖MSI‖En‖CC0 (Creative Commons "No Rights Reserved")¦CC BY (Creative Commons Attribution)¦CC BY-SA (Creative Commons Attribution-ShareAlike)¦CC BY-NC (Creative Commons Attribution-NonCommercial)¦BY-NC-SA (Creative Commons NonCommercial-ShareAlike)¦BY-ND (Creative Commons Attribution-NoDerivatives)¦BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)‖https://en.wikipedia.org/wiki/Creative_Commons_license
@@ -80,8 +81,8 @@ C‖cfo‖SI‖En‖CFO‖
 C‖cms‖SI‖En‖CMS‖
 *‖cms/‖SI‖En‖Content Management System‖
 C‖com‖SI‖Dis‖COM‖
-*C‖com	‖SI‖En‖COM‖https://en.wikipedia.org/wiki/Com
 *‖com/‖MCL‖En‖a serial port interface on IBM PC-compatible computers¦Component Object Model, a Microsoft software interface technology‖
+*C‖com`t‖SI‖En‖COM‖https://en.wikipedia.org/wiki/Com
 ‖coo‖SI‖En‖COO‖https://en.wikipedia.org/wiki/Chief_operating_officer
 *‖coo/‖SI‖En‖Chief Operating Officer‖https://en.wikipedia.org/wiki/Chief_operating_officer
 C‖cop‖SI‖En‖CoP‖
@@ -208,7 +209,7 @@ C‖gnu‖SI‖En‖GNU‖https://en.wikipedia.org/wiki/GNU
 ‖gpg‖SI‖En‖GPG‖https://en.wikipedia.org/wiki/GNU_Privacy_Guard
 *‖gpg/‖SI‖En‖GNU Privacy Guard‖
 C‖gpl‖SI‖En‖GPL‖https://en.wikipedia.org/wiki/GNU_General_Public_License
-*‖gpl/‖MCL‖En‖General Public License¦https://en.wikipedia.org/wiki/GNU_General_Public_License‖
+*‖gpl/‖MCL‖En‖General Public License¦https://en.wikipedia.org/wiki/GNU_General_Public_License¦https://www.gnu.org/licenses/gpl-3.0.html‖
 C‖gps‖SI‖En‖GPS‖
 *‖gps/‖CL‖En‖Global Positioning System‖
 C‖gsm‖SI‖En‖GSM‖
@@ -244,8 +245,12 @@ C‖iris‖SI‖En‖IRIS‖
 C‖iso‖SI‖En‖ISO‖
 *‖iso/‖SI‖En‖International Standard Organisation‖
 C*‖javascript‖SI‖En‖JavaScript‖
+‖json‖SI‖En‖JSON‖
+*C1‖json/‖SI‖En‖JavaScript Object Notation‖
 C‖kpi‖SI‖En‖KPI‖
 *‖kpi/‖CL‖En‖Key Performance Indicator‖
+‖l&d‖SI‖En‖L&D‖
+*‖l&d/‖SI‖En‖Learning and Development‖
 C‖lad‖SI‖En‖LAD‖
 *‖lad/‖CL‖En‖Logistic and Administrative Delay‖
 C‖lan‖SI‖En‖LAN‖
@@ -265,6 +270,8 @@ C‖llc‖CL‖En‖LLC‖
 *‖llc/‖CL‖En‖Life Cycle Cost‖
 C‖lms‖SI‖En‖LMS‖https://en.wikipedia.org/wiki/Learning_management_system
 *‖lms/‖SI‖En‖Learning Management System‖
+‖lnd‖SI‖En‖L&D‖
+*‖lnd/‖SI‖En‖Learning and Development‖
 C‖lop‖SI‖En‖LOP‖
 *‖lop/‖CL‖En‖List of Open Points‖
 C‖lte‖SI‖En‖LTE‖
@@ -298,8 +305,10 @@ C‖mtu‖SI‖En‖MTU‖https://en.wikipedia.org/wiki/Maximum_transmission_uni
 *‖mtu/‖SI‖En‖Maximum Transmission Unit‖
 C‖mut‖SI‖En‖MUT‖
 *‖mut/‖CL‖En‖Mean Up Time‖
-*‖nas	‖SI‖En‖NAS‖
+*C‖n/a/‖SI‖En‖not applicable‖
+*C‖na/‖SI‖En‖not applicable‖
 *‖nas/‖SI‖En‖Network Attached Storage‖
+*‖nas`t‖SI‖En‖NAS‖
 ‖nato‖SI‖En‖NATO‖
 *‖nato/‖SI‖En‖North Atlantic Treaty Organization‖
 C‖ncr‖SI‖En‖NCR‖
@@ -308,8 +317,8 @@ C‖nda‖SI‖En‖NDA‖
 *‖nda/‖CL‖En‖Non-Disclosure Agreement‖
 ‖nfc‖SI‖En‖NFC‖https://en.wikipedia.org/wiki/Near-field_communication
 *‖nfc/‖SI‖En‖Near-Field Communication‖
-*‖nic	‖SI‖En‖NIC‖
 *‖nic/‖SI‖En‖Network Interface Card‖
+*‖nic`t‖SI‖En‖NIC‖
 ‖nobo‖SI‖En‖NoBo‖
 *‖nobo/‖SI‖En‖Notified Body‖
 ‖ntp‖SI‖En‖NTP‖https://en.wikipedia.org/wiki/Network_Time_Protocol
@@ -400,8 +409,8 @@ C‖rpu‖SI‖En‖RPU‖"peszel"
 *‖rsa/‖MSI‖En‖Rivest–Shamir–Adleman¦a public-key cryptosystem that is widely used for secure data transmission‖
 C‖rtc‖SI‖En‖RTC‖
 *‖rtc/‖SI‖En‖Real Time Clock‖
-*C‖sa	‖SI‖En‖SA‖
 *‖sa/‖CL‖En‖Specific Application‖
+*C‖sa`t‖SI‖En‖SA‖
 C‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 *‖saas/‖SI‖En‖Software as a Service‖
 ‖scada‖SI‖En‖SCADA‖https://en.wikipedia.org/wiki/SCADA

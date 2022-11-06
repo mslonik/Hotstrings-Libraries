@@ -1,0 +1,20 @@
+﻿/*
+License:		GNU GPL ver. 3.x https://www.gnu.org/licenses/gpl-3.0.html
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Prepare triggerstring tips about hotstrings active for Hotstrings application.
+
+Notes:		All the hotsrings start from "hs" and have "immediate execute" (*)  feature and have no replacement string (they are removed after). Thanks to that user should be able to find and least what hotstrings exist.
+
+Example:		hshelp/
+*/
+*‖hsenable/‖SI‖En‖‖enable triggerstrings tips and hotstrings
+*‖hsexit/‖SI‖En‖‖exit Hotstrings application
+*‖hshelp/‖SI‖En‖‖run web browser, enter Hotstrings webpage
+*‖hsreload/‖SI‖En‖‖reload Hotstrings application
+*‖hsrestart/‖SI‖En‖‖reload Hotstrings application
+*‖hsstats/‖SI‖En‖‖show application statistics
+*‖hsstop/‖SI‖En‖‖exit Hotstrings application
+*‖hssuspend/‖SI‖En‖‖suspend triggerstrings tips and hotstrings
+*‖hstoggle/‖SI‖En‖‖toggle triggerstrings tips and hotstrings
