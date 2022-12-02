@@ -1,0 +1,29 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Auto replace characters from shift layer after double pressing of characters from the first layer.
+
+Notes:		TBDL
+
+Example:		–
+*/
+
+*?‖'/‖SI‖En‖"‖
+*?‖,/‖SI‖En‖<‖
+*?‖-/‖SI‖En‖_‖
+*?‖./‖SI‖En‖>‖
+*?‖//‖SI‖En‖?‖
+*?‖0/‖SI‖En‖)‖
+*?‖1/‖SI‖En‖{!}‖
+*?‖2/‖SI‖En‖@‖
+*?‖3/‖SI‖En‖{#}‖
+*?‖5/‖SI‖En‖%‖
+*?‖6/‖SI‖En‖{^}‖
+*?‖7/‖SI‖En‖&‖
+*?‖8/‖SI‖En‖*‖
+*?‖9/‖SI‖En‖(‖
+*?‖;/‖SI‖En‖:‖
+*?‖\/‖SI‖En‖|‖
+*?‖`/‖SI‖En‖~‖

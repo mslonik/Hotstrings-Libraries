@@ -7,11 +7,27 @@ Purpose:		Exception hotstrings for First Capital concept.
 
 Notes:		All hotstrings are empty on purpose. All hotstrings are finished with ".". The First Capital concept: Because of some overlapping some definitions have to be shifted to separate library file.
 
-Example:		np. → 
+Example:		np. →
 */
-*B0Z‖j.w.‖SI‖En‖‖
+
+*B0Z‖ang.‖SI‖En‖‖
+*B0Z‖cdn.‖SI‖En‖‖https://pl.m.wikipedia.org/wiki/Skr%C3%B3t
+*B0Z‖ds.‖SI‖En‖‖
+*B0Z‖godz.‖SI‖En‖‖
+*B0Z‖gosp.-polit.‖SI‖En‖‖https://pl.m.wikipedia.org/wiki/Skr%C3%B3t
+*B0Z‖hab.‖SI‖En‖‖
+*B0Z‖inż.‖SI‖En‖‖
+*B0Z‖itd.‖SI‖En‖‖https://pl.m.wikipedia.org/wiki/Skr%C3%B3t
+*B0Z‖itp.‖SI‖En‖‖https://pl.m.wikipedia.org/wiki/Skr%C3%B3t
+*B0Z‖jw.‖SI‖En‖‖
 *B0Z‖m.in.‖SI‖En‖‖
 *B0Z‖np.‖SI‖En‖‖
+*B0Z‖p.n.e.‖SI‖En‖‖
+*B0Z‖ppoż.‖SI‖En‖‖https://pl.m.wikipedia.org/wiki/Skr%C3%B3t
+*B0Z‖prof.‖SI‖En‖‖
+*B0Z‖płn.‖SI‖En‖‖
+*B0Z‖tel.‖SI‖En‖‖
 *B0Z‖tj.‖SI‖En‖‖
 *B0Z‖tzn.‖SI‖En‖‖
 *B0Z‖tzw.‖SI‖En‖‖
+*B0Z‖ul.‖SI‖En‖‖

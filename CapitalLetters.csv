@@ -7,12 +7,11 @@ Purpose:		Automatically change capitalization of frequently used words like firs
 
 Notes:		Thanks to this library it is possible to enter those names quicker without pressing Shift keyboard keys.
 */
+
 C*‖africa‖SI‖En‖Africa‖
 C*‖alic‖SI‖En‖Alic‖
 C*‖america‖SI‖En‖America‖
 C*‖april‖SI‖En‖April‖
-*?‖ariad‖SI‖En‖Ariad‖
-C*‖artur‖SI‖En‖Artur‖
 *C‖august‖SI‖En‖August‖
 C*‖australia‖SI‖En‖Australia‖
 C*‖austria‖SI‖En‖Austria‖
@@ -24,7 +23,6 @@ C*‖bucharest‖SI‖En‖Bucharest‖
 *‖china‖SI‖En‖China‖
 *‖christmas‖SI‖En‖Christmas‖
 C*‖cracow‖SI‖En‖Cracow‖
-*‖daniel‖SI‖En‖Daniel‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 C*‖december‖SI‖En‖December‖
 ‖dutch‖SI‖En‖Dutch‖
 C*‖east‖SI‖En‖East‖
@@ -43,7 +41,6 @@ C*‖friday‖SI‖En‖Friday‖
 C*‖german‖CL‖En‖German‖
 C*‖germany‖CL‖En‖Germany‖
 *‖ghana‖SI‖En‖Ghana‖
-*‖heinrich‖SI‖En‖Heinrich‖Current 1-digit day of the week (1-7). 1 is Sunday in all locales.
 *‖india‖SI‖En‖India‖
 C‖iran‖SI‖En‖Iran‖
 *‖istanbul‖SI‖En‖Istanbul‖
@@ -51,12 +48,8 @@ C‖iran‖SI‖En‖Iran‖
 C*‖january‖SI‖En‖January‖
 C*‖july‖SI‖En‖July‖
 C*‖june‖SI‖En‖June‖
-C*?‖kamil‖SI‖En‖Kamil‖
-*‖kasandr‖SI‖En‖Kasandr‖
 C*‖koln‖SI‖En‖Köln‖
 *‖lithuania‖SI‖En‖Lithuania‖
-C*‖manuel‖SI‖En‖Manuel‖
-*‖markus‖SI‖En‖Markus‖
 *‖mexico‖SI‖En‖Mexico‖
 C*‖monday‖SI‖En‖Monday‖
 *‖netherlands‖SI‖En‖Netherlands‖
@@ -65,7 +58,6 @@ C*‖north‖SI‖En‖North‖
 C*‖november‖SI‖En‖November‖
 C*‖october‖SI‖En‖October‖
 C*‖paris‖SI‖En‖Paris‖"peszel"
-C*‖piotr‖SI‖En‖Piotr‖
 C‖pln‖SI‖En‖PLN‖
 C*‖poland‖CL‖En‖Poland‖
 C*‖polish‖CL‖En‖Polish‖
@@ -73,7 +65,6 @@ C*‖posen‖SI‖En‖Posen‖
 C*‖przymorze‖SI‖En‖Przymorze‖
 C*‖romania‖SI‖En‖Romania‖
 C*‖saturday‖SI‖En‖Saturday‖
-*‖sebastian‖SI‖En‖Sebastian‖
 C*‖september‖SI‖En‖September‖
 C*‖slavic‖SI‖En‖Slavic‖
 *‖slovakia‖SI‖En‖Slovakia‖

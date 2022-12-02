@@ -1,0 +1,21 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Double pressing space replaces pressing dot and pressing space.
+
+Notes:		Can be combined with FirstCapital.csv. Then new sentence starts with capital letter.
+S2 output function: the whole hotstring is fed back.
+
+Example:		–
+*/
+*B0?‖ą  ‖S2‖En‖{BS 2}.{Space}‖
+*B0?‖ć  ‖S2‖En‖{BS 2}.{Space}‖
+*B0?‖ę  ‖S2‖En‖{BS 2}.{Space}‖
+*B0?‖ł  ‖S2‖En‖{BS 2}.{Space}‖
+*B0?‖ń  ‖S2‖En‖{BS 2}.{Space}‖
+*B0?‖ó  ‖S2‖En‖{BS 2}.{Space}‖
+*B0?‖ś  ‖S2‖En‖{BS 2}.{Space}‖
+*B0?‖ź  ‖S2‖En‖{BS 2}.{Space}‖
+*B0?‖ż  ‖S2‖En‖{BS 2}.{Space}‖

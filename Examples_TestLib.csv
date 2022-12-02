@@ -23,7 +23,7 @@ Examples:	     --
 *‖ex19;‖SI‖En‖semicolon ; as the trigger‖Triggerstring, semicolon (;) as the trigger
 *‖ex2/‖SI‖En‖Literal percent %‖Hotstring, Escape Sequence: %
 *‖ex20 ;‖SI‖En‖semicolon ; as the trigger‖Triggerstring, semicolon (;) as the trigger
-*‖ex21`‖SI‖En‖back-tick ` as the trigger‖Triggerstring, back-tick ` as the trigger
+B0*‖ex21`‖SI‖En‖back-tick ` as the trigger‖Triggerstring, back-tick ` as the trigger and part of hotstring
 *‖ex22/‖SI‖En‖undo test: <em></em>{left 5}‖Undo, proper position of cursor
 *‖ex23/‖SI‖En‖Undo of combination{Shift}{Ctrl}a end.‖Undo, after sequence {Sift}{Ctrl}
 *‖ex24/‖SI‖En‖Test of information about undo and lack of support {PgUp}‖Test of information about undo and lack of support {PgUp}
@@ -35,3 +35,4 @@ Examples:	     --
 *‖ex7/‖SI‖En‖carriage return (CR) `r‖Hotstring Escape Sequence: `r
 *‖ex8/‖SI‖En‖Combination of CR and LF: `r`n‖Hotstring, special sequence
 *‖ex9/‖SI‖En‖backspace`b‖Hotstring, Escape Sequence, `b
+B0*‖ex26`t‖SI‖En‖tabulator as the trigger‖triggerstring: tab

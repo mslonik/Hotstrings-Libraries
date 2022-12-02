@@ -24,6 +24,7 @@ C‖acl‖SI‖En‖ACL‖
 *‖acl/‖SI‖En‖Access Control List‖
 C1‖adc‖SI‖En‖ADC‖
 *‖adc/‖MSI‖En‖Analog to digital Converter¦is a system in electronics that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal.‖
+*‖afaik/‖CL‖En‖as far as I know‖
 *‖ahk/‖MSI‖En‖AutoHotkey¦https://www.autohotkey.com/docs/AutoHotkey.htm‖https://www.autohotkey.com/
 ‖ai‖SI‖En‖AI‖
 ‖ai/‖SI‖En‖Artificial Inteligence‖
@@ -35,6 +36,7 @@ C1‖api‖SI‖En‖API‖
 *‖api/‖CL‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
 C‖ar‖SI‖En‖AR‖
 *‖ar/‖SI‖En‖Augmented Reality‖
+*‖asap/‖CL‖En‖as soon as possible‖
 C‖asci‖SI‖En‖ASCII‖
 *‖asci/‖CL‖En‖American Standard Code for Information Interchange‖
 C‖ascii‖SI‖En‖ASCII‖
@@ -52,6 +54,7 @@ C‖bom‖SI‖En‖BOM‖
 *‖bom/‖MSI‖En‖Bill of Materials¦Byte Order Mark‖
 ‖bpmn‖SI‖En‖BPMN‖
 *‖bpmn/‖SI‖En‖Business Process Model and Notation‖https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
+*‖btw/‖CL‖En‖by the way‖
 C‖cad‖SI‖En‖CAD‖
 *‖cad/‖CL‖En‖Computer Aided Design‖https://en.wikipedia.org/wiki/Computer-aided_design
 C‖cam‖SI‖En‖CAM‖
@@ -141,10 +144,7 @@ C‖dwg‖SI‖En‖DWG‖https://en.wikipedia.org/wiki/.dwg
 *‖dwg/‖SI‖En‖Drawings binary file format‖
 C‖dxf‖SI‖En‖DXF‖
 *‖dxf/‖SI‖En‖Drawing Exchange Format‖
-C‖ebit‖SI‖En‖EBIT‖
-*‖ebit/‖SI‖En‖Earnings Before Interest and Taxes‖
-C‖ebitda‖SI‖En‖EBITDA‖https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_d
-*‖ebitda/‖SI‖En‖Earnings before interest, taxes, depreciation and amortization‖
+*‖dyi/‖SI‖En‖do it yourself‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 ‖ecm‖SI‖En‖ECM‖
 *C‖ecm/‖SI‖En‖Enterprise Content Management‖
 *‖eg/‖SI‖En‖exempli gratia‖
@@ -198,6 +198,7 @@ C‖fmeca‖SI‖En‖FMECA‖
 *‖fmeca/‖SI‖En‖Failure mode effects and criticality analysis‖
 C‖fo‖SI‖En‖FO‖
 *‖fo/‖SI‖En‖Fiber Optics‖Generic Application
+*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 C‖ga‖SI‖En‖GA‖
 *‖ga/‖MSI‖En‖Generic Application¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: Examples point machines, axle counters, real-time operating systems, fail-safe computer platform without application software.¦SOURCE: IEC 60050-821:FDIS2016, 821-01-57‖
 C‖gdpr‖SI‖En‖GDPR‖
@@ -232,6 +233,7 @@ C‖ic‖SI‖En‖IC‖
 *‖ic/‖CL‖En‖Interoperability Constituent‖
 C‖ide‖SI‖En‖IDE‖
 *‖ide/‖SI‖En‖Integrated Development Environment‖
+*‖idk/‖SI‖En‖I don't know‖
 ‖iec‖SI‖En‖IEC‖
 *C1‖iec/‖MSI‖En‖International Electrotechnical Commission¦https://www.iec.ch/homepage‖
 ‖iot‖SI‖En‖IoT‖
@@ -397,8 +399,6 @@ C‖rma‖SI‖En‖RMA‖
 *‖rma/‖CL‖En‖Return Merchandise Authorization‖
 C‖rms‖SI‖En‖RMS‖
 *‖rms/‖CL‖En‖Root Mean Square‖
-C‖roce‖SI‖En‖ROCE‖https://en.wikipedia.org/wiki/Return_on_capital_employed
-C1*‖roce/‖SI‖En‖Return on Capital Employed‖
 C‖rohs‖SI‖En‖RoHS‖https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substance
 *‖rohs/‖SI‖En‖Restriction of Hazardous Substances Directive‖
 C‖rpa‖SI‖En‖RPA‖
@@ -449,8 +449,11 @@ C‖suv‖SI‖En‖SUV‖
 *‖suv/‖SI‖En‖Sport Utility Vehicle‖
 C‖sw‖SI‖En‖SW‖
 *‖sw/‖SI‖En‖software‖
-C‖swift‖SI‖En‖SWIFT‖
-*C‖swift/‖SI‖En‖Society for Worldwide Interbank Financial Telecommunication‖
+*‖tbc/‖CL‖En‖to be continued‖
+*‖tbd/‖MSI‖En‖to be decided¦to be defined‖
+‖tbdl‖SI‖En‖TBDL‖
+*‖tbdl/‖SI‖En‖to be determined later‖
+*‖tbh/‖CL‖En‖to be honest‖
 C‖tco‖SI‖En‖TCO‖
 *‖tco/‖SI‖En‖Total Cost of Ownership‖
 ‖tdd‖SI‖En‖TDD‖

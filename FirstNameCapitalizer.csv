@@ -1,0 +1,40 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Auto capitalization of popular first names.
+
+Notes:		The majority of definitions are auto replace (*) without additional character (/).
+
+Example:		filip → Filip
+*/
+
+*‖agnieszka‖SI‖En‖Agnieszka‖
+*‖ariadn‖SI‖En‖Ariadn‖
+C*‖artur‖SI‖En‖Artur‖
+*‖bastian‖SI‖En‖Bastian‖
+*‖bernd‖SI‖En‖Bernd‖
+*‖daniel‖SI‖En‖Daniel‖https://en.wikipedia.org/wiki/Network_Time_Protocol
+*‖filip‖SI‖En‖Filip‖
+*‖guenther‖CL‖En‖Günther‖
+*‖gunther‖CL‖En‖Günther‖
+*‖heinrich‖SI‖En‖Heinrich‖Current 1-digit day of the week (1-7). 1 is Sunday in all locales.
+*?‖heinz‖SI‖En‖Heinz‖
+*C‖jens‖SI‖En‖Jens‖
+*‖joerg‖CL‖En‖Jörg‖
+*‖jorg‖CL‖En‖Jörg‖
+*‖julian‖SI‖En‖Julian‖
+*‖kasandr‖SI‖En‖Kasandr‖
+*C1‖leon‖SI‖En‖Leon‖
+*‖maciej‖SI‖En‖Maciej‖
+C*‖manuel‖SI‖En‖Manuel‖
+*‖markus‖SI‖En‖Markus‖
+*‖martina‖SI‖En‖Martina‖
+*‖olga‖SI‖En‖Olga‖
+C*‖piotr‖SI‖En‖Piotr‖
+*‖rene/‖CL‖En‖René‖
+*‖sebastian‖SI‖En‖Sebastian‖
+*‖soren‖CL‖En‖Søren‖
+*‖sylwi‖SI‖En‖Sylwi‖
+*‖szymon‖SI‖En‖Szymon‖

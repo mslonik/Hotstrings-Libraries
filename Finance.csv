@@ -1,2 +1,20 @@
-﻿‖roi‖SI‖En‖ROI‖
+﻿‖bic‖SI‖En‖BIC‖
+*‖bic/‖SI‖En‖Bank Identifier Code‖
+C‖ebit‖SI‖En‖EBIT‖
+*‖ebit/‖SI‖En‖Earnings Before Interest and Taxes‖
+C‖ebitda‖SI‖En‖EBITDA‖https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_d
+*‖ebitda/‖SI‖En‖Earnings before interest, taxes, depreciation and amortization‖
+‖etf‖SI‖En‖ETF‖https://en.wikipedia.org/wiki/Exchange-traded_fund
+*‖etf/‖SI‖En‖Exchange-Traded Fund‖https://en.wikipedia.org/wiki/Exchange-traded_fund
+‖iban‖SI‖En‖IBAN‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
+*‖iban/‖SI‖En‖International Bank Account Number‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
+C‖roce‖SI‖En‖ROCE‖https://en.wikipedia.org/wiki/Return_on_capital_employed
+C1*‖roce/‖SI‖En‖Return on Capital Employed‖
+‖roi‖SI‖En‖ROI‖
 *‖roi/‖SI‖En‖Return of Investment‖
+‖sepa‖SI‖En‖SEPA‖https://pl.wikipedia.org/wiki/WIBOR
+*‖sepa/‖SI‖En‖Single Euro Payments Area‖https://en.wikipedia.org/wiki/Single_Euro_Payments_Area
+C‖swift‖SI‖En‖SWIFT‖
+*C‖swift/‖SI‖En‖Society for Worldwide Interbank Financial Telecommunication‖
+‖wibor‖SI‖En‖WIBOR‖https://pl.wikipedia.org/wiki/WIBOR
+*‖wibor/‖MSI‖En‖Warsaw Interbank Offered Rate¦referencyjna wysokość oprocentowania pożyczek na polskim rynku międzybankowym. Wyznaczana jest jako średnia arytmetyczna wielkości oprocentowania podawanych przez największe banki działające w Polsce[1], które są uczestnikami panelu WIBOR, po odrzuceniu wielkości skrajnych. Banki podają stawki oprocentowania (w ujęciu rocznym), po jakich są gotowe złożyć u siebie depozyt, o godz. 11:00 każdego dnia roboczego. Proces wyznaczania wartości WIBOR nazywany jest fixingiem WIBOR.‖https://pl.wikipedia.org/wiki/WIBOR
