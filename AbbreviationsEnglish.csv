@@ -10,7 +10,7 @@ Notes:		Trigger for "immediate execute" triggerstrings: "/". For "immediate exec
 Examples:	Special triggerstrings: d(t, o, h): d(.ahk, B0?, ) (empty hotstring), works as file extension.
 */
 
-*‖-/‖MCL‖En‖- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¦-----------------------------------------------------------------------------------------¦= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = ¦===========================================================¦# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #¦################################################################‖
+*‖-/‖MCL‖En‖_¦- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¦-----------------------------------------------------------------------------------------¦= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =¦===========================================================¦# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #¦################################################################‖
 C*‖2d‖MSI‖En‖2D¦two-dimensional‖
 C‖2fa‖SI‖En‖2FA‖
 *‖2fa/‖SI‖En‖Two-Factor Authentication‖
@@ -174,10 +174,14 @@ C‖erp‖SI‖En‖ERP‖
 *‖erp/‖CL‖En‖Enterprise Resource Planning‖
 C‖esd‖SI‖En‖ESD‖
 *C‖esd/‖SI‖En‖Electro Static Discharge‖
+‖eta‖SI‖En‖ETA‖
+*‖eta/‖SI‖En‖Estimated Time to Arrival‖
 C‖eto‖SI‖En‖ETO‖
 *‖eto/‖CL‖En‖Engineer To Order‖
 C‖eu‖SI‖En‖EU‖
 *‖eu/‖SI‖En‖European Union‖
+‖eula‖SI‖En‖EULA‖
+*‖eula/‖SI‖En‖End User License Agreement‖
 C‖eut‖SI‖En‖EUT‖
 *‖eut/‖SI‖En‖Equipment Under Test‖
 C‖fai‖SI‖En‖FAI‖
@@ -213,6 +217,8 @@ C‖gpl‖SI‖En‖GPL‖https://en.wikipedia.org/wiki/GNU_General_Public_Licen
 *‖gpl/‖MCL‖En‖General Public License¦https://en.wikipedia.org/wiki/GNU_General_Public_License¦https://www.gnu.org/licenses/gpl-3.0.html‖
 C‖gps‖SI‖En‖GPS‖
 *‖gps/‖CL‖En‖Global Positioning System‖
+‖gpt‖SI‖En‖GPT‖
+*‖gpt/‖SI‖En‖Generative Pre-trained Transformer‖
 C‖gsm‖SI‖En‖GSM‖
 *‖gsm/‖CL‖En‖Global System for Mobile Communications‖
 C‖gui‖SI‖En‖GUI‖
@@ -221,6 +227,8 @@ C‖hart‖SI‖En‖HART‖
 *‖hart/‖CL‖En‖Highway Addressable Remote Transducer Protocol‖
 C‖hdmi‖SI‖En‖HDMI‖
 *‖hdmi/‖CL‖En‖High-Definition Multimedia Interface‖
+‖hp‖SI‖En‖HP‖
+*‖hp/‖MSI‖En‖Horizontal Pitch¦1x HP = 0.2 '' = 5.08 mm¦1x HP is a unit of length defined by the Eurocard printed circuit board standard used to measure the horizontal width of rack mounted electronic equipment‖https://en.wikipedia.org/wiki/Horizontal_pitch
 C‖html‖SI‖En‖HTML‖
 *‖html/‖SI‖En‖HyperText Markup Language‖
 C‖hvac‖CL‖En‖HVAC‖
@@ -391,6 +399,8 @@ C‖rap‖SI‖En‖RAP‖
 *‖rap/‖CL‖En‖Risk Acceptance Principle‖
 ‖rcd‖SI‖En‖RCD‖
 *‖rcd/‖SI‖En‖Residual Current Device‖
+*‖rda‖SI‖En‖RDA‖
+*‖rda/‖SI‖En‖Robotics Desktop Automation‖
 C‖rfid‖SI‖En‖RFID‖
 *‖rfid/‖SI‖En‖Radio Frequency Identification‖
 C‖rgb‖SI‖En‖RGB‖https://en.wikipedia.org/wiki/RGB_color_model

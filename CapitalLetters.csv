@@ -21,7 +21,7 @@ C*‖brasil‖SI‖En‖Brasil‖
 C*‖bucharest‖SI‖En‖Bucharest‖
 *‖canada‖SI‖En‖Canada‖
 *‖china‖SI‖En‖China‖
-*‖christmas‖SI‖En‖Christmas‖
+‖christmas‖SI‖En‖Christmas‖
 C*‖cracow‖SI‖En‖Cracow‖
 C*‖december‖SI‖En‖December‖
 ‖dutch‖SI‖En‖Dutch‖
@@ -33,6 +33,8 @@ C‖eur‖SI‖En‖EUR‖
 C*‖europ‖SI‖En‖Europ‖
 C*‖europe‖SI‖En‖Europe‖
 C*‖february‖SI‖En‖February‖
+*C‖finland‖CL‖En‖Finland‖
+*C‖finnish‖CL‖En‖Finnish‖
 *‖france‖SI‖En‖France‖
 ‖french‖SI‖En‖French‖
 C*‖friday‖SI‖En‖Friday‖
@@ -80,6 +82,7 @@ C*‖taiwan‖SI‖En‖Taiwan‖
 C*‖thailand‖SI‖En‖Thailand‖
 C*‖thursday‖SI‖En‖Thursday‖
 C*‖tuesday‖SI‖En‖Tuesday‖
+*‖tw/‖MSI‖En‖Trąbki Wielkie¦Trąbek Wielkich¦Trąbkom Wielkim¦Trąbkami Wielkimi¦Trąbkach Wielkich‖
 C‖usa‖SI‖En‖USA‖
 *‖usa/‖SI‖En‖United States of America‖
 C‖usd‖SI‖En‖USD‖
