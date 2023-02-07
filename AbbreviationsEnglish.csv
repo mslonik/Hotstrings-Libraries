@@ -24,6 +24,8 @@ C‖acl‖SI‖En‖ACL‖
 *‖acl/‖SI‖En‖Access Control List‖
 C1‖adc‖SI‖En‖ADC‖
 *‖adc/‖MSI‖En‖Analog to digital Converter¦is a system in electronics that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal.‖
+C‖adhd‖SI‖En‖ADHD‖
+*C‖adhd/‖SI‖En‖Attention Deficit Hyperactivity Disorder‖https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
 *‖afaik/‖CL‖En‖as far as I know‖
 *‖ahk/‖MSI‖En‖AutoHotkey¦https://www.autohotkey.com/docs/AutoHotkey.htm‖https://www.autohotkey.com/
 ‖ai‖SI‖En‖AI‖
@@ -41,6 +43,7 @@ C‖asci‖SI‖En‖ASCII‖
 *‖asci/‖CL‖En‖American Standard Code for Information Interchange‖
 C‖ascii‖SI‖En‖ASCII‖
 *‖ascii/‖SI‖En‖American Standard Code for Information Interchange‖https://en.wikipedia.org/wiki/ASCII
+*C‖asciiart/‖SI‖En‖https://asciiart.website/index.php?art=holiday/christmas/trees‖https://en.wikipedia.org/wiki/Break-even_(economics)#Construction
 C‖ato‖SI‖En‖ATO‖
 *‖av/‖SI‖En‖Availability‖
 *C‖availability/‖SI‖En‖ability of a product to be in a state to perform a required function under given conditions at a given instant of time or over a given time interval assuming that the required external resources are provided.`n[SOURCE: IEC 62278:2002, 3.4]`n‖
@@ -202,6 +205,8 @@ C‖fmeca‖SI‖En‖FMECA‖
 *‖fmeca/‖SI‖En‖Failure mode effects and criticality analysis‖
 C‖fo‖SI‖En‖FO‖
 *‖fo/‖SI‖En‖Fiber Optics‖Generic Application
+‖fpga‖SI‖En‖FPGA‖
+*‖fpga/‖SI‖En‖Field-Programmable Gate Array‖
 *‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 C‖ga‖SI‖En‖GA‖
 *‖ga/‖MSI‖En‖Generic Application¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: Examples point machines, axle counters, real-time operating systems, fail-safe computer platform without application software.¦SOURCE: IEC 60050-821:FDIS2016, 821-01-57‖
@@ -252,8 +257,12 @@ C‖iq‖SI‖En‖IQ‖
 *‖iq/‖CL‖En‖Inteligence Quotient‖
 C‖iris‖SI‖En‖IRIS‖
 *‖iris/‖CL‖En‖International Railway Industry Standard for the evaluation of railway management systems‖
+C‖isbn‖SI‖En‖ISBN‖
+*C‖isbn/‖SI‖En‖International Standard Book Number‖https://en.wikipedia.org/wiki/ISBN
 C‖iso‖SI‖En‖ISO‖
 *‖iso/‖SI‖En‖International Standard Organisation‖
+C‖isp‖SI‖En‖ISP‖
+*C‖isp/‖SI‖En‖Internet Service Provider‖
 C*‖javascript‖SI‖En‖JavaScript‖
 ‖json‖SI‖En‖JSON‖
 *C1‖json/‖SI‖En‖JavaScript Object Notation‖
@@ -384,7 +393,7 @@ C‖qna‖SI‖En‖Q&A‖
 *‖qna/‖CL‖En‖Questions and Answers‖
 C‖qr‖SI‖En‖QR code‖
 *‖qr/‖SI‖En‖Quick Response code‖
-C‖qrams‖SI‖En‖QRAMS‖
+‖qrams‖SI‖En‖QRAMS‖
 *‖qrams/‖CL‖En‖Quality, Reliability, Availability, Maintainability, Safety‖
 *‖r/‖SI‖En‖Reliability‖
 C‖rac‖SI‖En‖RAC‖
@@ -443,6 +452,7 @@ C‖sms‖SI‖En‖SMS‖
 *‖sms/‖CL‖En‖Short Message Service‖
 C‖snmp‖SI‖En‖SNMP‖https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
 *‖snmp/‖SI‖En‖Simple Network Management Protocol‖
+*‖soc‖SI‖En‖SoC‖
 ‖spd‖SI‖En‖SPD‖
 *‖spd/‖SI‖En‖Surge Protection Device‖
 C‖sql‖SI‖En‖SQL‖
@@ -450,7 +460,7 @@ C‖sql‖SI‖En‖SQL‖
 C‖srac‖SI‖En‖SRAC‖Source: 3.75 → EN 50126-1:2017 (E)
 *‖srac/‖MCL‖En‖Safety Related Application Condition¦Those conditions which need to be met in order for a system to be safely integrated and safely operated. Note 1 to entry: Application conditions can for example be: operational restrictions (e.g. speed limit, maximum duration of use), operational rules, maintenance restrictions (e.g. requested maintenance intervals) or environmental conditions.‖
 ‖ssh‖SI‖En‖SSH‖
-‖ssh/‖MSI‖En‖Secure Shell¦a cryptographic network protocol for operating network services securely over an unsecured network‖
+*‖ssh/‖MSI‖En‖Secure Shell¦a cryptographic network protocol for operating network services securely over an unsecured network‖
 ‖ssl‖SI‖En‖SSL‖
 *‖ssl/‖SI‖En‖Secure Sockets Layer‖
 ‖stem‖SI‖En‖STEM‖

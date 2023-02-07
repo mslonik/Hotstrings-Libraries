@@ -10,6 +10,7 @@ Notes:		Prepared according to GitHub requirements.
 Example:		mdquoting/ → > text
 */
 
+*‖mdcollapse/‖CL‖En‖<details>`n	<summary>Header collapsible</summary>`n	…`n</details>‖
 *‖mdcolor/‖MSI‖En‖hex color: `{#}0969DA`¦RGB color: `rgb(9, 105, 218)`‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 *‖mdcomment/‖SI‖En‖<{!}-- This content will not appear in the rendered Markdown -->‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 *‖mdescape/‖SI‖En‖Let's rename \*our-new-project\* to \*our-old-project\*.‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
