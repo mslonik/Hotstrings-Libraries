@@ -150,6 +150,8 @@ C‖dxf‖SI‖En‖DXF‖
 *‖dyi/‖SI‖En‖do it yourself‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 ‖ecm‖SI‖En‖ECM‖
 *C‖ecm/‖SI‖En‖Enterprise Content Management‖
+‖eeprom‖SI‖En‖EEPROM‖
+*‖eeprom/‖SI‖En‖Electrically Erasable Programmable Read-Only Memory‖
 *‖eg/‖SI‖En‖exempli gratia‖
 C‖ei‖SI‖En‖EI‖
 *‖ei/‖CL‖En‖Emotional Intelligence‖
@@ -252,7 +254,7 @@ C‖ide‖SI‖En‖IDE‖
 ‖iot‖SI‖En‖IoT‖
 *‖iot/‖SI‖En‖Internet of Things‖
 C‖ip‖SI‖En‖IP‖
-*‖ip/‖MCL‖En‖IP Code, Ingress Protection code¦https://en.wikipedia.org/wiki/IP_Code‖
+*‖ip/‖MCL‖En‖IP Code, Ingress Protection code, electronic module enclosure protection level¦https://en.wikipedia.org/wiki/IP_Code‖
 C‖iq‖SI‖En‖IQ‖
 *‖iq/‖CL‖En‖Inteligence Quotient‖
 C‖iris‖SI‖En‖IRIS‖
@@ -293,6 +295,8 @@ C‖lms‖SI‖En‖LMS‖https://en.wikipedia.org/wiki/Learning_management_syst
 *‖lnd/‖SI‖En‖Learning and Development‖
 C‖lop‖SI‖En‖LOP‖
 *‖lop/‖CL‖En‖List of Open Points‖
+‖lru‖SI‖En‖LRU‖
+*‖lru/‖SI‖En‖Line Replacable Unit‖
 C‖lte‖SI‖En‖LTE‖
 *‖lte/‖SI‖En‖Long-Term Evolution‖
 C‖mac‖SI‖En‖MAC‖https://en.wikipedia.org/wiki/MAC_address
@@ -348,6 +352,8 @@ C‖oem‖SI‖En‖OEM‖
 *‖oem/‖SI‖En‖Original Equipment Manufacturer‖
 ‖ohsas‖SI‖En‖OHSAS‖https://pl.wikipedia.org/wiki/OHSAS_18001
 *‖ohsas/‖SI‖En‖Occupational Health and Safety Assessment Series‖
+‖opcua‖SI‖En‖OPC UA‖
+*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
 ‖otp‖SI‖En‖OTP‖https://en.wikipedia.org/wiki/One-time_password
 *‖otp/‖MSI‖En‖One-Time Password¦is a password that is valid for only one login session or transaction, on a computer system or other digital device‖
 ‖pbs‖SI‖En‖PBS‖
@@ -428,7 +434,7 @@ C‖rpu‖SI‖En‖RPU‖"peszel"
 *‖rsa/‖MSI‖En‖Rivest–Shamir–Adleman¦a public-key cryptosystem that is widely used for secure data transmission‖
 C‖rtc‖SI‖En‖RTC‖
 *‖rtc/‖SI‖En‖Real Time Clock‖
-*‖sa/‖CL‖En‖Specific Application‖
+*‖sa/‖MSI‖En‖Specific Application¦specific application‖
 *C‖sa`t‖SI‖En‖SA‖
 C‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 *‖saas/‖SI‖En‖Software as a Service‖
@@ -440,6 +446,8 @@ C‖scorm‖SI‖En‖SCORM‖https://en.wikipedia.org/wiki/Sharable_Content_Obj
 *‖scorm/‖SI‖En‖Sharable Content Object Reference Model‖
 ‖sdk‖SI‖En‖SDK‖https://en.wikipedia.org/wiki/Software_development_kit
 *‖sdk/‖SI‖En‖Software Development Kit‖
+‖sdl‖SI‖En‖SDL‖
+*‖sdl/‖SI‖En‖Secure Development Lifecycle‖
 C‖seo‖SI‖En‖SEO‖
 *‖seo/‖SI‖En‖Search Engine Optimization‖
 C‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confidence that a system will meet its specified safety functions with respect to systematic failures`n[SOURCE: IEC 62280:2014, 3.1.50]¦Safety Integrity Level‖
