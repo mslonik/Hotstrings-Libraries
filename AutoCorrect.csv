@@ -1,4 +1,19 @@
-﻿B0‖align‖SI‖En‖‖
+﻿/*
+License:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+Author:		Author: Jim Biancolo and Wikipedia's Lists of Common Misspellings.
+
+Purpose:		Hotstrings to correct about 4700 common English misspellings on-the-fly.
+
+Notes:		1. https://www.autohotkey.com/download/AutoCorrect.ahk
+			2. https://www.autohotkey.com/docs/v1/Hotstrings.htm#AutoCorrect
+			3. https://www.biancolo.com/blog/autocorrect/
+			4. https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings
+			The file downloaded following the first link after convertion to Hotstrings application format.
+Example:		–
+*/
+
+B0‖align‖SI‖En‖‖
 B0‖antiforeign‖SI‖En‖‖
 B0‖arraign‖SI‖En‖‖
 B0‖assign‖SI‖En‖‖
