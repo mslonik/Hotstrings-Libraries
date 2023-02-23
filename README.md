@@ -1,4 +1,4 @@
-# Hotstrings-Libraries
+# Hotstrings-Libraries <a name="back-to-the-top"></a>
 
 Hotstring library is text file (*.csv) formatted to work with [*Hotstrings*](https://github.com/mslonik/Hotstrings) application, which is text replacement tool.
 
@@ -43,6 +43,7 @@ In this article there are described libraries belonging to the following cathego
 Remarks:
 1. Only single definitions are counted. It means that if compound definition is present, then it is counted as one.
 
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
@@ -59,6 +60,7 @@ In this section I show examples of other libraries which I use in my everyday li
 Remarks:
 1. Only single definitions are counted. It means that if compound definition is present, then it is counted as one.
 
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
@@ -99,6 +101,7 @@ Thanks to **Hotstrings** application all three forms can be easily applied.
 
 1. Sometimes acronym names are the same as entire word. Good example in English is word "can". There is also acronym "CAN" which can stand for "Controller Area Network". It can be sometimes confusing when it is triggered automatically in unwanted situation. The fallback scenario is to undo last hotstring by pressing shortcut key combination dedicated to Hotstring application and that purpose (by default Win + Z). But if it is still unconvenient, you can define another triggerstring. For this particular acronym I use can\<Tab>, what is denoted as "can\`t", where "\`t" stands for \<Tab> or tabulator key.
 
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
@@ -128,6 +131,7 @@ Meaning of hotstring:
 **Remarks**:
 1. The hotstrings are so common and handy that keys used for closing brackets can be reserved for other purposes, e.g. can be used as triggers.
 
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
@@ -156,6 +160,7 @@ Meaning of hotstring:
 Meaning of options:
 - "?" whenever before triggerstring any alphanumeric is detected, the hotstring is triggered. This definition can be called even from within any word.
 
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
@@ -176,6 +181,7 @@ Meaning of options:
 |   molkky               | → |           *             | → | mölkky      |       SI        |
 
 Comment: name of Finnish coutry game. Origin written form contains diacritic character ö.
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
@@ -200,6 +206,7 @@ Thanks to this library it is relatively easier to prepare ASCII only based block
 ╞═╪╡
 ╘═╧╛
 ```
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
@@ -225,7 +232,7 @@ Meaning of options:
 - "C" it is case sensitive (only ordinary letter "a" and caret ^ will produce corresponding hotstring).
 - "*" the trigger is a part of triggerstring (trigger = "^").
 After triggerstring + trigger is pressed, user can choose from the list of 7x diacritics one fitting to the current purpose.
-
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
@@ -234,7 +241,7 @@ After triggerstring + trigger is pressed, user can choose from the list of 7x di
 ## Where libraries are stored?
 
 As it was already mentioned, the library file can caontain fragile / protected in law data. Therefore such files should be protected against public access. The basic way to accomplish this task is to store library files within <UserData>: 
-
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
@@ -244,14 +251,14 @@ As it was already mentioned, the library file can caontain fragile / protected i
 |   text to be replaced   | → |   replacement options   | → | replaced text |      output function      |
 |:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:-------------------------:|
 | triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | how hotstring is produced |
-
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
 
 ## Library file format <a name= "library-file-format"></a>
 (tbd)
-
+[Back to the top](#back-to-the-top)
 <br />
 <br />
 <br />
