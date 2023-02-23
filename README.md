@@ -4,31 +4,28 @@ Hotstring library is text file (*.csv) formatted to work with [*Hotstrings*](htt
 
 In this article there are described libraries belonging to the following cathegories:
 
-1. Free library files.
-1. Not-free library files
+# List of content
 
-Text replacement format and naming convention:
-
-|   text to be replaced   | → |   replacement options   | → | replaced text |      output function      |
-|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:-------------------------:|
-| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | how hotstring is produced |
-
+1. [Free library files, list.](#free-library-files)
+2. [Not-free library files, list.](#not-free-library-files)
+3. [Text replacement format and naming convention.](#text-replacement-format)
+4. [Library file format.](#library-file-format)
 
 <br />
 <br />
 <br />
 
-## **The free Library files**
+## **The free Library files** <a name="free-library-files"></a>
 
-| no.  |              **library name**              | **library description**                                                                               |                                    no. of definitions within library                                      |
+| no.  |              library name              | library description**                                                                               |                                    no. of definitions within library                                      |
 | :--- |:------------------------------------------|:------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------:|
 | 1. |  (Unicode Sender) Orthographic Sender.csv  | Helps type orthographic characters not found on the keyboard.                                         |                                  ~171                                   |
 | 2. |   (Unicode Sender) Currency Symbols.csv    | Helps type the symbols of world currencies.                                                           |                                   61                                    |
 | 3. | (Unicode Sender) Computer-Keys Symbols.csv | Helps type computer-keys symbols.                                                                     |                                   28                                    |
-|    | AbbreviationsEnglish.csv                   | Acronyms / abbreviations typical for English language.                                                | ~550                                                                    |
-| 5. | AutocompleteBrackets.csv                   | Adds closing bracket and shifts cursor in between the brackets.                                       |   5                                                                     |
+|    | [AbbreviationsEnglish.csv](#abbreviations-english)                   | Acronyms / abbreviations typical for English language.                                                | ~550                                                                    |
+| 5. | [AutocompleteBrackets.csv](#autocomplete-brackets)                   | Adds closing bracket and shifts cursor in between the brackets.                                       |   5                                                                     |
 |    | AutoCorrect.csv                            | Hotstrings to correct common English misspellings on-the-fly.                                         |   4841                                                                  |                    
-| 6. |        AutoCorrectionHotstrings.csv        | Automatic corrections of mispelled words and couple more abbreviations.                               |                                  18                                    |
+| 6. |        [AutoCorrectionHotstrings.csv](#auto-correction-hotstrings)        | Automatic corrections of mispelled words and couple more abbreviations.                               |                                  18                                    |
 |    | BoxDrawing.csv                             | ASCII box drawing characters.                                                                         | 8 
 | 7. |             CapitalLetters.csv             | Auto-capitalization of first letter in the first word like week days, month days, geographical names. |                                  ~80                                    |
 | 8. |             CircledNumbers.csv             | Unicode characters: numbers inside of circles.                                                        |                                   46                                    |
@@ -50,7 +47,7 @@ Remarks:
 <br />
 <br />
 
-## **The not-free libraries**
+## **The not-free libraries** <a name="not-free-library-files"></a>
 
 In this section I show examples of other libraries which I use in my everyday life but which cannot be shared by various reasons (GDPR, licence constraints, proprietary names etc.).
 
@@ -69,7 +66,7 @@ Remarks:
 ---
 
 
-### AbbreviationsEnglish.csv
+### **AbbreviationsEnglish.csv** <a name="abbreviations-english"></a>
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -107,7 +104,7 @@ Thanks to **Hotstrings** application all three forms can be easily applied.
 <br />
 
 ---
-### **AutocompleteBrackets.csv**
+### **AutocompleteBrackets.csv** <a name="autocomplete-brackets"></a>
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -164,7 +161,7 @@ Meaning of options:
 <br />
 
 ---
-### **AutocorrectionHotstrings.csv**
+### **AutocorrectionHotstrings.csv** <a name="auto-correction-hotstrings"></a>
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -234,6 +231,27 @@ After triggerstring + trigger is pressed, user can choose from the list of 7x di
 <br />
 
 ---
-## Where libraries are stored? ##
+## Where libraries are stored?
 
 As it was already mentioned, the library file can caontain fragile / protected in law data. Therefore such files should be protected against public access. The basic way to accomplish this task is to store library files within <UserData>: 
+
+<br />
+<br />
+<br />
+
+## Text replacement format and naming convention <a name="text-replacement-format"></a>
+
+|   text to be replaced   | → |   replacement options   | → | replaced text |      output function      |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:-------------------------:|
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | how hotstring is produced |
+
+<br />
+<br />
+<br />
+
+## Library file format <a name= "library-file-format"></a>
+(tbd)
+
+<br />
+<br />
+<br />
