@@ -3,7 +3,7 @@ License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
 
 Author:		Maciej Słojewski (🐘), http://mslonik.pl
 
-Purpose:		1. Explain meaining of specific file extensions / name of applications which apply that name. 2. Enable not capitalized extensions aif used within filenames. 3. Capitalize file extension names when such extension is present standalone.
+Purpose:		1. Explain meaining of specific file extensions / name of applications which apply that name. 2. Enables entering not capitalized file extensions within filenames. 3. Capitalize file extension names when such extension is present standalone.
 
 Examples:	Ad. 1. svg/ → Scalable Vector Graphics. Ad 2. Filename.txt ← hotstring was triggered, but file extension wasn't capitalized. Ad. 3. This is file extension PDF.
 */

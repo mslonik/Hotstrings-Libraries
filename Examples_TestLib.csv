@@ -1,13 +1,13 @@
 ﻿/*
 License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
 
-Author:		Maciej Słojewski
+Author:        Maciej Słojewski (🐘), http://mslonik.pl
 
-Purpose:		Examples of use, test suit for Hotstrings application.
+Purpose:		Examples of use, test suit for Hotstrings application. Test definitions useful to check if Hotstrings application works correctly.
 
-Notes:		Set of definitions to test Hotstrings application.
+Notes:		Some examples are clever and contain exceptions.
 
-Examples:	     --
+Examples:	     ex21` contains backtick (`) as trigger.
 */
 *‖abc/‖SI‖En‖siedemnaście‖
 *‖ex1/‖SI‖En‖Something and comma, then comma alone ,‖Hotstring, Escape Sequence: ;
