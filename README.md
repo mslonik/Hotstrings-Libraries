@@ -30,7 +30,7 @@ In this article there are described libraries belonging to the following cathego
 | 8.    | (Unicode Sender) Mathematical (Needs Improvement).csv           | Helps type computer-keys symbols.                                                                      |                ???                |
 | 9.    | (Unicode Sender) Orthographic.csv                               | Helps type computer-keys symbols.                                                                      |                ???                |
 | 10.   | (Unicode Sender) Roman Numerals.csv                             | Helps type computer-keys symbols.                                                                      |                ???                |
-| ===== | =======================================================         | ===================================================================                                    |       ====================        |
+| ===== | =============================================         | ===================================================================                                    |       ====================        |
 | 11.   | [AbbreviationsEnglish.csv](#abbreviations-english)              | Acronyms / abbreviations typical for English language.                                                 |               ~550                |
 | 12.   | [AutocompleteBrackets.csv](#autocomplete-brackets)              | Adds closing bracket and shifts cursor in between the brackets.                                        |                 5                 |
 | 13.   | [AutoCorrect.csv](#auto-correct)                                | Hotstrings to correct common English misspellings on-the-fly.                                          |               4841                |
@@ -827,7 +827,9 @@ what saves some time on writing (two time less of Shift presses).
 
 ---
 <details>
-### <summary>**CompanySpecific.csv** <a name="technical-hotstrings"></a> </summary>
+<summary>
+### **CompanySpecific.csv** <a name="technical-hotstrings"></a>
+</summary>
 
 **Concept**: Collections of abbreviations, terms, definitions which are specific to one company.
 
