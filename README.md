@@ -827,7 +827,6 @@ what saves some time on writing (two time less of Shift presses).
 
 ---
 <details>
-
 ### **<summary>CompanySpecific.csv</summary>** <a name="technical-hotstrings"></a>
 
 **Concept**: Collections of abbreviations, terms, definitions which are specific to one company.
