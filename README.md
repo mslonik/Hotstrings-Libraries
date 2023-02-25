@@ -32,14 +32,18 @@ In this article there are described libraries belonging to the following cathego
 |  |             [DiacriticsDeadkey_Polish.csv](#diacritics-deadkey-polish)             | Demonstration of dead key hotstrings used to enter diacritic characters (actually Polish diacritics).                                                        |                                   18                                    |
 | 9. |     DevanagariTyperHelper_VowelSet.csv     | (...)                                                                                                 |                   23                      |
 |    |           [DiacriticsHotstrings.csv](#diacritics-hotstrings)          | So called diacritics or accented letters not present in English.                                      |                                  ~25                                    |
-| 11. |            [EmojiHotstrings.csv](emoji-hotstrings)             | Unicode characters called emojis.                                                                     |                                  ~75                                    |
-| 11. |            [Examples_TestLib.csv](examples-testlib)             | Example and test definitions which check specific features of Hotstrings application.                                                                     |                                  27                                    |
-|  |            [FileFormats.csv](file-formats)             | 1. Explain meaining of specific file extensions / name of applications which apply that name. 2. Enables entering not capitalized file extensions within filenames. 3. Capitalize file extension names when such extension is present standalone.                                                                     |                                  44                                    |
-| 12. |              FirstCapital.csv              | Auto-capitalization of the first letter in the first word of each new sentence.                       |                 100                   |
-| 13. |              FunctionKeys.csv              | Option to call function keys (or F keys): F1 ... F24 just by typing ordinary letters.                 |                                   25                                    |
+| 11. |            [EmojiHotstrings.csv](#emoji-hotstrings)             | Unicode characters called emojis.                                                                     |                                  ~75                                    |
+| 11. |            [Examples_TestLib.csv](#examples-testlib)             | Example and test definitions which check specific features of Hotstrings application.                                                                     |                                  27                                    |
+|  |            [FileFormats.csv](#file-formats)             | 1. Explain meaining of specific file extensions / name of applications which apply that name. 2. Enables entering not capitalized file extensions within filenames. 3. Capitalize file extension names when such extension is present standalone.                                                                     |                                  44                                    |
+|  |            [Finance.csv](#finance)             | Abbreviations and definitions dedicated to subject of finances.                                                                     |                                  30                                    |
+|  |            [FirstNameCapitalizer.csv](#first-name-capitalizer)             | Replaces text string representing first name with first capitalized first letter.                                                                     |                                  40                                    |
+| 13. |              [FunctionKeys.csv](#function-keys)              | Option to call function keys (or F keys): F1 ... F24 just by typing ordinary letters.                 |                                   36                                    |
+| 13. |              [HotstringsHotstrings.csv](#hotstrings-hotstrings)              | Prepare triggerstring tips about hotstrings active for Hotstrings application.                 |                                   9                                    |
 | 14. |      GurmukhiTyperHelper_VowelSet.csv      | (...)                                                                                                 |                    9                      |
-| 15. |               Incoterms.csv                | Abbreviations and full definitions of Incoterms.                                                      |                             24                                |
-| 16. |           PhysicsHotstrings.csv            | Various unicode symbols more or less related to physics.                                              |                                  ~55                                    |
+| 15. |               [Incoterms.csv](#incoterms)                | Abbreviations and full definitions of Incoterms.                                                      |                             24                                |
+|  |               [Markdown.csv](#markdown)                | Markdown lightweight markup language cheat sheet.                                                      |                             15                                |
+|  |               [PersonalHotstringsTemplate.csv](#personal-hotstrings-template)                | Personal hotstrings template.                                                      |                             13                                |
+| 16. |           [PhysicsHotstrings.csv](#physics-hotstrings)            | Various unicode symbols more or less related to physics.                                              |                                  ~75                                    |
 | 17. |               TimeHotstrings               | Definitions of time formats.                                                                          |                                   3                                     |
 
 Remarks:
@@ -49,6 +53,9 @@ Remarks:
 <br />
 <br />
 <br />
+
+| 12. |              FirstCapital.csv              | Auto-capitalization of the first letter in the first word of each new sentence.                       |                 100                   |
+
 
 ---
 ### **AbbreviationsEnglish.csv** <a name="abbreviations-english"></a>
@@ -182,7 +189,7 @@ Thanks to this library it is relatively easier to prepare ASCII only based block
 
 **Example**:
 
-*boxes1/* converts into
+*boxes1/* is replaced into
 ```
 ╒═╤╕
 │ ││
@@ -229,7 +236,7 @@ Thanks to this library it is relatively easier to prepare ASCII only based block
 |:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
 |           LiteraR            | → |           C*           | → | {U+24C7} |       SI       |
 
-*LiteraR* converts into
+*LiteraR* is replaced into
 ```
 Ⓡ
 ```
@@ -253,7 +260,7 @@ Thanks to this library it is relatively easier to prepare ASCII only based block
 |:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
 |           /a            | → |           *C?           | → | ą |       SI       |
 
-"k/at" converts into
+"k/at" is replaced into
 ```
 kąt
 ```
@@ -290,6 +297,8 @@ After triggerstring + trigger is pressed, user can choose from the list of 7x di
 ### **EmojiHotstrings.csv** <a name="emoji-hotstrings"></a>
 **Author**:		Maciej Słojewski (🐘)
 
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
 **Purpose**:   Collection of [emoticons](https://en.wikipedia.org/wiki/Emoticon), [emojis](https://en.wikipedia.org/wiki/Emoji) and [ASCII art](https://en.wikipedia.org/wiki/ASCII_art).
 
 **Example**:
@@ -298,7 +307,7 @@ After triggerstring + trigger is pressed, user can choose from the list of 7x di
 |:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
 |           flowers/            | → |           *           | → | 💐: 🌹🍀🌻🌺🌸 |       SI       |
 
-"flowers/" converts into
+"flowers/" is replaced into
 ```
 💐: 🌹🍀🌻🌺🌸
 ```
@@ -313,6 +322,8 @@ After triggerstring + trigger is pressed, user can choose from the list of 7x di
 ### **Examples_TestLib.csv** <a name="examples-testlib"></a>
 **Author**:		Maciej Słojewski (🐘)
 
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
 **Purpose**:   Examples of use, test suit for Hotstrings application. Set of definitions to test Hotstrings application.
 
 **Example**:
@@ -321,7 +332,7 @@ After triggerstring + trigger is pressed, user can choose from the list of 7x di
 |:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
 |           ex6/            | → |           *           | → | newline (linefeed/LF) `n |       SI       |
 
-"ex6/" converts into
+"ex6/" is replaced into
 ```
 newline (linefeed/LF) 
 
@@ -336,6 +347,8 @@ newline (linefeed/LF)
 ### **FileFormats.csv** <a name="file-formats"></a>
 **Author**:		Maciej Słojewski (🐘)
 
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
 **Purpose**:   
 1. Explain meaining of specific file extensions / name of applications which apply that name. 
 2. Enables entering not capitalized file extensions within filenames. 
@@ -343,21 +356,36 @@ newline (linefeed/LF)
 
 **Example**:
 
-Ad. 1. "svg/" converts into 
+Ad. 1. 
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           svg/            | → |           *           | → | Scalable Vector Graphics |       SI       |
+
+svg is replaced into
 ```
-Scalable Vector Graphics. 
+Scalable Vector Graphics
 ```
 
-Ad. 2. "Filename.svg" converts into 
+Ad. 2. 
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           .svg            | → |           B0?           | → |  |       SI       |
+
+"Filename.svg" is replaced into 
 ```
 Filename.svg
 ```
 (hotstring was triggered, but file extension wasn't capitalized). 
 
 
-Ad. 3. "This is file extension pdf" converts into
+Ad. 3. 
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           svg            | → |                      | → | SVG |       SI       |
+
+"This is file extension svg." is replaced into
 ```
-This is file extension PDF
+This is file extension SVG.
 ```
 [Back to the top](#back-to-the-top)
 <br />
@@ -365,6 +393,184 @@ This is file extension PDF
 <br />
 
 ---
+### **Finance.csv** <a name="finance"></a>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Abbreviations and definitions dedicated to subject of finances.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           bic/            | → |           *           | → | Bank Identifier Code |       SI       |
+
+"bic/" is replaced into
+```
+Bank Identifier Code 
+
+```
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+
+---
+
+### **FirstNameCapitalizer.csv** <a name="first-name-capitalizer"></a>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Replaces text string representing first name with first capitalized first letter.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           daniel            | → |           *           | → | Daniel |       SI       |
+
+"daniel" is replaced into
+```
+Daniel 
+
+```
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+
+---
+
+### **FunctionKeys.csv** <a name="function-keys"></a>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Option to call function keys (or F keys): F1 ... F24 just by typing ordinary letters.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           f10/            | → |           *           | → | {F10} |       SI       |
+
+"f10/" is replaced into pressing of F10 function key. It's behavior is application dependant, but in many applications menu is activated.
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+
+---
+### **HotstringsHotstrings.csv** <a name="hotstrings-hotstrings"></a>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Prepare triggerstring tips about hotstrings active for Hotstrings application. All the hotsrings start from "hs" and have "immediate execute" (*)  feature and have no replacement string (they are removed after). Thanks to that user should be able to find and least what hotstrings exist.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           hsenable/            | → |           *           | → |  |       SI       |
+
+If option "show triggerstring tips" is enabled in configuration of Hotstrings application and this library is enabled, then user should see on the screep triggerstring tip after entering "hs" (hotstring) what options from within this library are available in form of hotstrings.
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+
+---
+### **Incoterms.csv** <a name="incoterms"></a>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Abbreviations and full definitions of Incoterms.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           cfr/            | → |           *           | → | Cost and Freight (named port of destination)¦The seller pays for the carriage of the goods up to the named port of destination. Risk transfers to buyer when the goods have been loaded on board the ship in the country of Export. The shipper is responsible for origin costs including export clearance and freight costs for carriage to the named port. The shipper is not responsible for delivery to the final destination from the port (generally the buyer's facilities), or for buying insurance. If the buyer requires the seller to obtain insurance, the Incoterm CIF should be considered. CFR should only be used for non-containerized seafreight and inland waterway transport; for all other modes of transport it should be replaced with CPT.¦https://en.wikipedia.org/wiki/Incoterms#FCA_%E2%80%93_Free_Carri |       MCL       |
+
+If user enters "cfr/", then on the screep hotstring menu is displayed. After choosing the second poition it is replaced into:
+```
+The seller pays for the carriage of the goods up to the named port of destination. Risk transfers to buyer when the goods have been loaded on board the ship in the country of Export. The shipper is responsible for origin costs including export clearance and freight costs for carriage to the named port. The shipper is not responsible for delivery to the final destination from the port (generally the buyer's facilities), or for buying insurance. If the buyer requires the seller to obtain insurance, the Incoterm CIF should be considered. CFR should only be used for non-containerized seafreight and inland waterway transport; for all other modes of transport it should be replaced with CPT.
+```
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+
+---
+### **Markdown.csv** <a name="markdown"></a>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Markdown lightweight markup language cheat sheet.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           mdcolor/            | → |           *           | → | hex color: `{#}0969DA`¦RGB color: `rgb(9, 105, 218)`‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format |       MSI       |
+
+If you enter "cfr/", then on the screep hotstring menu is displayed. After choosing the second poition it is replaced into:
+```
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+```
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+
+---
+### **PersonalHotstringsTemplate.csv** <a name="personal-hotstrings-template"></a>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Personal hotstrings template.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           cardmy/            | → |           *           | → | 1122334455667788¦123¦07/26¦07¦26 |       MSI       |
+
+If you enter "cardmy/", then on the screep hotstring menu is displayed containing all data relevant to register your bank card. After choosing the second poition it is replaced into your bank card secret code:
+```
+123
+```
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+
+---
+### **PhysicsHotstrings.csv** <a name="physics-hotstrings"></a>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Various unicode symbols more or less related to physics.
+
+**Example**:
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           <=            | → |           *           | → | ≤ |       CL       |
+
+If you enter "<=" it is replaced into:
+```
+≤
+```
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+
+---
+
 ## **The not-free libraries** <a name="not-free-library-files"></a>
 
 In this section I show examples of other libraries which I use in my everyday life but which cannot be shared by various reasons (GDPR, licence constraints, proprietary names etc.).
@@ -374,7 +580,7 @@ In this section I show examples of other libraries which I use in my everyday li
 | 1.    | [BrandAndProperNames.csv](#brand-and-proper-names) | Brand names (reserved), proper names (reserved), used in everyday life.                                                             | ~100 | 
 | 2.      | [BuildingBlocks.csv](#building-blocks) | Building blocks from specific template file of Microsoft Word | 37 |
 | 2.    | [dSAT.csv](#dsat) | Text replacements valid for Diagnostic and Monitoring Technologies for Rolling Stock. | ~100 |
-| 2.    | FirstAndSecondNames.csv | Collections of abbreviated first and second names of my colleagues, sometimes also other personal data like phone numbers, e-mails. | 49 |
+| 2.    | [FirstAndSecondNames.csv](#first-and-second-names) | Collections of abbreviated first and second names of my colleagues, sometimes also other personal data like phone numbers, e-mails. | 49 |
 
 Remarks:
 1. Only single definitions are counted. It means that if compound definition is present, then it is counted as one.
@@ -437,6 +643,27 @@ Comment:
 <br />
 <br />
 
+---
+### **FirstAndSecondNames.csv** <a name="first-and-second-names"></a>
+**Concept**: In formal e-mail correspondence or even in corporate text messengers it is good to have set ot first-name second-name abbreviations which are replaced with full Firstname Secondname, starting from capital letters. 
+
+In some languages (e.g. Polish) endings of first-name and second-name are changed according to position and form in a sentence. Thanks to Hotstrings this local feature is addressed.
+
+**Example**:
+| triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:---------------:|
+|           js/            | → |           *           | → | John Smith¦Johna Smitha¦Johnowi Smithowi¦Johnem Smithem |      MSI       |
+
+"js/" is replaced into small on-screen menu and when 1st position is selected
+```
+John Smith 
+```
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+
+---
 ## Where libraries are stored?
 
 As it was already mentioned, the library file can caontain fragile / protected in law data. Therefore such files should be protected against public access. The basic way to accomplish this task is to store library files within <UserData>: 

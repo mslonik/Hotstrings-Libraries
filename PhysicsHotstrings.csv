@@ -15,7 +15,7 @@ Examples:	Greek alphabet letters, physics unit names and many more.
 *‖**/‖MSI‖En‖·¦×‖U+00B7 | U+00D7
 *‖*/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 *‖+-‖CL‖En‖±‖
-*‖-	‖MSI‖En‖-¦−¦–¦—‖U+2010, U+2212, U+2013, U+2014
+*‖-'t‖MSI‖En‖-¦−¦–¦—‖U+2010, U+2212, U+2013, U+2014
 *‖-+‖CL‖En‖±‖
 *‖--‖CL‖En‖–‖
 *‖->‖MCL‖En‖→¦←¦↔¦↓¦↑‖
@@ -50,7 +50,7 @@ Examples:	Greek alphabet letters, physics unit names and many more.
 *‖m/s2‖SI‖En‖m/s²‖
 *‖m2‖SI‖En‖m²‖
 *‖m3‖SI‖En‖m³‖
-*‖mamp‖CL‖En‖MSI‖
+*‖mamp‖CL‖En‖mA‖
 *‖micro/‖CL‖En‖µ‖
 *‖minusplus‖CL‖En‖±‖
 *‖mkropka‖MSI‖En‖·¦×‖U+00B7 | U+00D7
