@@ -1,0 +1,115 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Auto capitalize first word in a sentence.
+
+Notes:		The definitions containted in this library overlap with other existing definitions. To truly solve this issue the definitions from within this library have to be recognized independently by separate hotstring recognizer. This task was released with "First Capital Hotstring" application available under the following link: https://github.com/mslonik/FirstCapital.
+
+Example:		–
+*/
+*CB0?‖! a‖S2‖En‖{BS}A‖
+*CB0?‖! b‖S2‖En‖{BS}B‖
+*CB0?‖! c‖S2‖En‖{BS}C‖
+*CB0?‖! d‖S2‖En‖{BS}D‖
+*CB0?‖! e‖S2‖En‖{BS}E‖
+*CB0?‖! f‖S2‖En‖{BS}F‖
+*CB0?‖! g‖S2‖En‖{BS}G‖
+*CB0?‖! h‖S2‖En‖{BS}H‖
+*CB0?‖! i‖S2‖En‖{BS}I‖
+*CB0?‖! j‖S2‖En‖{BS}J‖
+*CB0?‖! k‖S2‖En‖{BS}K‖
+*CB0?‖! l‖S2‖En‖{BS}L‖
+*CB0?‖! m‖S2‖En‖{BS}M‖
+*CB0?‖! n‖S2‖En‖{BS}N‖
+*CB0?‖! o‖S2‖En‖{BS}O‖
+*CB0?‖! p‖S2‖En‖{BS}P‖
+*CB0?‖! q‖S2‖En‖{BS}Q‖
+*CB0?‖! r‖S2‖En‖{BS}R‖
+*CB0?‖! s‖S2‖En‖{BS}S‖
+*CB0?‖! t‖S2‖En‖{BS}T‖
+*CB0?‖! u‖S2‖En‖{BS}U‖
+*CB0?‖! v‖S2‖En‖{BS}V‖
+*CB0?‖! w‖S2‖En‖{BS}W‖
+*CB0?‖! x‖S2‖En‖{BS}X‖
+*CB0?‖! y‖S2‖En‖{BS}Y‖
+*CB0?‖! z‖S2‖En‖{BS}Z‖
+*CB0?‖. a‖S2‖En‖{BS}A‖
+*CB0?‖. b‖S2‖En‖{BS}B‖
+*CB0?‖. c‖S2‖En‖{BS}C‖
+*CB0?‖. d‖S2‖En‖{BS}D‖
+*CB0?‖. e‖S2‖En‖{BS}E‖
+*CB0?‖. f‖S2‖En‖{BS}F‖
+*CB0?‖. g‖S2‖En‖{BS}G‖
+*CB0?‖. h‖S2‖En‖{BS}H‖
+*CB0?‖. i‖S2‖En‖{BS}I‖
+*CB0?‖. j‖S2‖En‖{BS}J‖
+*CB0?‖. k‖S2‖En‖{BS}K‖
+*CB0?‖. l‖S2‖En‖{BS}L‖
+*CB0?‖. m‖S2‖En‖{BS}M‖
+*CB0?‖. n‖S2‖En‖{BS}N‖
+*CB0?‖. o‖S2‖En‖{BS}O‖
+*CB0?‖. p‖S2‖En‖{BS}P‖
+*CB0?‖. q‖S2‖En‖{BS}Q‖
+*CB0?‖. r‖S2‖En‖{BS}R‖
+*CB0?‖. s‖S2‖En‖{BS}S‖
+*CB0?‖. t‖S2‖En‖{BS}T‖
+*CB0?‖. u‖S2‖En‖{BS}U‖
+*CB0?‖. v‖S2‖En‖{BS}V‖
+*CB0?‖. w‖S2‖En‖{BS}W‖
+*CB0?‖. x‖S2‖En‖{BS}X‖
+*CB0?‖. y‖S2‖En‖{BS}Y‖
+*CB0?‖. z‖S2‖En‖{BS}Z‖
+*CB0?‖? a‖S2‖En‖{BS}A‖
+*CB0?‖? b‖S2‖En‖{BS}B‖
+*CB0?‖? c‖S2‖En‖{BS}C‖
+*CB0?‖? d‖S2‖En‖{BS}D‖
+*CB0?‖? e‖S2‖En‖{BS}E‖
+*CB0?‖? f‖S2‖En‖{BS}F‖
+*CB0?‖? g‖S2‖En‖{BS}G‖
+*CB0?‖? h‖S2‖En‖{BS}H‖
+*CB0?‖? i‖S2‖En‖{BS}I‖
+*CB0?‖? j‖S2‖En‖{BS}J‖
+*CB0?‖? k‖S2‖En‖{BS}K‖
+*CB0?‖? l‖S2‖En‖{BS}L‖
+*CB0?‖? m‖S2‖En‖{BS}M‖
+*CB0?‖? n‖S2‖En‖{BS}N‖
+*CB0?‖? o‖S2‖En‖{BS}O‖
+*CB0?‖? p‖S2‖En‖{BS}P‖
+*CB0?‖? q‖S2‖En‖{BS}Q‖
+*CB0?‖? r‖S2‖En‖{BS}R‖
+*CB0?‖? s‖S2‖En‖{BS}S‖
+*CB0?‖? t‖S2‖En‖{BS}T‖
+*CB0?‖? u‖S2‖En‖{BS}U‖
+*CB0?‖? v‖S2‖En‖{BS}V‖
+*CB0?‖? w‖S2‖En‖{BS}W‖
+*CB0?‖? x‖S2‖En‖{BS}X‖
+*CB0?‖? y‖S2‖En‖{BS}Y‖
+*CB0?‖? z‖S2‖En‖{BS}Z‖
+*CB0?‖`na‖S2‖En‖{BS}A‖
+*CB0?‖`nb‖S2‖En‖{BS}B‖
+*CB0?‖`nc‖S2‖En‖{BS}C‖
+*CB0?‖`nd‖S2‖En‖{BS}D‖
+*CB0?‖`ne‖S2‖En‖{BS}E‖
+*CB0?‖`nf‖S2‖En‖{BS}F‖
+*CB0?‖`ng‖S2‖En‖{BS}G‖
+*CB0?‖`nh‖S2‖En‖{BS}H‖
+*CB0?‖`ni‖S2‖En‖{BS}I‖
+*CB0?‖`nj‖S2‖En‖{BS}J‖
+*CB0?‖`nk‖S2‖En‖{BS}K‖
+*CB0?‖`nl‖S2‖En‖{BS}L‖
+*CB0?‖`nm‖S2‖En‖{BS}M‖
+*CB0?‖`nn‖S2‖En‖{BS}N‖
+*CB0?‖`no‖S2‖En‖{BS}O‖
+*CB0?‖`np‖S2‖En‖{BS}P‖
+*CB0?‖`nq‖S2‖En‖{BS}Q‖
+*CB0?‖`nr‖S2‖En‖{BS}R‖
+*CB0?‖`ns‖S2‖En‖{BS}S‖
+*CB0?‖`nt‖S2‖En‖{BS}T‖
+*CB0?‖`nu‖S2‖En‖{BS}U‖
+*CB0?‖`nv‖S2‖En‖{BS}V‖
+*CB0?‖`nw‖S2‖En‖{BS}W‖
+*CB0?‖`nx‖S2‖En‖{BS}X‖
+*CB0?‖`ny‖S2‖En‖{BS}Y‖
+*CB0?‖`nz‖S2‖En‖{BS}Z‖

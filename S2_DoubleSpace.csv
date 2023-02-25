@@ -6,34 +6,33 @@ Author:		Maciej Słojewski (🐘), http://mslonik.pl
 Purpose:		Double pressing space replaces pressing dot and pressing space.
 
 Notes:		Can be combined with FirstCapital.csv. Then new sentence starts with capital letter.
-S2 output function: the whole hotstring is fed back.
+               S2 output function: the whole hotstring is fed back.
 
 Example:		–
 */
-
-*B0?‖a  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖b  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖c  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖d  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖e  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖f  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖g  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖h  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖i  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖j  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖k  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖l  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖m  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖n  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖o  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖p  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖q  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖r  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖s  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖t  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖u  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖v  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖w  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖x  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖y  ‖S2‖En‖{BS 2}.{Space}‖
-*B0?‖z  ‖S2‖En‖{BS 2}.{Space}‖
+*B0?‖a  ‖S2‖En‖{BS 2}. `‖
+*B0?‖b  ‖S2‖En‖{BS 2}. `‖
+*B0?‖c  ‖S2‖En‖{BS 2}. `‖
+*B0?‖d  ‖S2‖En‖{BS 2}. `‖
+*B0?‖e  ‖S2‖En‖{BS 2}. `‖
+*B0?‖f  ‖S2‖En‖{BS 2}. `‖
+*B0?‖g  ‖S2‖En‖{BS 2}. `‖
+*B0?‖h  ‖S2‖En‖{BS 2}. `‖
+*B0?‖i  ‖S2‖En‖{BS 2}. `‖
+*B0?‖j  ‖S2‖En‖{BS 2}. `‖
+*B0?‖k  ‖S2‖En‖{BS 2}. `‖
+*B0?‖l  ‖S2‖En‖{BS 2}. `‖
+*B0?‖m  ‖S2‖En‖{BS 2}. `‖
+*B0?‖n  ‖S2‖En‖{BS 2}. `‖
+*B0?‖o  ‖S2‖En‖{BS 2}. `‖
+*B0?‖p  ‖S2‖En‖{BS 2}. `‖
+*B0?‖q  ‖S2‖En‖{BS 2}. `‖
+*B0?‖r  ‖S2‖En‖{BS 2}. `‖
+*B0?‖s  ‖S2‖En‖{BS 2}. `‖
+*B0?‖t  ‖S2‖En‖{BS 2}. `‖
+*B0?‖u  ‖S2‖En‖{BS 2}. `‖
+*B0?‖v  ‖S2‖En‖{BS 2}. `‖
+*B0?‖w  ‖S2‖En‖{BS 2}. `‖
+*B0?‖x  ‖S2‖En‖{BS 2}. `‖
+*B0?‖y  ‖S2‖En‖{BS 2}. `‖
+*B0?‖z  ‖S2‖En‖{BS 2}. `‖
