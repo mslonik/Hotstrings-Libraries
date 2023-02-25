@@ -18,42 +18,42 @@ In this article there are described libraries belonging to the following cathego
 
 ## **The free library files** <a name="free-library-files"></a>
 
-| no.   | library name                                                    | library description                                                                                    | no. of definitions within library |
-|:------|:----------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:---------------------------------:|
-| 1.    | (Typer Helper) DevanagariTyperHelper_VowelSet.csv               | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
-| 2.    | (Typer Helper) GreekSigmaHelper.csv                             | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
-| 3.    | (Typer Helper) GurmukhiTyperHelper_VowelSet.csv                 | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
-| 4.    | (Unicode Sender) Combining Diacritics.csv                       | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
-| 5.    | (Unicode Sender) Computer-Keys Symbols.csv                      | Helps type the symbols of world currencies.                                                            |                ???                |
-| 6.    | (Unicode Sender) Currency Symbols.csv                           | Helps type computer-keys symbols.                                                                      |                ???                |
-| 7.    | (Unicode Sender) Ligatures.csv                                  | Helps type computer-keys symbols.                                                                      |                ???                |
-| 8.    | (Unicode Sender) Mathematical (Needs Improvement).csv           | Helps type computer-keys symbols.                                                                      |                ???                |
-| 9.    | (Unicode Sender) Orthographic.csv                               | Helps type computer-keys symbols.                                                                      |                ???                |
-| 10.   | (Unicode Sender) Roman Numerals.csv                             | Helps type computer-keys symbols.                                                                      |                ???                |
-| ===== | =============================================         | ===================================================================                                    |       ====================        |
-| 11.   | [AbbreviationsEnglish.csv](#abbreviations-english)              | Acronyms / abbreviations typical for English language.                                                 |               ~550                |
-| 12.   | [AutocompleteBrackets.csv](#autocomplete-brackets)              | Adds closing bracket and shifts cursor in between the brackets.                                        |                 5                 |
-| 13.   | [AutoCorrect.csv](#auto-correct)                                | Hotstrings to correct common English misspellings on-the-fly.                                          |               4841                |
-| 14.   | [AutoCorrectionHotstrings.csv](#auto-correction-hotstrings)     | Automatic corrections of mispelled words and couple more abbreviations.                                |                18                 |
-| 15.   | [BoxDrawing.csv](#box-drawing)                                  | ASCII box drawing characters.                                                                          |                 8                 |
-| 16.   | [CapitalLetters.csv](#capital-letters)                          | Auto-capitalization of first letter in the first word like week days, month days, geographical names.  |                ~80                |
-| 17.   | [CircledNumbers.csv](#circled-numbers)                          | Unicode characters: numbers or letters inside of circles.                                              |                46                 |
-| 18.   | [DiacriticsDeadkey_Polish.csv](#diacritics-deadkey-polish)      | Demonstration of dead key hotstrings used to enter diacritic characters (actually Polish diacritics).  |                18                 |
-| 19.   | [DiacriticsHotstrings.csv](#diacritics-hotstrings)              | So called diacritics or accented letters not present in English.                                       |                ~25                |
-| 20.   | [EmojiHotstrings.csv](#emoji-hotstrings)                        | Unicode characters called emojis.                                                                      |                ~75                |
-| 21.   | [Examples_TestLib.csv](#examples-testlib)                       | Example and test definitions which check specific features of Hotstrings application.                  |                27                 |
-| 22.   | [FileFormats.csv](#file-formats)                                | File formats specific.                                                                                 |                44                 |
-| 23.   | [Finance.csv](#finance)                                         | Abbreviations and definitions dedicated to subject of finances.                                        |                30                 |
-| 24.   | [FirstNameCapitalizer.csv](#first-name-capitalizer)             | Replaces text string representing first name with first capitalized first letter.                      |                40                 |
-| 25.   | [FunctionKeys.csv](#function-keys)                              | Option to call function keys (or F keys): F1 ... F24 just by typing ordinary letters.                  |                36                 |
-| 26.   | [HotstringsHotstrings.csv](#hotstrings-hotstrings)              | Prepare triggerstring tips about hotstrings active for Hotstrings application.                         |                 9                 |
-| 27.   | [Incoterms.csv](#incoterms)                                     | Abbreviations and full definitions of Incoterms.                                                       |                24                 |
-| 28.   | [Markdown.csv](#markdown)                                       | Markdown lightweight markup language cheat sheet.                                                      |                15                 |
-| 29.   | [PersonalHotstringsTemplate.csv](#personal-hotstrings-template) | Personal hotstrings template.                                                                          |                13                 |
-| 30.   | [PhysicsHotstrings.csv](#physics-hotstrings)                    | Various unicode symbols more or less related to physics.                                               |                ~75                |
-| 31.   | [polski.csv](#polski)                                           | Mix of various subcategories such as abbrevitaions, "capital letters", Polish specific "auto correct". |                ~20                |
-| 32.   | [Punctuation.csv](#punctuation)                                 | Punctuation and non-breaking characters.                                                               |                ~20                |
-| 33.   | [TimeHotstrings](#time-hotstrings)                              | Definitions of time.                                                                                   |                22                 |
+| no. | library name                                                    | library description                                                                                    | no. of definitions within library |
+|:----|:----------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:---------------------------------:|
+| 1.  | (Typer Helper) DevanagariTyperHelper_VowelSet.csv               | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
+| 2.  | (Typer Helper) GreekSigmaHelper.csv                             | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
+| 3.  | (Typer Helper) GurmukhiTyperHelper_VowelSet.csv                 | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
+| 4.  | (Unicode Sender) Combining Diacritics.csv                       | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
+| 5.  | (Unicode Sender) Computer-Keys Symbols.csv                      | Helps type the symbols of world currencies.                                                            |                ???                |
+| 6.  | (Unicode Sender) Currency Symbols.csv                           | Helps type computer-keys symbols.                                                                      |                ???                |
+| 7.  | (Unicode Sender) Ligatures.csv                                  | Helps type computer-keys symbols.                                                                      |                ???                |
+| 8.  | (Unicode Sender) Mathematical (Needs Improvement).csv           | Helps type computer-keys symbols.                                                                      |                ???                |
+| 9.  | (Unicode Sender) Orthographic.csv                               | Helps type computer-keys symbols.                                                                      |                ???                |
+| 10. | (Unicode Sender) Roman Numerals.csv                             | Helps type computer-keys symbols.                                                                      |                ???                |
+|     |                                                                 |                                                                                                        |                                   |
+| 11. | [AbbreviationsEnglish.csv](#abbreviations-english)              | Acronyms / abbreviations typical for English language.                                                 |               ~550                |
+| 12. | [AutocompleteBrackets.csv](#autocomplete-brackets)              | Adds closing bracket and shifts cursor in between the brackets.                                        |                 5                 |
+| 13. | [AutoCorrect.csv](#auto-correct)                                | Hotstrings to correct common English misspellings on-the-fly.                                          |               4841                |
+| 14. | [AutoCorrectionHotstrings.csv](#auto-correction-hotstrings)     | Automatic corrections of mispelled words and couple more abbreviations.                                |                18                 |
+| 15. | [BoxDrawing.csv](#box-drawing)                                  | ASCII box drawing characters.                                                                          |                 8                 |
+| 16. | [CapitalLetters.csv](#capital-letters)                          | Auto-capitalization of first letter in the first word like week days, month days, geographical names.  |                ~80                |
+| 17. | [CircledNumbers.csv](#circled-numbers)                          | Unicode characters: numbers or letters inside of circles.                                              |                46                 |
+| 18. | [DiacriticsDeadkey_Polish.csv](#diacritics-deadkey-polish)      | Demonstration of dead key hotstrings used to enter diacritic characters (actually Polish diacritics).  |                18                 |
+| 19. | [DiacriticsHotstrings.csv](#diacritics-hotstrings)              | So called diacritics or accented letters not present in English.                                       |                ~25                |
+| 20. | [EmojiHotstrings.csv](#emoji-hotstrings)                        | Unicode characters called emojis.                                                                      |                ~75                |
+| 21. | [Examples_TestLib.csv](#examples-testlib)                       | Example and test definitions which check specific features of Hotstrings application.                  |                27                 |
+| 22. | [FileFormats.csv](#file-formats)                                | File formats specific.                                                                                 |                44                 |
+| 23. | [Finance.csv](#finance)                                         | Abbreviations and definitions dedicated to subject of finances.                                        |                30                 |
+| 24. | [FirstNameCapitalizer.csv](#first-name-capitalizer)             | Replaces text string representing first name with first capitalized first letter.                      |                40                 |
+| 25. | [FunctionKeys.csv](#function-keys)                              | Option to call function keys (or F keys): F1 ... F24 just by typing ordinary letters.                  |                36                 |
+| 26. | [HotstringsHotstrings.csv](#hotstrings-hotstrings)              | Prepare triggerstring tips about hotstrings active for Hotstrings application.                         |                 9                 |
+| 27. | [Incoterms.csv](#incoterms)                                     | Abbreviations and full definitions of Incoterms.                                                       |                24                 |
+| 28. | [Markdown.csv](#markdown)                                       | Markdown lightweight markup language cheat sheet.                                                      |                15                 |
+| 29. | [PersonalHotstringsTemplate.csv](#personal-hotstrings-template) | Personal hotstrings template.                                                                          |                13                 |
+| 30. | [PhysicsHotstrings.csv](#physics-hotstrings)                    | Various unicode symbols more or less related to physics.                                               |                ~75                |
+| 31. | [polski.csv](#polski)                                           | Mix of various subcategories such as abbrevitaions, "capital letters", Polish specific "auto correct". |                ~20                |
+| 32. | [Punctuation.csv](#punctuation)                                 | Punctuation and non-breaking characters.                                                               |                ~20                |
+| 33. | [TimeHotstrings](#time-hotstrings)                              | Definitions of time.                                                                                   |                22                 |
 
 Remarks:
 1. Only single definitions are counted. It means that if compound definition is present, then it is counted as one.
@@ -827,9 +827,8 @@ what saves some time on writing (two time less of Shift presses).
 
 ---
 <details>
-<summary>
-### **CompanySpecific.csv** <a name="technical-hotstrings"></a>
-</summary>
+
+### **<summary>CompanySpecific.csv</summary>** <a name="technical-hotstrings"></a>
 
 **Concept**: Collections of abbreviations, terms, definitions which are specific to one company.
 
