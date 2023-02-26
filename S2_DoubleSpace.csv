@@ -3,9 +3,9 @@ License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
 
 Author:		Maciej Słojewski (🐘), http://mslonik.pl
 
-Purpose:		Double pressing space replaces pressing dot and pressing space.
+Purpose:		Double pressing space is replaced by dot "." and space.
 
-Notes:		Can be combined with FirstCapital.csv. Then new sentence starts with capital letter.
+Notes:		Can be combined with FirstCapital.csv. Then new sentence starts with capital letter. But this library must be run in the first instance of *Hotstrings* and CapitalLetters.csv  must be run in the second instance of second instance of *Hotstrings*.
                S2 output function: the whole hotstring is fed back.
 
 Example:		–

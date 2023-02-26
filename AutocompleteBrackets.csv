@@ -12,6 +12,6 @@ Example:		–
 
 *B0‖(‖SI‖En‖){Left}‖
 *B0‖<‖SI‖En‖>{left}‖
-*B0‖[‖SI‖Dis‖]{Left}‖
-*‖[/‖SI‖En‖[]{Left}‖
+*B0‖[‖SI‖En‖]{Left}‖
+*‖[/‖SI‖Dis‖[]{Left}‖
 *B0‖{‖SI‖En‖{}}{Left}‖

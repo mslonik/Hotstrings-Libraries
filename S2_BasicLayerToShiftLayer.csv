@@ -11,12 +11,7 @@ S2 = all characters of hotstring are feed back as input to Hotstrings script.
 Example:		–
 */
 
-*?‖'/‖S2‖En‖"‖
-*?‖,/‖S2‖En‖<‖
-*?‖-\‖SI‖En‖_‖
-*?‖./‖S2‖En‖>‖
-*?‖//‖S2‖En‖?‖
-*?‖0\‖SI‖En‖)‖
+*?‖`\‖SI‖En‖~‖
 *?‖1\‖SI‖En‖{!}‖
 *?‖2\‖SI‖En‖@‖
 *?‖3\‖SI‖En‖{#}‖
@@ -26,7 +21,14 @@ Example:		–
 *?‖7\‖SI‖En‖&‖
 *?‖8\‖SI‖En‖*‖
 *?‖9\‖SI‖En‖(‖
-*?‖;/‖S2‖En‖:‖
+*?‖0\‖SI‖En‖)‖
+*?‖-\‖SI‖En‖_‖
 *?‖=\‖SI‖En‖{+}‖
+*?‖[\‖SI‖En‖{{}‖
+*?‖]\‖SI‖En‖{}}‖
 *?‖\\‖SI‖En‖|‖
-*?‖`\‖SI‖En‖~‖
+*?‖;/‖S2‖En‖:‖
+*?‖'/‖S2‖En‖"‖
+*?‖,/‖S2‖En‖<‖
+*?‖./‖S2‖En‖>‖
+*?‖//‖S2‖En‖?‖

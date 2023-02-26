@@ -5,7 +5,7 @@ Author:		Maciej Słojewski (🐘), http://mslonik.pl
 
 Purpose:		Auto capitalize first word in a sentence.
 
-Notes:		The definitions containted in this library overlap with other existing definitions. To truly solve this issue the definitions from within this library have to be recognized independently by separate hotstring recognizer. This task was released with "First Capital Hotstring" application available under the following link: https://github.com/mslonik/FirstCapital.
+Notes:		https://jacks-autohotkey-blog.com/2020/03/09/auto-capitalize-the-first-letter-of-sentences/
 
 Example:		–
 */

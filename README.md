@@ -1,19 +1,18 @@
-# Hotstrings-Libraries <a name="back-to-the-top"></a>
+# Hotstrings-Libraries <a name="back-to-the-top"></a> <!-- omit from toc -->
 
-Hotstring library is text file (*.csv) formatted to work with [*Hotstrings*](https://github.com/mslonik/Hotstrings) application, which is text replacement tool.
+Hotstring-library is text file (*.csv) formatted to work with [*Hotstrings*](https://github.com/mslonik/Hotstrings) application, which is text replacement tool.
 
-In this article there are described libraries belonging to the following cathegories:
+<br />
+<br />
+<br />
 
-# List of content
-
-- [Hotstrings-Libraries ](#hotstrings-libraries-)
-- [List of content](#list-of-content)
-  - [**The free library files** ](#the-free-library-files-)
-  - [**The not-free libraries** ](#the-not-free-libraries-)
-  - [List of free "second instance" library files ](#list-of-free-second-instance-library-files-)
-  - [Where libraries are stored?](#where-libraries-are-stored)
-  - [Text replacement format and naming convention ](#text-replacement-format-and-naming-convention-)
-  - [Library file format ](#library-file-format-)
+# List of content <!-- omit from toc -->
+1. [**The free library files** ](#the-free-library-files-)
+1. [**The not-free libraries** ](#the-not-free-libraries-)
+1. [**List of free "second instance" library files** ](#list-of-free-second-instance-library-files-)
+1. [Where libraries are stored?](#where-libraries-are-stored)
+1. [Text replacement format and naming convention ](#text-replacement-format-and-naming-convention-)
+1. [Library file format ](#library-file-format-)
 
 <br />
 <br />
@@ -56,10 +55,30 @@ In this article there are described libraries belonging to the following cathego
 | 30. | [PhysicsHotstrings.csv](#physics-hotstrings)                    | Various unicode symbols more or less related to physics.                                               |                ~75                |
 | 31. | [polski.csv](#polski)                                           | Mix of various subcategories such as abbrevitaions, "capital letters", Polish specific "auto correct". |                ~20                |
 | 32. | [Punctuation.csv](#punctuation)                                 | Punctuation and non-breaking characters.                                                               |                ~20                |
-| 33. | [TimeHotstrings](#time-hotstrings)                              | Definitions of time.                                                                                   |                22                 |
+| 33.  | [S2_DoubleSpace.csv](#s2-double-space)                       | Double pressing of 2x space key converted into dot and space.                                                    |         26         |
+| 34.  | [S2_DoubleSpace_Polish.csv](#s2-double-space-polish)         | Enables pressing of 2x space key converted into dot and space also for words finished with Polish diacritic.     |         9          |
+| 35. | [TimeHotstrings](#time-hotstrings)                              | Definitions of time.                                                                                   |                22                 |
 
 Remarks:
 1. Only single definitions are counted. It means that if compound definition is present, then it is counted as one.
+
+2. Sooner or later collection of definitions is so large that definitions start to overlap. 
+
+It is possible to run second instance of *Hotstrings* application with separate set of libraries. This trick helps to overcome overlapping of definitions which are present in the first instance. In order to run second instance please remeber to change name of the script or executable into something different. For example, the first (default) instance: *Hotstrings.ahk*, the second instance: *Hotstrings2.ahk*. There are two additional requirements: 
+
+   1. Make sure the second instance is always run as the second (e.g. force it in "Startup" folder).
+   1. Please mind to keep libraries of second instance into separate "Libraries" folder.
+
+Another trick is to make exchange between both instances of *Hotstrings* application. To make it possible to some degree part or all of the hotstring definition is fed back to input hook buffer. Then what is produced by the first instance of *Hotstrigns* application is feed back to the second instance. Input hook buffer is a buffer feed with characters entered by user (physical key presses).
+
+To make it possible there are available new categories of libraries:
+
+- S1: Unique feature: last character of hotstring will be fed back to input hook buffer. Name of library file must start with "S1_", "output function" for all definitions within this file must be S1. 
+- S2: Unique feature: last character of hotstring will be fed back to input hook buffer. Name of library file must start with "S2_", "output function" for all definitions within this file must be S2.
+
+At the moment there is no way to choose S1 or S2 "output functions" from GUI of *Hotstrings* application. The only way is manual edition of library files. But there are also good news. You can simply run second instance with already prepared libraries from the following table. Advice: switch off triggerstring tips at least for all S2 libraries.
+
+
 
 [Back to the top](#back-to-the-top)
 <br />
@@ -676,6 +695,68 @@ cat dog
 
 ---
 <details>
+<summary><h3><b>S2_DoubleSpace.csv</b></h3></summary> <a name="s2-double-space"></a>
+
+**Author**:		Maciej Słojewski
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   When \<space> is pressed twice, it is replaced with dot "." and followed by \<space>. If this library is combined with "S2_FirstCapital.csv" then also capitalization of next entered character takes place automatically. But to gest this effect this library must be run in the first instance of *Hotstrings* and CapitalLetters.csv  must be run in the second instance of second instance of *Hotstrings*. This functionality is "borrowed" from mobile phones operating systems. 
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
+|             a\<space>\<space>            | → |            *B0?            | → | {BS 2}. ` |       S2        |
+
+If you enter "home\<space>\<space>f" and only "S2_DoubleSpace.csv" library is enabled, it is replaced into:
+```
+home. f
+```
+If you enter "home\<space>\<space>f" and "S2_DoubleSpace.csv" is enabled in the first instance of *Hotstrings* and "S2_FirstCapital.csv" library is enabled in the second instance of *Hotstrings* (e.g. *Hotstrings2.ahk*), it is replaced into:
+```
+home. F
+```
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+<details>
+<summary><h3><b>S2_DoubleSpace_Polish.csv</b></h3></summary> <a name="s2-double-space-polish"></a>
+
+**Author**:		Maciej Słojewski
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Double space functionality for Polish diacritic letters. In other words if a word is finished with Polish diacritic character and followed by two spaces, then they are replaced with dot "." and single space. If this library is combined with "S2_FirstCapital.csv" then also capitalization of next entered character takes place automatically. But to gest this effect this library must be run in the first instance of *Hotstrings* and CapitalLetters.csv  must be run in the second instance of second instance of *Hotstrings*. This functionality is "borrowed" from mobile phones operating systems. 
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
+|             ą\<space>\<space>            | → |            *B0?            | → | {BS 2}. ` |       S2        |
+
+If you enter "jaką\<space>\<space>f" and only "S2_DoubleSpace.csv" library is enabled, it is replaced into:
+```
+jaką. f
+```
+If you enter "home\<space>\<space>f" and "S2_DoubleSpace.csv" is enabled in the first instance of *Hotstrings* and "S2_FirstCapital.csv" library is enabled in the second instance of *Hotstrings* (e.g. *Hotstrings2.ahk*), it is replaced into:
+```
+jaką. F
+```
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+
+<details>
 <summary><h3><b>TimeHotstrings.csv</b></h3></summary> <a name="time-hotstrings"></a>
 
 **Author**:		Maciej Słojewski
@@ -913,32 +994,16 @@ what saves some time on writing (two time less of Shift presses).
 
 ---
 
-## List of free "second instance" library files <a name="free-second-instance"></a>
-
-Sooner or later collection of definitions is so large that definitions start to overlap. 
-
-It is possible to prepare hotstrings, which will detect end of a sentence. In many languages sentences are finished with such characters as ".", "?", "!". New sentence usually is also started after pressing of "enter". Then it is enough to start next word with capital letter. Many text editors have in-build such functionality, many do not. This feature is called "first capital".
-
-It is possible to run second instance of *Hotstrings* application with separate set of libraries. This trick helps to overcome overlapping of definitions which are present in the first instance. In order to run second instance please remeber to change name of the script or executable into something different. For example, the first (default) instance: *Hotstrings.ahk*, the second instance: *Hotstrings2.ahk*. Please also mind to keep libraries of second instance into separate folder.
-
-Another trick which is necessary to enable "first capital" is to feed back characters produced by hotstring definitions back to hook buffer. Thanks to that produced hotstrings can be again part of new created triggerstring, which in a moment can trigger another hotstring. To make it possible there are new categories of libraries:
-
-- S1: Unique feature: last character of hotstring will be fed back to hook buffer. Name of library file must start with "S1_", "output function" for all definitions within this file must be S1. 
-- S2: Unique feature: last character of hotstring will be fed back to hook buffer. Name of library file must start with "S2_", "output function" for all definitions within this file must be S2.
-
-At the moment there is no way to choose S1 or S2 "output functions" from GUI of *Hotstrings* application. The only way is manual edition of library files. But there are also good news. You can simply run second instance with already prepared libraries from the following table. Advice: switch off triggerstring tips at least for all S2 libraries.
+## **List of free "second instance" library files** <a name="free-second-instance"></a>
 
 | no. | library name                                                 | library description                                                                                              | no. of definitions |
 |:----|:-------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:------------------:|
 | 1.  | [Exceptions.csv](#exceptions)                                | Exceptions to "first instance".                                                                                  |         1          |
 | 2.  | [FirstCapitalExceptions.csv](#first-capital-exceptions)      | Because of overlapping between Hotstring instances some definitions have to be shifted to separate library file. |         23         |
 | 3.  | [S2_BasicLayerToShiftLayer.csv](#basic-layer-to-shift-layer) | Method to get characters from the Shift layer without using Shift keys.                                          |         19         |
-| 4.  | [S2_DoubleSpace.csv](#s2-double-space)                       | Double pressing of 2x space key converted into dot and space.                                                    |         26         |
-| 5.  | [S2_DoubleSpace_Polish.csv](#s2-double-space-polish)         | Enables pressing of 2x space key converted into dot and space also for words finished with Polish diacritic.     |         9          |
-| 6.  | [S2_FirstCapital.csv](#s2-first-capital)                     | When sentence is finished with . or ! or ? or \<Enter\> then next word is started with capital letter.           |        104         |
-| 7.  | [S2_LayerKeys.csv](#s2-layer-keys)                           | Sends back some special characters, which can be used to control Hotstrings application.                         |         3          |
-
-**TOTAL**: 185 (last checked on: 2023-02-25)
+| 4.  | [S2_FirstCapital.csv](#s2-first-capital)                     | When sentence is finished with . or ! or ? or \<Enter\> then next word is started with capital letter.           |        104         |
+| 5.  | [S2_LayerKeys.csv](#s2-layer-keys)                           | Sends back some special characters, which can be used to control Hotstrings application.                         |         3          |
+| | | **TOTAL**: (last checked on: 2023-02-26) | 150  |
 
 Remarks:
 1. Only single definitions are counted. It means that if compound definition is present, then it is counted as one.
@@ -949,9 +1014,156 @@ Remarks:
 <br />
 
 ---
+<details>
+<summary><h3><b>Exceptions.csv</b></h3></summary> <a name="exceptions"></a>
+
+**Author**:		Maciej Słojewski
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Exceptions which are dependent on the first instance of *Hotstrings* application.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
+|           (-:            | → |            *            | → | 🙃{Del} |       SI        |
+
+If you enter "(" it is replaced into:
+```
+()
+```
+by the first instance of *Hotstrings* application (library "EmojiHotstrings.csv"). The library "EmojiHotstrings.csv" will not feed back any characters (this is not S1 or S2 library). Therefore if I continue and enter "(–:" it is replaced into:
+```
+🙃
+```
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+<details>
+<summary><h3><b>FirstCapitalExceptions.csv</b></h3></summary> <a name="first-capital-exceptions"></a>
+
+**Author**:		Maciej Słojewski
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   There are abbreviations which are finished with dot "." but after it is allowed to continue without capitalization. Even more, capitalization is seen as improper. What those definitios actually do is reset of input hook buffer.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
+|           np.            | → |            *B0Z            | → |  |       SI        |
+
+If you enter the triggerstring "np.", the input hook buffer gets ready to trigger another hotstring, starting with dot. This definition is shorter and resets input hook buffer, so there is no longer to trigger any definition from within "FirstCapital.csv".
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+<details>
+<summary><h3><b>S2_BasicLayerToShiftLayer.csv</b></h3></summary> <a name="basic-layer-to-shift-layer"></a>
+
+**Author**:		Maciej Słojewski
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Quest is to get non-alpha characters from the shift-layer without pressing \<Shift> keys.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
+|           [\            | → |            *?            | → | {{} |       SI        |
+
+If you enter "[\" it is replaced into:
+```
+{
+```
+
+Remarks:
+- "{" is a special character for SI output function, it requires escaping. Therefore "{{}".
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+
+<details>
+<summary><h3><b>S2_FirstCapital.csv</b></h3></summary> <a name="s2-first-capital"></a>
+
+**Author**:		Maciej Słojewski
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Quest to auto-capitalize the first letter of sentence.
+
+It is possible to prepare hotstrings, which will detect end of a sentence. In many languages sentences are finished with such characters as ".", "?", "!". New sentence usually is also started after pressing of "enter". Then it is enough to start next word with capital letter. Many text editors / text fields have in-build such functionality, many do not. This feature is called "first capital".
+
+Inspiration comes from this article:
+https://jacks-autohotkey-blog.com/2020/03/09/auto-capitalize-the-first-letter-of-senten
+It will never run perfectly, because AutoHotkey doesn't know the context: if cursor is at the beginning, middle, end of sentence of paragraph. All what AutoHotkey is able to achieve is to "observe" stream of characters entered by user. So in particular such actions like switching between different parts of interface will be unnoticed.
+For vast majority of applications it works as expected. In particular it is useful in text messengers or any other text edit fields which do not observe context.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
+|           . a            | → |            *CB0?            | → | {BS}A |       S2        |
+
+If you enter "I'm back. a" it is replaced into:
+```
+I'm back. A
+```
+
+Remarks:
+- Note the "S2" output function. It must be the same as prefix of library filename.
+- Works with the following set of characters at the end: "!", "?", "." and "\<enter>". 
+- The trick which can be applied in many text messengers that they filter out the first "dummy" press of \<enter>. So if you wish to start the first sentence capitalized just press \<enter>.
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+
+<details>
+<summary><h3><b>S2_LayerKeys.csv</b></h3></summary> <a name="s2-layer-keys"></a>
+
+**Author**:		Maciej Słojewski
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Definitions which can be used to run specific hotkeys for Hotstring application.
+For example Hotstrings application is configured by user to switch triggerstring tips when ScrollLock is pressed, even if ScrollLock is not available on specific keyboard, this hotstring still can be run and it will activate Hotstrings application. Works only for *?\<NumLock>, \<ScrollLock> and \<CapsLock>.
+
+**Example**:
+Entering "numlock/" → "NumLock" key will be pressed even if it is not physically available on particular keyboard. If "NumLock" is configured as a hotstring for *Hotstring* application, then it will be interpreted accordingly.
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
 ## Where libraries are stored?
 
-As it was already mentioned, the library file can caontain fragile / protected in law data. Therefore such files should be protected against public access. The basic way to accomplish this task is to store library files within <UserData>: 
+As it was already mentioned, the library file can caontain fragile / protected in law data. Therefore such files should be protected against public access. The basic way to accomplish this task is to store library files within \<UserData>: 
+
 [Back to the top](#back-to-the-top)
 <br />
 <br />
@@ -963,6 +1175,7 @@ As it was already mentioned, the library file can caontain fragile / protected i
 |   text to be replaced   | → |   replacement options   | → | replaced text |      output function      |
 |:-----------------------:|:-:|:-----------------------:|:-:|:-------------:|:-------------------------:|
 | triggerstring + trigger | → | (triggerstring) options | → |   hotstring   | how hotstring is produced |
+
 [Back to the top](#back-to-the-top)
 <br />
 <br />
