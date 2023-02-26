@@ -1,0 +1,198 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Based on library "(Unicode Sender) Orthographic.csv" with typomatic convention of my hotstrings.
+
+Notes:		Reviewed, verified, supplemented and corrected on 2023-02-26.
+
+Example:		centigrade/ -> ℃
+*/
+
+*C1?Z‖apostrophe/‖SI‖En‖ʼ‖modifier letter apostrophe (U+02BC)
+*C1?Z‖okina/‖SI‖En‖ʻ‖modifier letter turned comma (U+02BB)
+*C1?Z‖saltillo/‖SI‖En‖ꞌ‖latin small letter saltillo (U+A78C)
+*C1?Z‖saltillocapital/‖SI‖En‖Ꞌ‖latin capital letter saltillo (U+A78B)
+
+*C1?Z‖glottalstop/‖SI‖En‖ʔ‖latin letter glottal stop (U+0294)
+*C1?Z‖glottalstopcapital/‖SI‖En‖Ɂ‖latin capital letter glottal stop (U+0241)
+
+*C1?Z‖prime/‖SI‖En‖′‖prime (U+2032)
+*C1?Z‖primedouble/‖SI‖En‖″‖double prime (U+2033)
+*C1?Z‖primetriple/‖SI‖En‖‴‖triple prime (U+2034)
+*C1?Z‖primequadruple/‖SI‖En‖⁗‖quadruple prime (U+2057)
+
+*C1?Z‖asterism‖SI‖En‖⁂‖asterism (U+2042)
+*C1?Z‖lowasterisk/‖SI‖En‖⁎‖low asterisk (U+204E)
+*C1?Z‖doubleasterisk/‖SI‖En‖⁑‖two asterisks aligned vertically (U+2051)
+*C1?Z‖heavyasterisk/‖SI‖En‖✱‖heavy asterisk (U+2731)
+
+*C1?Z‖estimatesign/‖SI‖En‖℮‖estimated symbol (U+212E)
+*C1?Z‖estimatesymbol/‖SI‖En‖℮‖estimated symbol (U+212E)
+*C1?Z‖estimatedsymbol/‖SI‖En‖℮‖estimated symbol (U+212E)
+
+*C1?Z‖degree/‖SI‖En‖°‖degree sign (U+00B0)
+
+*C1?Z‖notsign/‖SI‖En‖¬‖not sign (U+00AC)
+
+*C1?Z‖celsius/‖SI‖En‖℃‖degree celsius (U+2103)
+*C1?Z‖centigrade/‖SI‖En‖℃‖degree celsius (U+2103)
+*C1?Z‖fahrenheit/‖SI‖En‖℉‖degree fahrenheit (U+2109)
+*C1?Z‖kelvin/‖SI‖En‖K‖kelvin sign (U+212A)
+
+*C1?Z‖ellipsis/‖SI‖En‖…‖horizontal ellipsis (U+2026)
+*C1?Z‖hyphenationpoint/‖SI‖En‖‧‖hyphenation point (U+2027)
+*C1?Z‖interpunctus/‖SI‖En‖·‖middle dot (U+00B7)
+*C1?Z‖interpoint/‖SI‖En‖·‖middle dot (U+00B7)
+*C1?Z‖middledot/‖SI‖En‖·‖middle dot (U+00B7)
+*C1?Z‖centerdot/‖SI‖En‖·‖middle dot (U+00B7)
+*C1?Z‖centereddot/‖SI‖En‖·‖middle dot (U+00B7)
+*C1?Z‖doubleperiod/‖SI‖En‖‥‖two dot leader (U+2025)
+
+*C1?Z‖doubleverticalline/‖SI‖En‖{U+2016}‖double vertical line (U+2016)
+*C1?Z‖mediumverticalbar/‖SI‖En‖❙‖medium vertical bar (U+2759)
+*C1?Z‖brokenbar/‖SI‖En‖{U+00A6}‖broken bar (U+00A6)
+*C1?Z‖zigzag/‖SI‖En‖⦚‖vertical zigzag line (U+299A)
+*C1?Z‖zigzagline/‖SI‖En‖⦚‖vertical zigzag line (U+299A)
+
+*C1?Z‖dagger/‖SI‖En‖†‖dagger (U+2020)
+*C1?Z‖cross/‖SI‖En‖†‖dagger (U+2020)
+*C1?Z‖daggerdouble/‖SI‖En‖‡‖double dagger (U+2021)
+*C1?Z‖sectionsign/‖SI‖En‖§‖section sign (U+00A7)
+*C1?Z‖sectionsignhalf/‖SI‖En‖⸹‖top half section sign (U+2E39)
+*C1?Z‖manicule/‖SI‖En‖☞‖white right pointing index (U+261E)
+*C1?Z‖maniculeblack/‖SI‖En‖☛‖black right pointing index (U+261B)
+
+*C1?Z‖pilcrow/‖SI‖En‖¶‖pilcrow sign (U+00B6)
+*C1?Z‖paragraphsign/‖SI‖En‖¶‖pilcrow sign (U+00B6)
+*C1?Z‖capitulum/‖SI‖En‖⸿‖capitulum (U+2E3F)
+
+*C1?Z‖paragraphend/‖SI‖En‖∎‖end of proof (U+220E)
+*C1?Z‖endofproof/‖SI‖En‖∎‖end of proof (U+220E)
+
+*C1?Z‖euconformity/‖SI‖En‖ϹⲈ‖(U+03F9) + (U+2C88)
+*C1?Z‖conformiteeuropean/‖SI‖En‖ϹⲈ‖(U+03F9) + (U+2C88)
+
+*C1?Z‖registered/‖SI‖En‖®‖registered sign (U+00AE)
+*C1?Z‖registeredsign/‖SI‖En‖®‖registered sign (U+00AE)
+*C1?Z‖copyright/‖SI‖En‖©‖copyright sign (U+00A9)
+*C1?Z‖copyrightsign/‖SI‖En‖©‖copyright sign (U+00A9)
+*C1?Z‖trademark/‖SI‖En‖™‖trade mark sign (U+2122)
+*C1?Z‖trademarksign/‖SI‖En‖™‖trade mark sign (U+2122)
+
+*C1?Z‖hyphen/‖SI‖En‖‐‖hyphen (U+2010)
+*C1?Z‖hyphennonbreaking/‖SI‖En‖{U+2011}‖non-breaking hyphen (U+2011)
+*C1?Z‖hyphennon-breaking/‖SI‖En‖{U+2011}‖non-breaking hyphen (U+2011)
+
+*C1?Z‖endash/‖SI‖En‖–‖en dash (U+2013)
+*C1?Z‖emdash/‖SI‖En‖—‖em dash (U+2014)
+*C1?Z‖emdashtwo/‖SI‖En‖⸺‖two-em dash (U+2E3A)
+*C1?Z‖emdashthree/‖SI‖En‖⸻‖three-em dash (U+2E3B)
+*C1?Z‖hyphendouble/‖SI‖En‖⸗‖double oblique hyphen (U+2E17)
+*C1?Z‖ditto/‖SI‖En‖〃‖ditto mark (U+3003)
+*C1?Z‖dittomark/‖SI‖En‖〃‖ditto mark (U+3003)
+*C1?Z‖micro/‖SI‖En‖µ‖micro sign (U+00B5)
+*C1?Z‖microsign/‖SI‖En‖µ‖micro sign (U+00B5)
+*C1?Z‖ohm/‖SI‖En‖Ω‖ohm sign (U+2126)
+*C1?Z‖ohmsign/‖SI‖En‖Ω‖ohm sign (U+2126)
+*C1?Z‖ohmsymbol/‖SI‖En‖Ω‖ohm sign (U+2126)
+*C1?Z‖ohmreverse/‖SI‖En‖℧‖inverted ohm sign (U+2127)
+*C1?Z‖ohmsignreverse/‖SI‖En‖℧‖inverted ohm sign (U+2127)reverse
+*C1?Z‖ohmsymbolreverse/‖SI‖En‖℧‖inverted ohm sign (U+2127)
+*C1?Z‖ohminverted/‖SI‖En‖℧‖inverted ohm sign (U+2127)
+*C1?Z‖ohmsigninverted/‖SI‖En‖℧‖inverted ohm sign (U+2127)
+*C1?Z‖ohmsymbolinverted/‖SI‖En‖℧‖inverted ohm sign (U+2127)
+*C1?Z‖checkmark/‖SI‖En‖✓‖check mark (U+2713)
+*C1?Z‖xmark/‖SI‖En‖✗‖ballot x (U+2717)
+*C1?Z‖ballotx/‖SI‖En‖✗‖ballot x (U+2717)
+*C1?Z‖ballotmark/‖SI‖En‖✗‖ballot x (U+2717)
+*C1?Z‖masculineordinal/‖SI‖En‖º‖masculine ordinal indicator (U+00BA)
+*C1?Z‖feminineordinal/‖SI‖En‖ª‖feminine ordinal indicator (U+00AA)
+*C1?Z‖roughbreathing/‖SI‖En‖{U+0314}‖combining reversed comma above (U+0314)
+*C1?Z‖smoothbreathing/‖SI‖En‖{U+1FBF}‖greek psili (U+1FBF)
+*C1?Z‖bullet/‖SI‖En‖•‖bullet (U+2022)
+*C1?Z‖bullethyph/‖SI‖En‖⁃‖hyphen bullet (U+2043)
+*C1?Z‖bullettriangular/‖SI‖En‖‣‖triangular bullet (U+2023)
+*C1?Z‖bullettriangle/‖SI‖En‖‣‖triangular bullet (U+2023)
+*C1?Z‖leftarrow/‖SI‖En‖←‖leftwards arrow (U+2190)
+*C1?Z‖uparrow/‖SI‖En‖↑‖upwards arrow (U+2191)
+*C1?Z‖rightarrow/‖SI‖En‖→‖rightwards arrow (U+2192)
+*C1?Z‖downarrow/‖SI‖En‖↓‖downwards arrow (U+2193)
+*C1?Z‖careof/‖SI‖En‖℅‖care of (U+2105)
+*C1?Z‖cadauna/‖SI‖En‖℆‖cada una (U+2106)
+*C1?Z‖numero/‖SI‖En‖№‖numero sign (U+2116)
+*C1?Z‖numerosign/‖SI‖En‖№‖numero sign (U+2116)
+
+*C1?Z‖tie/‖SI‖En‖⁀‖character tie (U+2040)
+*C1?Z‖tieunder/‖SI‖En‖‿‖undertie (U+203F)
+*C1?Z‖tieunderinverted/‖SI‖En‖⁔‖inverted undertie (U+2054)
+*C1?Z‖tieunderreverse/‖SI‖En‖⁔‖inverted undertie (U+2054)
+*C1?Z‖dottedcircle/‖SI‖En‖◌‖dotted circle (U+25CC)
+*C1?Z‖dottedsquare/‖SI‖En‖⬚‖dotted square (U+2B1A)
+*C1?Z‖uncertaintysign/‖SI‖En‖⯑‖uncertainty sign (U+2BD1)
+*C1?Z‖overline/‖SI‖En‖‾‖overline (U+203E)
+*C1?Z‖topline/‖SI‖En‖‾‖overline (U+203E)
+*C1?Z‖referencemark/‖SI‖En‖※‖reference mark (U+203B)
+*C1?Z‖crossdotted/‖SI‖En‖⁜‖dotted cross (U+205C)
+*C1?Z‖currencysign/‖SI‖En‖※‖currency sign (U+00A4)
+*C1?Z‖centsign/‖SI‖En‖¢‖cent sign (U+00A2)
+*C1?Z‖poundsign/‖SI‖En‖£‖pound sign (U+00A3)
+*C1?Z‖yensign/‖SI‖En‖¥‖yen sign (U+00A5)
+*C1?Z‖eurosign/‖SI‖En‖€‖euro sign (U+20AC)
+*C1?Z‖nobreakspace/‖SI‖En‖{U+00A0}‖no-break space (U+00A0)
+*C1?Z‖nonbreakingspace/‖SI‖En‖{U+00A0}‖no-break space (U+00A0)
+*C1?Z‖non-breakingspace/‖SI‖En‖{U+00A0}‖no-break space (U+00A0)
+*C1?Z‖hairspace/‖SI‖En‖{U+200A}‖hair space (U+200A)
+*C1?Z‖thinspace/‖SI‖En‖{U+2009}‖thin space (U+2009)
+*C1?Z‖enspace/‖SI‖En‖{U+2002}‖en space (U+2002)
+*C1?Z‖emspace/‖SI‖En‖{U+2003}‖em space (U+2003)
+*C1?Z‖tab/‖SI‖En‖{U+0009}‖character tabulation (U+0009)
+*C1?Z‖tabulation/‖SI‖En‖{U+0009}‖character tabulation (U+0009)
+*C1?Z‖paragraphstart/‖SI‖En‖{U+0009}‖character tabulation (U+0009)
+*C1?Z‖triangularcolon/‖SI‖En‖ː‖modifier letter triangular colon (U+02D0)
+*C1?Z‖trianglecolon/‖SI‖En‖ː‖modifier letter triangular colon (U+02D0)
+‍*C1?Z‖triangularcolonhalf/‖SI‖En‖ˑ‖modifier letter half triangular colon (U+02D1)
+*C1?Z‖trianglecolonhalf/‖SI‖En‖ˑ‖modifier letter half triangular colon (U+02D1)
+*C1?Z‖tricolon/‖SI‖En‖⁝‖tricolon (U+205D)
+*C1?Z‖triplecolon/‖SI‖En‖⁝‖tricolon (U+205D)
+*C1?Z‖quadcolon/‖SI‖En‖⁞‖vertical four dots (U+205E)
+*C1?Z‖quadruplecolon/‖SI‖En‖⁞‖vertical four dots (U+205E)
+*C1?Z‖interrobang/‖SI‖En‖‽‖interrobang (U+203D)
+*C1?Z‖interabang/‖SI‖En‖‽‖interrobang (U+203D)
+*C1?Z‖invertedquestion/‖SI‖En‖¿‖inverted question mark (U+00BF)
+*C1?Z‖invertedquestionmark/‖SI‖En‖¿‖inverted question mark (U+00BF)
+*C1?Z‖upsidedownquestion/‖SI‖En‖¿‖inverted question mark (U+00BF)
+*C1?Z‖upsidedownquestionmark/‖SI‖En‖¿‖inverted question mark (U+00BF)
+*C1?Z‖invertedexclamation/‖SI‖En‖¡‖inverted exclamation mark (U+00A1)
+*C1?Z‖invertedexclamationmark/‖SI‖En‖¡‖inverted exclamation mark (U+00A1)
+*C1?Z‖upsidedownexclamation/‖SI‖En‖¡‖inverted exclamation mark (U+00A1)
+*C1?Z‖upsidedownexclamationmark/‖SI‖En‖¡‖inverted exclamation mark (U+00A1)
+*C1?Z‖doublequestion/‖SI‖En‖⁇‖double question mark (U+2047)
+*C1?Z‖doublequestionmark/‖SI‖En‖⁇‖double question mark (U+2047)
+*C1?Z‖questionexclamation/‖SI‖En‖⁈‖question exclamation mark (U+2048)
+*C1?Z‖questionexclamationmark/‖SI‖En‖⁈‖question exclamation mark (U+2048)
+
+*C1?Z‖quotationheavydouble/‖SI‖En‖❝❞{left 1}‖Heavy Double Turned Comma Quotation Mark Ornament (U+275D)(U+275E)
+*C1?Z‖quotationheavysingle/‖SI‖En‖❛❜{left 1}‖Heavy Single Turned Comma Quotation Mark Ornament (U+275B)(U+275C)
+*C1?Z‖quotationmarks/‖SI‖En‖“”{left 1}‖Double Quotation Mark open-close (U+201C) (U+201D)
+*C1?Z‖quotationmarkssingle/‖SI‖En‖‘’{left 1}‖single quotation marks open-close (U+2018) (U+2019)
+*C1?Z‖quotationmarksdoublelowhigh/‖SI‖En‖⹂“{left 1}‖Double -9 Quotation Mark low-high (U+2E42) (U+201C)
+*C1?Z‖quotationmarksdoublereversed/‖SI‖En‖„‟{left 1}‖double reversed-9 quotation mark low-high (U+201E)(U+201F)
+*C1?Z‖parentheses/‖SI‖En‖(){left 1}‖parentheses open-close
+*C1?Z‖parenthesis/‖SI‖En‖(){left 1}‖parentheses open-close
+*C1?Z‖parenthesises/‖SI‖En‖(){left 1}‖parentheses open-close
+*C1?Z‖roundbrackets/‖SI‖En‖(){left 1}‖parentheses open-close
+*C1?Z‖squarebrackets/‖SI‖En‖[]{left 1}‖brackets open-close
+*C1?Z‖curlybrackets/‖SI‖En‖{}{left 1}‖curly brackets open-close
+*C1?Z‖strings/‖SI‖En‖""{left 1}‖strings open-close
+*C1?Z‖singlestrings/‖SI‖En‖''{left 1}‖strings open-close
+*C1?Z‖guillemets/‖SI‖En‖«»{left 1}‖guillemets open-close (U+00AB) (U+00BB)
+*C1?Z‖singleguillemets/‖SI‖En‖‹›{left 1}‖chevrons open-close (U+2039) (U+203A)
+*C1?Z‖chevrons/‖SI‖En‖‹›{left 1}‖chevrons open-close (U+2039) (U+203A)
+*C1?Z‖anglebrackets/‖SI‖En‖‹›{left 1}‖Single Angle Quotation Mark (U+2039) (U+203A)
+*C1?Z‖angleheavybrackets/‖SI‖En‖❮❯{left 1}‖Heavy Angle Quotation Mark Ornament (U+276E) (U+276F)
+*C1?Z‖angleheavyornamentbrackets/‖SI‖En‖❰❱{left 1}‖Heavy Angle Bracket Ornament (U+2770) (U+2771)
+*C1?Z‖angledbrackets/‖SI‖En‖⟨⟩{left 1}‖angle brackets open-close (U+2329) (U+232A)
+*C1?Z‖doubleanglebrackets/‖SI‖En‖《》{left 1}‖double angle brackets open-close (U+300A) (U+300B)
+*C1?Z‖doubleangledbrackets/‖SI‖En‖《》{left 1}‖double angle brackets open-close (U+300A) (U+300B)

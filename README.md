@@ -30,8 +30,10 @@ Hotstring-library is text file (*.csv) formatted to work with [*Hotstrings*](htt
 | 6.  | (Unicode Sender) Currency Symbols.csv                           | Helps type computer-keys symbols.                                                                      |                ???                |
 | 7.  | (Unicode Sender) Ligatures.csv                                  | Helps type computer-keys symbols.                                                                      |                ???                |
 | 8.  | (Unicode Sender) Mathematical (Needs Improvement).csv           | Helps type computer-keys symbols.                                                                      |                ???                |
-| 9.  | (Unicode Sender) Orthographic.csv                               | Helps type computer-keys symbols.                                                                      |                ???                |
+| 9.  | (Unicode Sender) Orthographic.csv                               | Helps type computer-keys symbols.                                                                      |                165                |
 | 10. | (Unicode Sender) Roman Numerals.csv                             | Helps type computer-keys symbols.                                                                      |                ???                |
+|     |                                                                 |                                                                                                        |                                   |
+| 9 . | Orthographic.csv                                                | Collection of Unicode characters related to ortography. Based on (Unicode Sender) Orthographic.csv.    |                168                |
 |     |                                                                 |                                                                                                        |                                   |
 | 11. | [AbbreviationsEnglish.csv](#abbreviations-english)              | Acronyms / abbreviations typical for English language.                                                 |               ~550                |
 | 12. | [AutocompleteBrackets.csv](#autocomplete-brackets)              | Adds closing bracket and shifts cursor in between the brackets.                                        |                 5                 |
@@ -58,9 +60,9 @@ Hotstring-library is text file (*.csv) formatted to work with [*Hotstrings*](htt
 | 33.  | [S2_DoubleSpace.csv](#s2-double-space)                       | Double pressing of 2x space key converted into dot and space.                                                    |         26         |
 | 34.  | [S2_DoubleSpace_Polish.csv](#s2-double-space-polish)         | Enables pressing of 2x space key converted into dot and space also for words finished with Polish diacritic.     |         9          |
 | 35. | [TimeHotstrings](#time-hotstrings)                              | Definitions of time.                                                                                   |                22                 |
-
+| | | **TOTAL**: (last checked on: 2023-02-26) | ~6244  |
 Remarks:
-1. Only single definitions are counted. It means that if compound definition is present, then it is counted as one.
+1. Only triggerstring definitions are counted. It means that if compound definition is present (single triggerstring -> multiple hotstrings), then it is counted as one.
 
 2. Sooner or later collection of definitions is so large that definitions start to overlap. 
 
