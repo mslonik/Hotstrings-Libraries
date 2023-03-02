@@ -9,12 +9,12 @@ Notes:		All the hotsrings start from "hs" and have "immediate execute" (*)  feat
 
 Example:		hshelp/
 */
-*‖hsenable/‖SI‖En‖‖enable triggerstrings tips and hotstrings
-*‖hsexit/‖SI‖En‖‖exit Hotstrings application
-*‖hshelp/‖SI‖En‖‖run web browser, enter Hotstrings webpage
-*‖hsreload/‖SI‖En‖‖reload Hotstrings application
-*‖hsrestart/‖SI‖En‖‖reload Hotstrings application
-*‖hsstats/‖SI‖En‖‖show application statistics
-*‖hsstop/‖SI‖En‖‖exit Hotstrings application
-*‖hssuspend/‖SI‖En‖‖suspend triggerstrings tips and hotstrings
-*‖hstoggle/‖SI‖En‖‖toggle triggerstrings tips and hotstrings
+Z*‖hsenable/‖SI‖En‖‖enable triggerstrings tips and hotstrings
+Z*‖hsexit/‖SI‖En‖‖exit Hotstrings application
+Z*‖hshelp/‖SI‖En‖‖run web browser, enter Hotstrings webpage
+Z*‖hsreload/‖SI‖En‖‖reload Hotstrings application
+Z*‖hsrestart/‖SI‖En‖‖reload Hotstrings application
+Z*‖hsstats/‖SI‖En‖‖show application statistics
+Z*‖hsstop/‖SI‖En‖‖exit Hotstrings application
+Z*‖hssuspend/‖SI‖En‖‖suspend triggerstrings tips and hotstrings
+Z*‖hstoggle/‖SI‖En‖‖toggle triggerstrings tips and hotstrings

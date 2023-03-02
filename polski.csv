@@ -10,23 +10,24 @@ Notes:		In future this set should be divided into smaller sets dedicated to spec
 Example:		litwa → Litwa.
 */
 
-*‖austri‖SI‖En‖Austri‖
-*‖bałtyk‖SI‖En‖Bałtyk‖
-*‖cdn/‖SI‖En‖ciąg dalszy nastąpi‖
-‖codzienn‖SI‖En‖co dzień‖
-‖codzień‖SI‖En‖co dzień‖
-*‖conajmniej‖SI‖En‖co najmniej‖
-*‖fik‖SI‖Dis‖fikumiku‖
-*‖fiku/‖SI‖Dis‖fiku`amiku`n‖
-*‖gdyn‖SI‖En‖Gdyn‖
-*‖gruzin‖SI‖En‖Gruzin‖
-*‖gruzj‖SI‖En‖Gruzj‖
-‖jw‖SI‖En‖j.w.‖
-*‖jw/‖SI‖En‖jak wyżej‖
-*‖litwa‖SI‖En‖Litwa‖
-C*‖niemcy‖SI‖En‖Niemcy‖
-C*‖niemiec‖SI‖En‖Niemiec‖
-C*‖polacy‖SI‖En‖Polacy‖
-*‖polsce‖SI‖En‖Polsce‖
-C*‖polska‖CL‖En‖Polska‖
-C*‖polski‖MSI‖En‖Polski¦polski‖
+Z*‖austri‖SI‖En‖Austri‖
+Z*‖bałtyk‖SI‖En‖Bałtyk‖
+Z*‖cdn/‖SI‖En‖ciąg dalszy nastąpi‖
+Z‖codzienn‖SI‖En‖co dzień‖
+Z‖codzień‖SI‖En‖co dzień‖
+Z*‖conajmniej‖SI‖En‖co najmniej‖
+Z*‖fik‖SI‖Dis‖fikumiku‖
+Z*‖fiku/‖SI‖Dis‖fiku`amiku`n‖
+Z*‖gdyn‖SI‖En‖Gdyn‖
+Z*‖gruzin‖SI‖En‖Gruzin‖
+Z*‖gruzj‖SI‖En‖Gruzj‖
+Z*‖holand‖SI‖En‖Holand‖
+Z‖jw‖SI‖En‖j.w.‖
+Z*‖jw/‖SI‖En‖jak wyżej‖
+Z*‖litwa‖SI‖En‖Litwa‖
+ZC*‖niemcy‖SI‖En‖Niemcy‖
+ZC*‖niemiec‖SI‖En‖Niemiec‖
+ZC*‖polacy‖SI‖En‖Polacy‖
+Z*‖polsce‖SI‖En‖Polsce‖
+ZC*‖polska‖CL‖En‖Polska‖
+ZC*‖polski‖MSI‖En‖Polski¦polski‖

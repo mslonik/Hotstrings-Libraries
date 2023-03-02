@@ -9,6 +9,7 @@ Notes:		Some examples are clever and contain exceptions.
 
 Examples:	     ex21` contains backtick (`) as trigger.
 */
+
 *‖abc/‖SI‖En‖siedemnaście‖
 *‖ex1/‖SI‖En‖Something and comma, then comma alone ,‖Hotstring, Escape Sequence: ;
 *‖ex10/‖SI‖En‖tab (the more typical horizontal variety){tab}and again: `t‖Hotstring, Escape Sequence, `t
@@ -28,6 +29,9 @@ B0*‖ex21`‖SI‖En‖back-tick ` as the trigger‖Triggerstring, back-tick ` 
 *‖ex23/‖SI‖En‖Undo of combination{Shift}{Ctrl}a end.‖Undo, after sequence {Sift}{Ctrl}
 *‖ex24/‖SI‖En‖Test of information about undo and lack of support {PgUp}‖Test of information about undo and lack of support {PgUp}
 *‖ex25/‖SI‖En‖fikumiku {Shift Down} coś tam i znowu tralala {Shift Up} bum tarara {Shift} a kuku {Shift 5}‖Undo, after sequence {Sift Up}{Ctrl}
+B0*‖ex26`t‖SI‖En‖tabulator as the trigger‖triggerstring: tab
+*Z‖ex27/‖MSI‖En‖one {+}¦two {!}¦three {{}‖MSI example
+*Z‖ex28/‖MCL‖En‖one {+}¦two {!}¦three {{}‖MSI example
 *‖ex3/‖SI‖En‖Literal back-tick `‖Hotstring, Escape Sequence, `
 *‖ex4/‖SI‖En‖Literal semicolon; and alone ;‖Hotstring, Escape Sequence: ;
 *‖ex5/‖SI‖En‖Literal pair of colons:: and alone ::‖Hotstring Escape Sequence: ::
@@ -35,4 +39,3 @@ B0*‖ex21`‖SI‖En‖back-tick ` as the trigger‖Triggerstring, back-tick ` 
 *‖ex7/‖SI‖En‖carriage return (CR) `r‖Hotstring Escape Sequence: `r
 *‖ex8/‖SI‖En‖Combination of CR and LF: `r`n‖Hotstring, special sequence
 *‖ex9/‖SI‖En‖backspace`b‖Hotstring, Escape Sequence, `b
-B0*‖ex26`t‖SI‖En‖tabulator as the trigger‖triggerstring: tab

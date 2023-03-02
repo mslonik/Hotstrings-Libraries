@@ -10,25 +10,25 @@ Notes:		It is possible to combine them.
 Example:		d[ → 20221025_
 */
 
-*‖ADD/‖SI‖En‖A_DD‖Current 2-digit day of the month (01-31).
-*‖ADDD/‖SI‖En‖A_DDD‖Current day of the week's abbreviation in the current user's language, e.g. Sun
-*‖ADDDD/‖SI‖En‖A_DDDD‖Current day of the week's full name in the current user's language, e.g. Sunday
-*‖AHour‖SI‖En‖A_Hour‖Current 2-digit hour (00-23) in 24-hour time.
-*‖AMDay‖SI‖En‖A_MDay‖Current 2-digit day of the month (01-31).
-*‖AMin‖SI‖En‖A_Min‖Current 2-digit minute (00-59).
-*‖AMMM/‖SI‖En‖A_MMM‖Current month's abbreviation in the current user's language, e.g
-*‖AMMMM/‖SI‖En‖A_MMMM‖Current month's full name in the current user's language, e.g. J
-*‖AMon‖SI‖En‖A_Mon‖Current 2-digit month (01-12).
-*‖AMSec‖SI‖En‖A_MSec‖Current 3-digit millisecond (000-999).
-*‖ANow/‖SI‖En‖A_Now‖The current local time in YYYYMMDDHH24MISS format.
-*‖ANowUTC‖SI‖En‖A_NowUTC‖The current Coordinated Universal Time (UTC) in YYYYMMDDHH24MISS format. UTC = GMT.
-*‖ASec‖SI‖En‖A_Sec‖Current 2-digit second (00-59).
-*‖ATickCount‖SI‖En‖A_TickCount‖The number of milliseconds that have elapsed since the system was started.
-*‖AWDay‖SI‖En‖A_WDay‖Current 1-digit day of the week (1-7). 1 is Sunday in all locales.
-*‖AYDay‖SI‖En‖A_YDay‖Current day of the year (1-366).
-*‖AYear‖SI‖En‖A_Year‖Current 4-digit year (e.g. 2004).
-*‖AYWeek‖SI‖En‖A_YWeek‖Current year and week number (e.g. 200453) according to ISO 8601.
-*‖AYYYY‖SI‖En‖A_YYYY‖Current 4-digit year (e.g. 2004).
-*‖d[‖SI‖En‖A_YYYYA_MMA_DD_‖
-*‖d]‖SI‖En‖A_YYYY-A_MM-A_DD‖
-*‖t]‖CL‖En‖A_Hour:A_Min‖
+Z*‖ADD/‖SI‖En‖A_DD‖Current 2-digit day of the month (01-31).
+Z*‖ADDD/‖SI‖En‖A_DDD‖Current day of the week's abbreviation in the current user's language, e.g. Sun
+Z*‖ADDDD/‖SI‖En‖A_DDDD‖Current day of the week's full name in the current user's language, e.g. Sunday
+Z*‖AHour‖SI‖En‖A_Hour‖Current 2-digit hour (00-23) in 24-hour time.
+Z*‖AMDay‖SI‖En‖A_MDay‖Current 2-digit day of the month (01-31).
+Z*‖AMin‖SI‖En‖A_Min‖Current 2-digit minute (00-59).
+Z*‖AMMM/‖SI‖En‖A_MMM‖Current month's abbreviation in the current user's language, e.g
+Z*‖AMMMM/‖SI‖En‖A_MMMM‖Current month's full name in the current user's language, e.g. J
+Z*‖AMon‖SI‖En‖A_Mon‖Current 2-digit month (01-12).
+Z*‖AMSec‖SI‖En‖A_MSec‖Current 3-digit millisecond (000-999).
+Z*‖ANow/‖SI‖En‖A_Now‖The current local time in YYYYMMDDHH24MISS format.
+Z*‖ANowUTC‖SI‖En‖A_NowUTC‖The current Coordinated Universal Time (UTC) in YYYYMMDDHH24MISS format. UTC = GMT.
+Z*‖ASec‖SI‖En‖A_Sec‖Current 2-digit second (00-59).
+Z*‖ATickCount‖SI‖En‖A_TickCount‖The number of milliseconds that have elapsed since the system was started.
+Z*‖AWDay‖SI‖En‖A_WDay‖Current 1-digit day of the week (1-7). 1 is Sunday in all locales.
+Z*‖AYDay‖SI‖En‖A_YDay‖Current day of the year (1-366).
+Z*‖AYear‖SI‖En‖A_Year‖Current 4-digit year (e.g. 2004).
+Z*‖AYWeek‖SI‖En‖A_YWeek‖Current year and week number (e.g. 200453) according to ISO 8601.
+Z*‖AYYYY‖SI‖En‖A_YYYY‖Current 4-digit year (e.g. 2004).
+Z*‖d[‖SI‖En‖A_YYYYA_MMA_DD_‖
+Z*‖d]‖SI‖En‖A_YYYY-A_MM-A_DD‖
+Z*‖t]‖CL‖En‖A_Hour:A_Min‖

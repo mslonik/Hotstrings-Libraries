@@ -10,12 +10,12 @@ Notes:		Can be combined with FirstCapital.csv. Then new sentence starts with cap
 
 Example:		–
 */
-*B0?‖ą  ‖S2‖En‖{BS 2}. `‖
-*B0?‖ć  ‖S2‖En‖{BS 2}. `‖
-*B0?‖ę  ‖S2‖En‖{BS 2}. `‖
-*B0?‖ł  ‖S2‖En‖{BS 2}. `‖
-*B0?‖ń  ‖S2‖En‖{BS 2}. `‖
-*B0?‖ó  ‖S2‖En‖{BS 2}. `‖
-*B0?‖ś  ‖S2‖En‖{BS 2}. `‖
-*B0?‖ź  ‖S2‖En‖{BS 2}. `‖
-*B0?‖ż  ‖S2‖En‖{BS 2}. `‖
+Z*B0?‖ą  ‖S2‖En‖{BS 2}. `‖
+Z*B0?‖ć  ‖S2‖En‖{BS 2}. `‖
+Z*B0?‖ę  ‖S2‖En‖{BS 2}. `‖
+Z*B0?‖ł  ‖S2‖En‖{BS 2}. `‖
+Z*B0?‖ń  ‖S2‖En‖{BS 2}. `‖
+Z*B0?‖ó  ‖S2‖En‖{BS 2}. `‖
+Z*B0?‖ś  ‖S2‖En‖{BS 2}. `‖
+Z*B0?‖ź  ‖S2‖En‖{BS 2}. `‖
+Z*B0?‖ż  ‖S2‖En‖{BS 2}. `‖

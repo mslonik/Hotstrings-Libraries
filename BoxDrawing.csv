@@ -8,11 +8,11 @@ Purpose:		ASCII box drawing characters. Based on: https://en.wikipedia.org/wiki/
 Notes:		Could be combined with ASCII box drawing online editors (e.g. https://textik.com/). Macros exchanging characters could be prepared e.g. in Notepad++.
 */
 
-*‖boxes1/‖MSI‖En‖╒═╤╕`n│ ││`n╞═╪╡`n╘═╧╛¦╓─╥╖`n║ ║║`n╟─╫╢`n╙─╨╜¦╔═╦╗`n║ ║║`n╠═╬╣`n╚═╩╝¦┌─┬┐`n│ ││`n├─┼┤`n└─┴┘¦╔════════════╗`n║            ║ `n╚════════════╝¦┏━━━━━━━━━━━━━━━━━━┓`n┃                  ┃ `n┗━━━━━━━━━━━━━━━━━━┛`n¦╓──────────────────╖`n║                  ║ `n╙──────────────────╜`n‖https://en.wikipedia.org/wiki/Box-drawing_character
-*‖boxes2/‖MSI‖En‖┏┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┓`n┋                  ┋ `n┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛`n¦╒══════════════════╕`n│                  │ `n╘══════════════════╛`n¦╭──────────────────╮`n│                  │ `n╰──────────────────╯`n¦┌───────────────────┐`n│  ╔═══╗ Some Text  │▒`n│  ╚═╦═╝ in the box │▒`n╞═╤══╩══╤═══════════╡▒`n│ ├──┬──┤           │▒`n│ └──┴──┘           │▒`n└───────────────────┘▒`n ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒¦░▒▓█‖https://en.wikipedia.org/wiki/Box-drawing_character
-*‖dboxline1/‖MSI‖En‖╔═╦╗╠╣¦╔¦═¦╦¦╗¦╠¦╣‖https://en.wikipedia.org/wiki/Box-drawing_character
-*‖dboxline2/‖MSI‖En‖║╚╝╩╬¦║¦╚¦╝¦╩¦╬‖https://en.wikipedia.org/wiki/Box-drawing_character
-*‖dboxline2par1/‖MSI‖En‖╒═╕╘╛╞¦╒¦═¦╕¦╘¦╛¦╞‖https://en.wikipedia.org/wiki/Box-drawing_character
-*‖dboxline2par2/‖MSI‖En‖╡╤╧╪¦╡¦╤¦╧¦╪‖https://en.wikipedia.org/wiki/Box-drawing_character
-*‖dboxline2ver1/‖MSI‖En‖║╓╖╙╜╟¦║¦╓¦╖¦╙¦╜¦╟‖https://en.wikipedia.org/wiki/Box-drawing_character
-*‖dboxline2ver2/‖MSI‖En‖╢╨╫━	¦╢¦╨¦╫¦━	‖https://en.wikipedia.org/wiki/Box-drawing_character
+Z*‖boxes1/‖MSI‖En‖╒═╤╕`n│ ││`n╞═╪╡`n╘═╧╛¦╓─╥╖`n║ ║║`n╟─╫╢`n╙─╨╜¦╔═╦╗`n║ ║║`n╠═╬╣`n╚═╩╝¦┌─┬┐`n│ ││`n├─┼┤`n└─┴┘¦╔════════════╗`n║            ║ `n╚════════════╝¦┏━━━━━━━━━━━━━━━━━━┓`n┃                  ┃ `n┗━━━━━━━━━━━━━━━━━━┛`n¦╓──────────────────╖`n║                  ║ `n╙──────────────────╜`n‖https://en.wikipedia.org/wiki/Box-drawing_character
+Z*‖boxes2/‖MSI‖En‖┏┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┓`n┋                  ┋ `n┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛`n¦╒══════════════════╕`n│                  │ `n╘══════════════════╛`n¦╭──────────────────╮`n│                  │ `n╰──────────────────╯`n¦┌───────────────────┐`n│  ╔═══╗ Some Text  │▒`n│  ╚═╦═╝ in the box │▒`n╞═╤══╩══╤═══════════╡▒`n│ ├──┬──┤           │▒`n│ └──┴──┘           │▒`n└───────────────────┘▒`n ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒¦░▒▓█‖https://en.wikipedia.org/wiki/Box-drawing_character
+Z*‖dboxline1/‖MSI‖En‖╔═╦╗╠╣¦╔¦═¦╦¦╗¦╠¦╣‖https://en.wikipedia.org/wiki/Box-drawing_character
+Z*‖dboxline2/‖MSI‖En‖║╚╝╩╬¦║¦╚¦╝¦╩¦╬‖https://en.wikipedia.org/wiki/Box-drawing_character
+Z*‖dboxline2par1/‖MSI‖En‖╒═╕╘╛╞¦╒¦═¦╕¦╘¦╛¦╞‖https://en.wikipedia.org/wiki/Box-drawing_character
+Z*‖dboxline2par2/‖MSI‖En‖╡╤╧╪¦╡¦╤¦╧¦╪‖https://en.wikipedia.org/wiki/Box-drawing_character
+Z*‖dboxline2ver1/‖MSI‖En‖║╓╖╙╜╟¦║¦╓¦╖¦╙¦╜¦╟‖https://en.wikipedia.org/wiki/Box-drawing_character
+Z*‖dboxline2ver2/‖MSI‖En‖╢╨╫━	¦╢¦╨¦╫¦━	‖https://en.wikipedia.org/wiki/Box-drawing_character

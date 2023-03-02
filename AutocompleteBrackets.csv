@@ -3,15 +3,16 @@ License:		CC BY-SA Creative Commons Attribution-ShareAlike
 
 Author:		Maciej Słojewski (🐘)
 
-Purpose:		Autocomplete of brakcets. Shifts cursor into position between brackets.
+Purpose:		Autocomplete of brakcets and quotes.
 
 Notes:		–
 
 Example:		–
 */
 
-*B0‖(‖SI‖En‖){Left}‖
-*B0‖<‖SI‖En‖>{left}‖
-*B0‖[‖SI‖En‖]{Left}‖
-*‖[/‖SI‖Dis‖[]{Left}‖
-*B0‖{‖SI‖En‖{}}{Left}‖
+Z*‖"/‖SI‖En‖„”{left}‖
+Z*B0‖(‖SI‖En‖){Left}‖
+Z*B0‖<‖SI‖En‖>{left}‖
+Z*B0‖[‖SI‖En‖]{Left}‖
+Z*‖[/‖SI‖Dis‖[]{Left}‖
+Z*B0‖{‖SI‖En‖{}}{Left}‖
