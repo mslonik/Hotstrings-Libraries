@@ -1,4 +1,5 @@
-﻿License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
 
 Author:		Maciej Słojewski (🐘), http://mslonik.pl
 			SalviaSage
@@ -10,7 +11,7 @@ Notes:		Based on "(Unicode Sender) Roman Numerals.csv" by SalviaSage.
 			https://symbl.cc/en/
 
 Example:		romannumeral12/ → Ⅻ
-
+*/
 *C1?OZ‖smallromannumeral1/‖SI‖En‖ⅰ‖small roman numeral one (U+2170)
 *C1?OZ‖smallromannumeral2/‖SI‖En‖ⅱ‖small roman numeral two (U+2171)
 *C1?OZ‖smallromannumeral3/‖SI‖En‖ⅲ‖small roman numeral three (U+2172)
