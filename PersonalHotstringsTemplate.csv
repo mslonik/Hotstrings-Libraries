@@ -10,16 +10,16 @@ Notes:		Set of information useful everyday in Internet.
 Examples:	bank account, e-mail (📧) (s), phone number(s), adress(es), identifiers, logins, zipcodes etc.
 */
 
-*‖addressmy/‖MSI‖En‖King George VIII 8/1,{Enter}xx-yyy London¦Queen Mary II 2/3,{Enter}xx-yyy Greenwich‖
-*‖gm‖SI‖Dis‖Good morning, `r`n‖
+Z*‖addressmy/‖MSI‖En‖King George VIII 8/1,{Enter}xx-yyy London¦Queen Mary II 2/3,{Enter}xx-yyy Greenwich‖
+Z*‖gm‖SI‖Dis‖Good morning, `r`n‖
 *Z‖gm/‖SI‖En‖Good morning,{Shift Down}{Enter}{Shift Up}‖
-*‖dhct/‖SI‖En‖In case of any further questions please don't hesitate to contact me directly.‖
-*‖cardmy/‖MSI‖En‖1122334455667788¦123¦07/26¦07¦26‖Visa
-*‖postcodemy/‖MSI‖En‖xx-yyy¦yy-zzz¦xxyyy¦yyzzz‖xx-yyy: Londo, yy-zzz: Greenewich
-*‖computerid‖SI‖En‖3388AB010‖
-*‖bankaccountmy‖MSI‖En‖11 2222 3333 4444 5555 6666 7777 (EN BetterMoney)¦99 8888 7777 6666 5555 4444 3333 (EUR FastEuropean)‖
-*‖kr/‖MSI‖En‖Kind regards, Firstname SecondName¦Kind regards, nickname (🐘)‖
-*‖emailmy@‖MSI‖En‖firstname.secondname@gmail.com¦firstname.secondname@linux.com¦mysecretemail@toratora.com‖
-*‖taxidmy/‖SI‖En‖9876543210‖
-*‖patreonmy/‖MSI‖En‖Patreon¦https://www.patreon.com/user?u=12345678‖
-*‖telmy‖MSI‖En‖{+}48 601 601 601¦601 601 601¦601601601‖
+Z*‖dhct/‖SI‖En‖In case of any further questions please don't hesitate to contact me directly.‖
+Z*‖cardmy/‖MSI‖En‖1122334455667788¦123¦07/26¦07¦26‖Visa
+Z*‖postcodemy/‖MSI‖En‖xx-yyy¦yy-zzz¦xxyyy¦yyzzz‖xx-yyy: Londo, yy-zzz: Greenewich
+Z*‖computerid‖SI‖En‖3388AB010‖
+Z*‖bankaccountmy‖MSI‖En‖11 2222 3333 4444 5555 6666 7777 (EN BetterMoney)¦99 8888 7777 6666 5555 4444 3333 (EUR FastEuropean)‖
+Z*‖kr/‖MSI‖En‖Kind regards, Firstname SecondName¦Kind regards, nickname (🐘)‖
+Z*‖emailmy@‖MSI‖En‖firstname.secondname@gmail.com¦firstname.secondname@linux.com¦mysecretemail@toratora.com‖
+Z*‖taxidmy/‖SI‖En‖9876543210‖
+Z*‖patreonmy/‖MSI‖En‖Patreon¦https://www.patreon.com/user?u=12345678‖
+Z*‖telmy‖MSI‖En‖{+}48 601 601 601¦601 601 601¦601601601‖

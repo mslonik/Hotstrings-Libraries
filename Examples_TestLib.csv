@@ -10,32 +10,32 @@ Notes:		Some examples are clever and contain exceptions.
 Examples:	     ex21` contains backtick (`) as trigger.
 */
 
-*‖abc/‖SI‖En‖siedemnaście‖
-*‖ex1/‖SI‖En‖Something and comma, then comma alone ,‖Hotstring, Escape Sequence: ;
-*‖ex10/‖SI‖En‖tab (the more typical horizontal variety){tab}and again: `t‖Hotstring, Escape Sequence, `t
-*‖ex11/‖SI‖En‖vertical tab: `v‖Hotstring, Escape Sequence, `v; Ctrl + K
-*‖ex12/‖SI‖En‖alert (bell): `a‖Hotstring, Escape Sequence, `a. Ctrl + G
-*‖ex13/‖SI‖En‖It can also be manifest in some applications by typing Ctrl+L.‖Hotstring, Escape Sequence, `f. (Ctrl + L)
-*‖ex14/‖SI‖En‖Two consecutive quotes: "The color ""red"" was found.".‖Hotstring, Escape Sequence, two consecutive quotes
-*‖ex15/‖SI‖En‖text finished with 5x spaces     `‖Hotstring, blank at the end
-*‖ex16/‖SI‖En‖text finished with 5x spaces     ‖Hotstring, blank at the end
-*‖ex17/‖SI‖En‖text finished with 5x spaces{space}{space}{space}{space}{space}‖Hotstring, blank at the end
-*‖ex18/‖SI‖En‖text finished with 5x spaces{space 5}‖Hotstring, blank at the end
-*‖ex19;‖SI‖En‖semicolon ; as the trigger‖Triggerstring, semicolon (;) as the trigger
-*‖ex2/‖SI‖En‖Literal percent %‖Hotstring, Escape Sequence: %
-*‖ex20 ;‖SI‖En‖semicolon ; as the trigger‖Triggerstring, semicolon (;) as the trigger
+Z*‖abc/‖SI‖En‖siedemnaście‖
+Z*‖ex1/‖SI‖En‖Something and comma, then comma alone ,‖Hotstring, Escape Sequence: ;
+Z*‖ex10/‖SI‖En‖tab (the more typical horizontal variety){tab}and again: `t‖Hotstring, Escape Sequence, `t
+Z*‖ex11/‖SI‖En‖vertical tab: `v‖Hotstring, Escape Sequence, `v; Ctrl + K
+Z*‖ex12/‖SI‖En‖alert (bell): `a‖Hotstring, Escape Sequence, `a. Ctrl + G
+Z*‖ex13/‖SI‖En‖It can also be manifest in some applications by typing Ctrl+L.‖Hotstring, Escape Sequence, `f. (Ctrl + L)
+Z*‖ex14/‖SI‖En‖Two consecutive quotes: "The color ""red"" was found.".‖Hotstring, Escape Sequence, two consecutive quotes
+Z*‖ex15/‖SI‖En‖text finished with 5x spaces     `‖Hotstring, blank at the end
+Z*‖ex16/‖SI‖En‖text finished with 5x spaces     ‖Hotstring, blank at the end
+Z*‖ex17/‖SI‖En‖text finished with 5x spaces{space}{space}{space}{space}{space}‖Hotstring, blank at the end
+Z*‖ex18/‖SI‖En‖text finished with 5x spaces{space 5}‖Hotstring, blank at the end
+Z*‖ex19;‖SI‖En‖semicolon ; as the trigger‖Triggerstring, semicolon (;) as the trigger
+Z*‖ex2/‖SI‖En‖Literal percent %‖Hotstring, Escape Sequence: %
+Z*‖ex20 ;‖SI‖En‖semicolon ; as the trigger‖Triggerstring, semicolon (;) as the trigger
 B0*‖ex21`‖SI‖En‖back-tick ` as the trigger‖Triggerstring, back-tick ` as the trigger and part of hotstring
-*‖ex22/‖SI‖En‖undo test: <em></em>{left 5}‖Undo, proper position of cursor
-*‖ex23/‖SI‖En‖Undo of combination{Shift}{Ctrl}a end.‖Undo, after sequence {Sift}{Ctrl}
-*‖ex24/‖SI‖En‖Test of information about undo and lack of support {PgUp}‖Test of information about undo and lack of support {PgUp}
-*‖ex25/‖SI‖En‖fikumiku {Shift Down} coś tam i znowu tralala {Shift Up} bum tarara {Shift} a kuku {Shift 5}‖Undo, after sequence {Sift Up}{Ctrl}
+Z*‖ex22/‖SI‖En‖undo test: <em></em>{left 5}‖Undo, proper position of cursor
+Z*‖ex23/‖SI‖En‖Undo of combination{Shift}{Ctrl}a end.‖Undo, after sequence {Sift}{Ctrl}
+Z*‖ex24/‖SI‖En‖Test of information about undo and lack of support {PgUp}‖Test of information about undo and lack of support {PgUp}
+Z*‖ex25/‖SI‖En‖fikumiku {Shift Down} coś tam i znowu tralala {Shift Up} bum tarara {Shift} a kuku {Shift 5}‖Undo, after sequence {Sift Up}{Ctrl}
 B0*‖ex26`t‖SI‖En‖tabulator as the trigger‖triggerstring: tab
 *Z‖ex27/‖MSI‖En‖one {+}¦two {!}¦three {{}‖MSI example
 *Z‖ex28/‖MCL‖En‖one {+}¦two {!}¦three {{}‖MSI example
-*‖ex3/‖SI‖En‖Literal back-tick `‖Hotstring, Escape Sequence, `
-*‖ex4/‖SI‖En‖Literal semicolon; and alone ;‖Hotstring, Escape Sequence: ;
-*‖ex5/‖SI‖En‖Literal pair of colons:: and alone ::‖Hotstring Escape Sequence: ::
-*‖ex6/‖SI‖En‖newline (linefeed/LF) `n‖Hotstring Escape Sequence: `n
-*‖ex7/‖SI‖En‖carriage return (CR) `r‖Hotstring Escape Sequence: `r
-*‖ex8/‖SI‖En‖Combination of CR and LF: `r`n‖Hotstring, special sequence
-*‖ex9/‖SI‖En‖backspace`b‖Hotstring, Escape Sequence, `b
+Z*‖ex3/‖SI‖En‖Literal back-tick `‖Hotstring, Escape Sequence, `
+Z*‖ex4/‖SI‖En‖Literal semicolon; and alone ;‖Hotstring, Escape Sequence: ;
+Z*‖ex5/‖SI‖En‖Literal pair of colons:: and alone ::‖Hotstring Escape Sequence: ::
+Z*‖ex6/‖SI‖En‖newline (linefeed/LF) `n‖Hotstring Escape Sequence: `n
+Z*‖ex7/‖SI‖En‖carriage return (CR) `r‖Hotstring Escape Sequence: `r
+Z*‖ex8/‖SI‖En‖Combination of CR and LF: `r`n‖Hotstring, special sequence
+Z*‖ex9/‖SI‖En‖backspace`b‖Hotstring, Escape Sequence, `b
