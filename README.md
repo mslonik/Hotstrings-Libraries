@@ -1184,6 +1184,8 @@ As it was already mentioned, the library file can caontain fragile / protected i
 <br />
 
 ## Library file format <a name= "library-file-format"></a>
+File extension: CSV
+File encoding: UTF-8 with BOM
 (tbd)
 [Back to the top](#back-to-the-top)
 <br />

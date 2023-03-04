@@ -1,4 +1,4 @@
-;; Automatically fixes some typing mistakes related to vowel maatras. Intended to be used alongside this keyboard layout program: https://github.com/SalviaSage/Keyboard-Layouts/tree/master/Indic%20Typers/Devanagari%20Typer
+﻿;; Automatically fixes some typing mistakes related to vowel maatras. Intended to be used alongside this keyboard layout program: https://github.com/SalviaSage/Keyboard-Layouts/tree/master/Indic%20Typers/Devanagari%20Typer
 
 *C1OZ‖ऺ‖SI‖En‖{U+0973}‖devanagari letter oe - Automatic Replace
 *C1OZ‖ऻ‖SI‖En‖{U+0974}‖devanagari letter ooe - Automatic Replace
