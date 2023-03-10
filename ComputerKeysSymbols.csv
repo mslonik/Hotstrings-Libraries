@@ -1,0 +1,41 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+			SalviaSage
+
+Purpose:		Unicode symbols of computer keys, 28 definitions.
+
+Notes:		Based on "(Unicode Sender) Computer-Keys Symbols.csv" by SalviaSage.
+			https://symbl.cc/en/
+
+Example:		leftarrowkey/ → ←
+*/
+*C1?Z‖commandkey/‖SI‖En‖⌘‖place of interest sign (U+2318)
+*C1?Z‖applekey/‖SI‖En‖⌘‖place of interest sign (U+2318)
+*C1?Z‖winkey/‖SI‖En‖⊞‖squared plus (U+229E)
+*C1?Z‖windowskey/‖SI‖En‖⊞‖squared plus (U+229E)
+*C1?Z‖tabkey/‖SI‖En‖⭾‖horizontal tab key (U+2B7E)
+*C1?Z‖tabulationkey/‖SI‖En‖⭾‖horizontal tab key (U+2B7E)
+*C1?Z‖enterkey/‖SI‖En‖↵‖downwards arrow with corner leftwards (U+21B5)
+*C1?Z‖enterkey2/‖SI‖En‖⎆‖enter symbol (U+2386)
+*C1?Z‖shiftkey/‖SI‖En‖⇧‖upwards white arrow (U+21E7)
+*C1?Z‖backspacekey/‖SI‖En‖←‖leftwards arrow (U+2190)
+*C1?Z‖backspacekey2/‖SI‖En‖⌫‖erase to the left (U+232B)
+*C1?Z‖capslockkey/‖SI‖En‖⇪‖upwards white arrow from bar (U+21EA)
+*C1?Z‖scrolllockkey/‖SI‖En‖⤓‖downwards arrow to bar (U+2913)
+*C1?Z‖numlockkey/‖SI‖En‖⇭‖upwards white arrow on pedestal with vertical bar (U+21ED)
+*C1?Z‖composekey/‖SI‖En‖⎄‖composition symbol (U+2384)
+*C1?Z‖spacekey/‖SI‖En‖␣‖open box (U+2423)
+*C1?Z‖escapekey/‖SI‖En‖⎋‖broken circle with northwest arrow (U+238B)
+*C1?Z‖homekey/‖SI‖En‖⇱‖north west arrow to corner (U+21F1)
+*C1?Z‖endkey/‖SI‖En‖⇲‖south east arrow to corner (U+21F2)
+*C1?Z‖menukey/‖SI‖En‖≣‖strictly equivalent to (U+2263)
+*C1?Z‖ctrlkey/‖SI‖En‖⎈‖helm symbol (U+2388)
+*C1?Z‖controlkey/‖SI‖En‖⎈‖helm symbol (U+2388)
+*C1?Z‖altkey/‖SI‖En‖⎇‖alternative key symbol (U+2387)
+*C1?Z‖alternativekey/‖SI‖En‖⎇‖alternative key symbol (U+2387)
+*C1?Z‖leftarrowkey/‖SI‖En‖←‖leftwards arrow (U+2190)
+*C1?Z‖uparrowkey/‖SI‖En‖↑‖upwards arrow (U+2191)
+*C1?Z‖rightarrowkey/‖SI‖En‖→‖rightwards arrow (U+2192)
+*C1?Z‖downarrowkey/‖SI‖En‖↓‖downwards arrow (U+2193)

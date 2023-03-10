@@ -5,111 +5,113 @@ Author:		Maciej Słojewski (🐘), http://mslonik.pl
 
 Purpose:		Auto capitalize first word in a sentence.
 
-Notes:			https://jacks-autohotkey-blog.com/2020/03/09/auto-capitalize-the-first-letter-of-sentences/
+Notes:		https://jacks-autohotkey-blog.com/2020/03/09/auto-capitalize-the-first-letter-of-sentences/
+			Trick in hotstring section: instead of sending just capital letters (e.g. {BS}A) actually is send Unicode character which represents capital letter A. Because if just letter A is send, actually AutoHotkey sends sequence {shift down}a{shift up}, so ordinary letter is send. Sending Unicode character sends actually capital letter instead. When capital letter is send, other scripts like ShiftFunctions are able to recognize it and after pressing Shift such capital letter can be altered into capital diacritic letter. To work this way this library must be send with SendLevel = 2.
 
 Example:		–
 */
-Z*CB0?‖! a‖S2‖En‖{BS}A‖
-Z*CB0?‖! b‖S2‖En‖{BS}B‖
-Z*CB0?‖! c‖S2‖En‖{BS}C‖
-Z*CB0?‖! d‖S2‖En‖{BS}D‖
-Z*CB0?‖! e‖S2‖En‖{BS}E‖
-Z*CB0?‖! f‖S2‖En‖{BS}F‖
-Z*CB0?‖! g‖S2‖En‖{BS}G‖
-Z*CB0?‖! h‖S2‖En‖{BS}H‖
-Z*CB0?‖! i‖S2‖En‖{BS}I‖
-Z*CB0?‖! j‖S2‖En‖{BS}J‖
-Z*CB0?‖! k‖S2‖En‖{BS}K‖
-Z*CB0?‖! l‖S2‖En‖{BS}L‖
-Z*CB0?‖! m‖S2‖En‖{BS}M‖
-Z*CB0?‖! n‖S2‖En‖{BS}N‖
-Z*CB0?‖! o‖S2‖En‖{BS}O‖
-Z*CB0?‖! p‖S2‖En‖{BS}P‖
-Z*CB0?‖! q‖S2‖En‖{BS}Q‖
-Z*CB0?‖! r‖S2‖En‖{BS}R‖
-Z*CB0?‖! s‖S2‖En‖{BS}S‖
-Z*CB0?‖! t‖S2‖En‖{BS}T‖
-Z*CB0?‖! u‖S2‖En‖{BS}U‖
-Z*CB0?‖! v‖S2‖En‖{BS}V‖
-Z*CB0?‖! w‖S2‖En‖{BS}W‖
-Z*CB0?‖! x‖S2‖En‖{BS}X‖
-Z*CB0?‖! y‖S2‖En‖{BS}Y‖
-Z*CB0?‖! z‖S2‖En‖{BS}Z‖
-Z*CB0?‖. a‖S2‖En‖{BS}A‖
-Z*CB0?‖. b‖S2‖En‖{BS}B‖
-Z*CB0?‖. c‖S2‖En‖{BS}C‖
-Z*CB0?‖. d‖S2‖En‖{BS}D‖
-Z*CB0?‖. e‖S2‖En‖{BS}E‖
-Z*CB0?‖. f‖S2‖En‖{BS}F‖
-Z*CB0?‖. g‖S2‖En‖{BS}G‖
-Z*CB0?‖. h‖S2‖En‖{BS}H‖
-Z*CB0?‖. i‖S2‖En‖{BS}I‖
-Z*CB0?‖. j‖S2‖En‖{BS}J‖
-Z*CB0?‖. k‖S2‖En‖{BS}K‖
-Z*CB0?‖. l‖S2‖En‖{BS}L‖
-Z*CB0?‖. m‖S2‖En‖{BS}M‖
-Z*CB0?‖. n‖S2‖En‖{BS}N‖
-Z*CB0?‖. o‖S2‖En‖{BS}O‖
-Z*CB0?‖. p‖S2‖En‖{BS}P‖
-Z*CB0?‖. q‖S2‖En‖{BS}Q‖
-Z*CB0?‖. r‖S2‖En‖{BS}R‖
-Z*CB0?‖. s‖S2‖En‖{BS}S‖
-Z*CB0?‖. t‖S2‖En‖{BS}T‖
-Z*CB0?‖. u‖S2‖En‖{BS}U‖
-Z*CB0?‖. v‖S2‖En‖{BS}V‖
-Z*CB0?‖. w‖S2‖En‖{BS}W‖
-Z*CB0?‖. x‖S2‖En‖{BS}X‖
-Z*CB0?‖. y‖S2‖En‖{BS}Y‖
-Z*CB0?‖. z‖S2‖En‖{BS}Z‖
-Z*CB0?‖? a‖S2‖En‖{BS}A‖
-Z*CB0?‖? b‖S2‖En‖{BS}B‖
-Z*CB0?‖? c‖S2‖En‖{BS}C‖
-Z*CB0?‖? d‖S2‖En‖{BS}D‖
-Z*CB0?‖? e‖S2‖En‖{BS}E‖
-Z*CB0?‖? f‖S2‖En‖{BS}F‖
-Z*CB0?‖? g‖S2‖En‖{BS}G‖
-Z*CB0?‖? h‖S2‖En‖{BS}H‖
-Z*CB0?‖? i‖S2‖En‖{BS}I‖
-Z*CB0?‖? j‖S2‖En‖{BS}J‖
-Z*CB0?‖? k‖S2‖En‖{BS}K‖
-Z*CB0?‖? l‖S2‖En‖{BS}L‖
-Z*CB0?‖? m‖S2‖En‖{BS}M‖
-Z*CB0?‖? n‖S2‖En‖{BS}N‖
-Z*CB0?‖? o‖S2‖En‖{BS}O‖
-Z*CB0?‖? p‖S2‖En‖{BS}P‖
-Z*CB0?‖? q‖S2‖En‖{BS}Q‖
-Z*CB0?‖? r‖S2‖En‖{BS}R‖
-Z*CB0?‖? s‖S2‖En‖{BS}S‖
-Z*CB0?‖? t‖S2‖En‖{BS}T‖
-Z*CB0?‖? u‖S2‖En‖{BS}U‖
-Z*CB0?‖? v‖S2‖En‖{BS}V‖
-Z*CB0?‖? w‖S2‖En‖{BS}W‖
-Z*CB0?‖? x‖S2‖En‖{BS}X‖
-Z*CB0?‖? y‖S2‖En‖{BS}Y‖
-Z*CB0?‖? z‖S2‖En‖{BS}Z‖
-Z*CB0?‖`na‖S2‖En‖{BS}A‖
-Z*CB0?‖`nb‖S2‖En‖{BS}B‖
-Z*CB0?‖`nc‖S2‖En‖{BS}C‖
-Z*CB0?‖`nd‖S2‖En‖{BS}D‖
-Z*CB0?‖`ne‖S2‖En‖{BS}E‖
-Z*CB0?‖`nf‖S2‖En‖{BS}F‖
-Z*CB0?‖`ng‖S2‖En‖{BS}G‖
-Z*CB0?‖`nh‖S2‖En‖{BS}H‖
-Z*CB0?‖`ni‖S2‖En‖{BS}I‖
-Z*CB0?‖`nj‖S2‖En‖{BS}J‖
-Z*CB0?‖`nk‖S2‖En‖{BS}K‖
-Z*CB0?‖`nl‖S2‖En‖{BS}L‖
-Z*CB0?‖`nm‖S2‖En‖{BS}M‖
-Z*CB0?‖`nn‖S2‖En‖{BS}N‖
-Z*CB0?‖`no‖S2‖En‖{BS}O‖
-Z*CB0?‖`np‖S2‖En‖{BS}P‖
-Z*CB0?‖`nq‖S2‖En‖{BS}Q‖
-Z*CB0?‖`nr‖S2‖En‖{BS}R‖
-Z*CB0?‖`ns‖S2‖En‖{BS}S‖
-Z*CB0?‖`nt‖S2‖En‖{BS}T‖
-Z*CB0?‖`nu‖S2‖En‖{BS}U‖
-Z*CB0?‖`nv‖S2‖En‖{BS}V‖
-Z*CB0?‖`nw‖S2‖En‖{BS}W‖
-Z*CB0?‖`nx‖S2‖En‖{BS}X‖
-Z*CB0?‖`ny‖S2‖En‖{BS}Y‖
-Z*CB0?‖`nz‖S2‖En‖{BS}Z‖
+
+Z*CB0?‖! a‖S2‖En‖{BS}{U+0041}‖A = U+0041
+Z*CB0?‖! b‖S2‖En‖{BS}{U+0042}‖B = U+0042
+Z*CB0?‖! c‖S2‖En‖{BS}{U+0043}‖C = U+0043
+Z*CB0?‖! d‖S2‖En‖{BS}{U+0044}‖D = U+0044
+Z*CB0?‖! e‖S2‖En‖{BS}{U+0045}‖E = U+0045
+Z*CB0?‖! f‖S2‖En‖{BS}{U+0046}‖F = U+0046
+Z*CB0?‖! g‖S2‖En‖{BS}{U+0047}‖G = U+0047
+Z*CB0?‖! h‖S2‖En‖{BS}{U+0048}‖H = U+0048
+Z*CB0?‖! i‖S2‖En‖{BS}{U+0049}‖I = U+0049
+Z*CB0?‖! j‖S2‖En‖{BS}{U+004A}‖J = U+004A
+Z*CB0?‖! k‖S2‖En‖{BS}{U+004B}‖K = U+004B
+Z*CB0?‖! l‖S2‖En‖{BS}{U+004C}‖L = U+004C
+Z*CB0?‖! m‖S2‖En‖{BS}{U+004D}‖M = U+004D
+Z*CB0?‖! n‖S2‖En‖{BS}{U+004E}‖N = U+004E
+Z*CB0?‖! o‖S2‖En‖{BS}{U+004F}‖O = U+004F
+Z*CB0?‖! p‖S2‖En‖{BS}{U+0050}‖P = U+0050
+Z*CB0?‖! q‖S2‖En‖{BS}{U+0051}‖Q = U+0051
+Z*CB0?‖! r‖S2‖En‖{BS}{U+0052}‖R = U+0052
+Z*CB0?‖! s‖S2‖En‖{BS}{U+0053}‖S = U+0053
+Z*CB0?‖! t‖S2‖En‖{BS}{U+0054}‖T = U+0054
+Z*CB0?‖! u‖S2‖En‖{BS}{U+0055}‖U = U+0055
+Z*CB0?‖! v‖S2‖En‖{BS}{U+0056}‖V = U+0056
+Z*CB0?‖! w‖S2‖En‖{BS}{U+0057}‖W = U+0057
+Z*CB0?‖! x‖S2‖En‖{BS}{U+0058}‖X = U+0058
+Z*CB0?‖! y‖S2‖En‖{BS}{U+0059}‖Y = U+0059
+Z*CB0?‖! z‖S2‖En‖{BS}{U+005A}‖Z = U+005A
+*CB0?Z‖. a‖S2‖En‖{BS}{U+0041}‖A = U+0041
+Z*CB0?‖. b‖S2‖En‖{BS}{U+0042}‖B = U+0042
+Z*CB0?‖. c‖S2‖En‖{BS}{U+0043}‖C = U+0043
+Z*CB0?‖. d‖S2‖En‖{BS}{U+0044}‖D = U+0044
+Z*CB0?‖. e‖S2‖En‖{BS}{U+0045}‖E = U+0045
+Z*CB0?‖. f‖S2‖En‖{BS}{U+0046}‖F = U+0046
+Z*CB0?‖. g‖S2‖En‖{BS}{U+0047}‖G = U+0047
+Z*CB0?‖. h‖S2‖En‖{BS}{U+0048}‖H = U+0048
+Z*CB0?‖. i‖S2‖En‖{BS}{U+0049}‖I = U+0049
+Z*CB0?‖. j‖S2‖En‖{BS}{U+004A}‖J = U+004A
+Z*CB0?‖. k‖S2‖En‖{BS}{U+004B}‖K = U+004B
+Z*CB0?‖. l‖S2‖En‖{BS}{U+004C}‖L = U+004C
+Z*CB0?‖. m‖S2‖En‖{BS}{U+004D}‖M = U+004D
+Z*CB0?‖. n‖S2‖En‖{BS}{U+004E}‖N = U+004E
+Z*CB0?‖. o‖S2‖En‖{BS}{U+004F}‖O = U+004F
+Z*CB0?‖. p‖S2‖En‖{BS}{U+0050}‖P = U+0050
+Z*CB0?‖. q‖S2‖En‖{BS}{U+0051}‖Q = U+0051
+Z*CB0?‖. r‖S2‖En‖{BS}{U+0052}‖R = U+0052
+Z*CB0?‖. s‖S2‖En‖{BS}{U+0053}‖S = U+0053
+Z*CB0?‖. t‖S2‖En‖{BS}{U+0054}‖T = U+0054
+Z*CB0?‖. u‖S2‖En‖{BS}{U+0055}‖U = U+0055
+Z*CB0?‖. v‖S2‖En‖{BS}{U+0056}‖V = U+0056
+Z*CB0?‖. w‖S2‖En‖{BS}{U+0057}‖W = U+0057
+Z*CB0?‖. x‖S2‖En‖{BS}{U+0058}‖X = U+0058
+Z*CB0?‖. y‖S2‖En‖{BS}{U+0059}‖Y = U+0059
+Z*CB0?‖. z‖S2‖En‖{BS}{U+005A}‖Z = U+005A
+Z*CB0?‖? a‖S2‖En‖{BS}{U+0041}‖A = U+0041
+Z*CB0?‖? b‖S2‖En‖{BS}{U+0042}‖B = U+0042
+Z*CB0?‖? c‖S2‖En‖{BS}{U+0043}‖C = U+0043
+Z*CB0?‖? d‖S2‖En‖{BS}{U+0044}‖D = U+0044
+Z*CB0?‖? e‖S2‖En‖{BS}{U+0045}‖E = U+0045
+Z*CB0?‖? f‖S2‖En‖{BS}{U+0046}‖F = U+0046
+Z*CB0?‖? g‖S2‖En‖{BS}{U+0047}‖G = U+0047
+Z*CB0?‖? h‖S2‖En‖{BS}{U+0048}‖H = U+0048
+Z*CB0?‖? i‖S2‖En‖{BS}{U+0049}‖I = U+0049
+Z*CB0?‖? j‖S2‖En‖{BS}{U+004A}‖J = U+004A
+Z*CB0?‖? k‖S2‖En‖{BS}{U+004B}‖K = U+004B
+Z*CB0?‖? l‖S2‖En‖{BS}{U+004C}‖L = U+004C
+Z*CB0?‖? m‖S2‖En‖{BS}{U+004D}‖M = U+004D
+Z*CB0?‖? n‖S2‖En‖{BS}{U+004E}‖N = U+004E
+Z*CB0?‖? o‖S2‖En‖{BS}{U+004F}‖O = U+004F
+Z*CB0?‖? p‖S2‖En‖{BS}{U+0050}‖P = U+0050
+Z*CB0?‖? q‖S2‖En‖{BS}{U+0051}‖Q = U+0051
+Z*CB0?‖? r‖S2‖En‖{BS}{U+0052}‖R = U+0052
+Z*CB0?‖? s‖S2‖En‖{BS}{U+0053}‖S = U+0053
+Z*CB0?‖? t‖S2‖En‖{BS}{U+0054}‖T = U+0054
+Z*CB0?‖? u‖S2‖En‖{BS}{U+0055}‖U = U+0055
+Z*CB0?‖? v‖S2‖En‖{BS}{U+0056}‖V = U+0056
+Z*CB0?‖? w‖S2‖En‖{BS}{U+0057}‖W = U+0057
+Z*CB0?‖? x‖S2‖En‖{BS}{U+0058}‖X = U+0058
+Z*CB0?‖? y‖S2‖En‖{BS}{U+0059}‖Y = U+0059
+Z*CB0?‖? z‖S2‖En‖{BS}{U+005A}‖Z = U+005A
+Z*CB0?‖`na‖S2‖En‖{BS}{U+0041}‖A = U+0041
+Z*CB0?‖`nb‖S2‖En‖{BS}{U+0042}‖B = U+0042
+Z*CB0?‖`nc‖S2‖En‖{BS}{U+0043}‖C = U+0043
+Z*CB0?‖`nd‖S2‖En‖{BS}{U+0044}‖D = U+0044
+Z*CB0?‖`ne‖S2‖En‖{BS}{U+0045}‖E = U+0045
+Z*CB0?‖`nf‖S2‖En‖{BS}{U+0046}‖F = U+0046
+Z*CB0?‖`ng‖S2‖En‖{BS}{U+0047}‖G = U+0047
+Z*CB0?‖`nh‖S2‖En‖{BS}{U+0048}‖H = U+0048
+Z*CB0?‖`ni‖S2‖En‖{BS}{U+0049}‖I = U+0049
+Z*CB0?‖`nj‖S2‖En‖{BS}{U+004A}‖J = U+004A
+Z*CB0?‖`nk‖S2‖En‖{BS}{U+004B}‖K = U+004B
+Z*CB0?‖`nl‖S2‖En‖{BS}{U+004C}‖L = U+004C
+Z*CB0?‖`nm‖S2‖En‖{BS}{U+004D}‖M = U+004D
+Z*CB0?‖`nn‖S2‖En‖{BS}{U+004E}‖N = U+004E
+Z*CB0?‖`no‖S2‖En‖{BS}{U+004F}‖O = U+004F
+Z*CB0?‖`np‖S2‖En‖{BS}{U+0050}‖P = U+0050
+Z*CB0?‖`nq‖S2‖En‖{BS}{U+0051}‖Q = U+0051
+Z*CB0?‖`nr‖S2‖En‖{BS}{U+0052}‖R = U+0052
+Z*CB0?‖`ns‖S2‖En‖{BS}{U+0053}‖S = U+0053
+Z*CB0?‖`nt‖S2‖En‖{BS}{U+0054}‖T = U+0054
+Z*CB0?‖`nu‖S2‖En‖{BS}{U+0055}‖U = U+0055
+Z*CB0?‖`nv‖S2‖En‖{BS}{U+0056}‖V = U+0056
+Z*CB0?‖`nw‖S2‖En‖{BS}{U+0057}‖W = U+0057
+Z*CB0?‖`nx‖S2‖En‖{BS}{U+0058}‖X = U+0058
+Z*CB0?‖`ny‖S2‖En‖{BS}{U+0059}‖Y = U+0059
+Z*CB0?‖`nz‖S2‖En‖{BS}{U+005A}‖Z = U+005A
