@@ -23,7 +23,7 @@ Z*‖ac/‖MSI‖En‖Alternating Current¦Axle Counter‖
 ZC‖acl‖SI‖En‖ACL‖
 Z*‖acl/‖SI‖En‖Access Control List‖
 ZC1‖adc‖SI‖En‖ADC‖
-*Z‖adc/‖MSI‖En‖Analog to Digital Converter¦is a system in electronics that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal.‖
+*Z‖adc/‖MSI‖En‖Analog to Digital Converter¦Analog to Digital Converter (ADC) is a system in electronics that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal.‖
 ZC‖adhd‖SI‖En‖ADHD‖
 Z*C‖adhd/‖SI‖En‖Attention Deficit Hyperactivity Disorder‖https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
 Z*‖afaik/‖CL‖En‖as far as I know‖
