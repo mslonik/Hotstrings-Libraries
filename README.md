@@ -33,8 +33,7 @@ Hotstring-library is text file (*.csv) formatted to work with [*Hotstrings*](htt
 | 9.  | (Unicode Sender) Orthographic.csv                               | Helps type computer-keys symbols.                                                                      |                165                |
 | 10. | (Unicode Sender) Roman Numerals.csv                             | Helps type computer-keys symbols.                                                                      |                ???                |
 |     |                                                                 |                                                                                                        |                                   |
-| 9 . | Orthographic.csv                                                | Collection of Unicode characters related to ortography. Based on (Unicode Sender) Orthographic.csv.    |                168                |
-|     |                                                                 |                                                                                                        |                                   |
+| 11. | [CombiningDiacritics.csv](#combining-diacritics)                | Unicode, combining diacritics sender. Character markings that go on top, below or around.              |               37                  |
 | 11. | [AbbreviationsEnglish.csv](#abbreviations-english)              | Acronyms / abbreviations typical for English language.                                                 |               ~550                |
 | 12. | [AutocompleteBrackets.csv](#autocomplete-brackets)              | Adds closing bracket and shifts cursor in between the brackets.                                        |                 5                 |
 | 13. | [AutoCorrect.csv](#auto-correct)                                | Hotstrings to correct common English misspellings on-the-fly.                                          |               4841                |
@@ -53,13 +52,15 @@ Hotstring-library is text file (*.csv) formatted to work with [*Hotstrings*](htt
 | 26. | [HotstringsHotstrings.csv](#hotstrings-hotstrings)              | Prepare triggerstring tips about hotstrings active for Hotstrings application.                         |                 9                 |
 | 27. | [Incoterms.csv](#incoterms)                                     | Abbreviations and full definitions of Incoterms.                                                       |                24                 |
 | 28. | [Markdown.csv](#markdown)                                       | Markdown lightweight markup language cheat sheet.                                                      |                15                 |
-| 29. | [PersonalHotstringsTemplate.csv](#personal-hotstrings-template) | Personal hotstrings template.                                                                          |                13                 |
-| 30. | [PhysicsHotstrings.csv](#physics-hotstrings)                    | Various unicode symbols more or less related to physics.                                               |                ~75                |
-| 31. | [polski.csv](#polski)                                           | Mix of various subcategories such as abbrevitaions, "capital letters", Polish specific "auto correct". |                ~20                |
-| 32. | [Punctuation.csv](#punctuation)                                 | Punctuation and non-breaking characters.                                                               |                ~20                |
-| 33.  | [S2_DoubleSpace.csv](#s2-double-space)                       | Double pressing of 2x space key converted into dot and space.                                                    |         26         |
-| 34.  | [S2_DoubleSpace_Polish.csv](#s2-double-space-polish)         | Enables pressing of 2x space key converted into dot and space also for words finished with Polish diacritic.     |         9          |
-| 35. | [TimeHotstrings](#time-hotstrings)                              | Definitions of time.                                                                                   |                22                 |
+| 29. | [Ortographic.csv](#ortographic)                                 | Unicode, set of various ortographic characters.                                                        |               168                 |
+| 30. | [PersonalHotstringsTemplate.csv](#personal-hotstrings-template) | Personal hotstrings template.                                                                          |                13                 |
+| 31. | [PhysicsHotstrings.csv](#physics-hotstrings)                    | Various unicode symbols more or less related to physics.                                               |                ~75                |
+| 32. | [polski.csv](#polski)                                           | Mix of various subcategories such as abbrevitaions, "capital letters", Polish specific "auto correct". |                ~20                |
+| 33. | [RomanNumerals.csv](#roman-numerals)                            | Unicode, symbols of Roman numerals. Types the Roman numerals instead of typing them with the Latin letters. |            68                 |
+| 34. | [Punctuation.csv](#punctuation)                                 | Punctuation and non-breaking characters.                                                               |                ~20                |
+| 35.  | [S2_DoubleSpace.csv](#s2-double-space)                       | Double pressing of 2x space key converted into dot and space.                                                    |         26         |
+| 36.  | [S2_DoubleSpace_Polish.csv](#s2-double-space-polish)         | Enables pressing of 2x space key converted into dot and space also for words finished with Polish diacritic.     |         9          |
+| 37. | [TimeHotstrings](#time-hotstrings)                              | Definitions of time.                                                                                   |                22                 |
 | | | **TOTAL**: (last checked on: 2023-02-26) | ~6244  |
 Remarks:
 1. Only triggerstring definitions are counted. It means that if compound definition is present (single triggerstring -> multiple hotstrings), then it is counted as one.
@@ -88,6 +89,68 @@ At the moment there is no way to choose S1 or S2 "output functions" from GUI of 
 <br />
 
 ---
+<details>
+<summary><h3><b>CombiningDiacritics.csv</b></h3></summary> <a name="combining-diacritics"></a>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Author**:		   Maciej Słojewski (🐘), http://mslonik.pl
+			         SalviaSage
+
+**Purpose**:      Unicode, combining diacritics sender. Character markings that go on top, below or around.
+
+**Notes:**  		Based on "CombiningDiacritics.csv" by SalviaSage.
+			         https://symbl.cc/en/unicode/blocks/combining-diacritical-marks/
+			         https://symbl.cc/en/
+
+**Examples:**		
+
+agrave/ → ```à```
+agraveaccent/ → ```à```
+agravedouble/ → ```ȁ```
+agravedoubleaccent/ → ```ȁ```
+aacute/  → ```á```
+aacuteaccent/ → ```á```
+aacutedouble/ → ```a̋```
+aacutedoubleaccent/ → ```a̋```
+acircumflex/ → ```â```
+acircumflexaccent/ → ```â```
+aumlaut/ → ```ä```
+atrema/ → ```ä```
+adiaeresis/ → ```ä```
+aogonek/ → ```ą```
+ahook/ → ```ả```
+ahookabove/ → ```ả```
+adotabove/ → ```ȧ```
+adotbelow/ → ```ạ```
+acedilla/ → ```a̧```
+acommabelow/  → ```a̦```
+asicilicus/   → ```a͗```
+abreve/ → ```ă```
+abreveinverted/  → ```ȃ```
+atilde/ → ```ã```
+amacron/ → ```ā```
+amacronbelow/ → ```a̱```
+amacrondouble/ → ```a͞```
+amacrondoublebelow/ → ``` ```
+acaron/ → ```ǎ```
+ahacek/ → ```ǎ```
+ahorn/ → ```a̛```
+aoverring/ → ```å```
+aringabove/ → ```å```
+aunderring/ → ```ḁ```
+aringbelow/ → ```ḁ```
+aroughbreathing/ → ```a̔```
+asmoothbreathing/ → ```a᾿```
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+
 <details>
 <summary><h3><b>AbbreviationsEnglish.csv</b></h3></summary> <a name="abbreviations-english"></a>
 
@@ -371,6 +434,7 @@ After triggerstring + trigger is pressed, user can choose from the list of 7x di
 ---
 <details>
 <summary><h3><b>Examples_TestLib.csv</b></h3></summary> <a name="examples-testlib"></a>
+
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -398,6 +462,7 @@ newline (linefeed/LF)
 ---
 <details>
 <summary><h3><b>FileFormats.csv</b></h3></summary> <a name="file-formats"></a>
+
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -449,6 +514,7 @@ This is file extension SVG.
 ---
 <details>
 <summary><h3><b>inance.csv</b></h3></summary> <a name="finance"></a>
+
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -587,10 +653,40 @@ The seller pays for the carriage of the goods up to the named port of destinatio
 |:-----------------------:|:-:|:-----------------------:|:-:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
 |        mdcolor/         | → |            *            | → | hex color: `{#}0969DA`¦RGB color: `rgb(9, 105, 218)`‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format |       MSI       |
 
-If you enter "cfr/", then on the screep hotstring menu is displayed. After choosing the second poition it is replaced into:
+If you enter "mdcolor/", then on the screep hotstring menu is displayed. After choosing the second poition it is replaced into:
 ```
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 ```
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+
+<details>
+<summary><h3><b>Ortographic.csv</b></h3></summary> <a name="ortographic"></a>
+
+**Author**:		Maciej Słojewski (🐘)
+
+**License**:	CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Purpose**:   Unicode, set of various ortographic characters.
+               Based on library "(Unicode Sender) Orthographic.csv" with typomatic convention of my hotstrings.
+			      Reviewed, verified, supplemented and corrected on 2023-02-26.
+
+**Example**:
+
+| triggerstring + trigger | → | (triggerstring) options | → |  hotstring        | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-----------------:|:---------------:|
+|       tricolon/         | → |            *C1?Z        | → | ⁝                  |       SI       |
+
+"tricolon/" is replaced into:
+```
+⁝
+```
+
 [Back to the top](#back-to-the-top)
 <br />
 <br />
@@ -648,6 +744,7 @@ If you enter "<=" it is replaced into:
 ---
 <details>
 <summary><h3><b>polski.csv</b></h3></summary> <a name="polski"></a>
+
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -655,14 +752,45 @@ If you enter "<=" it is replaced into:
 **Purpose**:   Mix of various subcategories related to Polish language such as abbrevitaions, "capital letters", "auto correct".
 
 **Example**:
-
+Z*‖conajmniej‖SI‖En‖co najmniej‖
 | triggerstring + trigger | → | (triggerstring) options | → |            hotstring             | output function |
 |:-----------------------:|:-:|:-----------------------:|:-:|:--------------------------------:|:---------------:|
-|         cardmy/         | → |            *            | → | 1122334455667788¦123¦07/26¦07¦26 |       MSI       |
+|         conajmniej      | → |            Z*           | → | co najmniej                      |       SI       |
 
-If you enter "cardmy/", then on the screep hotstring menu is displayed containing all data relevant to register your bank card. After choosing the second poition it is replaced into your bank card secret code:
+If you enter "conajmniej" it is immediately autocorrected into:
 ```
-123
+co najmniej
+```
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+<details>
+<summary><h3><b>RomanNumerals.csv</b></h3></summary> <a name="roman-numerals"></a>                            | Unicode symbols of Roman numerals. Types the Roman numerals instead of typing them with the Latin letters. |            68                 |
+
+**Author:**		Maciej Słojewski (🐘), http://mslonik.pl
+			      SalviaSage
+
+**License:**		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+**Purpose:**		Unicode symbols of Roman numerals.	Types the Roman Numerals as opposed to typing them with the Latin letters.
+
+**Notes:**		Based on "(Unicode Sender) Roman Numerals.csv" by SalviaSage.
+			      https://symbl.cc/en/collections/roman-numerals/
+			      https://symbl.cc/en/
+
+**Example:**	
+
+| triggerstring + trigger | → | (triggerstring) options | → | hotstring | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------:|:---------------:|
+| romannumeral12/         | → |          *C1?Z          | → | Ⅻ        |       SI        |
+
+"romannumeral12/" is replaced into:
+```
+Ⅻ
 ```
 [Back to the top](#back-to-the-top)
 <br />

@@ -2,10 +2,12 @@
 License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
 
 Author:		Maciej Słojewski (🐘), http://mslonik.pl
+			SalviaSage
 
-Purpose:		Based on library "(Unicode Sender) Orthographic.csv" with typomatic convention of my hotstrings.
+Purpose:		Unicode, set of various ortographic characters.
 
-Notes:		Reviewed, verified, supplemented and corrected on 2023-02-26.
+Notes:		Based on library "(Unicode Sender) Orthographic.csv" with typomatic convention of my hotstrings.
+			Reviewed, verified, supplemented and corrected on 2023-02-26.
 
 Example:		centigrade/ -> ℃
 */

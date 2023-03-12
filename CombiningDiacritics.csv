@@ -4,10 +4,9 @@ License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
 Author:		Maciej Słojewski (🐘), http://mslonik.pl
 			SalviaSage
 
-Purpose:		Unicode combining diacritics sender. Helps type markings that go on top, below or around other letters.
+Purpose:		Unicode, combining diacritics sender. Character markings that go on top, below or around.
 
-Notes:		37 definitions.
-			Based on "CombiningDiacritics.csv" by SalviaSage.
+Notes:		Based on "CombiningDiacritics.csv" by SalviaSage.
 			https://symbl.cc/en/unicode/blocks/combining-diacritical-marks/
 			https://symbl.cc/en/
 
@@ -19,8 +18,8 @@ Example:		agrave/ → à
 *C1?Z‖gravedoubleaccent/‖SI‖En‖{U+030F}‖combining double grave accent (U+030F)
 *C1?Z‖acute/‖SI‖En‖{U+0301}‖combining acute accent (U+0301)
 *C1?Z‖acuteaccent/‖SI‖En‖{U+0301}‖combining acute accent (U+0301)
-*C1?Z‖doubleacute/‖SI‖En‖{U+030B}‖combining double acute accent (U+030B)
-*C1?Z‖doubleacuteaccent/‖SI‖En‖{U+030B}‖combining double acute accent (U+030B)
+*C1?Z‖acutedouble/‖SI‖En‖{U+030B}‖combining double acute accent (U+030B)
+*C1?Z‖acutedoubleaccent/‖SI‖En‖{U+030B}‖combining double acute accent (U+030B)
 *C1?Z‖circumflex/‖SI‖En‖{U+0302}‖combining circumflex accent (U+0302)
 *C1?Z‖circumflexaccent/‖SI‖En‖{U+0302}‖combining circumflex accent (U+0302)
 *C1?Z‖umlaut/‖SI‖En‖{U+0308}‖combining diaeresis (U+0308)
