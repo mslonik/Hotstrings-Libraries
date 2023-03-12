@@ -108,7 +108,44 @@ At the moment there is no way to choose S1 or S2 "output functions" from GUI of 
 | triggerstring | →             |     hotstring |
 | :---         |     :---:      |         :---: |
 | agrave/   | git status     | ```à```    |
-| git diff     | git diff       | git diff      |
+| agraveaccent/ | → | ```à```      |
+| agravedouble/ | → | ```ȁ```      |
+| agrave/ | → | ```à```            |
+| agravedoubleaccent/ | → | ```ȁ```|
+| aacute/  | → | ```á```           |
+| aacuteaccent/ | → | ```á```      |
+| aacutedouble/ | → | ```a̋```      |
+| aacutedoubleaccent/ | → | ```a̋```|
+| acircumflex/ | → | ```â```       |
+| acircumflexaccent/ | → | ```â``` |
+| aumlaut/ | → | ```ä```           |
+| atrema/ | → | ```ä```            |
+| adiaeresis/ | → | ```ä```        |
+| aogonek/ | → | ```ą```           |
+| ahook/ | → | ```ả```             |
+| ahookabove/ | → | ```ả```        |
+| adotabove/ | → | ```ȧ```         |
+| adotbelow/ | → | ```ạ```         |
+| acedilla/ | → | ```a̧```          |
+| acommabelow/  | → | ```a̦```      |
+| asicilicus/   | → | ```a͗```      |
+| abreve/ | → | ```ă```            |
+| abreveinverted/  | → | ```ȃ```   |
+| atilde/ | → | ```ã```            |
+| amacron/ | → | ```ā```           |
+| amacronbelow/ | → | ```a̱```      |
+| amacrondouble/ | → | ```a͞```     |
+| amacrondoublebelow/ | → | ``` ```|
+| acaron/ | → | ```ǎ```            |
+| ahacek/ | → | ```ǎ```            |
+| ahorn/ | → | ```a̛```             |
+| aoverring/ | → | ```å```         |
+| aringabove/ | → | ```å```        |
+| aunderring/ | → | ```ḁ```        |
+| aringbelow/ | → | ```ḁ```        |
+| aroughbreathing/ | → | ```a̔```   |
+| asmoothbreathing/ | → | ```a᾿```  |
+
 
 
 agrave/ → ```à```
