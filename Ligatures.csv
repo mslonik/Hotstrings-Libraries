@@ -1,0 +1,22 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+			SalviaSage
+
+Purpose:		Unicode symbols of ligatures.	8 definitions
+
+Notes:		Based on "(Unicode Sender) Ligatures.csv" by SalviaSage.
+			https://symbl.cc/en/
+
+Example:		oeligature/ → œ
+*/
+
+*C1?Z‖oeligature/‖SI‖En‖œ‖latin small ligature oe (U+0153)
+*C1?Z‖capitaloeligature/‖SI‖En‖Œ‖latin capital ligature oe (U+0152)
+*C1?Z‖oeligaturecapital/‖SI‖En‖Œ‖latin capital ligature oe (U+0152)
+*C1?Z‖aeligature/‖SI‖En‖æ‖latin small letter ae (U+00E6)
+*C1?Z‖capitalaeligature/‖SI‖En‖Æ‖latin capital letter ae (U+00C6)
+*C1?Z‖aeligaturecapital/‖SI‖En‖Æ‖latin capital letter ae (U+00C6)
+*C1?Z‖ijligature/‖SI‖En‖ĳ‖latin capital letter ae (U+0133)
+*C1?Z‖capitalijligature/‖SI‖En‖Ĳ‖latin capital letter ae (U+0132)

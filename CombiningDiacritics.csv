@@ -1,0 +1,52 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+			SalviaSage
+
+Purpose:		Unicode combining diacritics sender. Helps type markings that go on top, below or around other letters.
+
+Notes:		37 definitions.
+			Based on "CombiningDiacritics.csv" by SalviaSage.
+			https://symbl.cc/en/unicode/blocks/combining-diacritical-marks/
+			https://symbl.cc/en/
+
+Example:		agrave/ → à
+*/
+*C1?Z‖grave/‖SI‖En‖{U+0300}‖combining grave accent (U+0300)
+*C1?Z‖graveaccent/‖SI‖En‖{U+0300}‖combining grave accent (U+0300)
+*C1?Z‖gravedouble/‖SI‖En‖{U+030F}‖combining double grave accent (U+030F)
+*C1?Z‖gravedoubleaccent/‖SI‖En‖{U+030F}‖combining double grave accent (U+030F)
+*C1?Z‖acute/‖SI‖En‖{U+0301}‖combining acute accent (U+0301)
+*C1?Z‖acuteaccent/‖SI‖En‖{U+0301}‖combining acute accent (U+0301)
+*C1?Z‖doubleacute/‖SI‖En‖{U+030B}‖combining double acute accent (U+030B)
+*C1?Z‖doubleacuteaccent/‖SI‖En‖{U+030B}‖combining double acute accent (U+030B)
+*C1?Z‖circumflex/‖SI‖En‖{U+0302}‖combining circumflex accent (U+0302)
+*C1?Z‖circumflexaccent/‖SI‖En‖{U+0302}‖combining circumflex accent (U+0302)
+*C1?Z‖umlaut/‖SI‖En‖{U+0308}‖combining diaeresis (U+0308)
+*C1?Z‖trema/‖SI‖En‖{U+0308}‖combining diaeresis (U+0308)
+*C1?Z‖diaeresis/‖SI‖En‖{U+0308}‖combining diaeresis (U+0308)
+*C1?Z‖ogonek/‖SI‖En‖{U+0328}‖combining ogonek (U+0328)
+*C1?Z‖hook/‖SI‖En‖{U+0309}‖combining hook above (U+0309)
+*C1?Z‖hookabove/‖SI‖En‖{U+0309}‖combining hook above (U+0309)
+*C1?Z‖dotabove/‖SI‖En‖{U+0307}‖combining dot above (U+0307)
+*C1?Z‖dotbelow/‖SI‖En‖{U+0323}‖combining dot below (U+0323)
+*C1?Z‖cedilla/‖SI‖En‖{U+0327}‖combining cedilla (U+0327)
+*C1?Z‖commabelow/‖SI‖En‖{U+0326}‖combining comma below (U+0326)
+*C1?Z‖sicilicus/‖SI‖En‖{U+0357}‖combining right half ring above (U+0357)
+*C1?Z‖breve/‖SI‖En‖{U+0306}‖combining breve (U+0306)
+*C1?Z‖breveinverted/‖SI‖En‖{U+0311}‖combining inverted breve (U+0311)
+*C1?Z‖tilde/‖SI‖En‖{U+0303}‖combining tilde (U+0303)
+*C1?Z‖macron/‖SI‖En‖{U+0304}‖combining macron (U+0304)
+*C1?Z‖macronbelow/‖SI‖En‖{U+0331}‖combining macron below (U+0331)
+*C1?Z‖macrondouble/‖SI‖En‖{U+035E}‖combining double macron (U+035E)
+*C1?Z‖macrondoublebelow/‖SI‖En‖{U+035F}‖combining double macron below (U+035F)
+*C1?Z‖caron/‖SI‖En‖{U+030C}‖combining caron (U+030C)
+*C1?Z‖hacek/‖SI‖En‖{U+030C}‖combining caron (U+030C)
+*C1?Z‖horn/‖SI‖En‖{U+031B}‖combining horn (U+031B)
+*C1?Z‖overring/‖SI‖En‖{U+030A}‖combining ring above (U+030A)
+*C1?Z‖ringabove/‖SI‖En‖{U+030A}‖combining ring above (U+030A)
+*C1?Z‖underring/‖SI‖En‖{U+0325}‖combining ring below (U+0325)
+*C1?Z‖ringbelow/‖SI‖En‖{U+0325}‖combining ring below (U+0325)
+*C1?Z‖roughbreathing/‖SI‖En‖{U+0314}‖combining reversed comma above (U+0314)
+*C1?Z‖smoothbreathing/‖SI‖En‖{U+0313}‖combining comma above (U+0313)
