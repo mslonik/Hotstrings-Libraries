@@ -105,6 +105,12 @@ At the moment there is no way to choose S1 or S2 "output functions" from GUI of 
 
 **Examples:**		
 
+| triggerstring | →             |     hotstring |
+| :---         |     :---:      |         :---: |
+| agrave/   | git status     | ```à```    |
+| git diff     | git diff       | git diff      |
+
+
 agrave/ → ```à```
 agraveaccent/ → ```à```
 agravedouble/ → ```ȁ```
@@ -142,6 +148,10 @@ aunderring/ → ```ḁ```
 aringbelow/ → ```ḁ```
 aroughbreathing/ → ```a̔```
 asmoothbreathing/ → ```a᾿```
+
+```
+a̋ a̋ â â ä ą ả ȧ ạ a̧ a̦ a͗ ă ȃ ã ā a̱ a͞ a͟ ǎ ǎ a̛ å ḁ  a̔ a᾿
+```
 
 [Back to the top](#back-to-the-top)
 <br />
