@@ -151,9 +151,9 @@ At the moment there is no way to choose S1 or S2 "output functions" from GUI of 
 </details>
 
 ---
-
+<a name="abbreviations-english"></a>
 <details>
-<summary><h3><b>AbbreviationsEnglish.csv</b></h3></summary> <a name="abbreviations-english"></a>
+<summary><h3><b>AbbreviationsEnglish.csv</b></h3></summary>
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -193,8 +193,9 @@ Thanks to **Hotstrings** application all three forms can be easily applied.
 </details>
 
 ---
+<a name="autocomplete-brackets"></a>
 <details>
-<summary><h3><b>AutocompleteBrackets.csv</b></h3></summary> <a name="autocomplete-brackets"></a>
+<summary><h3><b>AutocompleteBrackets.csv</b></h3></summary> 
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -225,8 +226,9 @@ Meaning of hotstring:
 </details>
 
 ---
+<a name="auto-correct"></a>
 <details>
-<summary><h3><b>AutoCorrect.csv</b></h3></summary> <a name="auto-correct"></a>
+<summary><h3><b>AutoCorrect.csv</b></h3></summary> 
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -256,8 +258,9 @@ Meaning of options:
 </details>
 
 ---
+<a name="auto-correction-hotstrings"></a>
 <details>
-<summary><h3><b>AutocorrectionHotstrings.csv</b></h3></summary> <a name="auto-correction-hotstrings"></a>
+<summary><h3><b>AutocorrectionHotstrings.csv</b></h3></summary> 
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -279,8 +282,9 @@ Comment: name of Finnish coutry game. Origin written form contains diacritic cha
 </details>
 
 ---
+<a name="box-drawing"></a>
 <details>
-<summary><h3><b>BoxDrawing.csv</b></h3></summary> <a name="box-drawing"></a>
+<summary><h3><b>BoxDrawing.csv</b></h3></summary> 
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -306,8 +310,9 @@ Thanks to this library it is relatively easier to prepare ASCII only based block
 </details>
 
 ---
+<a name="capital-letters"></a>
 <details>
-<summary><h3><b>CapitalLetters.csv</b></h3></summary> <a name="capital-letters"></a>
+<summary><h3><b>CapitalLetters.csv</b></h3></summary> 
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -328,8 +333,9 @@ Thanks to this library it is relatively easier to prepare ASCII only based block
 </details>
 
 ---
+<a name="circled-numbers"></a>
 <details>
-<summary><h3><b>CircledNumbers.csv</b></h3></summary> <a name="circled-numbers"></a>
+<summary><h3><b>CircledNumbers.csv</b></h3></summary> 
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -355,8 +361,9 @@ Thanks to this library it is relatively easier to prepare ASCII only based block
 </details>
 
 ---
+<a name="diacritics-deadkey-polish"></a>
 <details>
-<summary><h3><b>DiacriticsDeadkey_Polish.csv</b></h3></summary> <a name="diacritics-deadkey-polish"></a>
+<summary><h3><b>DiacriticsDeadkey_Polish.csv</b></h3></summary> 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
 **Author**:		   Maciej Słojewski (🐘)
@@ -380,8 +387,9 @@ kąt
 </details>
 
 ---
+<a name="diacritics-hotstrings"></a>
 <details>
-<summary><h3><b>DiacriticsHotstrings.csv</b></h3></summary> <a name="diacritics-hotstrings"></a>
+<summary><h3><b>DiacriticsHotstrings.csv</b></h3></summary> 
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -407,8 +415,9 @@ After triggerstring + trigger is pressed, user can choose from the list of 7x di
 </details>
 
 ---
+<a name="emoji-hotstrings"></a>
 <details>
-<summary><h3><b>EmojiHotstrings.csv</b></h3></summary> <a name="emoji-hotstrings"></a>
+<summary><h3><b>EmojiHotstrings.csv</b></h3></summary> 
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -433,8 +442,9 @@ After triggerstring + trigger is pressed, user can choose from the list of 7x di
 </details>
 
 ---
+<a name="examples-testlib"></a>
 <details>
-<summary><h3><b>Examples_TestLib.csv</b></h3></summary> <a name="examples-testlib"></a>
+<summary><h3><b>Examples_TestLib.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski (🐘)
 
@@ -461,8 +471,9 @@ newline (linefeed/LF)
 </details>
 
 ---
+<a name="file-formats"></a>
 <details>
-<summary><h3><b>FileFormats.csv</b></h3></summary> <a name="file-formats"></a>
+<summary><h3><b>FileFormats.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski (🐘)
 
@@ -513,8 +524,9 @@ This is file extension SVG.
 </details>
 
 ---
+<a name="finance"></a>
 <details>
-<summary><h3><b>inance.csv</b></h3></summary> <a name="finance"></a>
+<summary><h3><b>inance.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski (🐘)
 
@@ -541,8 +553,9 @@ Bank Identifier Code
 </details>
 
 ---
+<a name="first-name-capitalizer"></a>
 <details>
-<summary><h3><b>FirstNameCapitalizer.csv</b></h3></summary> <a name="first-name-capitalizer"></a>
+<summary><h3><b>FirstNameCapitalizer.csv</b></h3></summary> 
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -568,8 +581,9 @@ Daniel
 </details>
 
 ---
+<a name="function-keys"></a>
 <details>
-<summary><h3><b>FunctionKeys.csv</b></h3></summary> <a name="function-keys"></a>
+<summary><h3><b>FunctionKeys.csv</b></h3></summary> 
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -591,8 +605,9 @@ Daniel
 </details>
 
 ---
+<a name="hotstrings-hotstrings"></a>
 <details>
-<summary><h3><b>HotstringsHotstrings.csv</b></h3></summary> <a name="hotstrings-hotstrings"></a>
+<summary><h3><b>HotstringsHotstrings.csv</b></h3></summary> 
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -614,8 +629,9 @@ If option "show triggerstring tips" is enabled in configuration of Hotstrings ap
 </details>
 
 ---
+<a name="incoterms"></a>
 <details>
-<summary><h3><b>Incoterms.csv</b></h3></summary> <a name="incoterms"></a>
+<summary><h3><b>Incoterms.csv</b></h3></summary> 
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -639,9 +655,9 @@ The seller pays for the carriage of the goods up to the named port of destinatio
 </details>
 
 ---
-
+<a name="markdown"></a>
 <details>
-<summary><h3><b>Markdown.csv</b></h3></summary> <a name="markdown"></a>
+<summary><h3><b>Markdown.csv</b></h3></summary> 
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -665,9 +681,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 </details>
 
 ---
-
+<a name="ortographic"></a>
 <details>
-<summary><h3><b>Ortographic.csv</b></h3></summary> <a name="ortographic"></a>
+<summary><h3><b>Ortographic.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski (🐘)
 
@@ -695,8 +711,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 </details>
 
 ---
+<a name="personal-hotstrings-template"></a>
 <details>
-<summary><h3><b>PersonalHotstringsTemplate.csv</b></h3></summary> <a name="personal-hotstrings-template"></a>
+<summary><h3><b>PersonalHotstringsTemplate.csv</b></h3></summary> 
 **Author**:		Maciej Słojewski (🐘)
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -720,8 +737,9 @@ If you enter "cardmy/", then on the screep hotstring menu is displayed containin
 </details>
 
 ---
+<a name="physics-hotstrings"></a>
 <details>
-<summary><h3><b>PhysicsHotstrings.csv</b></h3></summary> <a name="physics-hotstrings"></a>
+<summary><h3><b>PhysicsHotstrings.csv</b></h3></summary> 
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
@@ -743,8 +761,9 @@ If you enter "<=" it is replaced into:
 </details>
 
 ---
+<a name="polski"></a>
 <details>
-<summary><h3><b>polski.csv</b></h3></summary> <a name="polski"></a>
+<summary><h3><b>polski.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski (🐘)
 
@@ -769,8 +788,9 @@ co najmniej
 </details>
 
 ---
+<a name="roman-numerals"></a>
 <details>
-<summary><h3><b>RomanNumerals.csv</b></h3></summary> <a name="roman-numerals"></a>                            | Unicode symbols of Roman numerals. Types the Roman numerals instead of typing them with the Latin letters. |            68                 |
+<summary><h3><b>RomanNumerals.csv</b></h3></summary> 
 
 **Author:**		Maciej Słojewski (🐘), http://mslonik.pl
 			      SalviaSage
@@ -800,8 +820,9 @@ co najmniej
 </details>
 
 ---
+<a name="punctuation"></a>
 <details>
-<summary><h3><b>Punctuation.csv</b></h3></summary> <a name="punctuation"></a>
+<summary><h3><b>Punctuation.csv</b></h3></summary> 
 **Author**:		Julia Kierska, Maciej Słojewski
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
@@ -825,8 +846,9 @@ cat dog
 </details>
 
 ---
+<a name="s2-double-space"></a>
 <details>
-<summary><h3><b>S2_DoubleSpace.csv</b></h3></summary> <a name="s2-double-space"></a>
+<summary><h3><b>S2_DoubleSpace.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski
 
@@ -856,8 +878,9 @@ home. F
 </details>
 
 ---
+<a name="s2-double-space-polish"></a>
 <details>
-<summary><h3><b>S2_DoubleSpace_Polish.csv</b></h3></summary> <a name="s2-double-space-polish"></a>
+<summary><h3><b>S2_DoubleSpace_Polish.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski
 
@@ -886,9 +909,9 @@ jaką. F
 </details>
 
 ---
-
+<a name="time-hotstrings"></a>
 <details>
-<summary><h3><b>TimeHotstrings.csv</b></h3></summary> <a name="time-hotstrings"></a>
+<summary><h3><b>TimeHotstrings.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski
 
@@ -938,8 +961,9 @@ Remarks:
 <br />
 
 ---
+<a name="brand-and-proper-names"></a>
 <details>
-<summary><h3><b>BrandAndProperNames.csv</b></h3></summary> <a name="brand-and-proper-names"></a>
+<summary><h3><b>BrandAndProperNames.csv</b></h3></summary> 
 
 **Concept**: Brand names, proper names of products.
 
@@ -960,8 +984,9 @@ Comment:
 </details>
 
 ---
+<a name="building-blocks"></a>
 <details>
-<summary><h3><b>BuildingBlocks.csv</b></h3></summary> <a name="building-blocks"></a>
+<summary><h3><b>BuildingBlocks.csv</b></h3></summary> 
 
 **Concept**: Building blocks from Microsoft Word template file (.dotm or .dotx) must belong to "autotext" category. After entering "autotext" dedicated to specific building block F3 key has to be pressed. Next building block is inserted into document content. The definitions belonging to this library make sense only when: 1. Microsoft Word is open. 2. Active Microsoft Word document has attached specific template file.
 
@@ -984,8 +1009,9 @@ Comment:
 </details>
 
 ---
+<a name="dsat"></a>
 <details>
-<summary><h3><b>dSAT.csv</b></h3></summary> <a name="dsat"></a>
+<summary><h3><b>dSAT.csv</b></h3></summary> 
 **Concept**: In railway business certain specific definitions of common terms are applied. To keep unified lanugage this library was created.
 
 **Example**: –
@@ -997,8 +1023,9 @@ Comment:
 </details>
 
 ---
+<a name="first-and-second-names"></a>
 <details>
-<summary><h3><b>FirstAndSecondNames.csv</b></h3></summary> <a name="first-and-second-names"></a>
+<summary><h3><b>FirstAndSecondNames.csv</b></h3></summary> 
 **Concept**: In formal e-mail correspondence or even in corporate text messengers it is good to have set ot first-name second-name abbreviations which are replaced with full Firstname Secondname, starting from capital letters. 
 
 In some languages (e.g. Polish) endings of first-name and second-name are changed according to position and form in a sentence. Thanks to Hotstrings this local feature is addressed.
@@ -1019,8 +1046,9 @@ John Smith
 </details>
 
 ---
+<a name="project-specific"></a> 
 <details>
-<summary><h3><b>ProjectSpecific.csv</b></h3></summary> <a name="project-specific"></a> 
+<summary><h3><b>ProjectSpecific.csv</b></h3></summary> 
 **Concept**: Collections of abbreviations, terms, definitions which are specific to one project. Sometimes in commercial project are required literal definitions of notions, which can differ from other, well known sources of information. In such cases it is good to have handy set of definitions, which can be quickly and exactly called in any text / edit / input. Thanks to flexibility of *Hotstrings* application it is possible on the fly to switch on and off specific libraries when for example the same abbreviation is present in different projects. Another feature worth to remember is option to move specific definition from one library to another. Finally it is possible to place comments to specific definitions.
 
 **Example**:
@@ -1039,8 +1067,9 @@ The subsystem within Automatic Train Control system whichenforces safe operation
 </details>
 
 ---
+<a name="technical-hotstrings"></a>
 <details>
-<summary><h3><b>TechnicalHotstrings.csv</b></h3></summary> <a name="technical-hotstrings"></a>
+<summary><h3><b>TechnicalHotstrings.csv</b></h3></summary> 
 **Concept**: Technical standards, technical documents useful on time of authoring technical documentation. Collection of technical standards short names which are complemented in full form with dates, exact title. Useful on time of bringing references to technical documentation, quotations, building lists of references.
 
 **Example**:
@@ -1059,8 +1088,9 @@ ISO 14001:2015 Environmental management systems ─ Requirements with guidance 
 </details>
 
 ---
+<a name="technical-hotstrings"></a>
 <details>
-<summary><h3><b>SubjectSpecific.csv</b></h3></summary> <a name="technical-hotstrings"></a>
+<summary><h3><b>SubjectSpecific.csv</b></h3></summary> 
 **Concept**: Collections of abbreviations, terms, definitions which are specific to one subject, e.g. "information security (cybersecurity)".
 
 **Example**:
@@ -1079,8 +1109,9 @@ individual or organization responsible for one or more IACSs
 </details>
 
 ---
+<a name="technical-hotstrings"></a> 
 <details>
-<summary><h3><b>ProductSpecific.csv</b></h3></summary> <a name="technical-hotstrings"></a> 
+<summary><h3><b>ProductSpecific.csv</b></h3></summary> 
 **Concept**: Collections of abbreviations, terms, definitions which are specific to one product, e.g. "system".
 
 **Example**:
@@ -1101,8 +1132,9 @@ what saves some time on writing (two time less of Shift presses).
 </details>
 
 ---
+<a name="technical-hotstrings"></a>
 <details>
-<summary><h3><b>CompanySpecific.csv</b></h3></summary> <a name="technical-hotstrings"></a>
+<summary><h3><b>CompanySpecific.csv</b></h3></summary> 
 
 **Concept**: Collections of abbreviations, terms, definitions which are specific to one company.
 
@@ -1145,8 +1177,9 @@ Remarks:
 <br />
 
 ---
+<a name="exceptions"></a>
 <details>
-<summary><h3><b>Exceptions.csv</b></h3></summary> <a name="exceptions"></a>
+<summary><h3><b>Exceptions.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski
 
@@ -1176,8 +1209,9 @@ by the first instance of *Hotstrings* application (library "EmojiHotstrings.csv"
 </details>
 
 ---
+<a name="first-capital-exceptions"></a>
 <details>
-<summary><h3><b>FirstCapitalExceptions.csv</b></h3></summary> <a name="first-capital-exceptions"></a>
+<summary><h3><b>FirstCapitalExceptions.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski
 
@@ -1200,8 +1234,9 @@ If you enter the triggerstring "np.", the input hook buffer gets ready to trigge
 </details>
 
 ---
+<a name="basic-layer-to-shift-layer"></a>
 <details>
-<summary><h3><b>S2_BasicLayerToShiftLayer.csv</b></h3></summary> <a name="basic-layer-to-shift-layer"></a>
+<summary><h3><b>S2_BasicLayerToShiftLayer.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski
 
@@ -1230,9 +1265,9 @@ Remarks:
 </details>
 
 ---
-
+<a name="s2-first-capital"></a>
 <details>
-<summary><h3><b>S2_FirstCapital.csv</b></h3></summary> <a name="s2-first-capital"></a>
+<summary><h3><b>S2_FirstCapital.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski
 
@@ -1270,9 +1305,9 @@ Remarks:
 </details>
 
 ---
-
+<a name="s2-layer-keys"></a>
 <details>
-<summary><h3><b>S2_LayerKeys.csv</b></h3></summary> <a name="s2-layer-keys"></a>
+<summary><h3><b>S2_LayerKeys.csv</b></h3></summary> 
 
 **Author**:		Maciej Słojewski
 
