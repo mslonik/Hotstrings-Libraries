@@ -20,48 +20,45 @@ Hotstring-library is text file (*.csv) formatted to work with [*Hotstrings*](htt
 
 ## **The free library files** <a name="free-library-files"></a>
 
-| no. | library name                                                    | library description                                                                                    | no. of definitions within library |
-|:----|:----------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:---------------------------------:|
-| 1.  | (Typer Helper) DevanagariTyperHelper_VowelSet.csv               | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
-| 2.  | (Typer Helper) GreekSigmaHelper.csv                             | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
-| 3.  | (Typer Helper) GurmukhiTyperHelper_VowelSet.csv                 | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
-| 4.  | (Unicode Sender) Combining Diacritics.csv                       | Helps type orthographic characters not found on the keyboard.                                          |                ???                |
-| 5.  | (Unicode Sender) Computer-Keys Symbols.csv                      | Helps type the symbols of world currencies.                                                            |                ???                |
-| 6.  | (Unicode Sender) Currency Symbols.csv                           | Helps type computer-keys symbols.                                                                      |                ???                |
-| 7.  | (Unicode Sender) Ligatures.csv                                  | Helps type computer-keys symbols.                                                                      |                ???                |
-| 8.  | (Unicode Sender) Mathematical (Needs Improvement).csv           | Helps type computer-keys symbols.                                                                      |                ???                |
-| 9.  | (Unicode Sender) Orthographic.csv                               | Helps type computer-keys symbols.                                                                      |                165                |
-| 10. | (Unicode Sender) Roman Numerals.csv                             | Helps type computer-keys symbols.                                                                      |                ???                |
-|     |                                                                 |                                                                                                        |                                   |
-| 11. | [CombiningDiacritics.csv](#combining-diacritics)                | Unicode, combining diacritics sender. Character markings that go on top, below or around.              |               37                  |
-| 11. | [AbbreviationsEnglish.csv](#abbreviations-english)              | Acronyms / abbreviations typical for English language.                                                 |               ~550                |
-| 12. | [AutocompleteBrackets.csv](#autocomplete-brackets)              | Adds closing bracket and shifts cursor in between the brackets.                                        |                 5                 |
-| 13. | [AutoCorrect.csv](#auto-correct)                                | Hotstrings to correct common English misspellings on-the-fly.                                          |               4841                |
-| 14. | [AutoCorrectionHotstrings.csv](#auto-correction-hotstrings)     | Automatic corrections of mispelled words and couple more abbreviations.                                |                18                 |
-| 15. | [BoxDrawing.csv](#box-drawing)                                  | ASCII box drawing characters.                                                                          |                 8                 |
-| 16. | [CapitalLetters.csv](#capital-letters)                          | Auto-capitalization of first letter in the first word like week days, month days, geographical names.  |                ~80                |
-| 17. | [CircledNumbers.csv](#circled-numbers)                          | Unicode characters: numbers or letters inside of circles.                                              |                46                 |
-| 18. | [DiacriticsDeadkey_Polish.csv](#diacritics-deadkey-polish)      | Demonstration of dead key hotstrings used to enter diacritic characters (actually Polish diacritics).  |                18                 |
-| 19. | [DiacriticsHotstrings.csv](#diacritics-hotstrings)              | So called diacritics or accented letters not present in English.                                       |                ~25                |
-| 20. | [EmojiHotstrings.csv](#emoji-hotstrings)                        | Unicode characters called emojis.                                                                      |                ~75                |
-| 21. | [Examples_TestLib.csv](#examples-testlib)                       | Example and test definitions which check specific features of Hotstrings application.                  |                27                 |
-| 22. | [FileFormats.csv](#file-formats)                                | File formats specific.                                                                                 |                44                 |
-| 23. | [Finance.csv](#finance)                                         | Abbreviations and definitions dedicated to subject of finances.                                        |                30                 |
-| 24. | [FirstNameCapitalizer.csv](#first-name-capitalizer)             | Replaces text string representing first name with first capitalized first letter.                      |                40                 |
-| 25. | [FunctionKeys.csv](#function-keys)                              | Option to call function keys (or F keys): F1 ... F24 just by typing ordinary letters.                  |                36                 |
-| 26. | [HotstringsHotstrings.csv](#hotstrings-hotstrings)              | Prepare triggerstring tips about hotstrings active for Hotstrings application.                         |                 9                 |
-| 27. | [Incoterms.csv](#incoterms)                                     | Abbreviations and full definitions of Incoterms.                                                       |                24                 |
-| 28. | [Markdown.csv](#markdown)                                       | Markdown lightweight markup language cheat sheet.                                                      |                15                 |
-| 29. | [Ortographic.csv](#ortographic)                                 | Unicode, set of various ortographic characters.                                                        |               168                 |
-| 30. | [PersonalHotstringsTemplate.csv](#personal-hotstrings-template) | Personal hotstrings template.                                                                          |                13                 |
-| 31. | [PhysicsHotstrings.csv](#physics-hotstrings)                    | Various unicode symbols more or less related to physics.                                               |                ~75                |
-| 32. | [polski.csv](#polski)                                           | Mix of various subcategories such as abbrevitaions, "capital letters", Polish specific "auto correct". |                ~20                |
-| 33. | [RomanNumerals.csv](#roman-numerals)                            | Unicode, symbols of Roman numerals. Types the Roman numerals instead of typing them with the Latin letters. |            68                 |
-| 34. | [Punctuation.csv](#punctuation)                                 | Punctuation and non-breaking characters.                                                               |                ~20                |
-| 35.  | [S2_DoubleSpace.csv](#s2-double-space)                       | Double pressing of 2x space key converted into dot and space.                                                    |         26         |
-| 36.  | [S2_DoubleSpace_Polish.csv](#s2-double-space-polish)         | Enables pressing of 2x space key converted into dot and space also for words finished with Polish diacritic.     |         9          |
-| 37. | [TimeHotstrings](#time-hotstrings)                              | Definitions of time.                                                                                   |                22                 |
-| | | **TOTAL**: (last checked on: 2023-02-26) | ~6244  |
+| no. | library name                                                    | library description                                                                                          | no. of definitions within library |
+|:----|:----------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------------------------------:|
+| 1.  | (Typer Helper) DevanagariTyperHelper_VowelSet.csv               | Helps type orthographic characters not found on the keyboard.                                                |                ???                |
+| 2.  | (Typer Helper) GreekSigmaHelper.csv                             | Helps type orthographic characters not found on the keyboard.                                                |                ???                |
+| 3.  | (Typer Helper) GurmukhiTyperHelper_VowelSet.csv                 | Helps type orthographic characters not found on the keyboard.                                                |                ???                |
+| 4.  | (Unicode Sender) Computer-Keys Symbols.csv                      | Helps type the symbols of world currencies.                                                                  |                ???                |
+| 5.  | (Unicode Sender) Currency Symbols.csv                           | Helps type computer-keys symbols.                                                                            |                ???                |
+| 6.  | (Unicode Sender) Ligatures.csv                                  | Helps type computer-keys symbols.                                                                            |                ???                |
+| 7.  | (Unicode Sender) Mathematical (Needs Improvement).csv           | Helps type computer-keys symbols.                                                                            |                ???                |
+|     |                                                                 |                                                                                                              |                                   |
+| 8. | [CombiningDiacritics.csv](#combining-diacritics)                | Unicode, combining diacritics sender. Character markings that go on top, below or around.                    |                37                 |
+| 9. | [AbbreviationsEnglish.csv](#abbreviations-english)              | Acronyms / abbreviations typical for English language.                                                       |               ~550                |
+| 10. | [AutocompleteBrackets.csv](#autocomplete-brackets)              | Adds closing bracket and shifts cursor in between the brackets.                                              |                 5                 |
+| 11. | [AutoCorrect.csv](#auto-correct)                                | Hotstrings to correct common English misspellings on-the-fly.                                                |               4841                |
+| 12. | [AutoCorrectionHotstrings.csv](#auto-correction-hotstrings)     | Automatic corrections of mispelled words and couple more abbreviations.                                      |                18                 |
+| 13. | [BoxDrawing.csv](#box-drawing)                                  | ASCII box drawing characters.                                                                                |                 8                 |
+| 14. | [CapitalLetters.csv](#capital-letters)                          | Auto-capitalization of first letter in the first word like week days, month days, geographical names.        |                ~80                |
+| 15. | [CircledNumbers.csv](#circled-numbers)                          | Unicode characters: numbers or letters inside of circles.                                                    |                46                 |
+| 16. | [DiacriticsDeadkey_Polish.csv](#diacritics-deadkey-polish)      | Demonstration of dead key hotstrings used to enter diacritic characters (actually Polish diacritics).        |                18                 |
+| 17. | [DiacriticsHotstrings.csv](#diacritics-hotstrings)              | So called diacritics or accented letters not present in English.                                             |                ~25                |
+| 18. | [EmojiHotstrings.csv](#emoji-hotstrings)                        | Unicode characters called emojis.                                                                            |                ~75                |
+| 19. | [Examples_TestLib.csv](#examples-testlib)                       | Example and test definitions which check specific features of Hotstrings application.                        |                27                 |
+| 20. | [FileFormats.csv](#file-formats)                                | File formats specific.                                                                                       |                44                 |
+| 21. | [Finance.csv](#finance)                                         | Abbreviations and definitions dedicated to subject of finances.                                              |                30                 |
+| 22. | [FirstNameCapitalizer.csv](#first-name-capitalizer)             | Replaces text string representing first name with first capitalized first letter.                            |                40                 |
+| 23. | [FunctionKeys.csv](#function-keys)                              | Option to call function keys (or F keys): F1 ... F24 just by typing ordinary letters.                        |                36                 |
+| 24. | [HotstringsHotstrings.csv](#hotstrings-hotstrings)              | Prepare triggerstring tips about hotstrings active for Hotstrings application.                               |                 9                 |
+| 25. | [Incoterms.csv](#incoterms)                                     | Abbreviations and full definitions of Incoterms.                                                             |                24                 |
+| 26. | [Markdown.csv](#markdown)                                       | Markdown lightweight markup language cheat sheet.                                                            |                15                 |
+| 27. | [Ortographic.csv](#ortographic)                                 | Unicode, set of various ortographic characters.                                                              |                168                |
+| 28. | [PersonalHotstringsTemplate.csv](#personal-hotstrings-template) | Personal hotstrings template.                                                                                |                13                 |
+| 29. | [PhysicsHotstrings.csv](#physics-hotstrings)                    | Various unicode symbols more or less related to physics.                                                     |                ~75                |
+| 30. | [polski.csv](#polski)                                           | Mix of various subcategories such as abbrevitaions, "capital letters", Polish specific "auto correct".       |                ~20                |
+| 31. | [RomanNumerals.csv](#roman-numerals)                            | Unicode, symbols of Roman numerals. Types the Roman numerals instead of typing them with the Latin letters.  |                68                 |
+| 32. | [Punctuation.csv](#punctuation)                                 | Punctuation and non-breaking characters.                                                                     |                ~20                |
+| 33. | [S2_DoubleSpace.csv](#s2-double-space)                          | Double pressing of 2x space key converted into dot and space.                                                |                26                 |
+| 34. | [S2_DoubleSpace_Polish.csv](#s2-double-space-polish)            | Enables pressing of 2x space key converted into dot and space also for words finished with Polish diacritic. |                 9                 |
+| 35. | [TimeHotstrings](#time-hotstrings)                              | Definitions of time.                                                                                         |                22                 |
+|     |                                                                 | **TOTAL**: (last checked on: 2023-02-26)                                                                     |               ~6244               |
 Remarks:
 1. Only triggerstring definitions are counted. It means that if compound definition is present (single triggerstring -> multiple hotstrings), then it is counted as one.
 
@@ -105,90 +102,46 @@ At the moment there is no way to choose S1 or S2 "output functions" from GUI of 
 
 **Examples:**		
 
-| triggerstring | →             |     hotstring |
-| :---         |     :---:      |         :---: |
-| agrave/   | git status     | ```à```    |
-| agraveaccent/ | → | ```à```      |
-| agravedouble/ | → | ```ȁ```      |
-| agrave/ | → | ```à```            |
-| agravedoubleaccent/ | → | ```ȁ```|
-| aacute/  | → | ```á```           |
-| aacuteaccent/ | → | ```á```      |
-| aacutedouble/ | → | ```a̋```      |
-| aacutedoubleaccent/ | → | ```a̋```|
-| acircumflex/ | → | ```â```       |
-| acircumflexaccent/ | → | ```â``` |
-| aumlaut/ | → | ```ä```           |
-| atrema/ | → | ```ä```            |
-| adiaeresis/ | → | ```ä```        |
-| aogonek/ | → | ```ą```           |
-| ahook/ | → | ```ả```             |
-| ahookabove/ | → | ```ả```        |
-| adotabove/ | → | ```ȧ```         |
-| adotbelow/ | → | ```ạ```         |
-| acedilla/ | → | ```a̧```          |
-| acommabelow/  | → | ```a̦```      |
-| asicilicus/   | → | ```a͗```      |
-| abreve/ | → | ```ă```            |
-| abreveinverted/  | → | ```ȃ```   |
-| atilde/ | → | ```ã```            |
-| amacron/ | → | ```ā```           |
-| amacronbelow/ | → | ```a̱```      |
-| amacrondouble/ | → | ```a͞```     |
-| amacrondoublebelow/ | → | ``` ```|
-| acaron/ | → | ```ǎ```            |
-| ahacek/ | → | ```ǎ```            |
-| ahorn/ | → | ```a̛```             |
-| aoverring/ | → | ```å```         |
-| aringabove/ | → | ```å```        |
-| aunderring/ | → | ```ḁ```        |
-| aringbelow/ | → | ```ḁ```        |
-| aroughbreathing/ | → | ```a̔```   |
-| asmoothbreathing/ | → | ```a᾿```  |
-
-
-
-agrave/ → ```à```
-agraveaccent/ → ```à```
-agravedouble/ → ```ȁ```
-agravedoubleaccent/ → ```ȁ```
-aacute/  → ```á```
-aacuteaccent/ → ```á```
-aacutedouble/ → ```a̋```
-aacutedoubleaccent/ → ```a̋```
-acircumflex/ → ```â```
-acircumflexaccent/ → ```â```
-aumlaut/ → ```ä```
-atrema/ → ```ä```
-adiaeresis/ → ```ä```
-aogonek/ → ```ą```
-ahook/ → ```ả```
-ahookabove/ → ```ả```
-adotabove/ → ```ȧ```
-adotbelow/ → ```ạ```
-acedilla/ → ```a̧```
-acommabelow/  → ```a̦```
-asicilicus/   → ```a͗```
-abreve/ → ```ă```
-abreveinverted/  → ```ȃ```
-atilde/ → ```ã```
-amacron/ → ```ā```
-amacronbelow/ → ```a̱```
-amacrondouble/ → ```a͞```
-amacrondoublebelow/ → ``` ```
-acaron/ → ```ǎ```
-ahacek/ → ```ǎ```
-ahorn/ → ```a̛```
-aoverring/ → ```å```
-aringabove/ → ```å```
-aunderring/ → ```ḁ```
-aringbelow/ → ```ḁ```
-aroughbreathing/ → ```a̔```
-asmoothbreathing/ → ```a᾿```
-
-```
-a̋ a̋ â â ä ą ả ȧ ạ a̧ a̦ a͗ ă ȃ ã ā a̱ a͞ a͟ ǎ ǎ a̛ å ḁ  a̔ a᾿
-```
+| triggerstring       | → | hotstring |
+|:--------------------|:-:|:---------:|
+| agrave/             | → | ```à```  |
+| agraveaccent/       | → | ```à```  |
+| agravedouble/       | → | ```ȁ```  |
+| agrave/             | → | ```à```  |
+| agravedoubleaccent/ | → | ```ȁ```  |
+| aacute/             | → | ```á```  |
+| aacuteaccent/       | → | ```á```  |
+| aacutedouble/       | → | ```a̋```  |
+| aacutedoubleaccent/ | → | ```a̋```  |
+| acircumflex/        | → | ```â```  |
+| acircumflexaccent/  | → | ```â```  |
+| aumlaut/            | → | ```ä```  |
+| atrema/             | → | ```ä```  |
+| adiaeresis/         | → | ```ä```  |
+| aogonek/            | → | ```ą```  |
+| ahook/              | → | ```ả```  |
+| ahookabove/         | → | ```ả```  |
+| adotabove/          | → | ```ȧ```  |
+| adotbelow/          | → | ```ạ```  |
+| acedilla/           | → | ```a̧```  |
+| acommabelow/        | → | ```a̦```  |
+| asicilicus/         | → | ```a͗```  |
+| abreve/             | → | ```ă```  |
+| abreveinverted/     | → | ```ȃ```  |
+| atilde/             | → | ```ã```  |
+| amacron/            | → | ```ā```  |
+| amacronbelow/       | → | ```a̱```  |
+| amacrondouble/      | → | ```a͞```  |
+| amacrondoublebelow/ | → |  ``` ```  |
+| acaron/             | → | ```ǎ```  |
+| ahacek/             | → | ```ǎ```  |
+| ahorn/              | → | ```a̛```  |
+| aoverring/          | → | ```å```  |
+| aringabove/         | → | ```å```  |
+| aunderring/         | → | ```ḁ```  |
+| aringbelow/         | → | ```ḁ```  |
+| aroughbreathing/    | → | ```a̔```  |
+| asmoothbreathing/   | → | ```a᾿```  |
 
 [Back to the top](#back-to-the-top)
 <br />
@@ -725,9 +678,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 **Example**:
 
-| triggerstring + trigger | → | (triggerstring) options | → |  hotstring        | output function |
-|:-----------------------:|:-:|:-----------------------:|:-:|:-----------------:|:---------------:|
-|       tricolon/         | → |            *C1?Z        | → | ⁝                  |       SI       |
+| triggerstring + trigger | → | (triggerstring) options | → | hotstring | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------:|:---------------:|
+|        tricolon/        | → |          *C1?Z          | → |     ⁝     |       SI        |
 
 "tricolon/" is replaced into:
 ```
@@ -800,9 +753,9 @@ If you enter "<=" it is replaced into:
 
 **Example**:
 Z*‖conajmniej‖SI‖En‖co najmniej‖
-| triggerstring + trigger | → | (triggerstring) options | → |            hotstring             | output function |
-|:-----------------------:|:-:|:-----------------------:|:-:|:--------------------------------:|:---------------:|
-|         conajmniej      | → |            Z*           | → | co najmniej                      |       SI       |
+| triggerstring + trigger | → | (triggerstring) options | → |  hotstring  | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:-----------:|:---------------:|
+|       conajmniej        | → |           Z*            | → | co najmniej |       SI        |
 
 If you enter "conajmniej" it is immediately autocorrected into:
 ```
@@ -833,7 +786,7 @@ co najmniej
 
 | triggerstring + trigger | → | (triggerstring) options | → | hotstring | output function |
 |:-----------------------:|:-:|:-----------------------:|:-:|:---------:|:---------------:|
-| romannumeral12/         | → |          *C1?Z          | → | Ⅻ        |       SI        |
+|     romannumeral12/     | → |          *C1?Z          | → |     Ⅻ     |       SI        |
 
 "romannumeral12/" is replaced into:
 ```
@@ -1180,7 +1133,7 @@ what saves some time on writing (two time less of Shift presses).
 | 3.  | [S2_BasicLayerToShiftLayer.csv](#basic-layer-to-shift-layer) | Method to get characters from the Shift layer without using Shift keys.                                          |         19         |
 | 4.  | [S2_FirstCapital.csv](#s2-first-capital)                     | When sentence is finished with . or ! or ? or \<Enter\> then next word is started with capital letter.           |        104         |
 | 5.  | [S2_LayerKeys.csv](#s2-layer-keys)                           | Sends back some special characters, which can be used to control Hotstrings application.                         |         3          |
-| | | **TOTAL**: (last checked on: 2023-02-26) | 150  |
+|     |                                                              | **TOTAL**: (last checked on: 2023-02-26)                                                                         |        150         |
 
 Remarks:
 1. Only single definitions are counted. It means that if compound definition is present, then it is counted as one.
@@ -1202,9 +1155,9 @@ Remarks:
 
 **Example**:
 
-| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
-|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
-|           (-:            | → |            *            | → | 🙃{Del} |       SI        |
+| triggerstring + trigger | → | (triggerstring) options | → | hotstring | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------:|:---------------:|
+|           (-:           | → |            *            | → |  🙃{Del}  |       SI        |
 
 If you enter "(" it is replaced into:
 ```
@@ -1233,9 +1186,9 @@ by the first instance of *Hotstrings* application (library "EmojiHotstrings.csv"
 
 **Example**:
 
-| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
-|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
-|           np.            | → |            *B0Z            | → |  |       SI        |
+| triggerstring + trigger | → | (triggerstring) options | → | hotstring | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------:|:---------------:|
+|           np.           | → |          *B0Z           | → |           |       SI        |
 
 If you enter the triggerstring "np.", the input hook buffer gets ready to trigger another hotstring, starting with dot. This definition is shorter and resets input hook buffer, so there is no longer to trigger any definition from within "FirstCapital.csv".
 
@@ -1257,9 +1210,9 @@ If you enter the triggerstring "np.", the input hook buffer gets ready to trigge
 
 **Example**:
 
-| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
-|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
-|           [\            | → |            *?            | → | {{} |       SI        |
+| triggerstring + trigger | → | (triggerstring) options | → | hotstring | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------:|:---------------:|
+|           [\            | → |           *?            | → |    {{}    |       SI        |
 
 If you enter "[\" it is replaced into:
 ```
@@ -1295,9 +1248,9 @@ For vast majority of applications it works as expected. In particular it is usef
 
 **Example**:
 
-| triggerstring + trigger | → | (triggerstring) options | → |    hotstring    | output function |
-|:-----------------------:|:-:|:-----------------------:|:-:|:---------------:|:---------------:|
-|           . a            | → |            *CB0?            | → | {BS}A |       S2        |
+| triggerstring + trigger | → | (triggerstring) options | → | hotstring | output function |
+|:-----------------------:|:-:|:-----------------------:|:-:|:---------:|:---------------:|
+|           . a           | → |          *CB0?          | → |   {BS}A   |       S2        |
 
 If you enter "I'm back. a" it is replaced into:
 ```

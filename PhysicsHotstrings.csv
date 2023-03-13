@@ -24,20 +24,13 @@ Z*‖<=‖CL‖En‖≤‖
 Z*‖>=‖CL‖En‖≥‖
 Z*‖\<‖CL‖En‖↓‖
 Z*‖\>‖CL‖En‖↑‖
-Z*‖alpha/‖CL‖En‖α‖
 Z*‖approx/‖CL‖En‖≈‖
-Z*‖beta/‖CL‖En‖β‖
 Z*‖bullets/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 Z*‖cent/‖SI‖En‖¢‖U+00A2
 Z*?‖deg/‖CL‖En‖°‖
-Z*C‖Delta/‖CL‖En‖∆‖
-Z*C‖delta/‖CL‖En‖δ‖
 Z*‖diameter/‖SI‖En‖Ø‖U+00D8
-Z*‖epsilon/‖CL‖En‖ε‖
 Z*‖euro/‖CL‖En‖€‖
 Z*‖exponent/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
-Z*C‖gamma/‖CL‖En‖γ‖
-Z*C‖Gamma/‖CL‖En‖Γ‖
 Z‖infinity‖SI‖En‖∞‖
 Z*‖kamp‖CL‖En‖kA‖
 Z*‖kmh‖SI‖En‖km/h‖
@@ -45,13 +38,10 @@ Z*‖kohm‖CL‖Dis‖kΩ‖
 Z*‖kropkam‖MSI‖En‖·¦×‖
 Z‖kv‖CL‖En‖kV‖
 Z*‖kwh‖SI‖En‖kWh‖
-Z*C‖lambda/‖CL‖En‖λ‖
-Z*C‖Lambda/‖CL‖En‖Λ‖
 Z*‖m/s2‖SI‖En‖m/s²‖
 Z*‖m2‖SI‖En‖m²‖
 Z*‖m3‖SI‖En‖m³‖
 Z*‖mamp‖CL‖En‖mA‖
-Z*‖micro/‖CL‖En‖µ‖
 Z*‖minusplus‖CL‖En‖±‖
 Z*‖mkropka‖MSI‖En‖·¦×‖U+00B7 | U+00D7
 Z*‖mm2‖SI‖En‖mm²‖
@@ -59,15 +49,10 @@ Z*‖mminus‖CL‖En‖−‖
 Z*‖mniejszyrowny‖CL‖En‖≤‖
 Z*‖mniejszyrówny‖CL‖En‖≤‖
 Z*‖ms2‖SI‖En‖m/s²‖
-Z*‖nbsp/‖SI‖En‖ ‖No-Break Space
 Z*‖oddo‖CL‖En‖÷‖
 Z*?‖ohm‖CL‖En‖Ω‖
-Z*C‖omega/‖SI‖En‖ω‖
-Z*C‖Omega/‖SI‖En‖Ω‖
 Z*‖par/‖SI‖En‖§‖
 Z*‖per mille‖SI‖En‖‰‖
-Z*C‖pi/‖CL‖En‖π‖
-Z*C‖Pi/‖CL‖En‖Π‖
 Z*‖plusminus‖CL‖En‖±‖
 Z*‖ppb/‖SI‖En‖{U+00BB}‖Power Point Bullet
 Z*‖recycling/‖MSI‖En‖♻¦♲¦♺‖{U+267B}|{U+2672}|{U+267A}
@@ -75,8 +60,6 @@ Z*‖space/‖MSI‖En‖{U+2000}¦{U+2003}¦{U+2004}¦{U+2005}¦{U+2006}¦&nbsp
 Z*‖stopc/‖CL‖En‖°‖
 Z*‖subscript/‖MSI‖En‖₂¦₃¦₄¦₅¦₆¦₇¦₈‖U+2082 | U+2083 | U+2084 | U+2085 | U+2086 | U+2087 | U+2088
 Z*‖superscript/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
-Z*C‖theta/‖CL‖En‖θ‖
-Z*C‖Theta/‖CL‖En‖Θ‖
 Z*‖tilde/‖SI‖En‖~‖
 Z‖vac‖SI‖En‖V{U+00A0}AC‖
 Z*‖vdc‖SI‖En‖V{U+00A0}DC‖

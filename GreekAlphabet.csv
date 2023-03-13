@@ -1,0 +1,60 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		All letters of Greek alphabet.
+
+Notes:		https://symbl.cc/en/unicode/blocks/greek-coptic/
+
+Example:		upsilon/ → υ
+*/
+*Z‖alpha/‖SI‖En‖α‖
+*Z‖alphacapital/‖SI‖En‖Α‖
+*Z‖beta/‖SI‖En‖β‖
+*Z‖betacapital/‖SI‖En‖Β‖
+*Z‖chi/‖SI‖En‖χ‖
+*Z‖chicapital/‖SI‖En‖Χ‖
+*Z‖delta/‖SI‖En‖δ‖
+*Z‖deltacapital/‖SI‖En‖Δ‖
+*Z‖epsilon/‖SI‖En‖ε‖
+*Z‖epsiloncapital/‖SI‖En‖Ε‖
+*Z‖eta/‖SI‖En‖η‖
+*Z‖etacapital/‖SI‖En‖Η‖
+*Z‖gamma/‖SI‖En‖γ‖
+*Z‖gammacapital/‖SI‖En‖Γ‖
+*Z‖greekalphabet/‖MSI‖En‖alpha beta chi delta epsilon eta gamma iota kappa lambda mu nu omega omicron phi pi psi rho sigma tau theta upsilon xi zeta¦α β χ δ ε η γ ι κ λ μ ν ω ο φ π ψ ρ σ τ θ υ ξ ζ¦Α Β Χ Δ Ε Η Γ Ι Κ Λ Μ Ν Ω Ο Φ Π Ψ Ρ Σ Τ Θ Υ Ξ Ζ‖
+*Z‖iota/‖SI‖En‖ι‖
+*Z‖iotacapital/‖SI‖En‖Ι‖
+*Z‖kappa/‖SI‖En‖κ‖
+*Z‖kappacapital/‖SI‖En‖Κ‖
+*Z‖lamba/‖SI‖En‖λ‖
+*Z‖lambdacapital/‖SI‖En‖Λ‖
+*Z‖mu/‖SI‖En‖μ‖
+*Z‖mucapital/‖SI‖En‖Μ‖
+*Z‖nu/‖SI‖En‖ν‖
+*Z‖nucapital/‖SI‖En‖Ν‖
+*Z‖omega/‖SI‖En‖ω‖
+*Z‖omegacapital/‖SI‖En‖Ω‖
+*Z‖omicron/‖SI‖En‖ο‖
+*Z‖omicroncapital/‖SI‖En‖Ο‖
+*Z‖phi/‖SI‖En‖φ‖
+*Z‖phicapital/‖SI‖En‖Φ‖
+*Z‖pi/‖SI‖En‖π‖
+*Z‖picapital/‖SI‖En‖Π‖
+*Z‖psi/‖SI‖En‖ψ‖
+*Z‖psicapital/‖SI‖En‖Ψ‖
+*Z‖rho/‖SI‖En‖ρ‖
+*Z‖rhocapital/‖SI‖En‖Ρ‖
+*Z‖sigma/‖SI‖En‖σ‖
+*Z‖sigmacapital/‖SI‖En‖Σ‖
+*Z‖tau/‖SI‖En‖τ‖
+*Z‖taucapital/‖SI‖En‖Τ‖
+*Z‖theta/‖SI‖En‖θ‖
+*Z‖thetacapital/‖SI‖En‖Θ‖
+*Z‖upsilon/‖SI‖En‖υ‖
+*Z‖upsiloncapital/‖SI‖En‖Υ‖
+*Z‖xi/‖SI‖En‖ξ‖
+*Z‖xicapital/‖SI‖En‖Ξ‖
+*Z‖zeta/‖SI‖En‖ζ‖
+*Z‖zetacapital/‖SI‖En‖Ζ‖

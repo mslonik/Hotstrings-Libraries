@@ -509,8 +509,8 @@ Z‖u2f‖SI‖En‖U2F‖https://en.wikipedia.org/wiki/Universal_2nd_Factor
 Z*‖u2f/‖SI‖En‖Universal 2nd Factor‖
 ZC‖uefa‖SI‖En‖UEFA‖
 Z*C‖uefa/‖SI‖En‖Union of European Football Associations‖
-ZC‖uefi‖SI‖En‖UEFI‖https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interf
-Z*‖uefi/‖SI‖En‖Unified Extensible Firmware Interface‖
+Z‖uefi‖SI‖En‖UEFI‖
+*Z‖uefi/‖SI‖En‖Unified Extensible Firmware Interface‖
 ZC‖ui‖SI‖En‖UI‖
 Z*‖ui/‖CL‖En‖User Interface‖
 ZC‖uic‖SI‖En‖UIC‖https://uic.org/
