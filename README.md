@@ -1349,8 +1349,29 @@ As it was already mentioned, the library file can caontain fragile / protected i
 
 ## Library file format <a name= "library-file-format"></a>
 File extension: CSV
+
 File encoding: UTF-8 with BOM
+
+Comments:
+- block comments: ```/*   */```
+- single line comments: ```;```
+
+It is possible to add header to library. Library header template:
+
+```
+License:    CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:      FirstName SecondName
+
+Purpose:      
+
+Notes:      
+
+Example:
+```
+
 (tbd)
+
 [Back to the top](#back-to-the-top)
 <br />
 <br />
