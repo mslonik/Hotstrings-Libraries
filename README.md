@@ -1359,6 +1359,7 @@ Comments:
 It is possible to add header to library. Library header template:
 
 ```
+/*
 License:    CC BY-SA (Creative Commons Attribution-ShareAlike)
 
 Author:      FirstName SecondName
@@ -1368,6 +1369,7 @@ Purpose:
 Notes:      
 
 Example:
+*/
 ```
 
 (tbd)
