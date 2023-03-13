@@ -8,6 +8,7 @@ Hotstring-library is text file (*.csv) formatted to work with [*Hotstrings*](htt
 
 # List of content <!-- omit from toc -->
 1. [**The free library files** ](#the-free-library-files-)
+1. [fikumiku ](#fikumiku-)
 1. [**The not-free libraries** ](#the-not-free-libraries-)
 1. [**List of free "second instance" library files** ](#list-of-free-second-instance-library-files-)
 1. [Where libraries are stored?](#where-libraries-are-stored)
@@ -86,8 +87,9 @@ At the moment there is no way to choose S1 or S2 "output functions" from GUI of 
 <br />
 
 ---
+## fikumiku <a name="combining-diacritics"></a>
 <details>
-<summary><h3><b>CombiningDiacritics.csv</b></h3></summary> <a name="combining-diacritics"></a>
+<summary><h3><b>CombiningDiacritics.csv</b></h3></summary>
 
 **License**:		CC BY-SA Creative Commons Attribution-ShareAlike
 
