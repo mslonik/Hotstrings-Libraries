@@ -87,71 +87,6 @@ At the moment there is no way to choose S1 or S2 "output functions" from GUI of 
 <br />
 
 ---
-<a name="combining-diacritics"></a>
-<details>
-<summary><h3><b>CombiningDiacritics.csv</b></h3></summary>
-
-**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
-
-**Author**:		   Maciej Słojewski (🐘), http://mslonik.pl
-			         SalviaSage
-
-**Purpose**:      Unicode, combining diacritics sender. Character markings that go on top, below or around.
-
-**Notes:**  		Based on "CombiningDiacritics.csv" by SalviaSage.
-			         https://symbl.cc/en/unicode/blocks/combining-diacritical-marks/
-			         https://symbl.cc/en/
-
-**Examples:**		
-
-| triggerstring       | → | hotstring |
-|:--------------------|:-:|:---------:|
-| agrave/             | → | ```à```  |
-| agraveaccent/       | → | ```à```  |
-| agravedouble/       | → | ```ȁ```  |
-| agrave/             | → | ```à```  |
-| agravedoubleaccent/ | → | ```ȁ```  |
-| aacute/             | → | ```á```  |
-| aacuteaccent/       | → | ```á```  |
-| aacutedouble/       | → | ```a̋```  |
-| aacutedoubleaccent/ | → | ```a̋```  |
-| acircumflex/        | → | ```â```  |
-| acircumflexaccent/  | → | ```â```  |
-| aumlaut/            | → | ```ä```  |
-| atrema/             | → | ```ä```  |
-| adiaeresis/         | → | ```ä```  |
-| aogonek/            | → | ```ą```  |
-| ahook/              | → | ```ả```  |
-| ahookabove/         | → | ```ả```  |
-| adotabove/          | → | ```ȧ```  |
-| adotbelow/          | → | ```ạ```  |
-| acedilla/           | → | ```a̧```  |
-| acommabelow/        | → | ```a̦```  |
-| asicilicus/         | → | ```a͗```  |
-| abreve/             | → | ```ă```  |
-| abreveinverted/     | → | ```ȃ```  |
-| atilde/             | → | ```ã```  |
-| amacron/            | → | ```ā```  |
-| amacronbelow/       | → | ```a̱```  |
-| amacrondouble/      | → | ```a͞```  |
-| amacrondoublebelow/ | → |  ``` ```  |
-| acaron/             | → | ```ǎ```  |
-| ahacek/             | → | ```ǎ```  |
-| ahorn/              | → | ```a̛```  |
-| aoverring/          | → | ```å```  |
-| aringabove/         | → | ```å```  |
-| aunderring/         | → | ```ḁ```  |
-| aringbelow/         | → | ```ḁ```  |
-| aroughbreathing/    | → | ```a̔```  |
-| asmoothbreathing/   | → | ```a᾿```  |
-
-[Back to the top](#back-to-the-top)
-<br />
-<br />
-<br />
-</details>
-
----
 <a name="abbreviations-english"></a>
 <details>
 <summary><h3><b>AbbreviationsEnglish.csv</b></h3></summary>
@@ -376,6 +311,71 @@ Thanks to this library it is relatively easier to prepare ASCII only based block
 ```
 Ⓡ
 ```
+
+[Back to the top](#back-to-the-top)
+<br />
+<br />
+<br />
+</details>
+
+---
+<a name="combining-diacritics"></a>
+<details>
+<summary><h3><b>CombiningDiacritics.csv</b></h3></summary>
+
+**License**:		CC BY-SA Creative Commons Attribution-ShareAlike
+
+**Author**:		   Maciej Słojewski (🐘), http://mslonik.pl
+			         SalviaSage
+
+**Purpose**:      Unicode, combining diacritics sender. Character markings that go on top, below or around.
+
+**Notes:**  		Based on "CombiningDiacritics.csv" by SalviaSage.
+			         https://symbl.cc/en/unicode/blocks/combining-diacritical-marks/
+			         https://symbl.cc/en/
+
+**Examples:**		
+
+| triggerstring       | → | hotstring |
+|:--------------------|:-:|:---------:|
+| agrave/             | → | ```à```  |
+| agraveaccent/       | → | ```à```  |
+| agravedouble/       | → | ```ȁ```  |
+| agrave/             | → | ```à```  |
+| agravedoubleaccent/ | → | ```ȁ```  |
+| aacute/             | → | ```á```  |
+| aacuteaccent/       | → | ```á```  |
+| aacutedouble/       | → | ```a̋```  |
+| aacutedoubleaccent/ | → | ```a̋```  |
+| acircumflex/        | → | ```â```  |
+| acircumflexaccent/  | → | ```â```  |
+| aumlaut/            | → | ```ä```  |
+| atrema/             | → | ```ä```  |
+| adiaeresis/         | → | ```ä```  |
+| aogonek/            | → | ```ą```  |
+| ahook/              | → | ```ả```  |
+| ahookabove/         | → | ```ả```  |
+| adotabove/          | → | ```ȧ```  |
+| adotbelow/          | → | ```ạ```  |
+| acedilla/           | → | ```a̧```  |
+| acommabelow/        | → | ```a̦```  |
+| asicilicus/         | → | ```a͗```  |
+| abreve/             | → | ```ă```  |
+| abreveinverted/     | → | ```ȃ```  |
+| atilde/             | → | ```ã```  |
+| amacron/            | → | ```ā```  |
+| amacronbelow/       | → | ```a̱```  |
+| amacrondouble/      | → | ```a͞```  |
+| amacrondoublebelow/ | → |  ``` ```  |
+| acaron/             | → | ```ǎ```  |
+| ahacek/             | → | ```ǎ```  |
+| ahorn/              | → | ```a̛```  |
+| aoverring/          | → | ```å```  |
+| aringabove/         | → | ```å```  |
+| aunderring/         | → | ```ḁ```  |
+| aringbelow/         | → | ```ḁ```  |
+| aroughbreathing/    | → | ```a̔```  |
+| asmoothbreathing/   | → | ```a᾿```  |
 
 [Back to the top](#back-to-the-top)
 <br />
