@@ -4,9 +4,10 @@ License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
 Author:		Maciej Słojewski (🐘), http://mslonik.pl
 			SalviaSage
 
-Purpose:		Unicode symbols of ligatures.	8 definitions
+Purpose:		Unicode symbols of ligatures.
 
 Notes:		Based on "(Unicode Sender) Ligatures.csv" by SalviaSage.
+			In writing and typography, a ligature occurs where two or more graphemes or letters are joined to form a single glyph. 
 			https://symbl.cc/en/
 
 Example:		oeligature/ → œ
