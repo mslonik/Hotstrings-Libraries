@@ -25,6 +25,9 @@ Z*‖>=‖CL‖En‖≥‖
 Z*‖\<‖CL‖En‖↓‖
 Z*‖\>‖CL‖En‖↑‖
 Z*‖approx/‖CL‖En‖≈‖
+*Z‖arrows/‖MSI‖En‖↕¦↖¦↗¦↘¦↙¦↩¦↪‖
+*Z‖arrowsdouble/‖MSI‖En‖⇐¦⇑¦⇒¦⇓¦⇔¦⇕‖
+*Z‖arrowswhite/‖MSI‖En‖⇦¦⇧¦⇨¦⇩¦⇳‖
 Z*‖bullets/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 Z*‖cent/‖SI‖En‖¢‖U+00A2
 Z*?‖deg/‖CL‖En‖°‖

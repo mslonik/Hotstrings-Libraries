@@ -26,6 +26,8 @@ ZC1‖adc‖SI‖En‖ADC‖
 *Z‖adc/‖MSI‖En‖Analog to Digital Converter¦Analog to Digital Converter (ADC) is a system in electronics that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal.‖
 ZC‖adhd‖SI‖En‖ADHD‖
 Z*C‖adhd/‖SI‖En‖Attention Deficit Hyperactivity Disorder‖https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
+Z‖aed‖SI‖En‖AED‖
+*Z‖aed/‖SI‖En‖Automated External Defibrillator‖https://en.wikipedia.org/wiki/Automated_external_defibrillator
 Z*‖afaik/‖CL‖En‖as far as I know‖
 Z*‖ahk/‖MSI‖En‖AutoHotkey¦https://www.autohotkey.com/docs/AutoHotkey.htm‖https://www.autohotkey.com/
 Z‖ai‖SI‖En‖AI‖
@@ -99,6 +101,8 @@ ZC‖cots‖SI‖En‖COTS‖
 Z*‖cots/‖CL‖En‖Commercial Off-The-Shelf‖U+1F451 | U+83CC
 ZC‖covid‖MSI‖En‖COVID-19¦👑🦠‖
 Z*‖covid/‖CL‖En‖severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)‖
+Z‖cpr‖SI‖En‖CPR‖
+*Z‖cpr/‖SI‖En‖CardioPulmonary Resuscitation‖https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation
 ZC‖crc‖SI‖En‖CRC‖
 Z*‖crc/‖SI‖En‖Cyclic Redundancy Check‖
 ZC‖crm‖SI‖En‖CRM‖
@@ -148,6 +152,8 @@ Z*‖dwg/‖SI‖En‖Drawings binary file format‖
 ZC‖dxf‖SI‖En‖DXF‖
 Z*‖dxf/‖SI‖En‖Drawing Exchange Format‖
 Z*‖dyi/‖SI‖En‖do it yourself‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
+Z‖ecg‖SI‖En‖ECG‖
+*Z‖ecg/‖SI‖En‖ELectrocardiogram‖https://en.wikipedia.org/wiki/Electrocardiography
 Z‖ecm‖SI‖En‖ECM‖
 Z*C‖ecm/‖SI‖En‖Enterprise Content Management‖
 Z‖eeprom‖SI‖En‖EEPROM‖
@@ -416,7 +422,7 @@ ZC‖rap‖SI‖En‖RAP‖
 Z*‖rap/‖CL‖En‖Risk Acceptance Principle‖
 Z‖rcd‖SI‖En‖RCD‖
 Z*‖rcd/‖SI‖En‖Residual Current Device‖
-Z*‖rda‖SI‖En‖RDA‖
+Z‖rda‖SI‖En‖RDA‖
 Z*‖rda/‖SI‖En‖Robotics Desktop Automation‖
 ZC‖rfid‖SI‖En‖RFID‖
 Z*‖rfid/‖SI‖En‖Radio Frequency Identification‖
@@ -434,6 +440,8 @@ ZC‖rpu‖SI‖En‖RPU‖"peszel"
 Z*‖rpu/‖SI‖En‖Reinforced Polyurethane Hose‖
 Z‖rsa‖SI‖En‖RSA‖https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 Z*‖rsa/‖MSI‖En‖Rivest–Shamir–Adleman¦a public-key cryptosystem that is widely used for secure data transmission‖
+Z‖rss‖SI‖En‖RSS‖
+*Z‖rss/‖MSI‖En‖Really Simple Syndication¦Really Simple Syndication (RSS) a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format. Subscribing to RSS feeds can allow a user to keep track of many different websites in a single news aggregator, which constantly monitor sites for new content, removing the need for the user to manually check them.‖https://en.wikipedia.org/wiki/RSS
 ZC‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
 Z*‖sa/‖MSI‖En‖Specific Application¦specific application‖

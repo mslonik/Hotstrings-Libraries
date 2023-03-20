@@ -11,6 +11,7 @@ Examples:	     Text f18/ entered in currently active window calls F18 funciton k
 */
 
 Z*‖backspace/‖SI‖En‖{U+0008}‖
+Z‖capslock‖SI‖En‖CapsLock‖
 Z*‖capslock/‖SI‖Dis‖{CapsLock}‖
 Z*‖delete/‖SI‖En‖{delete}‖
 Z*‖end/‖SI‖En‖{end}‖
@@ -41,8 +42,10 @@ Z*‖f8/‖SI‖En‖{F8}‖
 Z*‖f9/‖SI‖En‖{F9}‖
 Z*‖home/‖SI‖En‖{home}‖
 Z*‖insert/‖SI‖En‖{Insert}‖
+Z‖numlock‖SI‖En‖NumLock‖
 Z*‖numlock/‖SI‖En‖{NumLock}‖
 Z*‖pause/‖SI‖En‖{Pause}‖
 Z*‖prtscr/‖SI‖En‖{PrintScreen}‖
+Z‖scrolllock‖SI‖En‖ScrollLock‖
 Z*‖scrolllock/‖SI‖Dis‖{ScrollLock}‖
 Z*‖tab/‖MSI‖En‖{tab}¦{Space 5}‖
