@@ -34,8 +34,11 @@ Z*?‖deg/‖CL‖En‖°‖
 Z*‖diameter/‖SI‖En‖Ø‖U+00D8
 Z*‖euro/‖CL‖En‖€‖
 Z*‖exponent/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
+Z‖Ghz‖SI‖En‖GHz‖
+Z‖hz‖SI‖En‖Hz‖
 Z‖infinity‖SI‖En‖∞‖
 Z*‖kamp‖CL‖En‖kA‖
+Z‖khz‖SI‖En‖kHz‖
 Z*‖kmh‖SI‖En‖km/h‖
 Z*‖kohm‖CL‖Dis‖kΩ‖
 Z*‖kropkam‖MSI‖En‖·¦×‖
@@ -44,7 +47,9 @@ Z*‖kwh‖SI‖En‖kWh‖
 Z*‖m/s2‖SI‖En‖m/s²‖
 Z*‖m2‖SI‖En‖m²‖
 Z*‖m3‖SI‖En‖m³‖
+Z‖mah‖SI‖En‖mAh‖
 Z*‖mamp‖CL‖En‖mA‖
+Z‖mhz‖SI‖En‖MHz‖
 Z*‖minusplus‖CL‖En‖±‖
 Z*‖mkropka‖MSI‖En‖·¦×‖U+00B7 | U+00D7
 Z*‖mm2‖SI‖En‖mm²‖

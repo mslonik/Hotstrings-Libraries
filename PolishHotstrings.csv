@@ -1,58 +1,57 @@
-﻿‖apo‖SI‖En‖APO‖
-*‖apo/‖SI‖En‖Automatyczny Posterunek Odstępowy‖
-C‖bait‖SI‖En‖BAiT‖
-*‖bait/‖CL‖En‖Biuro Automatyki i Telekomunikacji‖
-C‖bhp‖SI‖En‖BHP‖
-*‖bhp/‖CL‖En‖Bezpieczeństwo i Higiena Pracy‖
-C‖cntk‖SI‖En‖CNTK‖
-*‖cntk/‖CL‖En‖Centrum Naukowo-Techniczne Kolejnictwa‖
-C‖dtr‖SI‖En‖DTR‖
-*‖dtr/‖MCL‖En‖Dokumentacja Techniczno-Ruchowa¦Operation and Maintenance Manual‖
-C‖ekg‖SI‖En‖EKG‖
-*‖ekg/‖SI‖En‖Elektrokardiografia‖https://pl.wikipedia.org/wiki/Elektrokardiografia
-‖ezt‖SI‖En‖EZT‖
-*‖ezt/‖SI‖En‖Elektryczny Zespół Trakcyjny‖
-C‖fv‖SI‖En‖FV‖
-*‖fv/‖SI‖En‖faktura VAT‖
-C‖ik‖SI‖En‖IK‖
-*‖ik/‖MCL‖En‖Instytut Kolejnictwa¦Instytutu Kolejnictwa¦ul. Chłopickiego 50, 04-275 Warszawa‖
-*‖il/‖MCL‖En‖Sieć Badawcza Łukasiewicz – Instytut Lotnictwa¦Instytutu Lotnictwa¦al. Krakowska 110/114, 02-256 Warszawa, Polska‖
-C‖krs‖SI‖En‖KRS‖
-*‖krs/‖SI‖En‖Krajowy Rejestr Sądowy‖
-‖nask‖SI‖En‖NASK‖
-*‖nask/‖SI‖En‖Naukowa i Akademicka Sieć Komputerowa – Państwowy Instytut Badawczy‖
-‖nfz‖SI‖En‖NFZ‖
-*‖nfz/‖SI‖En‖Narodowy Fundusz Zdrowia‖
-C‖nip‖SI‖En‖NIP‖
-*‖nip/‖CL‖En‖Numer Identyfikacji Podatkowej‖
-C‖pca‖SI‖En‖PCA‖
-*‖pca/‖SI‖En‖Polskie Centrum Akredytacji‖https://pl.wikipedia.org/wiki/Polskie_Centrum_Akredytacji
-C‖pesel‖SI‖En‖PESEL‖
-*‖pesel/‖CL‖En‖Powszechny Elektroniczny System Ewidencji Ludności‖
-‖pgnig‖SI‖En‖PGNiG‖
-*‖pgnig/‖SI‖En‖Polskie Górnictwo Naftowe i Gazownictwo‖
-C‖pkb‖SI‖En‖PKB‖
-*‖pkb/‖CL‖En‖Produkt Krajowwy Brutto‖
-C‖pkp‖SI‖En‖PKP‖
-*‖pkp/‖CL‖En‖Polskie Koleje Państwowe‖
-C‖plk‖SI‖En‖PLK‖
-*‖plk/‖CL‖En‖Polskie Linie Kolejowe‖
-C‖ppk‖SI‖En‖PPK‖
-*‖ppk/‖SI‖En‖Pracownicze Plany Kapitałowe‖
-‖regon‖CL‖En‖REGON‖
-*‖regon/‖CL‖En‖Rejon Gospodarki Narodowej, Krajowy Rejestr Urzędowy Podmiotów Gospodarki Narodowej ‖
-C‖rodo‖SI‖En‖RODO‖
-*‖rodo/‖CL‖En‖rozporządzenie o ochronie danych osobowych‖
-‖shp‖SI‖En‖SHP‖
-*‖shp/‖SI‖En‖Samoczynne Hamowanie Pociągu‖
-C‖siwz‖SI‖En‖SIWZ‖
-*‖siwz/‖CL‖En‖Specyfikacja Istotnych Warunków Zamówienia‖
-C‖skm‖MSI‖En‖SKM¦https://www.skm.pkp.pl/dla-pasazera/wyszukaj-polaczenie‖
-*‖skm/‖SI‖En‖Szybka Kolej Miejska‖
-*‖srk/‖CL‖En‖(urządzenia) sterowania ruchem kolejowym‖
-C‖ue‖SI‖En‖UE‖
-*‖ue/‖SI‖En‖Unia Europejska‖
-C‖utk‖SI‖En‖UTK‖
-*‖utk/‖CL‖En‖Urząd Transportu Kolejowego‖
-C‖wtwio‖SI‖En‖WTWiO‖
-*‖wtwio/‖MCL‖En‖Warunki Techniczne Wytwarzania i Odbioru¦Technical Conditions of Manufacturing and Acceptance‖
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘)
+
+Purpose:		Set of hotstrings specific to Polish language.
+
+Notes:		In future this set should be divided into smaller sets dedicated to specific subject, e.g. geographical names.
+
+Example:		litwa → Litwa.
+*/
+
+*Z‖ameryk‖SI‖En‖Ameryk‖
+Z*‖austri‖SI‖En‖Austri‖
+Z*‖bałtyk‖SI‖En‖Bałtyk‖
+Z*‖cdn/‖SI‖En‖ciąg dalszy nastąpi‖
+*Z‖chorwa‖SI‖En‖Chorwa‖
+Z‖codzienn‖SI‖En‖co dzień‖
+Z‖codzień‖SI‖En‖co dzień‖
+Z*‖conajmniej‖SI‖En‖co najmniej‖
+Z*‖fik‖SI‖Dis‖fikumiku‖
+Z*‖fiku/‖SI‖Dis‖fiku`amiku`n‖
+Z*‖gdyn‖SI‖En‖Gdyn‖
+Z*‖gruzin‖SI‖En‖Gruzin‖
+Z*‖gruzj‖SI‖En‖Gruzj‖
+Z*‖holand‖SI‖En‖Holand‖
+*Z‖holend‖MSI‖En‖Holend¦holend‖
+*Z‖internecie‖SI‖En‖Internecie‖
+*Z‖jarek‖SI‖En‖Jarek‖
+*Z‖jarka‖SI‖En‖Jarka‖
+*Z‖jarkiem‖SI‖En‖Jarkiem‖
+*CZ‖julii‖SI‖En‖Julii‖
+Z‖jw‖SI‖En‖j.w.‖
+Z*‖jw/‖SI‖En‖jak wyżej‖
+*Z‖karol‖SI‖En‖Karol‖
+*Z‖krakow‖SI‖En‖Kraków‖
+*Z‖kraków‖SI‖En‖Kraków‖
+Z*‖litwa‖SI‖En‖Litwa‖
+*Z‖malez‖SI‖En‖Malez‖
+*Z‖marcin‖SI‖En‖Marcin‖
+*Z‖mariusz‖SI‖En‖Mariusz‖
+ZC*‖niemcy‖SI‖En‖Niemcy‖
+ZC*‖niemiec‖SI‖En‖Niemiec‖
+*Z‖obsolescence management/‖MSI‖En‖zapobieganie niedostępności¦zarządzanie starzeniem‖context.reverso.net
+*Z‖pawel‖SI‖En‖Paweł‖
+*Z‖paweł‖SI‖En‖Paweł‖
+*Z‖pawla‖SI‖En‖Pawła‖
+*Z‖pawła‖SI‖En‖Pawła‖
+ZC*‖polacy‖SI‖En‖Polacy‖
+Z*‖polsce‖SI‖En‖Polsce‖
+ZC*‖polska‖CL‖En‖Polska‖
+ZC*‖polski‖MSI‖En‖Polski¦polski‖
+*Z‖przemyslaw‖SI‖En‖Przemysław‖
+*Z‖przemysław‖SI‖En‖Przemysław‖
+*Z‖rafał‖SI‖En‖Rafał‖
+*CZ‖szwecja‖SI‖En‖Szwecja‖
+*CZ‖szwecji‖SI‖En‖Szwecji‖

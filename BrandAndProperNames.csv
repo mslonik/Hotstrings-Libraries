@@ -13,13 +13,20 @@ Notes:		The vast majority of definitions have set feature * (immediate execute) 
 
 Z*‖adobe‖SI‖En‖Adobe‖
 ZC‖allegro‖SI‖En‖Allegro‖
+*Z‖ant+‖SI‖En‖ANT{+}‖https://en.wikipedia.org/wiki/ANT_(network)
+*Z‖antplus‖SI‖En‖ANT{+}‖
+*Z‖auchan‖SI‖En‖Auchan‖
 Z*‖autocad‖CL‖En‖AutoCAD‖
 Z*‖autodesk‖SI‖En‖Autodesk‖
+*Z‖blik‖SI‖En‖BLIK‖only with ShiftFunctions!
 Z*‖canon‖MSI‖En‖Canon¦canon‖
 Z‖cenelec‖SI‖En‖CENELEC‖
 Z‖cenelec/‖MSI‖En‖Comité Européen de Normalisation Électrotechnique¦European Committee for Electrotechnical Standardization‖https://www.cenelec.eu/
+Z‖chatgpt‖SI‖En‖ChatGPT‖
+*Z‖cr2032‖SI‖En‖CR2032‖https://en.wikipedia.org/wiki/Button_cell
 Z‖decathlon‖SI‖En‖DECATHLON‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
+*Z‖elemnt‖SI‖En‖ELEMNT‖https://en.wikipedia.org/wiki/ANT_(network)
 Z*‖ethernet‖SI‖En‖Ethernet‖
 Z‖excel‖SI‖En‖Excel‖
 Z*‖facebook‖SI‖En‖Facebook‖
@@ -68,7 +75,7 @@ Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidwo
 Z*‖sp/‖SI‖En‖Sharepoint‖
 Z*‖strava‖SI‖En‖Strava‖
 Z‖svn‖SI‖En‖SVN‖
-Z‖svn/‖CL‖En‖versioning and revision control system‖
+*Z‖svn/‖CL‖En‖versioning and revision control system‖
 Z*‖tales‖SI‖En‖Thales‖
 Z*‖thales‖SI‖En‖Thales‖
 Z‖trello‖SI‖En‖Trello‖
@@ -77,11 +84,13 @@ Z*‖unicode‖SI‖En‖Unicode‖
 ZC‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
 Z‖vod‖SI‖En‖VOD‖
 Z‖vod/‖SI‖En‖Video On Demand‖
+*Z‖wahoo‖SI‖En‖Wahoo‖
 Z*‖webex‖SI‖En‖Webex‖
 Z*?‖whatsapp‖SI‖En‖WhatsApp‖
 Z*‖wifi‖SI‖En‖WiFi‖
 Z*‖wikipedia‖SI‖En‖Wikipedia‖
 Z*‖windows‖MSI‖En‖Windows¦windows‖
+*Z‖youtube‖SI‖En‖YouTube‖
 ZC‖yt/‖CL‖En‖YouTube‖
 Z‖ytd‖CL‖En‖YTD‖
 ZC‖ytd/‖CL‖En‖Year To Date‖

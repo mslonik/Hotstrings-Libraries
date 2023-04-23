@@ -57,6 +57,8 @@ ZC‖bios‖SI‖En‖BIOS‖
 Z*‖bios/‖SI‖En‖Basic Input/Output System‖https://en.wikipedia.org/wiki/BIOS
 ZC‖bom‖SI‖En‖BOM‖
 Z*‖bom/‖MSI‖En‖Bill of Materials¦Byte Order Mark‖
+Z‖bpm‖SI‖En‖BPM‖
+*Z‖bpm/‖SI‖En‖Beats Per Minute‖
 Z‖bpmn‖SI‖En‖BPMN‖
 Z*‖bpmn/‖SI‖En‖Business Process Model and Notation‖https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
 Z*‖btw/‖CL‖En‖by the way‖
@@ -107,6 +109,8 @@ ZC‖crc‖SI‖En‖CRC‖
 Z*‖crc/‖SI‖En‖Cyclic Redundancy Check‖
 ZC‖crm‖SI‖En‖CRM‖
 Z*‖crm/‖SI‖En‖Customer Relationship Management‖
+Z‖crud‖SI‖En‖CRUD‖
+*Z‖crud/‖SI‖En‖Create Read Update Delete‖
 ZC‖cso‖SI‖En‖CSO‖
 Z*‖cso/‖SI‖En‖Chief Sales Officer‖
 Z‖css‖SI‖En‖CSS‖
@@ -213,8 +217,12 @@ ZC‖fmeca‖SI‖En‖FMECA‖
 Z*‖fmeca/‖SI‖En‖Failure mode effects and criticality analysis‖
 ZC‖fo‖SI‖En‖FO‖
 Z*‖fo/‖SI‖En‖Fiber Optics‖Generic Application
+Z‖fov‖SI‖En‖FOV‖
+*Z‖fov/‖SI‖En‖Field Of View‖
 Z‖fpga‖SI‖En‖FPGA‖
 Z*‖fpga/‖SI‖En‖Field-Programmable Gate Array‖
+Z‖fps‖SI‖En‖FPS‖
+*Z‖fps/‖SI‖En‖Frames Per Seconds‖
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 ZC‖ga‖SI‖En‖GA‖
 Z*‖ga/‖MSI‖En‖Generic Application¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: Examples point machines, axle counters, real-time operating systems, fail-safe computer platform without application software.¦SOURCE: IEC 60050-821:FDIS2016, 821-01-57‖
@@ -228,7 +236,7 @@ Z‖gpg‖SI‖En‖GPG‖https://en.wikipedia.org/wiki/GNU_Privacy_Guard
 Z*‖gpg/‖SI‖En‖GNU Privacy Guard‖
 ZC‖gpl‖SI‖En‖GPL‖https://en.wikipedia.org/wiki/GNU_General_Public_License
 Z*‖gpl/‖MCL‖En‖General Public License¦https://en.wikipedia.org/wiki/GNU_General_Public_License¦https://www.gnu.org/licenses/gpl-3.0.html‖
-ZC‖gps‖SI‖En‖GPS‖
+Z‖gps‖SI‖En‖GPS‖
 Z*‖gps/‖CL‖En‖Global Positioning System‖
 Z‖gpt‖SI‖En‖GPT‖
 Z*‖gpt/‖SI‖En‖Generative Pre-trained Transformer‖
@@ -242,6 +250,8 @@ ZC‖hdmi‖SI‖En‖HDMI‖
 Z*‖hdmi/‖CL‖En‖High-Definition Multimedia Interface‖
 Z‖hp‖SI‖En‖HP‖
 Z*‖hp/‖MSI‖En‖Horizontal Pitch¦1x HP = 0.2 '' = 5.08 mm¦1x HP is a unit of length defined by the Eurocard printed circuit board standard used to measure the horizontal width of rack mounted electronic equipment‖https://en.wikipedia.org/wiki/Horizontal_pitch
+Z‖hrm‖SI‖En‖HRM‖
+*Z‖hrm/‖SI‖En‖Heart Rate Monitor‖
 ZC‖html‖SI‖En‖HTML‖
 Z*‖html/‖SI‖En‖HyperText Markup Language‖
 ZC‖hvac‖CL‖En‖HVAC‖
@@ -309,12 +319,16 @@ ZC‖mac‖SI‖En‖MAC‖https://en.wikipedia.org/wiki/MAC_address
 Z*‖mac/‖SI‖En‖Media Access control Address ‖
 ZC‖mba‖SI‖En‖MBA‖
 Z*‖mba/‖SI‖En‖Master of Business Administration‖
+Z‖mbse‖SI‖En‖MBSE‖
+*Z‖mbse/‖SI‖En‖Model Based System Engineering‖
 ZC‖md5‖SI‖En‖MD5‖https://en.wikipedia.org/wiki/MD5
 Z*‖md5/‖MSI‖En‖Message-Digest Algorithm¦hash function producing a 128-bit hash value‖
 ZC‖mdt‖SI‖En‖MDT‖
 Z*‖mdt/‖CL‖En‖Mean Down Time‖
 ZC‖mfa‖SI‖En‖MFA‖
 Z*‖mfa/‖SI‖En‖Multi Factor Authentication‖
+Z‖mit‖SI‖En‖MIT‖
+*Z‖mit/‖SI‖En‖Massachusetts Institute of Technology‖
 Z‖mom‖SI‖En‖MoM‖
 Z*‖mom/‖SI‖En‖Minutes of Meeting‖
 ZC‖mtbf‖SI‖En‖MTBF‖
@@ -420,10 +434,14 @@ ZC‖rams‖SI‖En‖RAMS‖
 Z*‖rams/‖CL‖En‖Reliability, Availability, Maintainability and Safety‖
 ZC‖rap‖SI‖En‖RAP‖
 Z*‖rap/‖CL‖En‖Risk Acceptance Principle‖
+Z‖rca‖SI‖En‖RCA‖
+*Z‖rca/‖MSI‖En‖Reference CCS Architecture¦Reference Control-Command and Signalling Architecture‖
 Z‖rcd‖SI‖En‖RCD‖
 Z*‖rcd/‖SI‖En‖Residual Current Device‖
 Z‖rda‖SI‖En‖RDA‖
 Z*‖rda/‖SI‖En‖Robotics Desktop Automation‖
+Z‖rest‖SI‖En‖REST‖
+*Z‖rest/‖SI‖En‖REpresentational State Transfer‖https://en.wikipedia.org/wiki/Representational_state_transfer
 ZC‖rfid‖SI‖En‖RFID‖
 Z*‖rfid/‖SI‖En‖Radio Frequency Identification‖
 ZC‖rgb‖SI‖En‖RGB‖https://en.wikipedia.org/wiki/RGB_color_model
@@ -436,6 +454,8 @@ ZC‖rohs‖SI‖En‖RoHS‖https://en.wikipedia.org/wiki/Restriction_of_Hazard
 Z*‖rohs/‖MSI‖En‖Restriction of Hazardous Substances Directive¦Directive 2011/65/EU of the European Parliament{Shift Down}{Enter}{Shift Up}and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment.‖
 ZC‖rpa‖SI‖En‖RPA‖
 Z*‖rpa/‖SI‖En‖Robotics Process Automation‖
+Z‖rpm‖SI‖En‖RPM‖
+*Z‖rpm/‖SI‖En‖Rotation Per Minute‖
 ZC‖rpu‖SI‖En‖RPU‖"peszel"
 Z*‖rpu/‖SI‖En‖Reinforced Polyurethane Hose‖
 Z‖rsa‖SI‖En‖RSA‖https://en.wikipedia.org/wiki/RSA_(cryptosystem)
@@ -448,6 +468,8 @@ Z*‖sa/‖MSI‖En‖Specific Application¦specific application‖
 Z*C‖sa`t‖SI‖En‖SA‖
 ZC‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
+Z‖sbc‖SI‖En‖SBC‖
+*Z‖sbc/‖SI‖En‖Single Board Computer‖
 Z‖scada‖SI‖En‖SCADA‖https://en.wikipedia.org/wiki/SCADA
 Z*‖scada/‖SI‖En‖Supervisory Control and Data Acquisition‖
 Z‖scm‖SI‖En‖SCM‖
@@ -487,6 +509,7 @@ ZC‖suv‖SI‖En‖SUV‖
 Z*‖suv/‖SI‖En‖Sport Utility Vehicle‖
 ZC‖sw‖SI‖En‖SW‖
 Z*‖sw/‖SI‖En‖software‖
+Z‖sysml‖SI‖En‖SysML‖
 Z*‖tbc/‖CL‖En‖to be continued‖
 Z‖tbd‖SI‖Dis‖to be decided‖
 Z*‖tbd/‖MSI‖En‖to be decided¦to be defined‖
@@ -523,6 +546,8 @@ ZC‖ui‖SI‖En‖UI‖
 Z*‖ui/‖CL‖En‖User Interface‖
 ZC‖uic‖SI‖En‖UIC‖https://uic.org/
 Z*‖uic/‖MCL‖En‖International Union of Railways¦French: Union internationale des chemins de fer‖
+Z‖uml‖SI‖En‖UML‖
+*Z‖uml/‖MSI‖En‖Universal Modeling Language¦software modeling language‖
 ZC‖ups‖SI‖En‖UPS‖
 Z*‖ups/‖CL‖En‖Uninterruptable Power Supply‖
 ZC‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL
@@ -543,6 +568,8 @@ ZC‖vat‖SI‖En‖VAT‖
 Z*‖vat/‖CL‖En‖Value Added Tax‖
 ZC‖vba‖SI‖En‖VBA‖
 Z*‖vba/‖CL‖En‖Visual Basic for Applications‖
+Z‖vga‖SI‖En‖VGA‖
+*Z‖vga/‖SI‖En‖Video Graphics Array‖
 Z‖vip‖SI‖En‖VIP‖
 Z*‖vip/‖MSI‖En‖Very Important Person¦Very Individual Person‖
 ZC‖vlan‖SI‖En‖VLAN‖https://en.wikipedia.org/wiki/Virtual_LAN

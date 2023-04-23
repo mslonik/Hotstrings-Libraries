@@ -1,0 +1,26 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Academic degrees
+
+Notes:		https://en.wiktionary.org/wiki/Appendix:Academic_degrees
+
+Example:		msc/ → Master of Science
+*/
+Z*‖BA/‖SI‖En‖Bachelor of Arts‖
+Z*‖BBA/‖SI‖En‖Bachelor of Business Administration‖
+Z*‖BCE/‖SI‖En‖Bachelor of Civil Engineering‖
+Z*‖BEE/‖SI‖En‖Bachelor of Electrical Engineering‖
+Z*‖BEng/‖SI‖En‖Bachelor of Engineering‖
+Z*‖BS/‖SI‖En‖Bachelor of Science‖BS
+Z*‖BSA/‖SI‖En‖Bachelor of Science And Arts‖
+Z*‖BSc/‖SI‖En‖Bachelor of Science‖
+Z‖dsc‖MSI‖En‖DSc¦D.Sc.¦ScD¦DPhil‖
+*Z‖dsc/‖SI‖En‖Doctor of Science‖
+*Z‖ma/‖SI‖En‖Master of Arts‖
+*Z‖md/‖SI‖En‖Doctor of Medicine‖
+Z‖msc‖MSI‖En‖MSc¦M.Sc.¦MS¦M.S.‖
+*Z‖msc/‖SI‖En‖Master of Science‖
+Z‖phd‖MSI‖En‖PhD¦Ph.D.¦D.Phil.¦DPhil‖

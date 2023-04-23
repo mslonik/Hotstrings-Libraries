@@ -10,9 +10,10 @@ Notes:		–
 Example:		–
 */
 
-Z*‖"/‖SI‖En‖„”{left}‖
+*Z‖"‖MSI‖En‖„”{left}¦"‖
+*B0Z‖"/‖SI‖En‖{bs}‖
 Z*B0‖(‖SI‖En‖){Left}‖
 Z*B0‖<‖SI‖En‖>{left}‖
 Z*B0‖[‖SI‖En‖]{Left}‖
 Z*‖[/‖SI‖Dis‖[]{Left}‖
-Z*B0‖{‖SI‖En‖{}}{Left}‖
+*B0Z‖{‖SI‖En‖{}}{delete}{Left}‖only with ShiftFunctions!

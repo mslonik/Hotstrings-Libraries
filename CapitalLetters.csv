@@ -13,6 +13,7 @@ ZC*‖alic‖SI‖En‖Alic‖
 ZC*‖america‖SI‖En‖America‖
 ZC*‖april‖SI‖En‖April‖
 Z*C‖august‖SI‖En‖August‖
+*Z‖austral‖SI‖En‖Austral‖
 ZC*‖australia‖SI‖En‖Australia‖
 ZC*‖austria‖SI‖En‖Austria‖
 Z*‖baltic‖SI‖En‖Baltic‖
@@ -27,7 +28,8 @@ ZC*‖cracow‖SI‖En‖Cracow‖
 ZC*‖december‖SI‖En‖December‖
 *Z‖dubai‖SI‖En‖Dubai‖
 Z‖dutch‖SI‖En‖Dutch‖
-ZC*‖east‖SI‖En‖East‖
+CZ‖east‖SI‖En‖East‖
+CZ‖easter‖SI‖En‖Easter‖
 ZC*‖egypt‖SI‖En‖Egypt‖
 ZC*‖england‖CL‖En‖England‖
 ZC*‖english‖CL‖En‖English‖
@@ -54,6 +56,7 @@ ZC*‖july‖SI‖En‖July‖
 ZC*‖june‖SI‖En‖June‖
 ZC*‖koln‖SI‖En‖Köln‖
 Z*‖lithuania‖SI‖En‖Lithuania‖
+*Z‖malesia‖SI‖En‖Malesia‖
 Z*‖mexico‖SI‖En‖Mexico‖
 ZC*‖monday‖SI‖En‖Monday‖
 Z*‖netherlands‖SI‖En‖Netherlands‖
@@ -61,6 +64,7 @@ ZC*‖north‖SI‖En‖North‖
 Z*‖norway‖SI‖En‖Norway‖
 ZC*‖november‖SI‖En‖November‖
 ZC*‖october‖SI‖En‖October‖
+*Z‖pacific‖SI‖En‖Pacific‖
 Z*‖panama‖SI‖En‖Panama‖
 ZC*‖paris‖SI‖En‖Paris‖"peszel"
 ZC‖pln‖SI‖En‖PLN‖
@@ -78,7 +82,7 @@ ZC*‖south‖SI‖En‖South‖
 ZC*‖sunday‖SI‖En‖Sunday‖
 ZC*‖sweden‖SI‖En‖Sweden‖
 ZC*‖swedish‖SI‖En‖Swidish‖
-Z*‖switzerland‖SI‖En‖Switzerland‖Current 1-digit day of the week (1-7). 1 is Sunday in all locales.
+*Z‖switzerland‖SI‖En‖Switzerland‖
 ZC‖szczecin‖SI‖En‖Szczecin‖
 ZC*‖taiwan‖SI‖En‖Taiwan‖
 Z*‖tczew‖SI‖En‖Tczew‖
@@ -92,5 +96,6 @@ ZC‖usd‖SI‖En‖USD‖
 Z*C‖waddinxveen‖SI‖En‖Waddinxveen‖
 Z*C‖wednesday‖SI‖En‖Wednesday‖
 ZC*‖west‖SI‖En‖West‖
+*Z‖wisł‖SI‖En‖Wisł‖
 ZC*‖wrzeszcz‖SI‖En‖Wrzeszcz‖
 ZC*‖zeltweg‖SI‖En‖Zeltweg‖
