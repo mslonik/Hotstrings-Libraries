@@ -39,6 +39,7 @@ Z‖hz‖SI‖En‖Hz‖
 Z‖infinity‖SI‖En‖∞‖
 Z*‖kamp‖CL‖En‖kA‖
 Z‖khz‖SI‖En‖kHz‖
+C1Z‖kj‖SI‖En‖kJ‖
 Z*‖kmh‖SI‖En‖km/h‖
 Z*‖kohm‖CL‖Dis‖kΩ‖
 Z*‖kropkam‖MSI‖En‖·¦×‖
@@ -51,6 +52,7 @@ Z‖mah‖SI‖En‖mAh‖
 Z*‖mamp‖CL‖En‖mA‖
 Z‖mhz‖SI‖En‖MHz‖
 Z*‖minusplus‖CL‖En‖±‖
+C1Z‖mj‖SI‖En‖MJ‖
 Z*‖mkropka‖MSI‖En‖·¦×‖U+00B7 | U+00D7
 Z*‖mm2‖SI‖En‖mm²‖
 Z*‖mminus‖CL‖En‖−‖

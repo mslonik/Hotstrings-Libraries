@@ -34,10 +34,13 @@ Z‖ai‖SI‖En‖AI‖
 Z‖ai/‖SI‖En‖Artificial Inteligence‖
 ZC‖altgr‖SI‖En‖AltGr‖
 Z*C‖altgr/‖MSI‖En‖alternate graphics¦LControl & RAlt‖
+Z‖alu‖SI‖En‖ALU‖
+*Z‖alu/‖SI‖En‖Arithmetic Logic Unit‖https://en.wikipedia.org/wiki/Arithmetic_logic_unit
 ZC‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
 ZC1‖api‖SI‖En‖API‖
 Z*‖api/‖CL‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
+Z‖appdata‖SI‖En‖AppData‖
 ZC‖ar‖SI‖En‖AR‖
 Z*‖ar/‖SI‖En‖Augmented Reality‖
 Z*‖asap/‖CL‖En‖as soon as possible‖
@@ -53,6 +56,8 @@ Z‖awg‖SI‖En‖AWG‖
 Z*‖awg/‖SI‖En‖American Wire Gauge‖
 Z‖b2b‖SI‖En‖B2B‖
 Z*‖b2b/‖SI‖En‖Business-to-Business‖
+Z‖bi‖SI‖En‖BI‖
+*Z‖bi/‖MSI‖En‖Basic Integration¦Basic Integration / SIL0‖
 ZC‖bios‖SI‖En‖BIOS‖
 Z*‖bios/‖SI‖En‖Basic Input/Output System‖https://en.wikipedia.org/wiki/BIOS
 ZC‖bom‖SI‖En‖BOM‖
@@ -68,8 +73,8 @@ ZC‖cam‖SI‖En‖CAM‖
 Z*‖cam/‖SI‖En‖Computer Aided Manufacturing‖https://en.wikipedia.org/wiki/Computer-aided_manufacturing
 Z*‖can/‖CL‖En‖Controller Area Network‖https://en.wikipedia.org/wiki/CAN_bus
 Z*‖can`t‖SI‖En‖CAN‖
-ZC‖cat‖SI‖En‖CAT‖
 Z*‖cat/‖CL‖En‖Computer Assisted Translation‖https://en.wikipedia.org/wiki/Computer-assisted_translation
+*OZ‖cat`t‖SI‖En‖CAT‖
 Z*‖cc/‖MSI‖En‖CC0 (Creative Commons "No Rights Reserved")¦CC BY (Creative Commons Attribution)¦CC BY-SA (Creative Commons Attribution-ShareAlike)¦CC BY-NC (Creative Commons Attribution-NonCommercial)¦BY-NC-SA (Creative Commons NonCommercial-ShareAlike)¦BY-ND (Creative Commons Attribution-NoDerivatives)¦BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)‖https://en.wikipedia.org/wiki/Creative_Commons_license
 Z*‖ccms/‖SI‖En‖Component Content Management System‖
 ZC‖cctv‖CL‖En‖CCTV‖
@@ -93,6 +98,7 @@ Z*‖cms/‖SI‖En‖Content Management System‖
 ZC‖com‖SI‖Dis‖COM‖
 Z*‖com/‖MCL‖En‖a serial port interface on IBM PC-compatible computers¦Component Object Model, a Microsoft software interface technology‖
 Z*C‖com`t‖SI‖En‖COM‖https://en.wikipedia.org/wiki/Com
+*Z‖configuration/‖SI‖En‖Configuration represents the individual (customer) requirements for a specific application. The structuring and interconnection of hardware and software of a system for its intended application. Example: a system whose generic software is pre-configured for a generic railway application by a set of application algorithms, and which is then further configured to each specific installation by instantiation and interconnection of the application algorithms and by a set of configuration data.‖
 Z‖coo‖SI‖En‖COO‖https://en.wikipedia.org/wiki/Chief_operating_officer
 Z*‖coo/‖SI‖En‖Chief Operating Officer‖https://en.wikipedia.org/wiki/Chief_operating_officer
 ZC‖cop‖SI‖En‖CoP‖
@@ -177,7 +183,7 @@ ZC‖ems‖SI‖En‖EMS‖
 Z*‖ems/‖CL‖En‖Electronics Manufacturing Services‖
 Z‖emu‖SI‖En‖EMU‖
 Z*‖emu/‖SI‖En‖Electric Multiple Unit‖
-ZC‖eol‖SI‖En‖EOL‖
+Z‖eol‖SI‖En‖EOL‖
 Z*‖eol/‖SI‖En‖End of Life‖
 ZC‖eq‖SI‖En‖EQ ‖
 Z*‖eq/‖CL‖En‖Emotional Quotient‖
@@ -224,8 +230,8 @@ Z*‖fpga/‖SI‖En‖Field-Programmable Gate Array‖
 Z‖fps‖SI‖En‖FPS‖
 *Z‖fps/‖SI‖En‖Frames Per Seconds‖
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
-ZC‖ga‖SI‖En‖GA‖
-Z*‖ga/‖MSI‖En‖Generic Application¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: Examples point machines, axle counters, real-time operating systems, fail-safe computer platform without application software.¦SOURCE: IEC 60050-821:FDIS2016, 821-01-57‖
+Z‖ga‖SI‖En‖GA‖
+*Z‖ga/‖MSI‖En‖Generic Application¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: personal computer (hardware & software) where operating system is installed without any user specific / application software.‖
 ZC‖gdpr‖SI‖En‖GDPR‖
 Z*‖gdpr/‖SI‖En‖General Data Protection Regulation‖
 ZC‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
@@ -286,6 +292,8 @@ Z‖json‖SI‖En‖JSON‖
 Z*C1‖json/‖SI‖En‖JavaScript Object Notation‖
 ZC‖kpi‖SI‖En‖KPI‖
 Z*‖kpi/‖CL‖En‖Key Performance Indicator‖
+Z‖kvm‖SI‖En‖KVM‖
+*Z‖kvm/‖SI‖En‖Keyboard Video and Mouse (switch)‖
 Z‖l&d‖SI‖En‖L&D‖
 Z*‖l&d/‖SI‖En‖Learning and Development‖
 ZC‖lad‖SI‖En‖LAD‖
@@ -411,6 +419,8 @@ Z‖pp‖SI‖En‖PP‖
 Z*‖pp/‖SI‖En‖Pair Programming‖
 ZC‖ppi‖SI‖En‖PPI‖
 Z*‖ppi/‖SI‖En‖Point Per Inch‖
+Z‖psi‖SI‖En‖PSI‖
+*Z‖psi/‖SI‖En‖Pound per Square Inch‖
 Z‖puk‖SI‖En‖PUK‖
 Z*‖puk/‖SI‖En‖PIN Unlock Key‖
 ZC‖pwm‖SI‖En‖PWM‖
@@ -430,7 +440,7 @@ ZC‖ral‖SI‖En‖RAL‖
 Z*‖ral/‖SI‖En‖Reichs-Ausschuß für Lieferbedingungen (National Committee for Delivery and Quality Assurance)‖
 ZC‖ram‖SI‖En‖RAM‖
 Z*‖ram/‖CL‖En‖Reliability, Availability, Maintainability‖
-ZC‖rams‖SI‖En‖RAMS‖
+Z‖rams‖SI‖En‖RAMS‖
 Z*‖rams/‖CL‖En‖Reliability, Availability, Maintainability and Safety‖
 ZC‖rap‖SI‖En‖RAP‖
 Z*‖rap/‖CL‖En‖Risk Acceptance Principle‖
@@ -444,6 +454,8 @@ Z‖rest‖SI‖En‖REST‖
 *Z‖rest/‖SI‖En‖REpresentational State Transfer‖https://en.wikipedia.org/wiki/Representational_state_transfer
 ZC‖rfid‖SI‖En‖RFID‖
 Z*‖rfid/‖SI‖En‖Radio Frequency Identification‖
+Z‖rfp‖SI‖En‖RFP‖
+*Z‖rfp/‖SI‖En‖Request for Proposal‖
 ZC‖rgb‖SI‖En‖RGB‖https://en.wikipedia.org/wiki/RGB_color_model
 Z*‖rgb/‖SI‖En‖Red Green Blue‖
 ZC‖rma‖SI‖En‖RMA‖
@@ -464,7 +476,7 @@ Z‖rss‖SI‖En‖RSS‖
 *Z‖rss/‖MSI‖En‖Really Simple Syndication¦Really Simple Syndication (RSS) a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format. Subscribing to RSS feeds can allow a user to keep track of many different websites in a single news aggregator, which constantly monitor sites for new content, removing the need for the user to manually check them.‖https://en.wikipedia.org/wiki/RSS
 ZC‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
-Z*‖sa/‖MSI‖En‖Specific Application¦specific application‖
+*Z‖sa/‖MSI‖En‖Specific Application¦specific application¦specific application of generic product applicable for specific factors and requirements, suitable for a specific intended use. Example: personal computer (hardware & software) where besides operating system are installed user oriented applications and user oriented data.‖
 Z*C‖sa`t‖SI‖En‖SA‖
 ZC‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
@@ -497,7 +509,7 @@ Z‖spd‖SI‖En‖SPD‖
 Z*‖spd/‖SI‖En‖Surge Protection Device‖
 ZC‖sql‖SI‖En‖SQL‖
 Z*‖sql/‖CL‖En‖Structured Query Language‖
-ZC‖srac‖SI‖En‖SRAC‖Source: 3.75 → EN 50126-1:2017 (E)
+Z‖srac‖SI‖En‖SRAC‖Source: 3.75 → EN 50126-1:2017 (E)
 Z*‖srac/‖MCL‖En‖Safety Related Application Condition¦Those conditions which need to be met in order for a system to be safely integrated and safely operated. Note 1 to entry: Application conditions can for example be: operational restrictions (e.g. speed limit, maximum duration of use), operational rules, maintenance restrictions (e.g. requested maintenance intervals) or environmental conditions.‖
 Z‖ssh‖SI‖En‖SSH‖
 Z*‖ssh/‖MSI‖En‖Secure Shell¦a cryptographic network protocol for operating network services securely over an unsecured network‖
@@ -510,6 +522,7 @@ Z*‖suv/‖SI‖En‖Sport Utility Vehicle‖
 ZC‖sw‖SI‖En‖SW‖
 Z*‖sw/‖SI‖En‖software‖
 Z‖sysml‖SI‖En‖SysML‖
+*Z‖sysml/‖SI‖En‖System Modeling Language‖
 Z*‖tbc/‖CL‖En‖to be continued‖
 Z‖tbd‖SI‖Dis‖to be decided‖
 Z*‖tbd/‖MSI‖En‖to be decided¦to be defined‖
@@ -547,7 +560,7 @@ Z*‖ui/‖CL‖En‖User Interface‖
 ZC‖uic‖SI‖En‖UIC‖https://uic.org/
 Z*‖uic/‖MCL‖En‖International Union of Railways¦French: Union internationale des chemins de fer‖
 Z‖uml‖SI‖En‖UML‖
-*Z‖uml/‖MSI‖En‖Universal Modeling Language¦software modeling language‖
+*Z‖uml/‖MSI‖En‖Unified Modeling Language¦software modeling language‖
 ZC‖ups‖SI‖En‖UPS‖
 Z*‖ups/‖CL‖En‖Uninterruptable Power Supply‖
 ZC‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL

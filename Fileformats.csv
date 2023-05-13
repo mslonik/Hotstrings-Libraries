@@ -22,6 +22,7 @@ ZB0?‖.pdf‖SI‖En‖‖only for extensions
 ZB0?‖.png‖SI‖En‖‖
 ZCB0?‖.rtf‖SI‖En‖‖
 ZB0?‖.svg‖SI‖En‖‖only for extensions
+B0?Z‖.txt‖SI‖En‖‖only for extensions
 ZB0?‖.xlsx‖SI‖En‖‖only for extensions
 ZB0?‖.xml‖SI‖En‖‖only for extensions
 Z‖ahk‖SI‖En‖AHK‖
@@ -50,5 +51,7 @@ Z‖rtf‖SI‖En‖RTF‖
 ZC‖rtf/‖SI‖En‖Rich Text Format‖
 Z‖svg‖SI‖En‖SVG‖
 Z*‖svg/‖SI‖En‖Scalable Vector Graphics‖
+Z‖txt‖SI‖En‖TXT‖
+*Z‖txt/‖SI‖En‖TeXT file‖
 Z‖xlsx‖SI‖En‖XLSX‖
 Z‖xml‖SI‖En‖XML‖

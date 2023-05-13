@@ -11,6 +11,8 @@ Example:		litwa → Litwa.
 */
 
 *Z‖ameryk‖SI‖En‖Ameryk‖
+C1Z‖asi‖SI‖En‖Asi‖
+C1Z‖asia‖SI‖En‖Asia‖
 Z*‖austri‖SI‖En‖Austri‖
 Z*‖bałtyk‖SI‖En‖Bałtyk‖
 Z*‖cdn/‖SI‖En‖ciąg dalszy nastąpi‖
@@ -18,11 +20,18 @@ Z*‖cdn/‖SI‖En‖ciąg dalszy nastąpi‖
 Z‖codzienn‖SI‖En‖co dzień‖
 Z‖codzień‖SI‖En‖co dzień‖
 Z*‖conajmniej‖SI‖En‖co najmniej‖
+Z‖edycie‖SI‖En‖Edycie‖
+*Z‖edyta‖SI‖En‖Edyta‖
+Z‖edyty‖SI‖En‖Edyty‖
+Z‖edytą‖SI‖En‖Edytą‖
+Z‖eog‖SI‖En‖EOG‖
+*Z‖eog/‖SI‖En‖Europejski Obszar Gospodarczy‖
 Z*‖fik‖SI‖Dis‖fikumiku‖
 Z*‖fiku/‖SI‖Dis‖fiku`amiku`n‖
 Z*‖gdyn‖SI‖En‖Gdyn‖
 Z*‖gruzin‖SI‖En‖Gruzin‖
 Z*‖gruzj‖SI‖En‖Gruzj‖
+*Z‖hiszpan‖SI‖En‖Hiszpan‖
 Z*‖holand‖SI‖En‖Holand‖
 *Z‖holend‖MSI‖En‖Holend¦holend‖
 *Z‖internecie‖SI‖En‖Internecie‖
@@ -33,12 +42,22 @@ Z*‖holand‖SI‖En‖Holand‖
 Z‖jw‖SI‖En‖j.w.‖
 Z*‖jw/‖SI‖En‖jak wyżej‖
 *Z‖karol‖SI‖En‖Karol‖
+Z‖kasia‖SI‖En‖Kasia‖
+Z‖kasią‖SI‖En‖Kasią‖
+*Z‖katarzyn‖SI‖En‖Katarzyn‖
 *Z‖krakow‖SI‖En‖Kraków‖
 *Z‖kraków‖SI‖En‖Kraków‖
 Z*‖litwa‖SI‖En‖Litwa‖
+Z‖magda‖SI‖En‖Magda‖
+*Z‖magdalen‖SI‖En‖Magdalen‖
 *Z‖malez‖SI‖En‖Malez‖
+*Z‖malgorzat‖SI‖En‖Małgorzat‖
 *Z‖marcin‖SI‖En‖Marcin‖
 *Z‖mariusz‖SI‖En‖Mariusz‖
+*Z‖małgorzat‖SI‖En‖Małgorzat‖
+*Z‖michal‖SI‖En‖Michał‖
+*Z‖michał‖SI‖En‖Michał‖
+*Z‖michiel‖SI‖En‖Michiel‖
 ZC*‖niemcy‖SI‖En‖Niemcy‖
 ZC*‖niemiec‖SI‖En‖Niemiec‖
 *Z‖obsolescence management/‖MSI‖En‖zapobieganie niedostępności¦zarządzanie starzeniem‖context.reverso.net
@@ -53,5 +72,6 @@ ZC*‖polski‖MSI‖En‖Polski¦polski‖
 *Z‖przemyslaw‖SI‖En‖Przemysław‖
 *Z‖przemysław‖SI‖En‖Przemysław‖
 *Z‖rafał‖SI‖En‖Rafał‖
+Z‖sopocie‖SI‖En‖Sopocie‖
 *CZ‖szwecja‖SI‖En‖Szwecja‖
 *CZ‖szwecji‖SI‖En‖Szwecji‖

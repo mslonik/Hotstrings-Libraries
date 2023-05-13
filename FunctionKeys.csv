@@ -10,11 +10,21 @@ Notes:		When specific application window is active, keys can be triggered even w
 Examples:	     Text f18/ entered in currently active window calls F18 funciton key and function which is assigned to it.
 */
 
-Z*‖backspace/‖SI‖En‖{U+0008}‖
+*Z‖altd/‖SI‖En‖{alt down}‖
+*Z‖backspace/‖SI‖En‖{bs}‖
+*Z‖bold/‖SI‖En‖{control down}b{control up}‖
 Z‖capslock‖SI‖En‖CapsLock‖
 Z*‖capslock/‖SI‖Dis‖{CapsLock}‖
+*Z‖context/‖SI‖En‖{appskey}‖
+*Z‖copy/‖SI‖En‖{control down}c{control up}‖
+*Z‖ctrl/‖SI‖En‖{Control Down}{left}{Control Up}‖
+*Z‖ctrld/‖SI‖En‖{control down}‖
+*Z‖ctrr/‖SI‖En‖{Control Down}{right}{Control Up}‖
+*Z‖cut/‖SI‖En‖{control down}x{control up}‖
 Z*‖delete/‖SI‖En‖{delete}‖
+*Z‖down/‖SI‖En‖{down}‖
 Z*‖end/‖SI‖En‖{end}‖
+*Z‖enter/‖SI‖En‖{enter}‖
 Z*‖esc/‖SI‖En‖{esc}‖
 Z*‖f1/‖SI‖En‖{F1}‖
 Z*‖f10/‖SI‖En‖{F10}‖
@@ -42,10 +52,21 @@ Z*‖f8/‖SI‖En‖{F8}‖
 Z*‖f9/‖SI‖En‖{F9}‖
 Z*‖home/‖SI‖En‖{home}‖
 Z*‖insert/‖SI‖En‖{Insert}‖
+*Z‖left/‖SI‖En‖{left}‖
+*Z‖menu/‖SI‖En‖{appskey}‖
 Z‖numlock‖SI‖En‖NumLock‖
 Z*‖numlock/‖SI‖En‖{NumLock}‖
+*Z‖paste/‖SI‖En‖{control down}v{control up}‖
 Z*‖pause/‖SI‖En‖{Pause}‖
+*Z‖pgdn/‖SI‖En‖{pgdn}‖
+*Z‖pgup/‖SI‖En‖{pgup}‖
+*Z‖print/‖SI‖En‖{control down}p{control up}‖
 Z*‖prtscr/‖SI‖En‖{PrintScreen}‖
+*Z‖right/‖SI‖En‖{right}‖
 Z‖scrolllock‖SI‖En‖ScrollLock‖
 Z*‖scrolllock/‖SI‖Dis‖{ScrollLock}‖
+*Z‖shiftd/‖SI‖En‖{shift down}‖
 Z*‖tab/‖MSI‖En‖{tab}¦{Space 5}‖
+*Z‖undo/‖SI‖En‖{control down}z{control up}‖
+*Z‖up/‖SI‖En‖{Up}‖
+*Z‖wind/‖SI‖En‖{win down}‖
