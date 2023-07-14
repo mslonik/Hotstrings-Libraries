@@ -4,6 +4,8 @@ Z‖bic‖SI‖En‖BIC‖
 Z*‖bic/‖SI‖En‖Bank Identifier Code‖
 Z‖capex‖SI‖En‖CAPEX‖
 *Z‖capex/‖MSI‖En‖CAPital EXpenditure¦the money an organization or corporate entity spends to buy, maintain, or improve its fixed assets, such as buildings, vehicles, equipment, or land.‖https://en.wikipedia.org/wiki/Capital_expenditure
+Z‖cvc‖SI‖En‖CVC‖
+*Z‖cvc/‖SI‖En‖Card Verivication Code‖
 ZC‖ebit‖SI‖En‖EBIT‖
 Z*‖ebit/‖SI‖En‖Earnings Before Interest and Taxes‖
 ZC‖ebitda‖SI‖En‖EBITDA‖https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_d
@@ -12,10 +14,14 @@ Z‖eea‖SI‖En‖EEA‖
 *Z‖eea/‖SI‖En‖European Economic Area‖
 Z‖etf‖SI‖En‖ETF‖https://en.wikipedia.org/wiki/Exchange-traded_fund
 Z*‖etf/‖SI‖En‖Exchange-Traded Fund‖https://en.wikipedia.org/wiki/Exchange-traded_fund
+Z‖fy‖SI‖En‖FY‖
+*Z‖fy/‖SI‖En‖Financial Year‖
 Z‖gdp‖SI‖En‖GDP‖
 Z*‖gdp/‖SI‖En‖Gross Domestic Product‖https://en.wikipedia.org/wiki/Gross_domestic_product
 Z‖iban‖SI‖En‖IBAN‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
 Z*‖iban/‖SI‖En‖International Bank Account Number‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
+Z‖ivr‖SI‖En‖IVR‖
+*Z‖ivr/‖SI‖En‖Interactive Voice Response‖
 CZ‖mor‖SI‖En‖MoR‖
 *CZ‖mor/‖MSI‖En‖Merchant of Record¦a term used to describe the legal entity selling goods or services to an end customer.`n`nWhen a customer makes a purchase, they are buying from the merchant of record. The merchant of record is responsible for handling all payments and takes responsibility for everything relating to the purchase, including collecting sales tax, processing refunds and chargebacks, and ensuring PCI compliance.‖
 Z‖npv‖SI‖En‖NPV‖

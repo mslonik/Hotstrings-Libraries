@@ -11,7 +11,10 @@ Notes:		The vast majority of definitions have set feature * (immediate execute) 
 
 */
 
-Z*‖adobe‖SI‖En‖Adobe‖
+Z‖adobe‖SI‖En‖Adobe‖
+Z‖aem‖SI‖En‖AEM‖
+*Z‖aem/‖SI‖En‖Adobe Experience Manager‖
+*‖alior‖SI‖En‖Alior‖
 ZC‖allegro‖SI‖En‖Allegro‖
 *Z‖ant+‖SI‖En‖ANT{+}‖https://en.wikipedia.org/wiki/ANT_(network)
 *Z‖antplus‖SI‖En‖ANT{+}‖
@@ -40,18 +43,23 @@ Z‖huel‖SI‖En‖Huel‖
 Z*‖ikea‖SI‖En‖IKEA‖
 Z‖incose‖SI‖En‖INCOSE‖
 *Z‖incose/‖SI‖En‖International Council on System Engineering‖
+*Z‖inpost‖SI‖En‖InPost‖
 Z*‖instagram‖SI‖En‖Instagram‖
 Z*‖internet‖SI‖En‖Internet‖
 Z*‖ios‖SI‖En‖iOS‖"peszel"
 Z*‖iphone‖SI‖En‖iPhone‖
 Z*‖iscala‖CL‖En‖iSCALA‖
-Z‖joomla‖MSI‖En‖ Joomla{!}¦https://www.joomla.org/‖
+*CZ‖jlcpcb‖SI‖En‖JLCPCB‖
+Z‖joomla‖MSI‖En‖Joomla{!}¦https://www.joomla.org/‖
 Z‖keepass‖SI‖En‖KeePass‖
 Z‖kindle‖SI‖En‖Kindle‖
 *Z‖lidl‖SI‖En‖Lidl‖
 Z*‖linkedin‖SI‖En‖LinkedIn‖
 Z*‖linux‖SI‖En‖Linux‖
 Z‖markdown‖SI‖En‖Markdown‖
+*Z‖mbank‖SI‖En‖mBank‖
+Z‖mcu‖SI‖En‖MCU‖
+*Z‖mcu/‖SI‖En‖Micro Controller Unit‖
 Z*‖microsoft‖SI‖En‖Microsoft‖
 ZC‖netflix‖SI‖En‖Netflix‖
 Z‖notepad++‖SI‖En‖Notepad{+}{+}‖
@@ -59,6 +67,7 @@ Z‖obi‖SI‖En‖OBI‖
 *Z‖omg/‖SI‖En‖Object Management Group‖
 Z*‖onedrive‖SI‖En‖OneDrive‖
 *Z‖paypal‖SI‖En‖PayPal‖
+*Z‖peugeot‖SI‖En‖Peugeot‖
 Z‖philips‖SI‖En‖Philips‖
 Z*‖power point‖SI‖En‖PowerPoint‖
 Z*‖powerpoint‖SI‖En‖PowerPoint‖
@@ -74,9 +83,11 @@ ZC‖shimano‖SI‖En‖Shimano‖
 *Z‖shipify/‖SI‖En‖Shopify‖U+1F3E2
 *Z‖shopify‖SI‖En‖Shopify‖
 Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
+*Z‖skype‖SI‖En‖Skype‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
 Z*‖sp/‖SI‖En‖Sharepoint‖
 Z*‖strava‖SI‖En‖Strava‖
+*Z‖suzuki‖SI‖En‖Suzuki‖
 Z‖svn‖SI‖En‖SVN‖
 *Z‖svn/‖CL‖En‖versioning and revision control system‖
 Z*‖tales‖SI‖En‖Thales‖
@@ -94,7 +105,7 @@ Z*‖wifi‖SI‖En‖WiFi‖
 Z*‖wikipedia‖SI‖En‖Wikipedia‖
 Z*‖windows‖MSI‖En‖Windows¦windows‖
 *Z‖youtube‖SI‖En‖YouTube‖
-ZC‖yt/‖CL‖En‖YouTube‖
+*CZ‖yt/‖CL‖En‖YouTube‖
 Z‖ytd‖CL‖En‖YTD‖
 ZC‖ytd/‖CL‖En‖Year To Date‖
 Z‖yubico‖SI‖En‖Yubico‖

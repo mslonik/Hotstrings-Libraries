@@ -10,12 +10,15 @@ Notes:		The majority of definitions are auto replace (*) without additional char
 Example:		filip → Filip
 */
 
+*Z‖aad‖SI‖En‖Aad‖Adrianus / Adriaan
 Z*‖agnieszka‖SI‖En‖Agnieszka‖
 Z*‖ariadn‖SI‖En‖Ariadn‖
 ZC*‖artur‖SI‖En‖Artur‖
 Z*‖bastian‖SI‖En‖Bastian‖
 Z*‖bernd‖SI‖En‖Bernd‖
 Z*‖bolesław‖SI‖En‖Bolesław‖
+*Z‖clair‖SI‖En‖Clair‖
+*Z‖claire‖SI‖En‖Claire‖
 Z*‖daniel‖SI‖En‖Daniel‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖dirk‖SI‖En‖Dirk‖
 *Z‖ewa‖SI‖En‖Ewa‖
@@ -27,10 +30,11 @@ Z*‖guenther‖CL‖En‖Günther‖
 Z*‖gunther‖CL‖En‖Günther‖
 Z*‖gustaw‖SI‖En‖Gustaw‖
 Z*‖heinrich‖SI‖En‖Heinrich‖Current 1-digit day of the week (1-7). 1 is Sunday in all locales.
-Z*?‖heinz‖SI‖En‖Heinz‖
+*Z‖heinz‖SI‖En‖Heinz‖
 *CZ‖hendrik‖SI‖En‖Hendrik‖
 *Z‖jan‖SI‖En‖Jan‖
 Z*C‖jens‖SI‖En‖Jens‖
+*Z‖joann‖SI‖En‖Joann‖
 Z*‖joerg‖CL‖En‖Jörg‖
 Z*‖jorg‖CL‖En‖Jörg‖
 Z*‖julia‖SI‖En‖Julia‖
@@ -41,21 +45,35 @@ Z*‖kamil‖SI‖En‖Kamil‖
 Z*‖kasandr‖SI‖En‖Kasandr‖
 Z*‖krzysztof‖SI‖En‖Krzysztof‖
 Z*C1‖leon‖SI‖En‖Leon‖
+*CZ‖loek‖SI‖En‖Loek‖
+*Z‖lukasz‖SI‖En‖Łukasz‖
 *‖luuk‖SI‖En‖Luuk‖
 Z*‖maciej‖SI‖En‖Maciej‖
 ZC*‖manuel‖SI‖En‖Manuel‖
 Z*‖markus‖SI‖En‖Markus‖
 *Z‖marta‖SI‖En‖Marta‖
+*Z‖martin‖SI‖En‖Martin‖
 Z*‖martina‖SI‖En‖Martina‖
 *Z‖marty‖SI‖En‖Marty‖
+*‖martę‖SI‖En‖Martę‖
 Z*‖matthias‖SI‖En‖Matthias‖
 Z*‖olga‖SI‖En‖Olga‖
+*Z‖paul‖SI‖En‖Paul‖
 ZC*‖piotr‖SI‖En‖Piotr‖
+*Z‖przemek‖SI‖En‖Przemek‖
+*Z‖przemkiem‖SI‖En‖Przemkiem‖
 *CZ‖rainer‖SI‖En‖Rainer‖
 *CZ‖reiner‖SI‖En‖Reiner‖
-Z*‖rene/‖CL‖En‖René‖
+Z‖rene‖CL‖En‖René‖
+*Z‖rene`n‖CL‖En‖René‖
+*Z‖ryszard‖SI‖En‖Ryszard‖https://en.wikipedia.org/wiki/HIV/AIDS
 Z*‖sebastian‖SI‖En‖Sebastian‖
+*Z‖silvi‖SI‖En‖Silvi‖
 Z*‖soren‖CL‖En‖Søren‖
 *Z‖stefan‖SI‖En‖Stefan‖
 Z*‖sylwi‖SI‖En‖Sylwi‖
 Z*‖szymon‖SI‖En‖Szymon‖
+CZ‖tim‖SI‖En‖Tim‖
+*CZ‖timothy‖SI‖En‖Timothy‖
+*Z‖wiktor‖SI‖En‖Wiktor‖https://en.wikipedia.org/wiki/Switch
+*Z‖łukasz‖SI‖En‖Łukasz‖

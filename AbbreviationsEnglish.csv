@@ -11,80 +11,84 @@ Examples:	Special triggerstrings: d(t, o, h): d(.ahk, B0?, ) (empty hotstring), 
 */
 
 Z*‖-/‖MCL‖En‖_¦- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¦-----------------------------------------------------------------------------------------¦= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =¦===========================================================¦# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #¦################################################################‖
-ZC*‖2d‖MSI‖En‖2D¦two-dimensional‖
-ZC‖2fa‖SI‖En‖2FA‖
+Z*‖2d‖MSI‖En‖2D¦two-dimensional‖
+Z‖2fa‖SI‖En‖2FA‖
 Z*‖2fa/‖SI‖En‖Two-Factor Authentication‖
-Z*C‖3d‖MSI‖En‖3D¦three-dimensional‖
+Z*‖3d‖MSI‖En‖3D¦three-dimensional‖
 Z*‖a/‖SI‖Dis‖Availability‖
-ZC*‖a3‖MSI‖En‖A3¦297 × 420 [mm]‖size of paper sheet in Europe
-ZC*‖a4‖MSI‖En‖A4¦210 × 297 [mm]‖
-ZC‖ac‖SI‖En‖AC‖
+Z*‖a3‖MSI‖En‖A3¦297 × 420 [mm]‖size of paper sheet in Europe
+Z*‖a4‖MSI‖En‖A4¦210 × 297 [mm]‖
+Z‖ac‖SI‖En‖AC‖
 Z*‖ac/‖MSI‖En‖Alternating Current¦Axle Counter‖
-ZC‖acl‖SI‖En‖ACL‖
+Z‖acl‖SI‖En‖ACL‖
 Z*‖acl/‖SI‖En‖Access Control List‖
-ZC1‖adc‖SI‖En‖ADC‖
+Z‖adc‖SI‖En‖ADC‖
 *Z‖adc/‖MSI‖En‖Analog to Digital Converter¦Analog to Digital Converter (ADC) is a system in electronics that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal.‖
-ZC‖adhd‖SI‖En‖ADHD‖
-Z*C‖adhd/‖SI‖En‖Attention Deficit Hyperactivity Disorder‖https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
+Z‖adhd‖SI‖En‖ADHD‖
+Z*‖adhd/‖SI‖En‖Attention Deficit Hyperactivity Disorder‖https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
 Z‖aed‖SI‖En‖AED‖
 *Z‖aed/‖SI‖En‖Automated External Defibrillator‖https://en.wikipedia.org/wiki/Automated_external_defibrillator
 Z*‖afaik/‖CL‖En‖as far as I know‖
 Z*‖ahk/‖MSI‖En‖AutoHotkey¦https://www.autohotkey.com/docs/AutoHotkey.htm‖https://www.autohotkey.com/
 Z‖ai‖SI‖En‖AI‖
 Z‖ai/‖SI‖En‖Artificial Inteligence‖
-ZC‖altgr‖SI‖En‖AltGr‖
-Z*C‖altgr/‖MSI‖En‖alternate graphics¦LControl & RAlt‖
+Z‖aids‖SI‖En‖AIDS‖
+*Z‖aids/‖SI‖En‖Acquired ImmunoDeficiency Syndrome‖https://en.wikipedia.org/wiki/HIV/AIDS
+Z‖altgr‖SI‖En‖AltGr‖
+Z*‖altgr/‖MSI‖En‖alternate graphics¦LControl & RAlt‖
 Z‖alu‖SI‖En‖ALU‖
 *Z‖alu/‖SI‖En‖Arithmetic Logic Unit‖https://en.wikipedia.org/wiki/Arithmetic_logic_unit
-ZC‖ansi‖SI‖En‖ANSI‖
+Z‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
-ZC1‖api‖SI‖En‖API‖
+Z‖api‖SI‖En‖API‖
 Z*‖api/‖CL‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
 Z‖appdata‖SI‖En‖AppData‖
-ZC‖ar‖SI‖En‖AR‖
+Z‖ar‖SI‖En‖AR‖
 Z*‖ar/‖SI‖En‖Augmented Reality‖
 Z*‖asap/‖CL‖En‖as soon as possible‖
-ZC‖asci‖SI‖En‖ASCII‖
+Z‖asci‖SI‖En‖ASCII‖
 Z*‖asci/‖CL‖En‖American Standard Code for Information Interchange‖
-ZC‖ascii‖SI‖En‖ASCII‖
+Z‖ascii‖SI‖En‖ASCII‖
 Z*‖ascii/‖SI‖En‖American Standard Code for Information Interchange‖https://en.wikipedia.org/wiki/ASCII
-Z*C‖asciiart/‖SI‖En‖https://asciiart.website/index.php?art=holiday/christmas/trees‖https://en.wikipedia.org/wiki/Break-even_(economics)#Construction
-ZC‖ato‖SI‖En‖ATO‖
+Z*‖asciiart/‖SI‖En‖https://asciiart.website/index.php?art=holiday/christmas/trees‖https://en.wikipedia.org/wiki/Break-even_(economics)#Construction
+Z‖ato‖SI‖En‖ATO‖
 Z*‖av/‖SI‖En‖Availability‖
-Z*C‖availability/‖SI‖En‖ability of a product to be in a state to perform a required function under given conditions at a given instant of time or over a given time interval assuming that the required external resources are provided.`n[SOURCE: IEC 62278:2002, 3.4]`n‖
+Z*‖availability/‖SI‖En‖ability of a product to be in a state to perform a required function under given conditions at a given instant of time or over a given time interval assuming that the required external resources are provided.`n[SOURCE: IEC 62278:2002, 3.4]`n‖
 Z‖awg‖SI‖En‖AWG‖
 Z*‖awg/‖SI‖En‖American Wire Gauge‖
 Z‖b2b‖SI‖En‖B2B‖
 Z*‖b2b/‖SI‖En‖Business-to-Business‖
 Z‖bi‖SI‖En‖BI‖
 *Z‖bi/‖MSI‖En‖Basic Integration¦Basic Integration / SIL0‖
-ZC‖bios‖SI‖En‖BIOS‖
+Z‖bios‖SI‖En‖BIOS‖
 Z*‖bios/‖SI‖En‖Basic Input/Output System‖https://en.wikipedia.org/wiki/BIOS
-ZC‖bom‖SI‖En‖BOM‖
+Z‖bom‖SI‖En‖BOM‖
 Z*‖bom/‖MSI‖En‖Bill of Materials¦Byte Order Mark‖
 Z‖bpm‖SI‖En‖BPM‖
 *Z‖bpm/‖SI‖En‖Beats Per Minute‖
 Z‖bpmn‖SI‖En‖BPMN‖
 Z*‖bpmn/‖SI‖En‖Business Process Model and Notation‖https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
 Z*‖btw/‖CL‖En‖by the way‖
-ZC‖cad‖SI‖En‖CAD‖
+Z‖cad‖SI‖En‖CAD‖
 Z*‖cad/‖CL‖En‖Computer Aided Design‖https://en.wikipedia.org/wiki/Computer-aided_design
-ZC‖cam‖SI‖En‖CAM‖
+Z‖cam‖SI‖En‖CAM‖
 Z*‖cam/‖SI‖En‖Computer Aided Manufacturing‖https://en.wikipedia.org/wiki/Computer-aided_manufacturing
 Z*‖can/‖CL‖En‖Controller Area Network‖https://en.wikipedia.org/wiki/CAN_bus
 Z*‖can`t‖SI‖En‖CAN‖
 Z*‖cat/‖CL‖En‖Computer Assisted Translation‖https://en.wikipedia.org/wiki/Computer-assisted_translation
+*Z‖cat`n‖MSI‖En‖CAT¦Computer Assisted Translation¦🐈‖
 *OZ‖cat`t‖SI‖En‖CAT‖
 Z*‖cc/‖MSI‖En‖CC0 (Creative Commons "No Rights Reserved")¦CC BY (Creative Commons Attribution)¦CC BY-SA (Creative Commons Attribution-ShareAlike)¦CC BY-NC (Creative Commons Attribution-NonCommercial)¦BY-NC-SA (Creative Commons NonCommercial-ShareAlike)¦BY-ND (Creative Commons Attribution-NoDerivatives)¦BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)‖https://en.wikipedia.org/wiki/Creative_Commons_license
+Z‖ccms‖SI‖En‖CCMS‖
 Z*‖ccms/‖SI‖En‖Component Content Management System‖
-ZC‖cctv‖CL‖En‖CCTV‖
+Z‖cctv‖CL‖En‖CCTV‖
 Z*‖cctv/‖CL‖En‖Closed-Circuit Television‖
 Z‖ce‖SI‖En‖CE‖
 Z*‖ce/‖MSI‖En‖Conformité Européenne¦The CE mark indicates that the product may be sold freely in any part of the European Economic Area, regardless of its country of origin.‖
 Z*‖ce/‖MSI‖En‖Conformité Européenne¦The CE mark indicates that the product may be sold freely in any part of the European Economic Area, regardless of its country of origin.¦Znak CE wskazuje, że produkt może zostać wprowadzony do obrotu w każdym z państw europejskiej  wspólnoty gospodarczej, bez względu na jego kraj pochodzenia.‖
-ZC‖ceo‖SI‖En‖CEO‖
+Z‖ceo‖SI‖En‖CEO‖
 Z*‖ceo/‖CL‖En‖Chief Executive Officer‖
-ZC‖cfo‖SI‖En‖CFO‖
+Z‖cfo‖SI‖En‖CFO‖
 Z*‖cfo/‖SI‖En‖Chief Financial Officer‖
 Z‖cgi‖SI‖En‖CGI‖
 Z*‖cgi/‖SI‖En‖Computer-Generated Imagery‖
@@ -93,48 +97,52 @@ Z*‖ci/‖SI‖En‖Continuous Integration‖
 Z*‖ci`t‖SI‖En‖CI‖
 Z‖cli‖SI‖En‖CLI‖
 Z*‖cli/‖SI‖En‖Command Line Interface‖
-ZC‖cms‖SI‖En‖CMS‖
+Z‖cms‖SI‖En‖CMS‖
 Z*‖cms/‖SI‖En‖Content Management System‖
-ZC‖com‖SI‖Dis‖COM‖
+Z‖com‖SI‖Dis‖COM‖
 Z*‖com/‖MCL‖En‖a serial port interface on IBM PC-compatible computers¦Component Object Model, a Microsoft software interface technology‖
-Z*C‖com`t‖SI‖En‖COM‖https://en.wikipedia.org/wiki/Com
+Z*‖com`t‖SI‖En‖COM‖https://en.wikipedia.org/wiki/Com
 *Z‖configuration/‖SI‖En‖Configuration represents the individual (customer) requirements for a specific application. The structuring and interconnection of hardware and software of a system for its intended application. Example: a system whose generic software is pre-configured for a generic railway application by a set of application algorithms, and which is then further configured to each specific installation by instantiation and interconnection of the application algorithms and by a set of configuration data.‖
 Z‖coo‖SI‖En‖COO‖https://en.wikipedia.org/wiki/Chief_operating_officer
 Z*‖coo/‖SI‖En‖Chief Operating Officer‖https://en.wikipedia.org/wiki/Chief_operating_officer
-ZC‖cop‖SI‖En‖CoP‖
+Z‖cop‖SI‖En‖CoP‖
 Z*‖cop/‖CL‖En‖Code of Practice‖
-ZC‖cot‖SI‖En‖CoT‖
+Z‖cot‖SI‖En‖CoT‖
 Z*‖cot/‖MSI‖En‖Clearance of Track¦part of specific reset procedure: track section is cleared after passage of a test train; if the train passes with no errors, the section can be cleared‖
-ZC‖cots‖SI‖En‖COTS‖
+Z‖cots‖SI‖En‖COTS‖
 Z*‖cots/‖CL‖En‖Commercial Off-The-Shelf‖U+1F451 | U+83CC
-ZC‖covid‖MSI‖En‖COVID-19¦👑🦠‖
+Z‖covid‖MSI‖En‖COVID-19¦👑🦠‖
 Z*‖covid/‖CL‖En‖severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)‖
 Z‖cpr‖SI‖En‖CPR‖
 *Z‖cpr/‖SI‖En‖CardioPulmonary Resuscitation‖https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation
-ZC‖crc‖SI‖En‖CRC‖
+Z‖crc‖SI‖En‖CRC‖
 Z*‖crc/‖SI‖En‖Cyclic Redundancy Check‖
-ZC‖crm‖SI‖En‖CRM‖
+Z‖crm‖SI‖En‖CRM‖
 Z*‖crm/‖SI‖En‖Customer Relationship Management‖
 Z‖crud‖SI‖En‖CRUD‖
 *Z‖crud/‖SI‖En‖Create Read Update Delete‖
-ZC‖cso‖SI‖En‖CSO‖
+Z‖cso‖SI‖En‖CSO‖
 Z*‖cso/‖SI‖En‖Chief Sales Officer‖
 Z‖css‖SI‖En‖CSS‖
 Z*‖css/‖SI‖En‖Cascading Style Sheets‖
-ZC‖cv‖SI‖En‖CV‖course of life
+Z‖cto‖SI‖En‖CTO‖
+*Z‖cto/‖SI‖En‖Chief Technical Officer‖
+Z‖cv‖SI‖En‖CV‖course of life
 Z‖cv/‖SI‖En‖Curriculum Vitae‖
-ZC‖dc‖SI‖En‖DC‖
+Z‖dc‖SI‖En‖DC‖
 Z*‖dc/‖CL‖En‖Direct Current‖
-ZC‖ddns‖SI‖En‖DDNS‖https://en.wikipedia.org/wiki/Dynamic_DNS
+Z‖ddns‖SI‖En‖DDNS‖https://en.wikipedia.org/wiki/Dynamic_DNS
 Z*‖ddns/‖CL‖En‖Dynamic DNS‖
 Z‖ddos‖SI‖En‖DDoS‖
 Z*‖ddos/‖SI‖En‖Distributed Denial of Service‖
 Z‖dftba‖SI‖En‖DFTBA‖
 Z*‖dftba/‖SI‖En‖Don't Forget To Be Awsome‖
-ZC‖dhcp‖SI‖En‖DHCP‖https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protoco
+Z‖dfu‖SI‖En‖DFU‖
+*Z‖dfu/‖SI‖En‖Device Firmware Upgrade‖https://en.m.wikipedia.org/wiki/USB#
+Z‖dhcp‖SI‖En‖DHCP‖https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protoco
 Z*‖dhcp/‖SI‖En‖Dynamic Host Configuration Protocol‖
-ZC‖din‖SI‖En‖DIN‖
-ZC‖dita‖SI‖En‖DITA‖https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architec
+Z‖din‖SI‖En‖DIN‖
+Z‖dita‖SI‖En‖DITA‖https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architec
 Z*‖dita/‖CL‖En‖Darwin Information Typing Architecture‖
 Z‖diy‖SI‖En‖DIY‖
 Z*‖diy/‖SI‖En‖Do It Yourself‖
@@ -142,86 +150,86 @@ Z‖dmu‖SI‖En‖DMU‖
 Z*‖dmu/‖SI‖En‖Diesel Multiple Unit‖
 Z‖dna‖SI‖En‖DNA‖
 Z*‖dna/‖SI‖En‖deoxyribonucleic acid‖
-ZC‖dnd‖SI‖En‖D&D‖
+Z‖dnd‖SI‖En‖D&D‖
 Z*‖dnd/‖SI‖En‖Drag&Drop‖
-ZC‖dns‖SI‖En‖DNS‖https://en.wikipedia.org/wiki/Domain_Name_System
+Z‖dns‖SI‖En‖DNS‖https://en.wikipedia.org/wiki/Domain_Name_System
 Z‖dns/‖SI‖En‖Domain Name System‖https://www.ibm.com/pl-pl/products/requirements-management
 Z*‖doors/‖SI‖En‖ Dynamic Object Oriented Requirements System‖
 Z‖dos‖SI‖En‖DoS‖
 Z*‖dos/‖SI‖En‖Denial of Service‖
 Z‖drm‖CL‖En‖DRM‖
 Z*‖drm/‖CL‖En‖Digital Right Management‖
-ZC‖dsl‖SI‖En‖DSL‖https://en.wikipedia.org/wiki/Digital_subscriber_line
+Z‖dsl‖SI‖En‖DSL‖https://en.wikipedia.org/wiki/Digital_subscriber_line
 Z*‖dsl/‖SI‖En‖Digital Subscriber Line‖
-ZC‖dslr‖SI‖En‖DSLR‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
+Z‖dslr‖SI‖En‖DSLR‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z*‖dslr/‖SI‖En‖Digital Single-Lens Reflex camera‖
-ZC‖dvd‖SI‖En‖DVD‖https://en.wikipedia.org/wiki/DVD
+Z‖dvd‖SI‖En‖DVD‖https://en.wikipedia.org/wiki/DVD
 Z*‖dvd/‖SI‖En‖Digital Versatile Disc‖
-ZC‖dwg‖SI‖En‖DWG‖https://en.wikipedia.org/wiki/.dwg
+Z‖dwg‖SI‖En‖DWG‖https://en.wikipedia.org/wiki/.dwg
 Z*‖dwg/‖SI‖En‖Drawings binary file format‖
-ZC‖dxf‖SI‖En‖DXF‖
+Z‖dxf‖SI‖En‖DXF‖
 Z*‖dxf/‖SI‖En‖Drawing Exchange Format‖
 Z*‖dyi/‖SI‖En‖do it yourself‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z‖ecg‖SI‖En‖ECG‖
 *Z‖ecg/‖SI‖En‖ELectrocardiogram‖https://en.wikipedia.org/wiki/Electrocardiography
 Z‖ecm‖SI‖En‖ECM‖
-Z*C‖ecm/‖SI‖En‖Enterprise Content Management‖
+Z*‖ecm/‖SI‖En‖Enterprise Content Management‖
 Z‖eeprom‖SI‖En‖EEPROM‖
 Z*‖eeprom/‖SI‖En‖Electrically Erasable Programmable Read-Only Memory‖
 Z*‖eg/‖SI‖En‖exempli gratia‖
-ZC‖ei‖SI‖En‖EI‖
+Z‖ei‖SI‖En‖EI‖
 Z*‖ei/‖CL‖En‖Emotional Intelligence‖
-ZC‖emc‖SI‖En‖EMC‖
+Z‖emc‖SI‖En‖EMC‖
 Z*‖emc/‖CL‖En‖Electro-Magnetic Compatibility‖
 Z‖emea‖SI‖En‖EMEA‖
 Z‖emea/‖SI‖En‖Europe, the Middle East and Africa‖
-ZC‖emf‖SI‖En‖EMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
+Z‖emf‖SI‖En‖EMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖emf/‖CL‖En‖Enhanced Metafile‖
-ZC‖emi‖SI‖En‖EMI‖
+Z‖emi‖SI‖En‖EMI‖
 Z*‖emi/‖CL‖En‖Electromagnetic Interference‖
-ZC‖ems‖SI‖En‖EMS‖
+Z‖ems‖SI‖En‖EMS‖
 Z*‖ems/‖CL‖En‖Electronics Manufacturing Services‖
 Z‖emu‖SI‖En‖EMU‖
 Z*‖emu/‖SI‖En‖Electric Multiple Unit‖
 Z‖eol‖SI‖En‖EOL‖
 Z*‖eol/‖SI‖En‖End of Life‖
-ZC‖eq‖SI‖En‖EQ ‖
+Z‖eq‖SI‖En‖EQ ‖
 Z*‖eq/‖CL‖En‖Emotional Quotient‖
-ZC‖era‖SI‖En‖ERA‖
+Z‖era‖SI‖En‖ERA‖
 Z*‖era/‖CL‖En‖European Railway Agency‖
-ZC‖ere‖SI‖En‖ERE‖
+Z‖ere‖SI‖En‖ERE‖
 Z*‖ere/‖CL‖En‖Explicit Risk Estimation‖
-ZC‖erp‖SI‖En‖ERP‖
+Z‖erp‖SI‖En‖ERP‖
 Z*‖erp/‖CL‖En‖Enterprise Resource Planning‖
-ZC‖esd‖SI‖En‖ESD‖
-Z*C‖esd/‖SI‖En‖Electro Static Discharge‖
+Z‖esd‖SI‖En‖ESD‖
+Z*‖esd/‖SI‖En‖Electro Static Discharge‖
 Z‖eta‖SI‖En‖ETA‖
 Z*‖eta/‖SI‖En‖Estimated Time to Arrival‖
-ZC‖eto‖SI‖En‖ETO‖
+Z‖eto‖SI‖En‖ETO‖
 Z*‖eto/‖CL‖En‖Engineer To Order‖
-ZC‖eu‖SI‖En‖EU‖
+Z‖eu‖SI‖En‖EU‖
 Z*‖eu/‖SI‖En‖European Union‖
 Z‖eula‖SI‖En‖EULA‖
 Z*‖eula/‖SI‖En‖End User License Agreement‖
-ZC‖eut‖SI‖En‖EUT‖
+Z‖eut‖SI‖En‖EUT‖
 Z*‖eut/‖SI‖En‖Equipment Under Test‖
-ZC‖fai‖SI‖En‖FAI‖
+Z‖fai‖SI‖En‖FAI‖
 Z*‖fai/‖CL‖En‖First Article Inspection‖
-ZC‖faq‖SI‖En‖FAQ‖
+Z‖faq‖SI‖En‖FAQ‖
 Z*‖faq/‖CL‖En‖Frequently Asked Questions‖
-ZC‖fat‖SI‖En‖FAT‖
 Z*‖fat/‖CL‖En‖Factory Acceptance Test‖
+*Z‖fat`t‖SI‖En‖FAT‖
 Z‖fbx‖SI‖En‖FBX‖
 Z*‖fbx/‖SI‖En‖(Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006‖
 Z‖fido‖SI‖En‖FIDO‖https://en.wikipedia.org/wiki/FIDO_Alliance
 Z*‖fido/‖MSI‖En‖Fast IDentity Online¦The FIDO Alliance is an open industry association launched in February 2013 whose stated mission is to develop and promote authentication standards that "help reduce the world’s over-reliance on passwords".‖
-ZC‖fifa‖SI‖En‖FIFA‖
-Z*C‖fifa/‖MSI‖En‖Fédération Internationale de Football Association¦International Federation of Association Football‖
-ZC‖fmea‖SI‖En‖FMEA‖
+Z‖fifa‖SI‖En‖FIFA‖
+Z*‖fifa/‖MSI‖En‖Fédération Internationale de Football Association¦International Federation of Association Football‖
+Z‖fmea‖SI‖En‖FMEA‖
 Z*‖fmea/‖CL‖En‖Failure Mode and Effects Analysis‖
-ZC‖fmeca‖SI‖En‖FMECA‖
+Z‖fmeca‖SI‖En‖FMECA‖
 Z*‖fmeca/‖SI‖En‖Failure mode effects and criticality analysis‖
-ZC‖fo‖SI‖En‖FO‖
+Z‖fo‖SI‖En‖FO‖
 Z*‖fo/‖SI‖En‖Fiber Optics‖Generic Application
 Z‖fov‖SI‖En‖FOV‖
 *Z‖fov/‖SI‖En‖Field Of View‖
@@ -229,76 +237,85 @@ Z‖fpga‖SI‖En‖FPGA‖
 Z*‖fpga/‖SI‖En‖Field-Programmable Gate Array‖
 Z‖fps‖SI‖En‖FPS‖
 *Z‖fps/‖SI‖En‖Frames Per Seconds‖
+Z‖ftp‖SI‖En‖FTP‖
+*Z‖ftp/‖SI‖En‖File Ttransfer Protocol‖https://en.wikipedia.org/wiki/File_Transfer_Protocol
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z‖ga‖SI‖En‖GA‖
 *Z‖ga/‖MSI‖En‖Generic Application¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: personal computer (hardware & software) where operating system is installed without any user specific / application software.‖
-ZC‖gdpr‖SI‖En‖GDPR‖
+Z‖gdpr‖SI‖En‖GDPR‖
 Z*‖gdpr/‖SI‖En‖General Data Protection Regulation‖
-ZC‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
+Z‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
 Z*‖gmt/‖MSI‖En‖Greenwich Mean Time¦Poland: GMT + 01:00¦Polska: GMT + 01:00‖
-ZC‖gnu‖SI‖En‖GNU‖https://en.wikipedia.org/wiki/GNU
+Z‖gnu‖SI‖En‖GNU‖https://en.wikipedia.org/wiki/GNU
 Z*‖gnu/‖MCL‖En‖GNU's Not Unix!¦https://en.wikipedia.org/wiki/GNU‖https://en.wikipedia.org/wiki/One-time_password
 Z‖gpg‖SI‖En‖GPG‖https://en.wikipedia.org/wiki/GNU_Privacy_Guard
 Z*‖gpg/‖SI‖En‖GNU Privacy Guard‖
-ZC‖gpl‖SI‖En‖GPL‖https://en.wikipedia.org/wiki/GNU_General_Public_License
+Z‖gpl‖SI‖En‖GPL‖https://en.wikipedia.org/wiki/GNU_General_Public_License
 Z*‖gpl/‖MCL‖En‖General Public License¦https://en.wikipedia.org/wiki/GNU_General_Public_License¦https://www.gnu.org/licenses/gpl-3.0.html‖
+Z‖gpo‖SI‖En‖GPO‖
+*Z‖gpo/‖SI‖En‖General Purpose Output‖
 Z‖gps‖SI‖En‖GPS‖
 Z*‖gps/‖CL‖En‖Global Positioning System‖
 Z‖gpt‖SI‖En‖GPT‖
 Z*‖gpt/‖SI‖En‖Generative Pre-trained Transformer‖
-ZC‖gsm‖SI‖En‖GSM‖
+Z‖gsm‖SI‖En‖GSM‖
 Z*‖gsm/‖CL‖En‖Global System for Mobile Communications‖
-ZC‖gui‖SI‖En‖GUI‖
+Z‖gui‖SI‖En‖GUI‖
 Z*‖gui/‖CL‖En‖Graphical User Interface‖
-ZC‖hart‖SI‖En‖HART‖
+Z‖hart‖SI‖En‖HART‖
 Z*‖hart/‖CL‖En‖Highway Addressable Remote Transducer Protocol‖
-ZC‖hdmi‖SI‖En‖HDMI‖
+Z‖hdmi‖SI‖En‖HDMI‖
 Z*‖hdmi/‖CL‖En‖High-Definition Multimedia Interface‖
+Z‖hid‖SI‖En‖HID‖
+*Z‖hid/‖SI‖En‖Human Interface Device‖
+*Z‖hiv/‖SI‖En‖Human Immunodeficiency Viruses‖https://en.wikipedia.org/wiki/HIV
 Z‖hp‖SI‖En‖HP‖
 Z*‖hp/‖MSI‖En‖Horizontal Pitch¦1x HP = 0.2 '' = 5.08 mm¦1x HP is a unit of length defined by the Eurocard printed circuit board standard used to measure the horizontal width of rack mounted electronic equipment‖https://en.wikipedia.org/wiki/Horizontal_pitch
 Z‖hrm‖SI‖En‖HRM‖
 *Z‖hrm/‖SI‖En‖Heart Rate Monitor‖
-ZC‖html‖SI‖En‖HTML‖
+Z‖html‖SI‖En‖HTML‖
 Z*‖html/‖SI‖En‖HyperText Markup Language‖
-ZC‖hvac‖CL‖En‖HVAC‖
+Z‖hvac‖CL‖En‖HVAC‖
 Z*‖hvac/‖CL‖En‖Heating Ventilation Air Conditioning‖
-ZC‖hw‖SI‖En‖HW‖
+Z‖hw‖SI‖En‖HW‖
 Z*‖hw/‖SI‖En‖hardware‖
 Z‖iacs‖SI‖En‖IACS‖IEC 62443-4-1
 Z*‖iacs/‖SI‖En‖Industrial Automation and Control Systems‖
-ZC‖ic‖SI‖En‖IC‖
+Z‖ic‖SI‖En‖IC‖
 Z*‖ic/‖CL‖En‖Interoperability Constituent‖
-ZC‖ide‖SI‖En‖IDE‖
+Z‖ide‖SI‖En‖IDE‖
 Z*‖ide/‖SI‖En‖Integrated Development Environment‖
 Z*‖idk/‖SI‖En‖I don't know‖
 Z‖iec‖SI‖En‖IEC‖
-Z*C1‖iec/‖MSI‖En‖International Electrotechnical Commission¦https://www.iec.ch/homepage‖
+Z*‖iec/‖MSI‖En‖International Electrotechnical Commission¦https://www.iec.ch/homepage‖
+Z‖iis‖SI‖En‖IIS‖
+*Z‖iis/‖SI‖En‖Internet Information Service‖
 Z‖iot‖SI‖En‖IoT‖
 Z*‖iot/‖SI‖En‖Internet of Things‖
-ZC‖ip‖SI‖En‖IP‖
+Z‖ip‖SI‖En‖IP‖
 Z*‖ip/‖MCL‖En‖IP Code, Ingress Protection code, electronic module enclosure protection level¦https://en.wikipedia.org/wiki/IP_Code‖
-ZC‖iq‖SI‖En‖IQ‖
+Z‖iq‖SI‖En‖IQ‖
 Z*‖iq/‖CL‖En‖Inteligence Quotient‖
-ZC‖iris‖SI‖En‖IRIS‖
+Z‖iris‖SI‖En‖IRIS‖
 Z*‖iris/‖CL‖En‖International Railway Industry Standard for the evaluation of railway management systems‖
-ZC‖isbn‖SI‖En‖ISBN‖
-Z*C‖isbn/‖SI‖En‖International Standard Book Number‖https://en.wikipedia.org/wiki/ISBN
-ZC‖iso‖SI‖En‖ISO‖
+Z‖isbn‖SI‖En‖ISBN‖
+Z*‖isbn/‖SI‖En‖International Standard Book Number‖https://en.wikipedia.org/wiki/ISBN
+Z‖iso‖SI‖En‖ISO‖
 Z*‖iso/‖SI‖En‖International Standard Organisation‖
-ZC‖isp‖SI‖En‖ISP‖
-Z*C‖isp/‖SI‖En‖Internet Service Provider‖
-ZC*‖javascript‖SI‖En‖JavaScript‖
+Z‖isp‖SI‖En‖ISP‖
+Z*‖isp/‖SI‖En‖Internet Service Provider‖
+Z*‖javascript‖SI‖En‖JavaScript‖
 Z‖json‖SI‖En‖JSON‖
-Z*C1‖json/‖SI‖En‖JavaScript Object Notation‖
-ZC‖kpi‖SI‖En‖KPI‖
+Z*‖json/‖SI‖En‖JavaScript Object Notation‖
+Z‖kpi‖SI‖En‖KPI‖
 Z*‖kpi/‖CL‖En‖Key Performance Indicator‖
 Z‖kvm‖SI‖En‖KVM‖
 *Z‖kvm/‖SI‖En‖Keyboard Video and Mouse (switch)‖
 Z‖l&d‖SI‖En‖L&D‖
 Z*‖l&d/‖SI‖En‖Learning and Development‖
-ZC‖lad‖SI‖En‖LAD‖
+Z‖lad‖SI‖En‖LAD‖
 Z*‖lad/‖CL‖En‖Logistic and Administrative Delay‖
-ZC‖lan‖SI‖En‖LAN‖
+Z‖lan‖SI‖En‖LAN‖
 Z*‖lan/‖SI‖En‖Local Area Network‖
 Z*C‖latex‖SI‖En‖LaTeX‖
 Z‖lca‖SI‖En‖LCA‖
@@ -307,64 +324,65 @@ Z‖lcc‖SI‖En‖LCC‖
 Z*‖lcc/‖SI‖En‖Life Cycle Cost‖
 Z‖lcd‖SI‖En‖LCD‖
 Z*‖lcd/‖SI‖En‖Liquid Cristal Display‖
-ZC‖led‖SI‖En‖LED‖
+Z‖led‖SI‖En‖LED‖
 Z*‖led/‖CL‖En‖Light Emitting Diode‖
-ZC‖lgbt‖SI‖En‖LGBT‖
+Z‖lgbt‖SI‖En‖LGBT‖
 Z*‖lgbt/‖SI‖En‖Lesbian Gay Bisexual Transgender‖
-ZC‖llc‖CL‖En‖LLC‖
+Z‖llc‖CL‖En‖LLC‖
 Z*‖llc/‖CL‖En‖Life Cycle Cost‖
-ZC‖lms‖SI‖En‖LMS‖https://en.wikipedia.org/wiki/Learning_management_system
+Z‖lms‖SI‖En‖LMS‖https://en.wikipedia.org/wiki/Learning_management_system
 Z*‖lms/‖SI‖En‖Learning Management System‖
 Z‖lnd‖SI‖En‖L&D‖
 Z*‖lnd/‖SI‖En‖Learning and Development‖
-ZC‖lop‖SI‖En‖LOP‖
+Z‖lop‖SI‖En‖LOP‖
 Z*‖lop/‖CL‖En‖List of Open Points‖
 Z‖lru‖SI‖En‖LRU‖
 Z*‖lru/‖SI‖En‖Line Replacable Unit‖
-ZC‖lte‖SI‖En‖LTE‖
+Z‖lte‖SI‖En‖LTE‖
 Z*‖lte/‖SI‖En‖Long-Term Evolution‖
-ZC‖mac‖SI‖En‖MAC‖https://en.wikipedia.org/wiki/MAC_address
+Z‖mac‖SI‖En‖MAC‖https://en.wikipedia.org/wiki/MAC_address
 Z*‖mac/‖SI‖En‖Media Access control Address ‖
-ZC‖mba‖SI‖En‖MBA‖
+Z‖mba‖SI‖En‖MBA‖
 Z*‖mba/‖SI‖En‖Master of Business Administration‖
 Z‖mbse‖SI‖En‖MBSE‖
 *Z‖mbse/‖SI‖En‖Model Based System Engineering‖
-ZC‖md5‖SI‖En‖MD5‖https://en.wikipedia.org/wiki/MD5
+Z‖md5‖SI‖En‖MD5‖https://en.wikipedia.org/wiki/MD5
 Z*‖md5/‖MSI‖En‖Message-Digest Algorithm¦hash function producing a 128-bit hash value‖
-ZC‖mdt‖SI‖En‖MDT‖
+Z‖mdt‖SI‖En‖MDT‖
 Z*‖mdt/‖CL‖En‖Mean Down Time‖
-ZC‖mfa‖SI‖En‖MFA‖
+Z‖mfa‖SI‖En‖MFA‖
 Z*‖mfa/‖SI‖En‖Multi Factor Authentication‖
 Z‖mit‖SI‖En‖MIT‖
 *Z‖mit/‖SI‖En‖Massachusetts Institute of Technology‖
+Z‖modbus‖SI‖En‖Modbus‖
 Z‖mom‖SI‖En‖MoM‖
 Z*‖mom/‖SI‖En‖Minutes of Meeting‖
-ZC‖mtbf‖SI‖En‖MTBF‖
+Z‖mtbf‖SI‖En‖MTBF‖
 Z*‖mtbf/‖MSI‖En‖Mean Time Between Failures¦the predicted elapsed time between inherent failures of a mechanical or electronic system, during normal system operation. MTBF can be calculated as the arithmetic mean (average) time between failures of a system. The term is used for repairable systems, while mean time to failure (MTTF) denotes the expected time to failure for a non-repairable system.`n[SOURCE: https://en.wikipedia.org/wiki/Mean_time_between_failures]`n‖
-ZC‖mtbm‖SI‖En‖MTBM‖
+Z‖mtbm‖SI‖En‖MTBM‖
 Z*‖mtbm/‖CL‖En‖Mean Time Between Maintainances‖
 Z*‖mtm‖SI‖En‖MTM‖
-ZC‖mto‖SI‖En‖MTO‖
+Z‖mto‖SI‖En‖MTO‖
 Z*‖mto/‖CL‖En‖Make To Order‖
-ZC‖mttf‖SI‖En‖MTTF‖
+Z‖mttf‖SI‖En‖MTTF‖
 Z*‖mttf/‖MSI‖En‖Mean Time To Failure¦the expected time to failure for a non-repairable system.`n[SOURCE: https://en.wikipedia.org/wiki/Mean_time_between_failures]`n‖
 Z*‖mttm‖SI‖En‖MTTM‖
 Z*‖mttm/‖SI‖En‖Mean Time To Maintain‖
-ZC‖mttr‖SI‖En‖MTTR‖
+Z‖mttr‖SI‖En‖MTTR‖
 Z*‖mttr/‖CL‖En‖Mean Time To Restore‖
-ZC‖mtu‖SI‖En‖MTU‖https://en.wikipedia.org/wiki/Maximum_transmission_unit
+Z‖mtu‖SI‖En‖MTU‖https://en.wikipedia.org/wiki/Maximum_transmission_unit
 Z*‖mtu/‖SI‖En‖Maximum Transmission Unit‖
-ZC‖mut‖SI‖En‖MUT‖
+Z‖mut‖SI‖En‖MUT‖
 Z*‖mut/‖CL‖En‖Mean Up Time‖
-Z*C‖n/a/‖SI‖En‖not applicable‖
-Z*C‖na/‖SI‖En‖not applicable‖
+Z*‖n/a/‖SI‖En‖not applicable‖
+Z*‖na/‖SI‖En‖not applicable‖
 Z*‖nas/‖SI‖En‖Network Attached Storage‖
 Z*‖nas`t‖SI‖En‖NAS‖
 Z‖nato‖SI‖En‖NATO‖
 Z*‖nato/‖SI‖En‖North Atlantic Treaty Organization‖
-ZC‖ncr‖SI‖En‖NCR‖
+Z‖ncr‖SI‖En‖NCR‖
 Z*‖ncr/‖CL‖En‖Non Conformance Report‖
-ZC‖nda‖SI‖En‖NDA‖
+Z‖nda‖SI‖En‖NDA‖
 Z*‖nda/‖CL‖En‖Non-Disclosure Agreement‖
 Z‖nfc‖SI‖En‖NFC‖https://en.wikipedia.org/wiki/Near-field_communication
 Z*‖nfc/‖SI‖En‖Near-Field Communication‖
@@ -376,73 +394,77 @@ Z‖ntp‖SI‖En‖NTP‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖ntp/‖SI‖En‖Network Time Protocol‖
 Z‖ocr‖SI‖En‖OCR‖
 Z‖ocr/‖SI‖En‖Optical Character Recognition‖
-ZC‖oem‖SI‖En‖OEM‖
+Z‖oem‖SI‖En‖OEM‖
 Z*‖oem/‖SI‖En‖Original Equipment Manufacturer‖
 Z‖ohsas‖SI‖En‖OHSAS‖https://pl.wikipedia.org/wiki/OHSAS_18001
 Z*‖ohsas/‖SI‖En‖Occupational Health and Safety Assessment Series‖
 Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
+*Z‖osi`n‖SI‖En‖Open Systems Interconnection model‖https://en.wikipedia.org/wiki/OSI_model
+*Z‖osi`t‖SI‖En‖OSI‖
 Z‖otp‖SI‖En‖OTP‖https://en.wikipedia.org/wiki/One-time_password
 Z*‖otp/‖MSI‖En‖One-Time Password¦is a password that is valid for only one login session or transaction, on a computer system or other digital device‖
 Z‖pbs‖SI‖En‖PBS‖
 Z*‖pbs/‖SI‖En‖Product Breakdown Structure‖
-ZC‖pcb‖SI‖En‖PCB‖
+Z‖pcb‖SI‖En‖PCB‖
 Z*‖pcb/‖CL‖En‖Printed Circuit Board‖
-ZC‖pcn‖SI‖En‖PCN‖
+Z‖pcn‖SI‖En‖PCN‖
 Z*‖pcn/‖SI‖En‖Product Change Notification‖
 Z‖pe‖SI‖En‖PE‖
 Z*‖pe/‖SI‖En‖Protective Earth‖
 Z?‖pgp‖SI‖En‖PGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 Z*‖pgp/‖SI‖En‖Pretty Good Privacy‖
-ZC‖phd‖SI‖En‖PhD‖
-ZC‖phd/‖SI‖En‖philosophiae doctor‖
-ZC‖php‖SI‖En‖PHP‖
+Z‖phd‖SI‖En‖PhD‖
+Z‖phd/‖SI‖En‖philosophiae doctor‖
+Z‖php‖SI‖En‖PHP‖
 Z*‖php/‖SI‖En‖Hypertext Preprocessor‖
 Z‖pin‖SI‖En‖PIN‖
 Z*‖pin/‖SI‖En‖Personal Identification Number‖
-ZC‖pit‖SI‖En‖PIT‖
+Z‖pit‖SI‖En‖PIT‖
 Z*‖pit/‖SI‖En‖Personal Income Tax‖
-ZC‖plc‖SI‖En‖PLC‖https://en.wikipedia.org/wiki/Programmable_logic_controller
+Z‖plc‖SI‖En‖PLC‖https://en.wikipedia.org/wiki/Programmable_logic_controller
 Z*‖plc/‖SI‖En‖Programmable Logic Controller‖
-ZC‖plm‖SI‖En‖PLM‖
+Z‖plm‖SI‖En‖PLM‖
 Z*‖plm/‖CL‖En‖Product Lifecycle Management‖
 Z*‖png/‖SI‖En‖Portable Network Graphics‖
 Z‖pnp‖SI‖En‖PnP‖https://en.wikipedia.org/wiki/Plug_and_play
 Z*‖pnp/‖MSI‖En‖device with a specification that facilitates the discovery of a hardware component in a system without the need for physical device configuration or user intervention in resolving resource conflicts¦Plug and Play‖
-ZC‖poc‖SI‖En‖PoC‖
+Z‖poc‖SI‖En‖PoC‖
 Z*‖poc/‖CL‖En‖Proof of Concept‖
-ZC‖poe‖SI‖En‖PoE‖
+Z‖poe‖SI‖En‖PoE‖
 Z*‖poe/‖SI‖En‖Power over Ethernet‖
 Z‖pov‖SI‖En‖POV‖
 Z*‖pov/‖SI‖En‖Point of View‖
 Z‖pp‖SI‖En‖PP‖
 Z*‖pp/‖SI‖En‖Pair Programming‖
-ZC‖ppi‖SI‖En‖PPI‖
+Z‖ppi‖SI‖En‖PPI‖
 Z*‖ppi/‖SI‖En‖Point Per Inch‖
 Z‖psi‖SI‖En‖PSI‖
 *Z‖psi/‖SI‖En‖Pound per Square Inch‖
+Z‖ptfe‖SI‖En‖PTFE‖
+*Z‖ptfe/‖SI‖En‖polytetrafluoroethylene‖https://en.wikipedia.org/wiki/Polytetrafluoroethylene
 Z‖puk‖SI‖En‖PUK‖
 Z*‖puk/‖SI‖En‖PIN Unlock Key‖
-ZC‖pwm‖SI‖En‖PWM‖
+Z‖pwm‖SI‖En‖PWM‖
 Z*‖PWM/‖SI‖En‖Pulse-Width Modulation‖
 Z‖qhsee‖SI‖En‖QHSEE‖
 Z*‖qhsee/‖SI‖En‖Quality, Health, Safety, Environment and Energy‖
-ZC‖qna‖SI‖En‖Q&A‖
+Z‖qna‖SI‖En‖Q&A‖
 Z*‖qna/‖CL‖En‖Questions and Answers‖
 ZC‖qr‖SI‖En‖QR code‖
 Z*‖qr/‖SI‖En‖Quick Response code‖
 Z‖qrams‖SI‖En‖QRAMS‖
 Z*‖qrams/‖CL‖En‖Quality, Reliability, Availability, Maintainability, Safety‖
 Z*‖r/‖SI‖En‖Reliability‖
-ZC‖rac‖SI‖En‖RAC‖
+Z‖rac‖SI‖En‖RAC‖
 Z*‖rac/‖CL‖En‖Risk Acceptance Criteria‖
-ZC‖ral‖SI‖En‖RAL‖
+Z‖ral‖SI‖En‖RAL‖
 Z*‖ral/‖SI‖En‖Reichs-Ausschuß für Lieferbedingungen (National Committee for Delivery and Quality Assurance)‖
-ZC‖ram‖SI‖En‖RAM‖
+Z‖ram‖SI‖En‖RAM‖
 Z*‖ram/‖CL‖En‖Reliability, Availability, Maintainability‖
 Z‖rams‖SI‖En‖RAMS‖
 Z*‖rams/‖CL‖En‖Reliability, Availability, Maintainability and Safety‖
-ZC‖rap‖SI‖En‖RAP‖
+Z‖rap‖SI‖En‖RAP‖
 Z*‖rap/‖CL‖En‖Risk Acceptance Principle‖
 Z‖rca‖SI‖En‖RCA‖
 *Z‖rca/‖MSI‖En‖Reference CCS Architecture¦Reference Control-Command and Signalling Architecture‖
@@ -452,33 +474,35 @@ Z‖rda‖SI‖En‖RDA‖
 Z*‖rda/‖SI‖En‖Robotics Desktop Automation‖
 Z‖rest‖SI‖En‖REST‖
 *Z‖rest/‖SI‖En‖REpresentational State Transfer‖https://en.wikipedia.org/wiki/Representational_state_transfer
-ZC‖rfid‖SI‖En‖RFID‖
+Z‖rfid‖SI‖En‖RFID‖
 Z*‖rfid/‖SI‖En‖Radio Frequency Identification‖
 Z‖rfp‖SI‖En‖RFP‖
 *Z‖rfp/‖SI‖En‖Request for Proposal‖
-ZC‖rgb‖SI‖En‖RGB‖https://en.wikipedia.org/wiki/RGB_color_model
+Z‖rgb‖SI‖En‖RGB‖https://en.wikipedia.org/wiki/RGB_color_model
 Z*‖rgb/‖SI‖En‖Red Green Blue‖
-ZC‖rma‖SI‖En‖RMA‖
+Z‖rma‖SI‖En‖RMA‖
 Z*‖rma/‖CL‖En‖Return Merchandise Authorization‖
-ZC‖rms‖SI‖En‖RMS‖
+Z‖rms‖SI‖En‖RMS‖
 Z*‖rms/‖CL‖En‖Root Mean Square‖
-ZC‖rohs‖SI‖En‖RoHS‖https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substance
+Z‖rohs‖SI‖En‖RoHS‖https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substance
 Z*‖rohs/‖MSI‖En‖Restriction of Hazardous Substances Directive¦Directive 2011/65/EU of the European Parliament{Shift Down}{Enter}{Shift Up}and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment.‖
-ZC‖rpa‖SI‖En‖RPA‖
+Z‖rpa‖SI‖En‖RPA‖
 Z*‖rpa/‖SI‖En‖Robotics Process Automation‖
 Z‖rpm‖SI‖En‖RPM‖
 *Z‖rpm/‖SI‖En‖Rotation Per Minute‖
-ZC‖rpu‖SI‖En‖RPU‖"peszel"
+Z‖rpu‖SI‖En‖RPU‖"peszel"
 Z*‖rpu/‖SI‖En‖Reinforced Polyurethane Hose‖
 Z‖rsa‖SI‖En‖RSA‖https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 Z*‖rsa/‖MSI‖En‖Rivest–Shamir–Adleman¦a public-key cryptosystem that is widely used for secure data transmission‖
+Z‖rsi‖SI‖En‖RSI‖
+*Z‖rsi/‖SI‖En‖Repetitive Strain Injury‖
 Z‖rss‖SI‖En‖RSS‖
 *Z‖rss/‖MSI‖En‖Really Simple Syndication¦Really Simple Syndication (RSS) a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format. Subscribing to RSS feeds can allow a user to keep track of many different websites in a single news aggregator, which constantly monitor sites for new content, removing the need for the user to manually check them.‖https://en.wikipedia.org/wiki/RSS
-ZC‖rtc‖SI‖En‖RTC‖
+Z‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
 *Z‖sa/‖MSI‖En‖Specific Application¦specific application¦specific application of generic product applicable for specific factors and requirements, suitable for a specific intended use. Example: personal computer (hardware & software) where besides operating system are installed user oriented applications and user oriented data.‖
-Z*C‖sa`t‖SI‖En‖SA‖
-ZC‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
+Z*‖sa`t‖SI‖En‖SA‖
+Z‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
 Z‖sbc‖SI‖En‖SBC‖
 *Z‖sbc/‖SI‖En‖Single Board Computer‖
@@ -486,40 +510,56 @@ Z‖scada‖SI‖En‖SCADA‖https://en.wikipedia.org/wiki/SCADA
 Z*‖scada/‖SI‖En‖Supervisory Control and Data Acquisition‖
 Z‖scm‖SI‖En‖SCM‖
 Z*‖scm/‖SI‖En‖Supply Chain Management‖
-ZC‖scorm‖SI‖En‖SCORM‖https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_
+Z‖scorm‖SI‖En‖SCORM‖https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_
 Z*‖scorm/‖SI‖En‖Sharable Content Object Reference Model‖
 Z‖sdk‖SI‖En‖SDK‖https://en.wikipedia.org/wiki/Software_development_kit
 Z*‖sdk/‖SI‖En‖Software Development Kit‖
 Z‖sdl‖SI‖En‖SDL‖
 Z*‖sdl/‖SI‖En‖Secure Development Lifecycle‖
-ZC‖seo‖SI‖En‖SEO‖
+Z‖sef‖SI‖En‖SEF‖
+*Z‖sef/‖SI‖En‖Search Engine Friendly‖
+Z‖seo‖SI‖En‖SEO‖
 Z*‖seo/‖SI‖En‖Search Engine Optimization‖
-ZC‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confidence that a system will meet its specified safety functions with respect to systematic failures`n[SOURCE: IEC 62280:2014, 3.1.50]¦Safety Integrity Level‖
+Z‖sftp‖SI‖En‖SFTP‖
+*Z‖sftp/‖SI‖En‖SSH File Transfer Protocol‖https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
+Z‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confidence that a system will meet its specified safety functions with respect to systematic failures`n[SOURCE: IEC 62280:2014, 3.1.50]¦Safety Integrity Level‖
 Z*‖sil/‖MSI‖En‖Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa funkcjonalnego‖
-ZC‖sla‖SI‖En‖SLA‖
+Z‖sla‖SI‖En‖SLA‖
 Z*‖sla/‖CL‖En‖Service-Level Agreement‖
+CZ‖smd‖SI‖En‖SMD‖https://en.wikipedia.org/wiki/Surface-mount_technology
+*CZ‖smd/‖SI‖En‖Surface-Mount Device‖https://en.wikipedia.org/wiki/Surface-mount_technology
 Z‖smime‖SI‖En‖S/MIME‖https://en.wikipedia.org/wiki/S/MIME
 Z*‖smime/‖SI‖En‖Secure/Multipurpose Internet Mail Extensions‖
-ZC‖sms‖SI‖En‖SMS‖
+Z‖sms‖SI‖En‖SMS‖
 Z*‖sms/‖CL‖En‖Short Message Service‖
-ZC‖snmp‖SI‖En‖SNMP‖https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
+Z‖snmp‖SI‖En‖SNMP‖https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
 Z*‖snmp/‖SI‖En‖Simple Network Management Protocol‖
-Z*‖soc‖SI‖En‖SoC‖
+Z‖soc‖SI‖En‖SoC‖
 Z‖spd‖SI‖En‖SPD‖
 Z*‖spd/‖SI‖En‖Surge Protection Device‖
-ZC‖sql‖SI‖En‖SQL‖
+Z‖spdt‖SI‖En‖SPDT‖https://en.wikipedia.org/wiki/Switch
+*Z‖spdt/‖MSI‖En‖Single Pole Double Throw¦A simple break-before-make changeover switch¦Form C‖https://en.wikipedia.org/wiki/Switch
+Z‖spst‖SI‖En‖SPST‖
+*Z‖spst/‖SI‖En‖Single Pole Single Throw‖https://en.wikipedia.org/wiki/Switch
+*Z‖spstnc/‖MSI‖En‖Single Pole Single Throw – Normally Closed¦A simple on-off switch. The two terminals are normally connected together (closed) and are open when the switch is activated.¦Form B‖https://en.wikipedia.org/wiki/Switch
+*Z‖spstno/‖MSI‖En‖Single Pole Single Throw – Normally Open¦A simple on-off switch. The two terminals are normally disconnected (open) and are closed when the switch is activated¦Form A‖https://en.wikipedia.org/wiki/Switch
+Z‖sql‖SI‖En‖SQL‖
 Z*‖sql/‖CL‖En‖Structured Query Language‖
 Z‖srac‖SI‖En‖SRAC‖Source: 3.75 → EN 50126-1:2017 (E)
 Z*‖srac/‖MCL‖En‖Safety Related Application Condition¦Those conditions which need to be met in order for a system to be safely integrated and safely operated. Note 1 to entry: Application conditions can for example be: operational restrictions (e.g. speed limit, maximum duration of use), operational rules, maintenance restrictions (e.g. requested maintenance intervals) or environmental conditions.‖
 Z‖ssh‖SI‖En‖SSH‖
 Z*‖ssh/‖MSI‖En‖Secure Shell¦a cryptographic network protocol for operating network services securely over an unsecured network‖
+Z‖ssid‖SI‖En‖SSID‖
+*Z‖ssid/‖SI‖En‖Service Set IDentifier‖
 Z‖ssl‖SI‖En‖SSL‖
 Z*‖ssl/‖SI‖En‖Secure Sockets Layer‖
 Z‖stem‖SI‖En‖STEM‖
 Z*‖stem/‖SI‖En‖Science Technology Engineering and Mathematics‖
-ZC‖suv‖SI‖En‖SUV‖
+Z‖sup‖SI‖En‖SUP‖
+*Z‖sup/‖SI‖En‖Stand Up Paddle‖
+Z‖suv‖SI‖En‖SUV‖
 Z*‖suv/‖SI‖En‖Sport Utility Vehicle‖
-ZC‖sw‖SI‖En‖SW‖
+Z‖sw‖SI‖En‖SW‖
 Z*‖sw/‖SI‖En‖software‖
 Z‖sysml‖SI‖En‖SysML‖
 *Z‖sysml/‖SI‖En‖System Modeling Language‖
@@ -529,7 +569,7 @@ Z*‖tbd/‖MSI‖En‖to be decided¦to be defined‖
 Z‖tbdl‖SI‖En‖TBDL‖
 Z*‖tbdl/‖SI‖En‖to be determined later‖
 Z*‖tbh/‖CL‖En‖to be honest‖
-ZC‖tco‖SI‖En‖TCO‖
+Z‖tco‖SI‖En‖TCO‖
 Z*‖tco/‖SI‖En‖Total Cost of Ownership‖
 Z‖tdd‖SI‖En‖TDD‖
 Z*‖tdd/‖SI‖En‖Test Driven Development‖
@@ -537,73 +577,81 @@ Z‖ted‖SI‖En‖TED‖
 Z*‖ted/‖SI‖En‖Technology Entertainment Design‖
 Z‖tedx‖SI‖En‖TEDx‖
 Z*‖tedx/‖SI‖En‖independent event similar to TED presentation‖
-ZC‖tffr‖SI‖En‖TFFR‖
+Z‖tffr‖SI‖En‖TFFR‖
 Z*‖tffr/‖CL‖En‖Tolerable Functional Failure Rate‖
-ZC‖thr‖SI‖En‖THR‖
+Z‖thr‖SI‖En‖THR‖
 Z*‖thr/‖MSI‖En‖Tolerable Hazard Rate¦współczynnik tolerowanego zagrożenia‖
+CZ‖tht‖SI‖En‖THT‖https://en.wikipedia.org/wiki/Through-hole_technology
+*CZ‖tht/‖SI‖En‖Through-Hole Technology‖https://en.wikipedia.org/wiki/Through-hole_technology
 Z‖tls‖SI‖En‖TLS‖https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_
 Z*‖tls/‖SI‖En‖Transport Layer Security‖
 Z‖toc‖SI‖En‖TOC‖
 Z*‖toc/‖SI‖En‖Table of Content‖
 Z‖totp‖SI‖En‖TOTP‖https://en.wikipedia.org/wiki/Time-based_One-Time_Password
 Z*‖totp/‖SI‖En‖Time-based One-time Password‖
-ZC‖tsi‖SI‖En‖TSI‖
+Z‖tpu‖SI‖En‖TPU‖
+*Z‖tpu/‖SI‖En‖Thermoplastic Polyurethane‖https://en.wikipedia.org/wiki/Thermoplastic_polyurethane
+Z‖trrs‖SI‖En‖TRRS‖
+*Z‖trrs/‖SI‖En‖Tip Ring Ring Sleeve‖
+CZ‖tsh‖SI‖En‖TSH‖
+*CZ‖tsh/‖SI‖En‖Thyroid-Stimulating Hormone‖https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone
+Z‖tsi‖SI‖En‖TSI‖
 Z*‖tsi/‖MCL‖En‖Technical Specifications for Interoperability¦„techniczne specyfikacje interoperacyjności” (TSI) oznaczają specyfikacje przyjęte zgodnie z niniejszą dyrektywą, obejmujące każdy z podsystemów lub część podsystemu celem spełnienia zasadniczych wymagań oraz zapewnienia interoperacyjności systemu kolei Unii [ŹRÓDŁO: Dyrektywa (UE) 2016/797, art. 2, 11)]‖
 Z‖u2f‖SI‖En‖U2F‖https://en.wikipedia.org/wiki/Universal_2nd_Factor
 Z*‖u2f/‖SI‖En‖Universal 2nd Factor‖
-ZC‖uefa‖SI‖En‖UEFA‖
-Z*C‖uefa/‖SI‖En‖Union of European Football Associations‖
+Z‖uefa‖SI‖En‖UEFA‖
+Z*‖uefa/‖SI‖En‖Union of European Football Associations‖
 Z‖uefi‖SI‖En‖UEFI‖
 *Z‖uefi/‖SI‖En‖Unified Extensible Firmware Interface‖
-ZC‖ui‖SI‖En‖UI‖
+Z‖ui‖SI‖En‖UI‖
 Z*‖ui/‖CL‖En‖User Interface‖
-ZC‖uic‖SI‖En‖UIC‖https://uic.org/
+Z‖uic‖SI‖En‖UIC‖https://uic.org/
 Z*‖uic/‖MCL‖En‖International Union of Railways¦French: Union internationale des chemins de fer‖
 Z‖uml‖SI‖En‖UML‖
 *Z‖uml/‖MSI‖En‖Unified Modeling Language¦software modeling language‖
-ZC‖ups‖SI‖En‖UPS‖
+Z‖ups‖SI‖En‖UPS‖
 Z*‖ups/‖CL‖En‖Uninterruptable Power Supply‖
-ZC‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL
+Z‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL
 Z*‖url/‖SI‖En‖Uniform Resource Locator‖
-ZC‖usb‖SI‖En‖USB‖
+Z‖usb‖SI‖En‖USB‖
 Z*‖usb/‖CL‖En‖Universal Serial Bus‖
 Z‖usp‖SI‖En‖USP‖
 Z*‖usp/‖SI‖En‖Unique Selling Point‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z‖utc‖SI‖En‖UTC‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖utc/‖SI‖En‖Coordinated Universal Time‖
-ZC‖utf‖SI‖En‖UTF‖
+Z‖utf‖SI‖En‖UTF‖
 Z*‖utf/‖CL‖En‖Unicode Transformation Format‖
-ZC‖uv‖SI‖En‖UV‖
+Z‖uv‖SI‖En‖UV‖
 Z*‖uv/‖SI‖En‖Ultraviolet form of electromagetic radiation, shorter than that of visible light, but longer than X-rays.‖https://en.wikipedia.org/wiki/Ultraviolet
-ZC‖ux‖SI‖En‖UX‖
+Z‖ux‖SI‖En‖UX‖
 Z*‖ux/‖CL‖En‖User Experience‖
-ZC‖vat‖SI‖En‖VAT‖
+Z‖vat‖SI‖En‖VAT‖
 Z*‖vat/‖CL‖En‖Value Added Tax‖
-ZC‖vba‖SI‖En‖VBA‖
+Z‖vba‖SI‖En‖VBA‖
 Z*‖vba/‖CL‖En‖Visual Basic for Applications‖
 Z‖vga‖SI‖En‖VGA‖
 *Z‖vga/‖SI‖En‖Video Graphics Array‖
 Z‖vip‖SI‖En‖VIP‖
 Z*‖vip/‖MSI‖En‖Very Important Person¦Very Individual Person‖
-ZC‖vlan‖SI‖En‖VLAN‖https://en.wikipedia.org/wiki/Virtual_LAN
+Z‖vlan‖SI‖En‖VLAN‖https://en.wikipedia.org/wiki/Virtual_LAN
 Z*‖vlan/‖SI‖En‖Virtual LAN‖
-ZC‖voip‖CL‖En‖VoIP‖
+Z‖voip‖CL‖En‖VoIP‖
 Z*‖voip/‖CL‖En‖Voice over Internet Protocol‖
-ZC‖vpn‖SI‖En‖VPN‖
+Z‖vpn‖SI‖En‖VPN‖
 Z*‖vpn/‖CL‖En‖Virtual Private Network‖
-ZC‖vps‖SI‖En‖VPS‖
+Z‖vps‖SI‖En‖VPS‖
 Z*‖vps/‖SI‖En‖Virtual Private Server‖
-ZC‖vr‖CL‖En‖VR‖
+Z‖vr‖CL‖En‖VR‖
 Z*‖vr/‖CL‖En‖Virtual Reality‖Visual Studio Code
 Z‖vsc‖SI‖En‖VSC‖Visual Studio Code
 Z*‖vsc/‖SI‖En‖Visual Studio Code‖
 Z‖wcag‖SI‖En‖WCAG‖https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
 Z*‖wcag/‖SI‖En‖Web Content Accessibility Guidelines‖
-ZC‖wmf‖SI‖En‖WMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
+Z‖wmf‖SI‖En‖WMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖wmf/‖CL‖En‖Windows Metafile‖
-ZC‖wol‖SI‖En‖WoL‖
+Z‖wol‖SI‖En‖WoL‖
 Z*‖wol/‖SI‖En‖Wake-on-LAN‖
-ZC‖www‖SI‖En‖WWW‖
+Z‖www‖SI‖En‖WWW‖
 Z*‖www/‖SI‖En‖World Wide Web‖
-ZC‖wysiwyg‖SI‖En‖WYSIWYG‖
+Z‖wysiwyg‖SI‖En‖WYSIWYG‖
 Z*‖wysiwyg/‖SI‖En‖What You See Is What You Get‖1=U+00E5|2=U+00E4|3=U+00E2|4=U+00E0|5=U+00E1|6=U+0105|7=U+0101

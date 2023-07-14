@@ -11,9 +11,12 @@ Example:		litwa → Litwa.
 */
 
 *Z‖ameryk‖SI‖En‖Ameryk‖
+*CZ‖andrzej‖SI‖En‖Andrzej‖
 C1Z‖asi‖SI‖En‖Asi‖
 C1Z‖asia‖SI‖En‖Asia‖
 Z*‖austri‖SI‖En‖Austri‖
+*CZ‖barbar‖SI‖En‖Barbar‖
+*CZ‖basi‖SI‖En‖Basi‖
 Z*‖bałtyk‖SI‖En‖Bałtyk‖
 Z*‖cdn/‖SI‖En‖ciąg dalszy nastąpi‖
 *Z‖chorwa‖SI‖En‖Chorwa‖
@@ -24,6 +27,8 @@ Z‖edycie‖SI‖En‖Edycie‖
 *Z‖edyta‖SI‖En‖Edyta‖
 Z‖edyty‖SI‖En‖Edyty‖
 Z‖edytą‖SI‖En‖Edytą‖
+Z‖ekuz‖SI‖En‖EKUZ‖https://en.m.wikipedia.org/wiki/USB#
+*Z‖ekuz/‖SI‖En‖Europejska Karta Ubezpieczenia Zdrowotnego‖
 Z‖eog‖SI‖En‖EOG‖
 *Z‖eog/‖SI‖En‖Europejski Obszar Gospodarczy‖
 Z*‖fik‖SI‖Dis‖fikumiku‖
@@ -54,17 +59,24 @@ Z‖magda‖SI‖En‖Magda‖
 *Z‖malgorzat‖SI‖En‖Małgorzat‖
 *Z‖marcin‖SI‖En‖Marcin‖
 *Z‖mariusz‖SI‖En‖Mariusz‖
+*CZ‖marysi‖SI‖En‖Marysi‖
 *Z‖małgorzat‖SI‖En‖Małgorzat‖
 *Z‖michal‖SI‖En‖Michał‖
 *Z‖michał‖SI‖En‖Michał‖
 *Z‖michiel‖SI‖En‖Michiel‖
+*CZ‖niemcow‖SI‖En‖Niemców‖
 ZC*‖niemcy‖SI‖En‖Niemcy‖
-ZC*‖niemiec‖SI‖En‖Niemiec‖
+*CZ‖niemców‖SI‖En‖Niemców‖
+ZC*‖niemiec‖SI‖Dis‖Niemiec‖
 *Z‖obsolescence management/‖MSI‖En‖zapobieganie niedostępności¦zarządzanie starzeniem‖context.reverso.net
 *Z‖pawel‖SI‖En‖Paweł‖
 *Z‖paweł‖SI‖En‖Paweł‖
 *Z‖pawla‖SI‖En‖Pawła‖
+*Z‖pawlem‖SI‖En‖Pawłem‖
 *Z‖pawła‖SI‖En‖Pawła‖
+*Z‖pawłem‖SI‖En‖Pawłem‖
+Z‖pfu‖SI‖En‖PFU‖
+*Z‖pfu?‖SI‖En‖Program Funkcjonalno-Użytkowy‖
 ZC*‖polacy‖SI‖En‖Polacy‖
 Z*‖polsce‖SI‖En‖Polsce‖
 ZC*‖polska‖CL‖En‖Polska‖
@@ -75,3 +87,6 @@ ZC*‖polski‖MSI‖En‖Polski¦polski‖
 Z‖sopocie‖SI‖En‖Sopocie‖
 *CZ‖szwecja‖SI‖En‖Szwecja‖
 *CZ‖szwecji‖SI‖En‖Szwecji‖
+*CZ‖warszaw‖SI‖En‖Warszaw‖
+*CZ‖zukowo‖SI‖En‖Żukowo‖
+*CZ‖żukowo‖SI‖En‖Żukowo‖

@@ -12,10 +12,12 @@ ZC*‖africa‖SI‖En‖Africa‖
 ZC*‖alic‖SI‖En‖Alic‖
 ZC*‖america‖SI‖En‖America‖
 ZC*‖april‖SI‖En‖April‖
+*Z‖arnhem‖SI‖En‖Arnhem‖
 Z*C‖august‖SI‖En‖August‖
 *Z‖austral‖SI‖En‖Austral‖
 ZC*‖australia‖SI‖En‖Australia‖
 ZC*‖austria‖SI‖En‖Austria‖
+*Z‖autumn‖SI‖En‖Autumn‖
 Z*‖baltic‖SI‖En‖Baltic‖
 Z*‖belgium‖SI‖En‖Belgium‖
 ZC*‖brasil‖SI‖En‖Brasil‖
@@ -48,6 +50,7 @@ Z*‖gdańsk‖SI‖En‖Gdańsk‖
 ZC*‖german‖CL‖En‖German‖
 ZC*‖germany‖CL‖En‖Germany‖
 Z*‖ghana‖SI‖En‖Ghana‖
+*Z‖helsinki‖SI‖En‖Helsinki‖
 Z*‖india‖SI‖En‖India‖
 ZC‖iran‖SI‖En‖Iran‖
 Z*‖istanbul‖SI‖En‖Istanbul‖
@@ -56,7 +59,9 @@ ZC*‖january‖SI‖En‖January‖
 ZC*‖july‖SI‖En‖July‖
 ZC*‖june‖SI‖En‖June‖
 ZC*‖koln‖SI‖En‖Köln‖
+*Z‖korea‖SI‖En‖Korea‖
 Z*‖lithuania‖SI‖En‖Lithuania‖
+*Z‖maastricht‖SI‖En‖Maastricht‖
 *Z‖malesia‖SI‖En‖Malesia‖
 Z*‖mexico‖SI‖En‖Mexico‖
 ZC*‖monday‖SI‖En‖Monday‖
@@ -68,6 +73,7 @@ ZC*‖october‖SI‖En‖October‖
 *Z‖pacific‖SI‖En‖Pacific‖
 Z*‖panama‖SI‖En‖Panama‖
 ZC*‖paris‖SI‖En‖Paris‖"peszel"
+*Z‖perth‖SI‖En‖Perth‖
 ZC‖pln‖SI‖En‖PLN‖
 ZC*‖poland‖CL‖En‖Poland‖
 ZC*‖polish‖CL‖En‖Polish‖
@@ -80,6 +86,8 @@ ZC*‖slavic‖SI‖En‖Slavic‖
 Z*‖slovakia‖SI‖En‖Slovakia‖
 Z*C‖sopot‖SI‖En‖Sopot‖
 ZC*‖south‖SI‖En‖South‖
+*Z‖spring‖SI‖En‖Spring‖
+*Z‖summer‖SI‖En‖Summer‖
 ZC*‖sunday‖SI‖En‖Sunday‖
 ZC*‖sweden‖SI‖En‖Sweden‖
 ZC*‖swedish‖SI‖En‖Swidish‖
@@ -97,6 +105,7 @@ ZC‖usd‖SI‖En‖USD‖
 Z*C‖waddinxveen‖SI‖En‖Waddinxveen‖
 Z*C‖wednesday‖SI‖En‖Wednesday‖
 ZC*‖west‖SI‖En‖West‖
+*Z‖winter‖SI‖En‖Winter‖
 *Z‖wisł‖SI‖En‖Wisł‖
 ZC*‖wrzeszcz‖SI‖En‖Wrzeszcz‖
 ZC*‖zeltweg‖SI‖En‖Zeltweg‖

@@ -18,7 +18,7 @@ Z*‖AMDay‖SI‖En‖A_MDay‖Current 2-digit day of the month (01-31).
 Z*‖AMin‖SI‖En‖A_Min‖Current 2-digit minute (00-59).
 Z*‖AMMM/‖SI‖En‖A_MMM‖Current month's abbreviation in the current user's language, e.g
 Z*‖AMMMM/‖SI‖En‖A_MMMM‖Current month's full name in the current user's language, e.g. J
-Z*‖AMon‖SI‖En‖A_Mon‖Current 2-digit month (01-12).
+*CZ‖AMon‖SI‖En‖A_Mon‖Current 2-digit month (01-12).
 Z*‖AMSec‖SI‖En‖A_MSec‖Current 3-digit millisecond (000-999).
 Z*‖ANow/‖SI‖En‖A_Now‖The current local time in YYYYMMDDHH24MISS format.
 Z*‖ANowUTC‖SI‖En‖A_NowUTC‖The current Coordinated Universal Time (UTC) in YYYYMMDDHH24MISS format. UTC = GMT.
@@ -29,6 +29,8 @@ Z*‖AYDay‖SI‖En‖A_YDay‖Current day of the year (1-366).
 Z*‖AYear‖SI‖En‖A_Year‖Current 4-digit year (e.g. 2004).
 Z*‖AYWeek‖SI‖En‖A_YWeek‖Current year and week number (e.g. 200453) according to ISO 8601.
 Z*‖AYYYY‖SI‖En‖A_YYYY‖Current 4-digit year (e.g. 2004).
+Z‖cest‖SI‖En‖CEST‖
+*Z‖cest/‖SI‖En‖Central European Summer Time‖
 Z*‖d[‖SI‖En‖A_YYYYA_MMA_DD_‖
 Z*‖d]‖SI‖En‖A_YYYY-A_MM-A_DD‖
 Z*‖t]‖CL‖En‖A_Hour:A_Min‖

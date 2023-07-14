@@ -1,0 +1,113 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski
+
+Purpose:		Library enables to call any keyboard key (75%) just be entering its name and `n (Enter) in any text field of operating system.
+
+Notes:		When specific application window is active, keys can be triggered even when no text input box is available.
+
+Examples:	     Text f18/ entered in currently active window calls F18 funciton key and function which is assigned to it.
+*/
+
+?*Z‖alt`n‖SI‖En‖{alt}‖
+?*Z‖altd`n‖SI‖En‖{alt down}‖
+?*Z‖altgr`n‖SI‖En‖{LControl Down}{RAlt}{LControl Up}‖
+?*Z‖ampersand`n‖S2‖En‖&‖
+?*Z‖apostrophe`n‖S2‖En‖'‖
+?*Z‖asterisk`n‖S2‖En‖*‖
+?*Z‖atsign`n‖S2‖En‖@‖
+?*Z‖backslash`n‖S2‖En‖\‖
+?*Z‖backspace`n‖S2‖En‖{bs}‖
+?Z‖capslock‖SI‖En‖CapsLock‖
+?Z*‖capslock`n‖SI‖Dis‖{CapsLock}‖
+?*Z‖caret`n‖S2‖En‖{^}‖
+?*Z‖cbracket`n‖S2‖En‖)‖
+?*Z‖ccbracket`n‖S2‖En‖{}}‖
+?*Z‖colon`n‖S2‖En‖:‖
+?*Z‖coma`n‖S2‖En‖,‖
+?*Z‖context`n‖SI‖En‖{appskey}‖
+?*Z‖control`n‖SI‖En‖{control}‖
+?*Z‖csbracket`n‖S2‖En‖]‖
+?*Z‖ctrld`n‖SI‖En‖{control down}‖
+?*Z‖dash`n‖S2‖En‖-‖
+?Z*‖delete`n‖S2‖En‖{delete}‖
+?*Z‖dollar`n‖S2‖En‖$‖
+?*Z‖dot`n‖S2‖En‖.‖
+?*Z‖down`n‖SI‖En‖{down}‖
+?*Z‖eight`n‖S2‖En‖8‖
+?Z*‖end`n‖SI‖En‖{end}‖
+?*Z‖enter`n‖SI‖En‖{enter}‖
+?*Z‖equal`n‖S2‖En‖=‖
+?Z*‖esc`n‖S2‖En‖{esc}‖
+?*Z‖exclmark`n‖S2‖En‖{!}‖
+?Z*‖f10`n‖S2‖En‖{F10}‖
+?Z*‖f11`n‖S2‖En‖{F11}‖
+?Z*‖f12`n‖S2‖En‖{F12}‖
+?Z*‖f13`n‖S2‖En‖{F13}‖
+?Z*‖f14`n‖S2‖En‖{F14}‖
+?Z*‖f15`n‖S2‖En‖{F15}‖
+?Z*‖f16`n‖S2‖En‖{F16}‖
+?Z*‖f17`n‖S2‖En‖{F17}‖
+?Z*‖f18`n‖S2‖En‖{F18}‖
+?Z*‖f19`n‖S2‖En‖{F19}‖
+?Z*‖f1`n‖S2‖En‖{F1}‖
+?Z*‖f20`n‖S2‖En‖{F20}‖
+?Z*‖f21`n‖S2‖En‖{F21}‖
+?Z*‖f22`n‖S2‖En‖{F22}‖
+?Z*‖f23`n‖S2‖En‖{F23}‖
+?Z*‖f24`n‖S2‖En‖{F24}‖
+?Z*‖f2`n‖S2‖En‖{F2}‖
+?Z*‖f3`n‖S2‖En‖{F3}‖
+?Z*‖f4`n‖S2‖En‖{F4}‖
+?Z*‖f5`n‖S2‖En‖{F5}‖
+?Z*‖f6`n‖S2‖En‖{F6}‖
+?Z*‖f7`n‖S2‖En‖{F7}‖
+?Z*‖f8`n‖S2‖En‖{F8}‖
+?Z*‖f9`n‖S2‖En‖{F9}‖
+?*Z‖five`n‖S2‖En‖5‖
+?*Z‖four`n‖S2‖En‖4‖
+?*Z‖greaterthan`n‖S2‖En‖>‖
+?*Z‖hash`n‖S2‖En‖{#}‖
+?Z*‖home`n‖SI‖En‖{home}‖
+?Z*‖insert`n‖SI‖En‖{Insert}‖
+?*Z‖left`n‖SI‖En‖{left}‖
+?*Z‖lessthan`n‖S2‖En‖<‖
+?*Z‖lwindows`n‖SI‖En‖{lwin}‖
+?*Z‖menu`n‖SI‖En‖{appskey}‖
+?*Z‖nine`n‖S2‖En‖9‖
+?*Z‖number`n‖S2‖En‖{#}‖
+?Z‖numlock‖SI‖En‖NumLock‖
+?Z*‖numlock`n‖SI‖En‖{NumLock}‖
+?*Z‖obracket`n‖S2‖En‖(‖
+?*Z‖ocbracket`n‖S2‖En‖{{}‖
+?*Z‖one`n‖S2‖En‖1‖
+?*Z‖osbracket`n‖S2‖En‖[‖
+?Z*‖pause`n‖SI‖En‖{Pause}‖
+?*Z‖percent`n‖S2‖En‖%‖
+?*Z‖pgdn`n‖SI‖En‖{pgdn}‖
+?*Z‖pgup`n‖SI‖En‖{pgup}‖
+?*Z‖plus`n‖S2‖En‖{+}‖
+?Z*‖prtscr`n‖SI‖En‖{PrintScreen}‖
+?*Z‖qmark`n‖S2‖En‖?‖
+?*Z‖quotation`n‖S2‖En‖"‖
+?*Z‖right`n‖SI‖En‖{right}‖
+?*Z‖rwindows`n‖SI‖En‖{rwin}‖
+?Z‖scrolllock‖SI‖En‖ScrollLock‖
+?Z*‖scrolllock`n‖SI‖Dis‖{ScrollLock}‖
+?*Z‖semicolon`n‖S2‖En‖;‖
+?*Z‖seven`n‖S2‖En‖7‖
+?*Z‖shiftd`n‖SI‖En‖{shift down}‖
+?*Z‖six`n‖S2‖En‖6‖
+?*Z‖slash`n‖S2‖En‖/‖
+?Z*‖tab`n‖MSI‖En‖{tab}¦{Space 5}‖
+?*Z‖three`n‖S2‖En‖3‖
+?*Z‖tick`n‖S2‖En‖``‖
+?*Z‖tilde`n‖S2‖En‖~‖
+?*Z‖two`n‖S2‖En‖2‖
+?*Z‖underscore`n‖S2‖En‖_‖
+?*Z‖up`n‖SI‖En‖{Up}‖
+?*Z‖verticalbar`n‖S2‖En‖|‖
+?*Z‖wind`n‖SI‖En‖{lwin down}‖
+?*Z‖windows`n‖SI‖En‖{lwin}‖
+?*Z‖zero`n‖S2‖En‖0‖
