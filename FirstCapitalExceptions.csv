@@ -5,7 +5,7 @@ Author:		Maciej Słojewski (🐘), http://mslonik.pl
 
 Purpose:		Exception hotstrings for First Capital concept.
 
-Notes:		All hotstrings are empty on purpose. All hotstrings are finished with ".". The First Capital concept: because of some overlapping some definitions have to be shifted to separate library file.
+Notes:		All hotstrings are empty on purpose. All hotstrings are finished with ".". The First Capital concept: the definitions should be kept within the second instance of *Hotstrings*.
 
 Example:		np. →
 */
@@ -30,5 +30,8 @@ Example:		np. →
 *B0Z‖płn.‖SI‖En‖‖
 *B0Z‖tel.‖SI‖En‖‖
 *B0Z‖tj.‖SI‖En‖‖
+*B0Z‖tys.‖SI‖En‖‖
 *B0Z‖tzn.‖SI‖En‖‖
 *B0Z‖tzw.‖SI‖En‖‖
+*B0Z‖ul.‖SI‖En‖‖
+*B0Z‖ww.‖SI‖En‖‖

@@ -15,6 +15,8 @@ Z*‖2d‖MSI‖En‖2D¦two-dimensional‖
 Z‖2fa‖SI‖En‖2FA‖
 Z*‖2fa/‖SI‖En‖Two-Factor Authentication‖
 Z*‖3d‖MSI‖En‖3D¦three-dimensional‖
+Z‖6kro‖SI‖En‖6KRO‖https://en.wikipedia.org/wiki/Key_rollover
+*Z‖6kro/‖SI‖En‖6KRO; means you can push up to 6 keys + modifier keys (CTRL, ALT, etc.) at once and the keyboard will recognize all of your key presses‖https://en.wikipedia.org/wiki/Key_rollover
 Z*‖a/‖SI‖Dis‖Availability‖
 Z*‖a3‖MSI‖En‖A3¦297 × 420 [mm]‖size of paper sheet in Europe
 Z*‖a4‖MSI‖En‖A4¦210 × 297 [mm]‖
@@ -51,6 +53,8 @@ Z*‖asci/‖CL‖En‖American Standard Code for Information Interchange‖
 Z‖ascii‖SI‖En‖ASCII‖
 Z*‖ascii/‖SI‖En‖American Standard Code for Information Interchange‖https://en.wikipedia.org/wiki/ASCII
 Z*‖asciiart/‖SI‖En‖https://asciiart.website/index.php?art=holiday/christmas/trees‖https://en.wikipedia.org/wiki/Break-even_(economics)#Construction
+Z‖asmr‖SI‖En‖ASMR‖
+*Z‖asmr/‖SI‖En‖Autonomous Sensory Meridian Response‖https://en.wikipedia.org/wiki/ASMR
 Z‖ato‖SI‖En‖ATO‖
 Z*‖av/‖SI‖En‖Availability‖
 Z*‖availability/‖SI‖En‖ability of a product to be in a state to perform a required function under given conditions at a given instant of time or over a given time interval assuming that the required external resources are provided.`n[SOURCE: IEC 62278:2002, 3.4]`n‖
@@ -129,6 +133,8 @@ Z‖cto‖SI‖En‖CTO‖
 *Z‖cto/‖SI‖En‖Chief Technical Officer‖
 Z‖cv‖SI‖En‖CV‖course of life
 Z‖cv/‖SI‖En‖Curriculum Vitae‖
+Z‖dam‖SI‖En‖DAM‖
+*Z‖dam/‖SI‖En‖Digital Asset Management‖
 Z‖dc‖SI‖En‖DC‖
 Z*‖dc/‖CL‖En‖Direct Current‖
 Z‖ddns‖SI‖En‖DDNS‖https://en.wikipedia.org/wiki/Dynamic_DNS
@@ -288,6 +294,8 @@ Z*‖ide/‖SI‖En‖Integrated Development Environment‖
 Z*‖idk/‖SI‖En‖I don't know‖
 Z‖iec‖SI‖En‖IEC‖
 Z*‖iec/‖MSI‖En‖International Electrotechnical Commission¦https://www.iec.ch/homepage‖
+Z‖ielts‖SI‖En‖IELTS‖
+*Z‖ielts/‖SI‖En‖International English Language Testing System‖https://en.wikipedia.org/wiki/International_English_Language_Testing_System
 Z‖iis‖SI‖En‖IIS‖
 *Z‖iis/‖SI‖En‖Internet Information Service‖
 Z‖iot‖SI‖En‖IoT‖
@@ -307,6 +315,8 @@ Z*‖isp/‖SI‖En‖Internet Service Provider‖
 Z*‖javascript‖SI‖En‖JavaScript‖
 Z‖json‖SI‖En‖JSON‖
 Z*‖json/‖SI‖En‖JavaScript Object Notation‖
+Z‖kerml‖SI‖En‖KerML‖
+*Z‖kerml/‖MSI‖En‖Kernel Modeling Language¦modeling language to create modeling languages‖
 Z‖kpi‖SI‖En‖KPI‖
 Z*‖kpi/‖CL‖En‖Key Performance Indicator‖
 Z‖kvm‖SI‖En‖KVM‖
@@ -388,6 +398,8 @@ Z‖nfc‖SI‖En‖NFC‖https://en.wikipedia.org/wiki/Near-field_communication
 Z*‖nfc/‖SI‖En‖Near-Field Communication‖
 Z*‖nic/‖SI‖En‖Network Interface Card‖
 Z*‖nic`t‖SI‖En‖NIC‖
+Z‖nkro‖SI‖En‖NKRO‖
+*Z‖nkro/‖SI‖En‖n-key rollover; n is a mathematical way to say that the number of items is not defined. n can be anything between zero and infinity; each keyboard key is scanned completely independently by the keyboard hardware, so that each keypress is correctly detected regardless of how many other keys are being pressed or held down at the time‖https://en.wikipedia.org/wiki/Key_rollover
 Z‖nobo‖SI‖En‖NoBo‖
 Z*‖nobo/‖SI‖En‖Notified Body‖
 Z‖ntp‖SI‖En‖NTP‖https://en.wikipedia.org/wiki/Network_Time_Protocol
@@ -398,6 +410,8 @@ Z‖oem‖SI‖En‖OEM‖
 Z*‖oem/‖SI‖En‖Original Equipment Manufacturer‖
 Z‖ohsas‖SI‖En‖OHSAS‖https://pl.wikipedia.org/wiki/OHSAS_18001
 Z*‖ohsas/‖SI‖En‖Occupational Health and Safety Assessment Series‖
+Z‖oled‖SI‖En‖OLED‖
+*Z‖oled/‖SI‖En‖Organic Light-Emitting Diode‖https://en.wikipedia.org/wiki/OLED
 Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
 *Z‖osi`n‖SI‖En‖Open Systems Interconnection model‖https://en.wikipedia.org/wiki/OSI_model
@@ -408,6 +422,8 @@ Z‖pbs‖SI‖En‖PBS‖
 Z*‖pbs/‖SI‖En‖Product Breakdown Structure‖
 Z‖pcb‖SI‖En‖PCB‖
 Z*‖pcb/‖CL‖En‖Printed Circuit Board‖
+Z‖pcm‖SI‖En‖PCM‖
+*Z‖pcm/‖SI‖En‖Pulse-Code Modulation‖https://en.wikipedia.org/wiki/Pulse-code_modulation
 Z‖pcn‖SI‖En‖PCN‖
 Z*‖pcn/‖SI‖En‖Product Change Notification‖
 Z‖pe‖SI‖En‖PE‖
@@ -435,8 +451,8 @@ Z‖poe‖SI‖En‖PoE‖
 Z*‖poe/‖SI‖En‖Power over Ethernet‖
 Z‖pov‖SI‖En‖POV‖
 Z*‖pov/‖SI‖En‖Point of View‖
-Z‖pp‖SI‖En‖PP‖
-Z*‖pp/‖SI‖En‖Pair Programming‖
+Z‖pp‖SI‖En‖pp.‖
+*Z‖pp/‖MSI‖En‖Pair Programming¦per procurationem, on behalf of‖
 Z‖ppi‖SI‖En‖PPI‖
 Z*‖ppi/‖SI‖En‖Point Per Inch‖
 Z‖psi‖SI‖En‖PSI‖
@@ -458,10 +474,12 @@ Z*‖qrams/‖CL‖En‖Quality, Reliability, Availability, Maintainability, Saf
 Z*‖r/‖SI‖En‖Reliability‖
 Z‖rac‖SI‖En‖RAC‖
 Z*‖rac/‖CL‖En‖Risk Acceptance Criteria‖
+Z‖raci‖SI‖En‖RACI‖
+*Z‖raci/‖SI‖En‖Responsible Accountable Consultant Informed‖
 Z‖ral‖SI‖En‖RAL‖
 Z*‖ral/‖SI‖En‖Reichs-Ausschuß für Lieferbedingungen (National Committee for Delivery and Quality Assurance)‖
-Z‖ram‖SI‖En‖RAM‖
 Z*‖ram/‖CL‖En‖Reliability, Availability, Maintainability‖
+*Z‖ram`t‖SI‖En‖RAM‖
 Z‖rams‖SI‖En‖RAMS‖
 Z*‖rams/‖CL‖En‖Reliability, Availability, Maintainability and Safety‖
 Z‖rap‖SI‖En‖RAP‖
@@ -526,6 +544,7 @@ Z‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confiden
 Z*‖sil/‖MSI‖En‖Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa funkcjonalnego‖
 Z‖sla‖SI‖En‖SLA‖
 Z*‖sla/‖CL‖En‖Service-Level Agreement‖
+*Z‖smart/‖SI‖En‖Specific Measurable Achievable Resourced Time-bound‖
 CZ‖smd‖SI‖En‖SMD‖https://en.wikipedia.org/wiki/Surface-mount_technology
 *CZ‖smd/‖SI‖En‖Surface-Mount Device‖https://en.wikipedia.org/wiki/Surface-mount_technology
 Z‖smime‖SI‖En‖S/MIME‖https://en.wikipedia.org/wiki/S/MIME
@@ -561,6 +580,8 @@ Z‖suv‖SI‖En‖SUV‖
 Z*‖suv/‖SI‖En‖Sport Utility Vehicle‖
 Z‖sw‖SI‖En‖SW‖
 Z*‖sw/‖SI‖En‖software‖
+Z‖swot‖SI‖En‖SWOT‖
+*Z‖swot/‖SI‖En‖Strength Weakness Opportunity Threat‖
 Z‖sysml‖SI‖En‖SysML‖
 *Z‖sysml/‖SI‖En‖System Modeling Language‖
 Z*‖tbc/‖CL‖En‖to be continued‖
@@ -587,6 +608,8 @@ Z‖tls‖SI‖En‖TLS‖https://en.wikipedia.org/wiki/Transport_Layer_Security
 Z*‖tls/‖SI‖En‖Transport Layer Security‖
 Z‖toc‖SI‖En‖TOC‖
 Z*‖toc/‖SI‖En‖Table of Content‖
+Z‖toefl‖SI‖En‖TOEFL‖
+*Z‖toefl/‖SI‖En‖Test of English as a Foreign Language‖https://en.wikipedia.org/wiki/Test_of_English_as_a_Foreign_Language
 Z‖totp‖SI‖En‖TOTP‖https://en.wikipedia.org/wiki/Time-based_One-Time_Password
 Z*‖totp/‖SI‖En‖Time-based One-time Password‖
 Z‖tpu‖SI‖En‖TPU‖
@@ -651,6 +674,8 @@ Z‖wmf‖SI‖En‖WMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖wmf/‖CL‖En‖Windows Metafile‖
 Z‖wol‖SI‖En‖WoL‖
 Z*‖wol/‖SI‖En‖Wake-on-LAN‖
+Z‖wta‖SI‖En‖WTA‖
+*Z‖wta/‖SI‖En‖Women's Tennis Association‖https://en.wikipedia.org/wiki/Women%27s_Tennis_Association
 Z‖www‖SI‖En‖WWW‖
 Z*‖www/‖SI‖En‖World Wide Web‖
 Z‖wysiwyg‖SI‖En‖WYSIWYG‖
