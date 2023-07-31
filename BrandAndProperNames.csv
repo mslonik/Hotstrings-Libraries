@@ -19,6 +19,8 @@ Z‖aem‖SI‖En‖AEM‖
 ZC‖allegro‖SI‖En‖Allegro‖
 *Z‖ant+‖SI‖En‖ANT{+}‖https://en.wikipedia.org/wiki/ANT_(network)
 *Z‖antplus‖SI‖En‖ANT{+}‖
+Z‖archimate‖SI‖En‖ArchiMate‖
+*Z‖archimate/‖SI‖En‖ArchiMate is an open and independent enterprise architecture modeling language to support the description, analysis and visualization of architecture within and across business domains in an unambiguous way.‖https://en.wikipedia.org/wiki/ArchiMate
 *Z‖auchan‖SI‖En‖Auchan‖
 Z*‖autocad‖CL‖En‖AutoCAD‖
 Z*‖autodesk‖SI‖En‖Autodesk‖
@@ -27,10 +29,14 @@ Z*‖canon‖MSI‖En‖Canon¦canon‖
 Z‖cenelec‖SI‖En‖CENELEC‖
 Z‖cenelec/‖MSI‖En‖Comité Européen de Normalisation Électrotechnique¦European Committee for Electrotechnical Standardization‖https://www.cenelec.eu/
 Z‖chatgpt‖SI‖En‖ChatGPT‖
+*Z‖convertkit‖SI‖En‖ConvertKit‖
+*Z‖cpanel‖SI‖En‖cPanel‖
 *Z‖cr2032‖SI‖En‖CR2032‖https://en.wikipedia.org/wiki/Button_cell
 Z‖damit‖SI‖En‖DamIT‖
 Z‖decathlon‖SI‖En‖DECATHLON‖
+*Z‖deepl‖SI‖En‖DeepL‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
+Z‖ea‖SI‖En‖EA‖https://en.wikipedia.org/wiki/ArchiMate
 *Z‖elemnt‖SI‖En‖ELEMNT‖https://en.wikipedia.org/wiki/ANT_(network)
 Z*‖ethernet‖SI‖En‖Ethernet‖
 Z‖excel‖SI‖En‖Excel‖
@@ -44,6 +50,7 @@ Z*‖gopro‖SI‖En‖GoPro‖
 *Z‖grycan‖SI‖En‖Grycan‖
 Z*‖hbo‖SI‖En‖HBO‖
 Z‖huel‖SI‖En‖Huel‖
+*Z‖ibm‖SI‖En‖IBM‖
 Z*‖ikea‖SI‖En‖IKEA‖
 Z‖incose‖SI‖En‖INCOSE‖
 *Z‖incose/‖SI‖En‖International Council on System Engineering‖
@@ -96,8 +103,10 @@ Z‖svn‖SI‖En‖SVN‖
 *Z‖svn/‖CL‖En‖versioning and revision control system‖
 Z*‖tales‖SI‖En‖Thales‖
 Z*‖thales‖SI‖En‖Thales‖
+*Z‖tinymce‖SI‖En‖TinyMCE‖
 Z‖trello‖SI‖En‖Trello‖
 Z*‖twitter‖SI‖En‖Twitter‖
+*Z‖ubuntu‖SI‖En‖Ubuntu‖
 Z*‖unicode‖SI‖En‖Unicode‖
 ZC‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
 Z‖vod‖SI‖En‖VOD‖
