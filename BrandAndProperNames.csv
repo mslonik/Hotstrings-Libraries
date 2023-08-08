@@ -17,6 +17,7 @@ Z‖aem‖SI‖En‖AEM‖
 *Z‖aliexpress‖SI‖En‖AliExpress‖
 *‖alior‖SI‖En‖Alior‖
 ZC‖allegro‖SI‖En‖Allegro‖
+*Z‖allianz‖SI‖En‖Allianz‖
 *Z‖ant+‖SI‖En‖ANT{+}‖https://en.wikipedia.org/wiki/ANT_(network)
 *Z‖antplus‖SI‖En‖ANT{+}‖
 Z‖archimate‖SI‖En‖ArchiMate‖
@@ -75,7 +76,7 @@ Z*‖microsoft‖SI‖En‖Microsoft‖
 ZC‖netflix‖SI‖En‖Netflix‖
 Z‖notepad++‖SI‖En‖Notepad{+}{+}‖
 Z‖obi‖SI‖En‖OBI‖
-*Z‖omg/‖SI‖En‖Object Management Group‖
+*Z‖omg/‖SI‖En‖Object Management Group‖https://www.omg.org/index.htm
 Z*‖onedrive‖SI‖En‖OneDrive‖
 *Z‖paypal‖SI‖En‖PayPal‖
 *Z‖peugeot‖SI‖En‖Peugeot‖
@@ -83,6 +84,7 @@ Z‖philips‖SI‖En‖Philips‖
 Z*‖power point‖SI‖En‖PowerPoint‖
 Z*‖powerpoint‖SI‖En‖PowerPoint‖
 Z*‖qnx‖CL‖En‖QNX‖
+*Z‖rj45‖SI‖En‖RJ45‖
 Z*‖rs232‖CL‖En‖RS232‖
 Z*‖rs485‖CL‖En‖RS485‖
 Z*‖s49‖CL‖En‖S49‖
@@ -109,6 +111,7 @@ Z*‖twitter‖SI‖En‖Twitter‖
 *Z‖ubuntu‖SI‖En‖Ubuntu‖
 Z*‖unicode‖SI‖En‖Unicode‖
 ZC‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
+*Z‖usbc‖SI‖En‖USB-C‖
 Z‖vod‖SI‖En‖VOD‖
 Z‖vod/‖SI‖En‖Video On Demand‖
 *Z‖wahoo‖SI‖En‖Wahoo‖

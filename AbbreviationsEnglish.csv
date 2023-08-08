@@ -78,6 +78,8 @@ Z*‖bpmn/‖SI‖En‖Business Process Model and Notation‖https://en.wikipedi
 Z*‖btw/‖CL‖En‖by the way‖
 Z‖cad‖SI‖En‖CAD‖
 Z*‖cad/‖CL‖En‖Computer Aided Design‖https://en.wikipedia.org/wiki/Computer-aided_design
+Z‖cae‖SI‖En‖CAE‖
+*Z‖cae/‖SI‖En‖Computer Aided Engineering‖
 Z‖cam‖SI‖En‖CAM‖
 Z*‖cam/‖SI‖En‖Computer Aided Manufacturing‖https://en.wikipedia.org/wiki/Computer-aided_manufacturing
 Z*‖can/‖CL‖En‖Controller Area Network‖https://en.wikipedia.org/wiki/CAN_bus
@@ -157,6 +159,7 @@ Z‖dfu‖SI‖En‖DFU‖
 Z‖dhcp‖SI‖En‖DHCP‖https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protoco
 Z*‖dhcp/‖SI‖En‖Dynamic Host Configuration Protocol‖
 Z‖din‖SI‖En‖DIN‖
+*Z‖din/‖SI‖En‖Deutsches Institut für Normung, in English, the German Institute for Standardisation Registered Association‖
 Z‖dita‖SI‖En‖DITA‖https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architec
 Z*‖dita/‖CL‖En‖Darwin Information Typing Architecture‖
 Z‖diy‖SI‖En‖DIY‖
@@ -271,6 +274,8 @@ Z‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
 Z*‖gmt/‖MSI‖En‖Greenwich Mean Time¦Poland: GMT + 01:00¦Polska: GMT + 01:00‖
 Z‖gnu‖SI‖En‖GNU‖https://en.wikipedia.org/wiki/GNU
 Z*‖gnu/‖MCL‖En‖GNU's Not Unix!¦https://en.wikipedia.org/wiki/GNU‖https://en.wikipedia.org/wiki/One-time_password
+Z‖gpa‖SI‖En‖GPA‖
+*Z‖gpa/‖SI‖En‖Grade Point Average‖
 Z‖gpg‖SI‖En‖GPG‖https://en.wikipedia.org/wiki/GNU_Privacy_Guard
 Z*‖gpg/‖SI‖En‖GNU Privacy Guard‖
 Z‖gpl‖SI‖En‖GPL‖https://en.wikipedia.org/wiki/GNU_General_Public_License
@@ -437,6 +442,7 @@ Z*‖ohsas/‖SI‖En‖Occupational Health and Safety Assessment Series‖
 Z‖ole`t‖SI‖En‖OLE‖
 Z‖oled‖SI‖En‖OLED‖
 *Z‖oled/‖SI‖En‖Organic Light-Emitting Diode‖https://en.wikipedia.org/wiki/OLED
+Z‖omg‖SI‖En‖OMG‖
 Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
 *Z‖osi`n‖SI‖En‖Open Systems Interconnection model‖https://en.wikipedia.org/wiki/OSI_model
@@ -654,6 +660,8 @@ Z‖tsi‖SI‖En‖TSI‖
 Z*‖tsi/‖MCL‖En‖Technical Specifications for Interoperability¦„techniczne specyfikacje interoperacyjności” (TSI) oznaczają specyfikacje przyjęte zgodnie z niniejszą dyrektywą, obejmujące każdy z podsystemów lub część podsystemu celem spełnienia zasadniczych wymagań oraz zapewnienia interoperacyjności systemu kolei Unii [ŹRÓDŁO: Dyrektywa (UE) 2016/797, art. 2, 11)]‖
 Z‖u2f‖SI‖En‖U2F‖https://en.wikipedia.org/wiki/Universal_2nd_Factor
 Z*‖u2f/‖SI‖En‖Universal 2nd Factor‖
+Z‖uaf‖SI‖En‖UAF‖Pendolino
+*Z‖uaf/‖SI‖En‖Unified Architecture Framework‖Pendolino
 Z‖udp‖SI‖En‖UDP‖
 *Z‖udp/‖SI‖En‖User Diagram Protocol‖
 Z‖uefa‖SI‖En‖UEFA‖
@@ -666,8 +674,12 @@ Z‖uic‖SI‖En‖UIC‖https://uic.org/
 Z*‖uic/‖MCL‖En‖International Union of Railways¦French: Union internationale des chemins de fer‖
 Z‖uml‖SI‖En‖UML‖
 *Z‖uml/‖MSI‖En‖Unified Modeling Language¦software modeling language‖
+Z‖un‖SI‖En‖UN‖
+*Z‖un/‖SI‖En‖United Nations‖
 Z‖unc‖SI‖En‖UNC‖
 *Z‖unc/‖SI‖En‖Universal Naming Convention‖https://en.wikipedia.org/wiki/Path_(computing)#Universal_Naming_Convention
+Z‖unicef‖SI‖En‖UNICEF‖
+*Z‖unicef/‖SI‖En‖United Nations International Children's Emergency Fund‖
 Z‖ups‖SI‖En‖UPS‖
 Z*‖ups/‖CL‖En‖Uninterruptable Power Supply‖
 Z‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL

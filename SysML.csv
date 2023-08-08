@@ -1,12 +1,21 @@
-﻿*Z‖act/‖SI‖En‖Activity Diagram (act)‖
-*Z‖bdd/‖SI‖En‖Block Definition Diagram (bdd)‖
-*Z‖behaviordiagrams/‖SI‖En‖Activity Diagram (act) {+} State Machine Diagram (stm) {+} Sequence Diagram (stm) {+} Use Case Diagram (uc)‖
-*Z‖ibd/‖SI‖En‖Internal Block Diagram (pkg)‖
-*Z‖par/‖SI‖En‖Parametric Diagram (par)‖
-*Z‖pkg/‖SI‖En‖Package Diagram (pkg)‖
-*Z‖req/‖SI‖En‖Requirement Diagram (req)‖
-*Z‖sd/‖SI‖En‖Sequence Diagram (stm)‖
-*Z‖stm/‖SI‖En‖State Machine Diagram (stm)‖
+﻿Z‖act‖SI‖En‖ACT‖
+*Z‖act/‖SI‖En‖Activity Diagram‖
+Z‖bdd‖SI‖En‖BDD‖
+*Z‖bdd/‖SI‖En‖Block Definition Diagram‖
+*Z‖behaviordiagrams/‖SI‖En‖Activity Diagram (act) {+} State Machine Diagram (stm) {+} Sequence Diagram (sd) {+} Use Case Diagram (uc)‖
+*Z‖empik‖SI‖En‖Empik‖
+Z‖ibd‖SI‖En‖IBD‖
+*Z‖ibd/‖SI‖En‖Internal Block Diagram‖
+Z‖par‖SI‖En‖PAR‖
+*Z‖par/‖SI‖En‖Parametric Diagram‖
+Z‖pkg‖SI‖En‖PKG‖
+*Z‖pkg/‖SI‖En‖Package Diagram‖
+Z‖req‖SI‖En‖REQ‖
+*Z‖req/‖SI‖En‖Requirement Diagram‖
+Z‖sd‖SI‖En‖SD‖
+*Z‖sd/‖SI‖En‖Sequence Diagram‖
+Z‖stm‖SI‖En‖STM‖
+*Z‖stm/‖SI‖En‖State Machine Diagram‖
 *Z‖sysmlcompartment/‖SI‖En‖parts / references / values / constraints / operations / receptions / standard ports / flow ports / full ports / proxy ports / flow properties / structure‖
 *Z‖sysmldiagrams‖SI‖En‖Requirement Diagram (req) {+} Behavior Diagrams {+} Package Diagram (pkg) {+} Structure Diagrams {+} Parametric Diagram (par)‖
 *Z‖sysmlheader/‖SI‖En‖diagram kind [model element type] model element name [diagram name]‖
@@ -14,6 +23,7 @@
 *Z‖sysmlpartproperty/‖SI‖En‖<part name> : <type> [<multiplicity>]‖
 *Z‖sysmlport/‖SI‖En‖port is a kind of property that represents a distinct interaction point at the boundary of a structure through which external entities can interact with that structure – either to provide or request a service or to exchange matter, energy or data.‖
 *Z‖sysmlreference/‖SI‖En‖<reference name> : <type> [<multiplicity>]‖
-*Z‖sysmlstructurediagrams/‖SI‖En‖Block Definition Diagram (pkg) {+} nternal Block Diagram (pkg)‖
+*Z‖sysmlstructurediagrams/‖SI‖En‖Block Definition Diagram (bdd) {+} Internal Block Diagram (ibd)‖
 *Z‖sysmlvalue/‖MSI‖En‖<value name> : <type> [<multiplicity>] = <default value>¦(/) in front of its name convey that a value property is derived‖
-*Z‖uc/‖SI‖En‖Use Case Diagram (uc)‖
+Z‖uc‖SI‖En‖UC‖
+*Z‖uc/‖SI‖En‖Use Case Diagram‖
