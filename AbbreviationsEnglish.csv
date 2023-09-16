@@ -31,9 +31,9 @@ Z*‖adhd/‖SI‖En‖Attention Deficit Hyperactivity Disorder‖https://en.wik
 Z‖aed‖SI‖En‖AED‖
 *Z‖aed/‖SI‖En‖Automated External Defibrillator‖https://en.wikipedia.org/wiki/Automated_external_defibrillator
 Z*‖afaik/‖CL‖En‖as far as I know‖
-Z*‖ahk/‖MSI‖En‖AutoHotkey¦https://www.autohotkey.com/docs/AutoHotkey.htm‖https://www.autohotkey.com/
+*Z‖ahk/‖MSI‖En‖AutoHotkey¦https://github.com/mslonik¦https://www.autohotkey.com/docs/AutoHotkey.htm‖https://www.autohotkey.com/
 Z‖ai‖SI‖En‖AI‖
-Z‖ai/‖SI‖En‖Artificial Inteligence‖
+*Z‖ai/‖SI‖En‖Artificial Inteligence‖
 Z‖aids‖SI‖En‖AIDS‖
 *Z‖aids/‖SI‖En‖Acquired ImmunoDeficiency Syndrome‖https://en.wikipedia.org/wiki/HIV/AIDS
 *Z‖aka/‖SI‖En‖also known as‖
@@ -41,6 +41,8 @@ Z‖altgr‖SI‖En‖AltGr‖
 Z*‖altgr/‖MSI‖En‖alternate graphics¦LControl & RAlt‖
 Z‖alu‖SI‖En‖ALU‖
 *Z‖alu/‖SI‖En‖Arithmetic Logic Unit‖https://en.wikipedia.org/wiki/Arithmetic_logic_unit
+Z‖am‖SI‖En‖AM‖
+*Z‖am/‖MSI‖En‖Ante Meridiem¦Amplitude Modulated‖
 Z‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
 Z‖api‖SI‖En‖API‖
@@ -58,6 +60,8 @@ Z*‖ascii/‖SI‖En‖American Standard Code for Information Interchange‖htt
 Z*‖asciiart/‖SI‖En‖https://asciiart.website/index.php?art=holiday/christmas/trees‖https://en.wikipedia.org/wiki/Break-even_(economics)#Construction
 Z‖asmr‖SI‖En‖ASMR‖
 *Z‖asmr/‖SI‖En‖Autonomous Sensory Meridian Response‖https://en.wikipedia.org/wiki/ASMR
+Z‖atm‖SI‖En‖ATM‖
+*Z‖atm/‖SI‖En‖Automatic Teller Machine‖
 Z‖ato‖SI‖En‖ATO‖
 Z*‖av/‖SI‖En‖Availability‖
 Z*‖availability/‖SI‖En‖ability of a product to be in a state to perform a required function under given conditions at a given instant of time or over a given time interval assuming that the required external resources are provided.`n[SOURCE: IEC 62278:2002, 3.4]`n‖
@@ -76,6 +80,8 @@ Z‖bpm‖SI‖En‖BPM‖
 Z‖bpmn‖SI‖En‖BPMN‖
 Z*‖bpmn/‖SI‖En‖Business Process Model and Notation‖https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
 Z*‖btw/‖CL‖En‖by the way‖
+Z‖byod‖SI‖En‖BYOD‖
+*Z‖byod/‖SI‖En‖Bring Your Own Device‖
 Z‖cad‖SI‖En‖CAD‖
 Z*‖cad/‖CL‖En‖Computer Aided Design‖https://en.wikipedia.org/wiki/Computer-aided_design
 Z‖cae‖SI‖En‖CAE‖
@@ -104,10 +110,14 @@ Z*‖cgi/‖SI‖En‖Computer-Generated Imagery‖
 Z‖ci‖SI‖Dis‖CI‖
 Z*‖ci/‖SI‖En‖Continuous Integration‖
 Z*‖ci`t‖SI‖En‖CI‖
+Z‖cicd‖SI‖En‖CI/CD‖
+*Z‖cicd/‖SI‖En‖Continuous Integration / Continuous Deployment (Delivery)‖
 Z‖cli‖SI‖En‖CLI‖
 Z*‖cli/‖SI‖En‖Command Line Interface‖
 Z‖cms‖SI‖En‖CMS‖
 Z*‖cms/‖SI‖En‖Content Management System‖
+Z‖cnc‖SI‖En‖CNC‖
+*Z‖cnc/‖SI‖En‖Computer Numerical Control‖
 Z‖com‖SI‖Dis‖COM‖
 Z*‖com/‖MCL‖En‖a serial port interface on IBM PC-compatible computers¦Component Object Model, a Microsoft software interface technology‖
 Z*‖com`t‖SI‖En‖COM‖https://en.wikipedia.org/wiki/Com
@@ -142,6 +152,8 @@ Z‖cto‖SI‖En‖CTO‖
 *Z‖cto/‖SI‖En‖Chief Technical Officer‖
 Z‖cv‖SI‖En‖CV‖course of life
 Z‖cv/‖SI‖En‖Curriculum Vitae‖
+Z‖daas‖SI‖En‖DaaS‖
+*Z‖daas/‖SI‖En‖Data as a Service‖
 *Z‖dam/‖SI‖En‖Digital Asset Management‖
 Z‖dam`t‖SI‖En‖DAM‖
 Z‖dc‖SI‖En‖DC‖
@@ -152,12 +164,22 @@ Z‖ddns‖SI‖En‖DDNS‖https://en.wikipedia.org/wiki/Dynamic_DNS
 Z*‖ddns/‖CL‖En‖Dynamic DNS‖
 Z‖ddos‖SI‖En‖DDoS‖
 Z*‖ddos/‖SI‖En‖Distributed Denial of Service‖
+Z‖ddr‖SI‖En‖DDR‖
+*Z‖ddr/‖SI‖En‖Double Data Rate‖
+Z‖ddr2‖SI‖En‖DDR2‖
+Z‖ddr3‖SI‖En‖DDR3‖
+Z‖ddr4‖SI‖En‖DDR3‖
+Z‖ddr5‖SI‖En‖DDR3‖
+Z‖devops‖SI‖En‖DevOps‖
+*Z‖devops/‖MSI‖En‖Development and IT Operations¦DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the software development life cycle.‖
 Z‖dftba‖SI‖En‖DFTBA‖
 Z*‖dftba/‖SI‖En‖Don't Forget To Be Awsome‖
 Z‖dfu‖SI‖En‖DFU‖
 *Z‖dfu/‖SI‖En‖Device Firmware Upgrade‖https://en.m.wikipedia.org/wiki/USB#
 Z‖dhcp‖SI‖En‖DHCP‖https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protoco
 Z*‖dhcp/‖SI‖En‖Dynamic Host Configuration Protocol‖
+Z‖dimm‖SI‖En‖DIMM‖
+*Z‖dimm/‖SI‖En‖Dual In-line Memory Module‖
 Z‖din‖SI‖En‖DIN‖
 *Z‖din/‖SI‖En‖Deutsches Institut für Normung, in English, the German Institute for Standardisation Registered Association‖
 Z‖dita‖SI‖En‖DITA‖https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architec
@@ -174,6 +196,7 @@ Z‖dns‖SI‖En‖DNS‖https://en.wikipedia.org/wiki/Domain_Name_System
 Z‖dns/‖SI‖En‖Domain Name System‖https://www.ibm.com/pl-pl/products/requirements-management
 Z*‖doors/‖SI‖En‖ Dynamic Object Oriented Requirements System‖
 Z‖doors`t‖SI‖En‖IBM DOORS‖
+*Z‖dora/‖SI‖En‖DevOps Research and Assessment‖
 Z‖dos‖SI‖En‖DoS‖
 Z*‖dos/‖SI‖En‖Denial of Service‖
 Z‖drm‖CL‖En‖DRM‖
@@ -209,6 +232,8 @@ Z‖emf‖SI‖En‖EMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖emf/‖CL‖En‖Enhanced Metafile‖
 Z‖emi‖SI‖En‖EMI‖
 Z*‖emi/‖CL‖En‖Electromagnetic Interference‖
+Z‖emmc‖SI‖En‖eMMC‖
+*Z‖emmc/‖SI‖En‖embedded MMC‖
 Z‖ems‖SI‖En‖EMS‖
 Z*‖ems/‖CL‖En‖Electronics Manufacturing Services‖
 Z‖emu‖SI‖En‖EMU‖
@@ -249,6 +274,10 @@ Z‖fido‖SI‖En‖FIDO‖https://en.wikipedia.org/wiki/FIDO_Alliance
 Z*‖fido/‖MSI‖En‖Fast IDentity Online¦The FIDO Alliance is an open industry association launched in February 2013 whose stated mission is to develop and promote authentication standards that "help reduce the world’s over-reliance on passwords".‖
 Z‖fifa‖SI‖En‖FIFA‖
 Z*‖fifa/‖MSI‖En‖Fédération Internationale de Football Association¦International Federation of Association Football‖
+CZ‖fkk‖SI‖En‖FKK‖
+*CZ‖fkk/‖MSI‖En‖Freikörperkultur (ger.)¦free body kulture (eng.)‖
+Z‖fm‖SI‖En‖FM‖
+*Z‖fm/‖SI‖En‖Frequency Modulated‖
 Z‖fmea‖SI‖En‖FMEA‖
 Z*‖fmea/‖CL‖En‖Failure Mode and Effects Analysis‖
 Z‖fmeca‖SI‖En‖FMECA‖
@@ -263,6 +292,8 @@ Z‖fpga‖SI‖En‖FPGA‖
 Z*‖fpga/‖SI‖En‖Field-Programmable Gate Array‖
 Z‖fps‖SI‖En‖FPS‖
 *Z‖fps/‖SI‖En‖Frames Per Seconds‖
+Z‖frmcs‖SI‖En‖FRMCS‖
+*Z‖frmcs/‖SI‖En‖Future Railway Mobile Communication System‖
 Z‖ftp‖SI‖En‖FTP‖
 *Z‖ftp/‖SI‖En‖File Ttransfer Protocol‖https://en.wikipedia.org/wiki/File_Transfer_Protocol
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
@@ -324,16 +355,22 @@ Z‖iot‖SI‖En‖IoT‖
 Z*‖iot/‖SI‖En‖Internet of Things‖
 Z‖ip‖SI‖En‖IP‖
 Z*‖ip/‖MCL‖En‖IP Code, Ingress Protection code, electronic module enclosure protection level¦https://en.wikipedia.org/wiki/IP_Code‖
+Z‖ipa‖SI‖En‖IPA‖
+*Z‖ipa/‖SI‖En‖International Phonetic Alphabet‖
 Z‖iq‖SI‖En‖IQ‖
 Z*‖iq/‖CL‖En‖Inteligence Quotient‖
 Z‖iris‖SI‖En‖IRIS‖
 Z*‖iris/‖CL‖En‖International Railway Industry Standard for the evaluation of railway management systems‖
 Z‖isbn‖SI‖En‖ISBN‖
 Z*‖isbn/‖SI‖En‖International Standard Book Number‖https://en.wikipedia.org/wiki/ISBN
+Z‖isis‖SI‖En‖ISIS‖
+*Z‖isis/‖SI‖En‖Islamic State of Iraq and Syria‖
 Z‖iso‖SI‖En‖ISO‖
 Z*‖iso/‖SI‖En‖International Standard Organisation‖
 Z‖isp‖SI‖En‖ISP‖
 Z*‖isp/‖SI‖En‖Internet Service Provider‖
+Z‖isv‖SI‖En‖ISV‖
+*Z‖isv/‖SI‖En‖Independent Software Vendor‖
 Z*‖javascript‖SI‖En‖JavaScript‖
 Z‖json‖SI‖En‖JSON‖
 Z*‖json/‖SI‖En‖JavaScript Object Notation‖
@@ -349,6 +386,7 @@ Z‖lad‖SI‖En‖LAD‖
 Z*‖lad/‖CL‖En‖Logistic and Administrative Delay‖
 Z‖lan‖SI‖En‖LAN‖
 Z*‖lan/‖SI‖En‖Local Area Network‖
+*Z‖laser/‖SI‖En‖Light Amplification by Stimulated Emission of Radiation‖
 Z*C‖latex‖SI‖En‖LaTeX‖
 Z‖lca‖SI‖En‖LCA‖
 Z*‖lca/‖MSI‖En‖Life Cycle Assessment¦środowiskowa ocena cyklu życia¦Life cycle assessment or LCA (also known as life cycle analysis) is a methodology for assessing environmental impacts associated with all the stages of the life cycle of a commercial product, process, or service. For instance, in the case of a manufactured product, environmental impacts are assessed from raw material extraction and processing (cradle), through the product's manufacture, distribution and use, to the recycling or final disposal of the materials composing it (grave).¦Środowiskowa ocena cyklu życia (ang. life cycle assessment, LCA) – ocena cyklu życia. Jest to technika z zakresu procesów zarządczych, mająca na celu ocenę potencjalnych zagrożeń środowiska. Istotą tej metody jest nastawienie nie tylko na ocenę wyniku końcowego danego procesu technologicznego, ale także oszacowanie i ocena konsekwencji całego procesu dla środowiska naturalnego.‖
@@ -360,8 +398,8 @@ Z‖led‖SI‖En‖LED‖
 Z*‖led/‖CL‖En‖Light Emitting Diode‖
 Z‖lgbt‖SI‖En‖LGBT‖
 Z*‖lgbt/‖SI‖En‖Lesbian Gay Bisexual Transgender‖
-Z‖llc‖CL‖En‖LLC‖
-Z*‖llc/‖CL‖En‖Life Cycle Cost‖
+Z‖llc‖SI‖En‖LLC‖
+*Z‖llc/‖MSI‖En‖Life Cycle Cost¦Limited Liability Company‖
 Z‖lms‖SI‖En‖LMS‖https://en.wikipedia.org/wiki/Learning_management_system
 Z*‖lms/‖SI‖En‖Learning Management System‖
 Z‖lnd‖SI‖En‖L&D‖
@@ -392,9 +430,13 @@ Z‖mime‖SI‖En‖MIME‖
 *Z‖mime/‖SI‖En‖Multipurpose Internet Mail Extensions‖https://en.wikipedia.org/wiki/MIME
 Z‖mit‖SI‖En‖MIT‖
 *Z‖mit/‖SI‖En‖Massachusetts Institute of Technology‖
+Z‖mmc‖SI‖En‖MMC‖
+*Z‖mmc/‖SI‖En‖Multi Media Card‖
 Z‖modbus‖SI‖En‖Modbus‖
 Z‖mom‖SI‖En‖MoM‖
 Z*‖mom/‖SI‖En‖Minutes of Meeting‖
+Z‖mri‖SI‖En‖MRI‖
+*Z‖mri/‖SI‖En‖Magnetic Rezonanse Imaging‖
 Z‖mtbf‖SI‖En‖MTBF‖
 Z*‖mtbf/‖MSI‖En‖Mean Time Between Failures¦the predicted elapsed time between inherent failures of a mechanical or electronic system, during normal system operation. MTBF can be calculated as the arithmetic mean (average) time between failures of a system. The term is used for repairable systems, while mean time to failure (MTTF) denotes the expected time to failure for a non-repairable system.`n[SOURCE: https://en.wikipedia.org/wiki/Mean_time_between_failures]`n‖
 Z‖mtbm‖SI‖En‖MTBM‖
@@ -430,6 +472,8 @@ Z‖nkro‖SI‖En‖NKRO‖
 *Z‖nkro/‖SI‖En‖n-key rollover; n is a mathematical way to say that the number of items is not defined. n can be anything between zero and infinity; each keyboard key is scanned completely independently by the keyboard hardware, so that each keypress is correctly detected regardless of how many other keys are being pressed or held down at the time‖https://en.wikipedia.org/wiki/Key_rollover
 Z‖nobo‖SI‖En‖NoBo‖
 Z*‖nobo/‖SI‖En‖Notified Body‖
+Z‖nrem‖SI‖En‖NREM‖
+*Z‖nrem/‖SI‖En‖Non-Rapid Eye Movement‖
 Z‖ntp‖SI‖En‖NTP‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖ntp/‖SI‖En‖Network Time Protocol‖
 Z‖ocr‖SI‖En‖OCR‖
@@ -447,6 +491,8 @@ Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
 *Z‖osi`n‖SI‖En‖Open Systems Interconnection model‖https://en.wikipedia.org/wiki/OSI_model
 *Z‖osi`t‖SI‖En‖OSI‖
+Z‖oslc‖SI‖En‖OSLC‖
+*Z‖oslc/‖SI‖En‖Open Services for Lifecycle Collaboration‖https://en.wikipedia.org/wiki/Open_Services_for_Lifecycle_Collaboration
 Z‖otp‖SI‖En‖OTP‖https://en.wikipedia.org/wiki/One-time_password
 Z*‖otp/‖MSI‖En‖One-Time Password¦is a password that is valid for only one login session or transaction, on a computer system or other digital device‖
 Z‖pbs‖SI‖En‖PBS‖
@@ -473,6 +519,7 @@ Z‖plc‖SI‖En‖PLC‖https://en.wikipedia.org/wiki/Programmable_logic_contr
 Z*‖plc/‖SI‖En‖Programmable Logic Controller‖
 Z‖plm‖SI‖En‖PLM‖
 Z*‖plm/‖CL‖En‖Product Lifecycle Management‖
+*Z‖pm/‖MSI‖En‖Post Meridiem¦Phase Modulated‖
 Z*‖png/‖SI‖En‖Portable Network Graphics‖
 Z‖pnp‖SI‖En‖PnP‖https://en.wikipedia.org/wiki/Plug_and_play
 Z*‖pnp/‖MSI‖En‖device with a specification that facilitates the discovery of a hardware component in a system without the need for physical device configuration or user intervention in resolving resource conflicts¦Plug and Play‖
@@ -521,6 +568,8 @@ Z‖rcd‖SI‖En‖RCD‖
 Z*‖rcd/‖SI‖En‖Residual Current Device‖
 Z‖rda‖SI‖En‖RDA‖
 Z*‖rda/‖SI‖En‖Robotics Desktop Automation‖
+Z‖rem‖SI‖En‖REM‖
+*Z‖rem/‖SI‖En‖Rapid Eye Movement‖
 Z‖rest‖SI‖En‖REST‖
 *Z‖rest/‖SI‖En‖REpresentational State Transfer‖https://en.wikipedia.org/wiki/Representational_state_transfer
 Z‖rfid‖SI‖En‖RFID‖
@@ -560,13 +609,15 @@ Z‖sbc‖SI‖En‖SBC‖
 Z‖scada‖SI‖En‖SCADA‖https://en.wikipedia.org/wiki/SCADA
 Z*‖scada/‖SI‖En‖Supervisory Control and Data Acquisition‖
 Z‖scm‖SI‖En‖SCM‖
-Z*‖scm/‖SI‖En‖Supply Chain Management‖
+*Z‖scm/‖MSI‖En‖Supply Chain Management¦Source Code Management‖
 Z‖scorm‖SI‖En‖SCORM‖https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_
 Z*‖scorm/‖SI‖En‖Sharable Content Object Reference Model‖
 Z‖sdk‖SI‖En‖SDK‖https://en.wikipedia.org/wiki/Software_development_kit
 Z*‖sdk/‖SI‖En‖Software Development Kit‖
 Z‖sdl‖SI‖En‖SDL‖
 Z*‖sdl/‖SI‖En‖Secure Development Lifecycle‖
+Z‖sdram‖SI‖En‖SDRAM‖
+*Z‖sdram/‖SI‖En‖Synchronous Dynamic Rrandom-Access Memory‖
 Z‖sef‖SI‖En‖SEF‖
 *Z‖sef/‖SI‖En‖Search Engine Friendly‖
 Z‖seo‖SI‖En‖SEO‖
@@ -575,9 +626,10 @@ Z‖sftp‖SI‖En‖SFTP‖
 *Z‖sftp/‖SI‖En‖SSH File Transfer Protocol‖https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
 Z‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confidence that a system will meet its specified safety functions with respect to systematic failures`n[SOURCE: IEC 62280:2014, 3.1.50]¦Safety Integrity Level‖
 Z*‖sil/‖MSI‖En‖Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa funkcjonalnego‖
+Z‖sim‖SI‖En‖SIM‖
+*Z‖sim/‖SI‖En‖Subscriber Identity Module‖
 Z‖sla‖SI‖En‖SLA‖
 Z*‖sla/‖CL‖En‖Service-Level Agreement‖
-*Z‖smart/‖SI‖En‖Specific Measurable Achievable Resourced Time-bound‖
 CZ‖smd‖SI‖En‖SMD‖https://en.wikipedia.org/wiki/Surface-mount_technology
 *CZ‖smd/‖SI‖En‖Surface-Mount Device‖https://en.wikipedia.org/wiki/Surface-mount_technology
 Z‖smime‖SI‖En‖S/MIME‖https://en.wikipedia.org/wiki/S/MIME
@@ -586,7 +638,10 @@ Z‖sms‖SI‖En‖SMS‖
 Z*‖sms/‖CL‖En‖Short Message Service‖
 Z‖snmp‖SI‖En‖SNMP‖https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
 Z*‖snmp/‖SI‖En‖Simple Network Management Protocol‖
+Z‖so-dimm‖SI‖En‖SO-DIMM‖
+*Z‖so-dimm/‖SI‖En‖Small Outline DIMM‖
 Z‖soc‖SI‖En‖SoC‖
+*Z‖soc/‖SI‖En‖System on a Chip‖
 Z‖spd‖SI‖En‖SPD‖
 Z*‖spd/‖SI‖En‖Surge Protection Device‖
 Z‖spdt‖SI‖En‖SPDT‖https://en.wikipedia.org/wiki/Switch
@@ -642,8 +697,8 @@ CZ‖tht‖SI‖En‖THT‖https://en.wikipedia.org/wiki/Through-hole_technology
 *CZ‖tht/‖SI‖En‖Through-Hole Technology‖https://en.wikipedia.org/wiki/Through-hole_technology
 Z‖tls‖SI‖En‖TLS‖https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_
 Z*‖tls/‖SI‖En‖Transport Layer Security‖
-Z‖toc‖SI‖En‖TOC‖
-Z*‖toc/‖SI‖En‖Table of Content‖
+Z‖toc‖SI‖En‖ToC‖
+*Z‖toc/‖SI‖En‖Table of Content‖
 Z‖toefl‖SI‖En‖TOEFL‖
 *Z‖toefl/‖SI‖En‖Test of English as a Foreign Language‖https://en.wikipedia.org/wiki/Test_of_English_as_a_Foreign_Language
 Z‖togaf‖SI‖En‖TOGAF‖
@@ -696,6 +751,8 @@ Z‖uv‖SI‖En‖UV‖
 Z*‖uv/‖SI‖En‖Ultraviolet form of electromagetic radiation, shorter than that of visible light, but longer than X-rays.‖https://en.wikipedia.org/wiki/Ultraviolet
 Z‖ux‖SI‖En‖UX‖
 Z*‖ux/‖CL‖En‖User Experience‖
+*Z‖var/‖SI‖En‖Video Assistant Referee‖
+Z‖var`t‖SI‖En‖VAR‖
 Z‖vat‖SI‖En‖VAT‖
 Z*‖vat/‖CL‖En‖Value Added Tax‖
 Z‖vba‖SI‖En‖VBA‖
@@ -718,12 +775,16 @@ Z‖vsc‖SI‖En‖VSC‖Visual Studio Code
 Z*‖vsc/‖SI‖En‖Visual Studio Code‖
 Z‖wcag‖SI‖En‖WCAG‖https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
 Z*‖wcag/‖SI‖En‖Web Content Accessibility Guidelines‖
+*Z‖who/‖SI‖En‖World Health Organization‖https://en.wikipedia.org/wiki/World_Health_Organization
+Z‖who`t‖SI‖En‖WHO‖
 Z‖wmf‖SI‖En‖WMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖wmf/‖CL‖En‖Windows Metafile‖
 Z‖wol‖SI‖En‖WoL‖
 Z*‖wol/‖SI‖En‖Wake-on-LAN‖
 Z‖wta‖SI‖En‖WTA‖
 *Z‖wta/‖SI‖En‖Women's Tennis Association‖https://en.wikipedia.org/wiki/Women%27s_Tennis_Association
+Z‖wwf‖SI‖En‖WWF‖
+*Z‖wwf/‖SI‖En‖World Wide Fund for Nature‖https://en.wikipedia.org/wiki/World_Wide_Fund_for_Nature
 Z‖www‖SI‖En‖WWW‖
 Z*‖www/‖SI‖En‖World Wide Web‖
 Z‖wysiwyg‖SI‖En‖WYSIWYG‖

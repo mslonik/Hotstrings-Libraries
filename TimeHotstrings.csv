@@ -31,6 +31,8 @@ Z*‖AYWeek‖SI‖En‖A_YWeek‖Current year and week number (e.g. 200453) acc
 Z*‖AYYYY‖SI‖En‖A_YYYY‖Current 4-digit year (e.g. 2004).
 Z‖cest‖SI‖En‖CEST‖
 *Z‖cest/‖SI‖En‖Central European Summer Time‖
+Z‖cet‖SI‖En‖CET‖
+*‖cet/‖SI‖En‖Central European Time‖
 Z*‖d[‖SI‖En‖A_YYYYA_MMA_DD_‖
 Z*‖d]‖SI‖En‖A_YYYY-A_MM-A_DD‖
 Z*‖t]‖CL‖En‖A_Hour:A_Min‖

@@ -11,6 +11,7 @@ Notes:		The vast majority of definitions have set feature * (immediate execute) 
 
 */
 
+*Z‖.net‖SI‖En‖.NET‖
 Z‖adobe‖SI‖En‖Adobe‖
 Z‖aem‖SI‖En‖AEM‖
 *Z‖aem/‖SI‖En‖Adobe Experience Manager‖
@@ -18,6 +19,7 @@ Z‖aem‖SI‖En‖AEM‖
 *‖alior‖SI‖En‖Alior‖
 ZC‖allegro‖SI‖En‖Allegro‖
 *Z‖allianz‖SI‖En‖Allianz‖
+*Z‖amazon‖SI‖En‖Amazon‖
 *Z‖ant+‖SI‖En‖ANT{+}‖https://en.wikipedia.org/wiki/ANT_(network)
 *Z‖antplus‖SI‖En‖ANT{+}‖
 Z‖archimate‖SI‖En‖ArchiMate‖
@@ -37,6 +39,7 @@ Z‖damit‖SI‖En‖DamIT‖
 Z‖decathlon‖SI‖En‖DECATHLON‖
 *Z‖deepl‖SI‖En‖DeepL‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
+Z‖dkms‖SI‖En‖DKMS‖
 Z‖ea‖SI‖En‖EA‖https://en.wikipedia.org/wiki/ArchiMate
 *Z‖elemnt‖SI‖En‖ELEMNT‖https://en.wikipedia.org/wiki/ANT_(network)
 Z*‖ethernet‖SI‖En‖Ethernet‖
@@ -52,6 +55,7 @@ Z*‖gopro‖SI‖En‖GoPro‖
 Z*‖hbo‖SI‖En‖HBO‖
 Z‖huel‖SI‖En‖Huel‖
 *Z‖ibm‖SI‖En‖IBM‖
+Z‖ihs‖SI‖En‖IHS‖
 Z*‖ikea‖SI‖En‖IKEA‖
 Z‖incose‖SI‖En‖INCOSE‖
 *Z‖incose/‖SI‖En‖International Council on System Engineering‖
@@ -89,7 +93,7 @@ Z*‖rs232‖CL‖En‖RS232‖
 Z*‖rs485‖CL‖En‖RS485‖
 Z*‖s49‖CL‖En‖S49‖
 Z*‖santander‖SI‖En‖Santander‖
-Z*‖sap‖CL‖En‖SAP‖enterprise software to manage business operations and customer
+Z‖sap‖CL‖En‖SAP‖enterprise software to manage business operations and customer
 ZC‖seat‖SI‖En‖Seat‖
 Z*‖sharepoint‖CL‖En‖Sharepoint‖
 ZC‖shimano‖SI‖En‖Shimano‖
@@ -99,18 +103,21 @@ Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
 *Z‖skype‖SI‖En‖Skype‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
 Z*‖sp/‖SI‖En‖Sharepoint‖
+*Z‖sparx‖SI‖En‖Sparx Systems‖
 Z*‖strava‖SI‖En‖Strava‖
 *Z‖suzuki‖SI‖En‖Suzuki‖
 Z‖svn‖SI‖En‖SVN‖
 *Z‖svn/‖CL‖En‖versioning and revision control system‖
 Z*‖tales‖SI‖En‖Thales‖
 Z*‖thales‖SI‖En‖Thales‖
+*Z‖thinkpad‖SI‖En‖ThinkPad‖
 *Z‖tinymce‖SI‖En‖TinyMCE‖
 Z‖trello‖SI‖En‖Trello‖
 Z*‖twitter‖SI‖En‖Twitter‖
 *Z‖ubuntu‖SI‖En‖Ubuntu‖
 Z*‖unicode‖SI‖En‖Unicode‖
 ZC‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
+*Z‖usba‖SI‖En‖USB-A‖
 *Z‖usbc‖SI‖En‖USB-C‖
 Z‖vod‖SI‖En‖VOD‖
 Z‖vod/‖SI‖En‖Video On Demand‖

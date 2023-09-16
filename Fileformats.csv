@@ -19,10 +19,14 @@ ZB0?‖.exe‖SI‖En‖‖
 ZB0?‖.fbx‖SI‖En‖‖only for file extensions
 ZB0?‖.gif‖SI‖En‖‖
 CB0?Z‖.mobi‖SI‖En‖‖
+*B0?Z‖.msi‖SI‖En‖‖only for file extenstions
+B0?Z‖.msix‖SI‖En‖‖only for extensions
 ZCB0?‖.odf‖SI‖En‖‖
 ZB0?‖.pdf‖SI‖En‖‖only for extensions
+*B0?Z‖.pfx‖SI‖En‖‖only for file extenstions
 ZB0?‖.png‖SI‖En‖‖
 ZCB0?‖.rtf‖SI‖En‖‖
+B0?Z‖.sgml‖SI‖En‖‖
 ZB0?‖.svg‖SI‖En‖‖only for extensions
 B0?Z‖.txt‖SI‖En‖‖only for extensions
 B0?Z‖.wav‖SI‖En‖‖only for extensions
@@ -48,15 +52,23 @@ Z‖gif‖SI‖En‖GIF‖
 Z*‖gif/‖SI‖En‖Graphics Interchange Format‖
 Z‖mobi‖SI‖En‖MOBI‖
 *CZ‖mobi/‖SI‖En‖Kindle‖
+Z‖msi‖SI‖En‖MSI‖only for file extenstions
+*Z‖msi/‖SI‖En‖Windows Installer Package‖
+Z‖msix‖SI‖En‖MSIX‖
+*Z‖msix/‖SI‖En‖Windows app package format‖only for extensions
 Z‖odf‖SI‖En‖ODF‖
 Z*C‖odf/‖SI‖En‖Open Document Format for Office Applications‖https://en.wikipedia.org/wiki/OpenDocument
 ZC1‖otb‖SI‖En‖OTB‖
 Z*C1‖otb/‖SI‖En‖One Ttrue Bracket‖
 Z‖pdf‖SI‖En‖PDF‖
 Z*‖pdf/‖CL‖En‖Portable Document Format‖
+Z‖pfx‖SI‖En‖PFX‖only for file extenstions
+*Z‖pfx/‖SI‖En‖Personal Information Exchange‖only for file extenstions
 Z‖png‖SI‖En‖PNG‖
 Z‖rtf‖SI‖En‖RTF‖
 ZC‖rtf/‖SI‖En‖Rich Text Format‖
+Z‖sgml‖SI‖En‖SGML‖
+*Z‖sgml/‖SI‖En‖Standard Generalized Markup Language‖https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language
 Z‖svg‖SI‖En‖SVG‖
 Z*‖svg/‖SI‖En‖Scalable Vector Graphics‖
 Z‖txt‖SI‖En‖TXT‖
