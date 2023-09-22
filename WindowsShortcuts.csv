@@ -7,33 +7,33 @@ Purpose:		Library enables to call Microsoft Windows operating system shortcuts a
 
 Notes:		When specific application window is active, keys can be triggered even when no text input box is available.
 
-Examples:	     taskm`n -> Task Manager application.
+Examples:	     taskm/ -> Task Manager application.
 */
 
-*Z‖altgr`n‖SI‖En‖{LControl Down}{RAlt}{LControl Up}‖
-*Z‖bold`n‖SI‖En‖{control down}b{control up}‖
-*Z‖copy`n‖SI‖En‖{control down}c{control up}‖
-*Z‖ctrld`n‖SI‖En‖{control down}‖
-*Z‖ctrr`n‖SI‖En‖{Control Down}{right}{Control Up}‖
-*Z‖cut`n‖SI‖En‖{control down}x{control up}‖
-*Z‖explorer`n‖SI‖En‖{lwin down}e{lwin up}‖
-*Z‖markleft`n‖SI‖En‖{shift down}{control down}{left}{control up}{shift up}‖
-*Z‖markleftcopy`n‖SI‖En‖{shift down}{control down}{left}{control up}{shift up}{control down}c{control up}‖
-*Z‖markright`n‖SI‖En‖{shift down}{control down}{right}{control up}{shift up}‖
-*Z‖markrightcopy`n‖SI‖En‖{shift down}{control down}{right}{control up}{shift up}{control down}c{control up}‖
-*Z‖paste`n‖SI‖En‖{control down}v{control up}‖
-*Z‖print`n‖SI‖En‖{control down}p{control up}‖
-*Z‖shiftd`n‖SI‖En‖{shift down}‖
-*Z‖taskm`n‖SI‖En‖{control down}{shift down}{esc}{shift up}{control up}‖
-*Z‖undo`n‖SI‖En‖{control down}z{control up}‖
-*Z‖windesktop`n‖SI‖En‖{lwin down}d{lwin up}‖
-*Z‖winlock`n‖SI‖En‖{lwin down}l{lwin up}‖this will not work (Keyboard Hook ver. operating system)
-*Z‖winmax`n‖SI‖En‖{lwin down}{up}{lwin up}‖
-*Z‖winmin`n‖SI‖En‖{alt down}{space}m{alt up}‖
-*Z‖winmove`n‖SI‖En‖{alt down}{space}e{alt up}‖
-*Z‖winquicklink`n‖SI‖En‖{lwin down}x{lwin up}‖
-*Z‖winrest`n‖SI‖En‖{lwin down}{down}{lwin up}‖
-*Z‖winrun`n‖SI‖En‖{lwin down}r{lwin up}‖
-*Z‖winsettings`n‖SI‖En‖{lwin down}i{lwin up}‖
-*Z‖winswitch`n‖SI‖En‖{alt down}{tab}{alt up}‖
-*Z‖wintask`n‖SI‖En‖{lwin down}{tab}{lwin up}‖
+*Z‖altgr/‖SI‖En‖{LControl Down}{RAlt}{LControl Up}‖
+*Z‖bold/‖SI‖En‖{control down}b{control up}‖
+*Z‖copy/‖SI‖En‖{control down}c{control up}‖
+*Z‖ctrll/‖SI‖En‖{LControl Down}{left}{LControl Up}‖
+*Z‖ctrrr/‖SI‖En‖{Control Down}{right}{Control Up}‖
+*Z‖cut/‖SI‖En‖{control down}x{control up}‖
+*Z‖explorer/‖SI‖En‖{lwin down}e{lwin up}‖
+*Z‖markleft/‖SI‖En‖{shift down}{control down}{left}{control up}{shift up}‖
+*Z‖markleftcopy/‖SI‖En‖{shift down}{control down}{left}{control up}{shift up}{control down}c{control up}‖
+*Z‖markright/‖SI‖En‖{shift down}{control down}{right}{control up}{shift up}‖
+*Z‖markrightcopy/‖SI‖En‖{shift down}{control down}{right}{control up}{shift up}{control down}c{control up}‖
+*Z‖paste/‖SI‖En‖{control down}v{control up}‖
+*Z‖print/‖SI‖En‖{control down}p{control up}‖
+*Z‖shiftd/‖SI‖En‖{shift down}‖
+*Z‖taskm/‖SI‖En‖{control down}{shift down}{esc}{shift up}{control up}‖
+*Z‖undo/‖SI‖En‖{control down}z{control up}‖
+*Z‖windesktop/‖SI‖En‖{lwin down}d{lwin up}‖
+*Z‖winlock/‖SI‖En‖{lwin down}l{lwin up}‖this will not work (Keyboard Hook ver. operating system)
+*Z‖winmax/‖SI‖En‖{lwin down}{up}{lwin up}‖
+*Z‖winmin/‖SI‖En‖{alt down}{space}m{alt up}‖
+*Z‖winmove/‖SI‖En‖{alt down}{space}e{alt up}‖
+*Z‖winquicklink/‖SI‖En‖{lwin down}x{lwin up}‖
+*Z‖winrest/‖SI‖En‖{lwin down}{down}{lwin up}‖
+*Z‖winrun/‖SI‖En‖{lwin down}r{lwin up}‖
+*Z‖winsettings/‖SI‖En‖{lwin down}i{lwin up}‖
+*Z‖winswitch/‖SI‖En‖{alt down}{tab}{alt up}‖
+*Z‖wintask/‖SI‖En‖{lwin down}{tab}{lwin up}‖

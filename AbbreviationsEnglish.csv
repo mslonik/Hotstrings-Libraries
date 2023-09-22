@@ -112,6 +112,8 @@ Z*‖ci/‖SI‖En‖Continuous Integration‖
 Z*‖ci`t‖SI‖En‖CI‖
 Z‖cicd‖SI‖En‖CI/CD‖
 *Z‖cicd/‖SI‖En‖Continuous Integration / Continuous Deployment (Delivery)‖
+Z‖cisc‖SI‖En‖CISC‖
+*Z‖cisc/‖SI‖En‖Complex Instruction Set Computer‖
 Z‖cli‖SI‖En‖CLI‖
 Z*‖cli/‖SI‖En‖Command Line Interface‖
 Z‖cms‖SI‖En‖CMS‖
@@ -199,6 +201,8 @@ Z‖doors`t‖SI‖En‖IBM DOORS‖
 *Z‖dora/‖SI‖En‖DevOps Research and Assessment‖
 Z‖dos‖SI‖En‖DoS‖
 Z*‖dos/‖SI‖En‖Denial of Service‖
+Z‖dram‖SI‖En‖DRAM‖
+*Z‖dram/‖SI‖En‖Dynamic Random-Access Memory‖
 Z‖drm‖CL‖En‖DRM‖
 Z*‖drm/‖CL‖En‖Digital Right Management‖
 Z‖dsl‖SI‖En‖DSL‖https://en.wikipedia.org/wiki/Digital_subscriber_line
@@ -319,6 +323,8 @@ Z‖gpt‖SI‖En‖GPT‖
 Z*‖gpt/‖SI‖En‖Generative Pre-trained Transformer‖
 Z‖gsm‖SI‖En‖GSM‖
 Z*‖gsm/‖CL‖En‖Global System for Mobile Communications‖
+*Z‖gsmr‖SI‖En‖GSM-R‖
+*Z‖gsmr/‖SI‖En‖GSM for Railways‖
 Z‖gui‖SI‖En‖GUI‖
 Z*‖gui/‖CL‖En‖Graphical User Interface‖
 Z‖hart‖SI‖En‖HART‖
@@ -499,6 +505,8 @@ Z‖pbs‖SI‖En‖PBS‖
 Z*‖pbs/‖SI‖En‖Product Breakdown Structure‖
 Z‖pcb‖SI‖En‖PCB‖
 Z*‖pcb/‖CL‖En‖Printed Circuit Board‖
+Z‖pci‖SI‖En‖PCI‖
+*Z‖pci/‖SI‖En‖Peripheral Component Interconnect‖
 Z‖pcm‖SI‖En‖PCM‖
 *Z‖pcm/‖SI‖En‖Pulse-Code Modulation‖https://en.wikipedia.org/wiki/Pulse-code_modulation
 Z‖pcn‖SI‖En‖PCN‖
@@ -578,6 +586,8 @@ Z‖rfp‖SI‖En‖RFP‖
 *Z‖rfp/‖SI‖En‖Request for Proposal‖
 Z‖rgb‖SI‖En‖RGB‖https://en.wikipedia.org/wiki/RGB_color_model
 Z*‖rgb/‖SI‖En‖Red Green Blue‖
+Z‖risc‖SI‖En‖RISC‖
+*Z‖risc/‖SI‖En‖Reduced Instruction Set Computer‖
 Z‖rma‖SI‖En‖RMA‖
 Z*‖rma/‖CL‖En‖Return Merchandise Authorization‖
 Z‖rms‖SI‖En‖RMS‖
