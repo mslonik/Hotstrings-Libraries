@@ -20,6 +20,8 @@ Z‖6kro‖SI‖En‖6KRO‖https://en.wikipedia.org/wiki/Key_rollover
 Z*‖a/‖SI‖Dis‖Availability‖
 Z*‖a3‖MSI‖En‖A3¦297 × 420 [mm]‖size of paper sheet in Europe
 Z*‖a4‖MSI‖En‖A4¦210 × 297 [mm]‖
+Z‖abs‖CL‖En‖ABS‖
+*Z‖abs/‖CL‖En‖Anti-lock Braking System‖
 Z‖ac‖SI‖En‖AC‖
 Z*‖ac/‖MSI‖En‖Alternating Current¦Axle Counter‖
 Z‖acl‖SI‖En‖ACL‖
@@ -221,6 +223,8 @@ Z‖ecg‖SI‖En‖ECG‖
 *Z‖ecg/‖SI‖En‖ELectrocardiogram‖https://en.wikipedia.org/wiki/Electrocardiography
 Z‖ecm‖SI‖En‖ECM‖
 Z*‖ecm/‖SI‖En‖Enterprise Content Management‖
+Z‖eeg‖SI‖En‖EEG‖
+*Z‖eeg/‖SI‖En‖Electroencephalography‖
 Z‖eeprom‖SI‖En‖EEPROM‖
 Z*‖eeprom/‖SI‖En‖Electrically Erasable Programmable Read-Only Memory‖
 Z*‖eg/‖SI‖En‖exempli gratia‖
@@ -484,6 +488,8 @@ Z‖ntp‖SI‖En‖NTP‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖ntp/‖SI‖En‖Network Time Protocol‖
 Z‖ocr‖SI‖En‖OCR‖
 Z‖ocr/‖SI‖En‖Optical Character Recognition‖
+Z‖oecd‖SI‖En‖OECD‖
+*Z‖oecd/‖SI‖En‖Organisation for Economic Co-operation and Development‖
 Z‖oem‖SI‖En‖OEM‖
 Z*‖oem/‖SI‖En‖Original Equipment Manufacturer‖
 Z‖ohsas‖SI‖En‖OHSAS‖https://pl.wikipedia.org/wiki/OHSAS_18001
@@ -495,6 +501,8 @@ Z‖oled‖SI‖En‖OLED‖
 Z‖omg‖SI‖En‖OMG‖
 Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
+Z‖osh‖SI‖En‖OSH‖
+*Z‖osh/‖SI‖En‖Occupational Safety and Health‖
 *Z‖osi`n‖SI‖En‖Open Systems Interconnection model‖https://en.wikipedia.org/wiki/OSI_model
 *Z‖osi`t‖SI‖En‖OSI‖
 Z‖oslc‖SI‖En‖OSLC‖

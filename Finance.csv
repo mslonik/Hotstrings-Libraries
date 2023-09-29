@@ -4,6 +4,8 @@ Z‖bic‖SI‖En‖BIC‖
 Z*‖bic/‖SI‖En‖Bank Identifier Code‖
 Z‖capex‖SI‖En‖CAPEX‖
 *Z‖capex/‖MSI‖En‖CAPital EXpenditure¦the money an organization or corporate entity spends to buy, maintain, or improve its fixed assets, such as buildings, vehicles, equipment, or land.‖https://en.wikipedia.org/wiki/Capital_expenditure
+Z‖cit‖SI‖En‖CIT‖
+*Z‖cit/‖SI‖En‖Corporate Income Tax‖
 Z‖cvc‖SI‖En‖CVC‖
 *Z‖cvc/‖SI‖En‖Card Verivication Code‖
 ZC‖ebit‖SI‖En‖EBIT‖

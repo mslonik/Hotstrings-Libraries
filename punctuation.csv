@@ -13,6 +13,7 @@ Examples:	minus instead of dash, newline character(s), carriage return, line fee
 
 Z*‖"/‖MSI‖En‖„”{left}¦“”{left}¦«»{left}¦""{left}‖Polish, English double, French, universal
 Z*?‖...‖SI‖En‖…‖Horizontal Ellipsis {U+2026}
+*Z‖./‖SI‖En‖. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .‖
 Z*‖bell/‖SI‖En‖{U+0007}‖
 Z*‖cgj/‖SI‖En‖{U+034F}‖Combining Grapheme Joiner
 Z‖cr‖SI‖En‖CR‖Carriage Return

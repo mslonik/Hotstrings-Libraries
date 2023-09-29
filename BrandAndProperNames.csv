@@ -28,6 +28,8 @@ Z‖archimate‖SI‖En‖ArchiMate‖
 Z*‖autocad‖CL‖En‖AutoCAD‖
 Z*‖autodesk‖SI‖En‖Autodesk‖
 *Z‖blik‖SI‖En‖BLIK‖only with ShiftFunctions!
+Z‖bmw‖CL‖En‖BMW‖
+*Z‖bmw/‖CL‖En‖Bayerische Motoren Werke AG‖
 Z*‖canon‖MSI‖En‖Canon¦canon‖
 Z‖cenelec‖SI‖En‖CENELEC‖
 Z‖cenelec/‖MSI‖En‖Comité Européen de Normalisation Électrotechnique¦European Committee for Electrotechnical Standardization‖https://www.cenelec.eu/
@@ -41,6 +43,7 @@ Z‖decathlon‖SI‖En‖DECATHLON‖
 *Z‖dhl‖SI‖En‖DHL‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
 Z‖dkms‖SI‖En‖DKMS‖
+*Z‖dremel‖SI‖En‖Dremel‖
 Z‖ea‖SI‖En‖EA‖https://en.wikipedia.org/wiki/ArchiMate
 *Z‖elemnt‖SI‖En‖ELEMNT‖https://en.wikipedia.org/wiki/ANT_(network)
 Z*‖ethernet‖SI‖En‖Ethernet‖

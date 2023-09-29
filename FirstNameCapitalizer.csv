@@ -11,6 +11,7 @@ Example:		filip → Filip
 */
 
 *Z‖aad‖SI‖En‖Aad‖Adrianus / Adriaan
+*Z‖agata‖CL‖En‖Agata‖
 Z*‖agnieszka‖SI‖En‖Agnieszka‖
 *Z‖angelik‖SI‖En‖Angelik‖
 Z*‖ariadn‖SI‖En‖Ariadn‖
@@ -41,10 +42,12 @@ Z*‖heinrich‖SI‖En‖Heinrich‖Current 1-digit day of the week (1-7). 1 is
 *Z‖jan‖SI‖En‖Jan‖
 Z*C‖jens‖SI‖En‖Jens‖
 *Z‖joann‖SI‖En‖Joann‖
+*Z‖joel‖SI‖En‖Joël‖
 Z*‖joerg‖CL‖En‖Jörg‖
 Z*‖jorg‖CL‖En‖Jörg‖
 Z*‖julia‖SI‖En‖Julia‖
 Z*‖julian‖SI‖En‖Julian‖
+*Z‖julię‖SI‖En‖Julię‖
 Z*‖kacper‖SI‖En‖Kacper‖
 *Z‖kacpra‖SI‖En‖Kacpra‖
 Z*‖kamil‖SI‖En‖Kamil‖
@@ -53,6 +56,8 @@ Z*‖kasandr‖SI‖En‖Kasandr‖
 *Z‖krystian‖SI‖En‖Krystian‖
 Z*‖krzysztof‖SI‖En‖Krzysztof‖
 Z*C1‖leon‖SI‖En‖Leon‖
+*Z‖lidia‖SI‖En‖Lidia‖
+*Z‖lidii‖SI‖En‖Lidii‖
 *CZ‖loek‖SI‖En‖Loek‖
 *Z‖lukasz‖SI‖En‖Łukasz‖
 *‖luuk‖SI‖En‖Luuk‖
@@ -80,6 +85,7 @@ Z‖rafal‖SI‖En‖Rafał‖
 Z‖rene‖CL‖En‖René‖
 *Z‖rene`n‖CL‖En‖René‖
 *Z‖robert‖SI‖En‖Robert‖
+*Z‖Roksan‖CL‖En‖Roksan‖
 Z‖rysiowi‖SI‖En‖Rysiowi‖
 *Z‖ryszard‖SI‖En‖Ryszard‖https://en.wikipedia.org/wiki/HIV/AIDS
 Z*‖sebastian‖SI‖En‖Sebastian‖

@@ -33,6 +33,7 @@ B0?Z‖.wav‖SI‖En‖‖only for extensions
 ZB0?‖.xlsx‖SI‖En‖‖only for extensions
 B0?Z‖.xmi‖SI‖En‖‖only for extensions
 ZB0?‖.xml‖SI‖En‖‖only for extensions
+B0?Z‖.zip‖SI‖En‖‖only for extensions
 Z‖ahk‖SI‖En‖AHK‖
 Z‖csv‖SI‖En‖CSV‖
 Z*‖csv/‖SI‖En‖Comma Separated Values‖https://en.wikipedia.org/wiki/Comma-separated_values
@@ -79,3 +80,5 @@ Z‖xlsx‖SI‖En‖XLSX‖
 Z‖xmi‖SI‖En‖XMI‖
 *CZ‖xmi/‖MSI‖En‖XML Metadata Interchange¦The XML Metadata Interchange (XMI) is an Object Management Group (OMG) standard for exchanging metadata information via Extensible Markup Language (XML).‖https://en.wikipedia.org/wiki/Design_Web_Format
 Z‖xml‖SI‖En‖XML‖
+Z‖zip‖SI‖En‖ZIP‖
+*Z‖zip/‖SI‖En‖compressed archive file format‖

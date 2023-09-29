@@ -37,7 +37,7 @@ Z*‖exponent/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U
 Z‖Ghz‖SI‖En‖GHz‖
 Z‖hz‖SI‖En‖Hz‖
 Z‖infinity‖SI‖En‖∞‖
-Z*‖kamp‖CL‖En‖kA‖
+Z‖kamp‖CL‖En‖kA‖
 Z‖khz‖SI‖En‖kHz‖
 C1Z‖kj‖SI‖En‖kJ‖
 Z*‖kmh‖SI‖En‖km/h‖
@@ -69,8 +69,11 @@ Z*‖ppb/‖SI‖En‖{U+00BB}‖Power Point Bullet
 Z*‖recycling/‖MSI‖En‖♻¦♲¦♺‖{U+267B}|{U+2672}|{U+267A}
 Z*‖space/‖MSI‖En‖{U+2000}¦{U+2003}¦{U+2004}¦{U+2005}¦{U+2006}¦&nbsp;¦&emsp;‖useful in Mardown https://unicode-table.com/en/blocks/general-pu
 Z*‖stopc/‖CL‖En‖°‖
-Z*‖subscript/‖MSI‖En‖₂¦₃¦₄¦₅¦₆¦₇¦₈‖U+2082 | U+2083 | U+2084 | U+2085 | U+2086 | U+2087 | U+2088
-Z*‖superscript/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
+*?Z‖subscript/‖MSI‖En‖₀¦₁¦₂¦₃¦₄¦₅¦₆‖
+*?Z‖subscript2/‖MSI‖En‖₇¦₈¦₉¦₋¦₊¦₍¦₎‖
+*?Z‖superscript/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
+*?Z‖superscript2/‖MSI‖En‖⁸¦⁹¦⁻¦⁺¦⁽¦⁾¦ⁱ‖
+*?Z‖superscriptn/‖SI‖En‖ⁿ‖
 Z*‖tilde/‖SI‖En‖~‖
 Z‖va‖SI‖En‖VA‖UPS capacity
 Z‖vac‖SI‖En‖V{U+00A0}AC‖
