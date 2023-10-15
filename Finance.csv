@@ -8,6 +8,8 @@ Z‖cit‖SI‖En‖CIT‖
 *Z‖cit/‖SI‖En‖Corporate Income Tax‖
 Z‖cvc‖SI‖En‖CVC‖
 *Z‖cvc/‖SI‖En‖Card Verivication Code‖
+Z‖duns‖MSI‖En‖DUNS¦D-U-N-S‖
+*Z‖duns/‖SI‖En‖Data Universal Numbering System‖
 ZC‖ebit‖SI‖En‖EBIT‖
 Z*‖ebit/‖SI‖En‖Earnings Before Interest and Taxes‖
 ZC‖ebitda‖SI‖En‖EBITDA‖https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_d
@@ -50,6 +52,8 @@ ZC‖swift‖SI‖En‖SWIFT‖
 Z*C‖swift/‖SI‖En‖Society for Worldwide Interbank Financial Telecommunication‖
 Z‖tco‖SI‖En‖TCO‖
 Z*‖tco/‖MSI‖En‖Total Cost of Ownership¦Total cost of ownership (TCO) is a financial estimate intended to help buyers and owners determine the direct and indirect costs of a product or service. It is a management accounting concept that can be used in full cost accounting or even ecological economics where it includes social costs.‖https://en.wikipedia.org/wiki/Total_cost_of_ownership
+Z‖tin‖SI‖En‖TIN‖
+*Z‖tin/‖SI‖En‖Tax Identification Number‖
 Z‖vies‖SI‖En‖VIES‖U+1F3E2
 *Z‖vies/‖SI‖En‖VAT Information Exchange System‖
 Z‖wibor‖SI‖En‖WIBOR‖https://pl.wikipedia.org/wiki/WIBOR

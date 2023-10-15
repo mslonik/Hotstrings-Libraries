@@ -12,9 +12,13 @@ Notes:		The vast majority of definitions have set feature * (immediate execute) 
 */
 
 *Z‖.net‖SI‖En‖.NET‖
+Z‖aardc‖SI‖En‖Adobe Acrobat Reader DC‖
+*Z‖aardc/‖SI‖En‖Adobe Acrobat Reader Document Cloud; cloud features are available for users‖
 Z‖adobe‖SI‖En‖Adobe‖
 Z‖aem‖SI‖En‖AEM‖
 *Z‖aem/‖SI‖En‖Adobe Experience Manager‖
+*Z‖afm‖SI‖En‖Adobe Framemaker‖
+*Z‖aleve‖SI‖En‖Aleve‖
 *Z‖aliexpress‖SI‖En‖AliExpress‖
 *‖alior‖SI‖En‖Alior‖
 ZC‖allegro‖SI‖En‖Allegro‖
@@ -27,6 +31,7 @@ Z‖archimate‖SI‖En‖ArchiMate‖
 *Z‖auchan‖SI‖En‖Auchan‖
 Z*‖autocad‖CL‖En‖AutoCAD‖
 Z*‖autodesk‖SI‖En‖Autodesk‖
+*Z‖bitlocker‖SI‖En‖BitLocker‖
 *Z‖blik‖SI‖En‖BLIK‖only with ShiftFunctions!
 Z‖bmw‖CL‖En‖BMW‖
 *Z‖bmw/‖CL‖En‖Bayerische Motoren Werke AG‖
@@ -34,6 +39,7 @@ Z*‖canon‖MSI‖En‖Canon¦canon‖
 Z‖cenelec‖SI‖En‖CENELEC‖
 Z‖cenelec/‖MSI‖En‖Comité Européen de Normalisation Électrotechnique¦European Committee for Electrotechnical Standardization‖https://www.cenelec.eu/
 Z‖chatgpt‖SI‖En‖ChatGPT‖
+*Z‖cocacola‖SI‖En‖Coca-Cola‖
 *Z‖convertkit‖SI‖En‖ConvertKit‖
 *Z‖cpanel‖SI‖En‖cPanel‖
 *Z‖cr2032‖SI‖En‖CR2032‖https://en.wikipedia.org/wiki/Button_cell
@@ -58,6 +64,7 @@ Z*‖gopro‖SI‖En‖GoPro‖
 *Z‖grycan‖SI‖En‖Grycan‖
 Z*‖hbo‖SI‖En‖HBO‖
 Z‖huel‖SI‖En‖Huel‖
+*Z‖huion‖SI‖En‖Huion‖
 *Z‖ibm‖SI‖En‖IBM‖
 Z‖ihs‖SI‖En‖IHS‖
 Z*‖ikea‖SI‖En‖IKEA‖
@@ -83,12 +90,14 @@ Z‖markdown‖SI‖En‖Markdown‖
 Z‖mcu‖SI‖En‖MCU‖
 *Z‖mcu/‖SI‖En‖Micro Controller Unit‖
 Z*‖microsoft‖SI‖En‖Microsoft‖
+*Z‖msword‖SI‖En‖Microsoft Word‖
 ZC‖netflix‖SI‖En‖Netflix‖
 Z‖notepad++‖SI‖En‖Notepad{+}{+}‖
 Z‖obi‖SI‖En‖OBI‖
 *Z‖omg/‖SI‖En‖Object Management Group‖https://www.omg.org/index.htm
 Z*‖onedrive‖SI‖En‖OneDrive‖
 *Z‖paypal‖SI‖En‖PayPal‖
+*Z‖pepsi‖SI‖En‖Pepsi‖
 *Z‖peugeot‖SI‖En‖Peugeot‖
 Z‖philips‖SI‖En‖Philips‖
 Z*‖power point‖SI‖En‖PowerPoint‖
@@ -128,6 +137,7 @@ ZC‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
 Z‖vod‖SI‖En‖VOD‖
 Z‖vod/‖SI‖En‖Video On Demand‖
 *Z‖wahoo‖SI‖En‖Wahoo‖
+Z‖wd40‖SI‖En‖WD40‖
 Z*‖webex‖SI‖En‖Webex‖
 Z*?‖whatsapp‖SI‖En‖WhatsApp‖
 Z*‖wifi‖SI‖En‖WiFi‖

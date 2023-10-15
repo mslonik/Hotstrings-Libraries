@@ -15,6 +15,7 @@ Z*‖2d‖MSI‖En‖2D¦two-dimensional‖
 Z‖2fa‖SI‖En‖2FA‖
 Z*‖2fa/‖SI‖En‖Two-Factor Authentication‖
 Z*‖3d‖MSI‖En‖3D¦three-dimensional‖
+Z‖5g‖SI‖En‖5G‖
 Z‖6kro‖SI‖En‖6KRO‖https://en.wikipedia.org/wiki/Key_rollover
 *Z‖6kro/‖SI‖En‖6KRO; means you can push up to 6 keys + modifier keys (CTRL, ALT, etc.) at once and the keyboard will recognize all of your key presses‖https://en.wikipedia.org/wiki/Key_rollover
 Z*‖a/‖SI‖Dis‖Availability‖
@@ -37,7 +38,7 @@ Z*‖afaik/‖CL‖En‖as far as I know‖
 Z‖ai‖SI‖En‖AI‖
 *Z‖ai/‖SI‖En‖Artificial Inteligence‖
 Z‖aids‖SI‖En‖AIDS‖
-*Z‖aids/‖SI‖En‖Acquired ImmunoDeficiency Syndrome‖https://en.wikipedia.org/wiki/HIV/AIDS
+*Z‖aids/‖SI‖En‖Acquired Immunodeficiency Syndrome‖https://en.wikipedia.org/wiki/HIV/AIDS
 *Z‖aka/‖SI‖En‖also known as‖
 Z‖altgr‖SI‖En‖AltGr‖
 Z*‖altgr/‖MSI‖En‖alternate graphics¦LControl & RAlt‖
@@ -447,6 +448,8 @@ Z‖mom‖SI‖En‖MoM‖
 Z*‖mom/‖SI‖En‖Minutes of Meeting‖
 Z‖mri‖SI‖En‖MRI‖
 *Z‖mri/‖SI‖En‖Magnetic Rezonanse Imaging‖
+Z‖mrna‖SI‖En‖mRNA‖
+*Z‖mrna/‖SI‖En‖messenger RNA‖
 Z‖mtbf‖SI‖En‖MTBF‖
 Z*‖mtbf/‖MSI‖En‖Mean Time Between Failures¦the predicted elapsed time between inherent failures of a mechanical or electronic system, during normal system operation. MTBF can be calculated as the arithmetic mean (average) time between failures of a system. The term is used for repairable systems, while mean time to failure (MTTF) denotes the expected time to failure for a non-repairable system.`n[SOURCE: https://en.wikipedia.org/wiki/Mean_time_between_failures]`n‖
 Z‖mtbm‖SI‖En‖MTBM‖
@@ -486,6 +489,8 @@ Z‖nrem‖SI‖En‖NREM‖
 *Z‖nrem/‖SI‖En‖Non-Rapid Eye Movement‖
 Z‖ntp‖SI‖En‖NTP‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖ntp/‖SI‖En‖Network Time Protocol‖
+Z‖ocd‖SI‖En‖OCD‖
+*Z‖ocd/‖SI‖En‖Obsessive-Compulsive Disorder‖
 Z‖ocr‖SI‖En‖OCR‖
 Z‖ocr/‖SI‖En‖Optical Character Recognition‖
 Z‖oecd‖SI‖En‖OECD‖
@@ -507,6 +512,8 @@ Z‖osh‖SI‖En‖OSH‖
 *Z‖osi`t‖SI‖En‖OSI‖
 Z‖oslc‖SI‖En‖OSLC‖
 *Z‖oslc/‖SI‖En‖Open Services for Lifecycle Collaboration‖https://en.wikipedia.org/wiki/Open_Services_for_Lifecycle_Collaboration
+Z‖ostree‖SI‖En‖OSTree‖
+*Z‖ostree/‖SI‖En‖System for versioning updates of Linux-based operating systems. It can be considered as "Git for operating system binaries". It operates in userspace, and will work on top of any Linux file system. At its core is a Git-like content-addressed object store with branches (or "refs") to track meaningful file system trees within the store.‖
 Z‖otp‖SI‖En‖OTP‖https://en.wikipedia.org/wiki/One-time_password
 Z*‖otp/‖MSI‖En‖One-Time Password¦is a password that is valid for only one login session or transaction, on a computer system or other digital device‖
 Z‖pbs‖SI‖En‖PBS‖
@@ -600,6 +607,8 @@ Z‖rma‖SI‖En‖RMA‖
 Z*‖rma/‖CL‖En‖Return Merchandise Authorization‖
 Z‖rms‖SI‖En‖RMS‖
 Z*‖rms/‖CL‖En‖Root Mean Square‖
+Z‖rna‖SI‖En‖RNA‖
+*Z‖rna/‖SI‖En‖Ribonucleic Acid‖
 Z‖rohs‖SI‖En‖RoHS‖https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substance
 Z*‖rohs/‖MSI‖En‖Restriction of Hazardous Substances Directive¦Directive 2011/65/EU of the European Parliament{Shift Down}{Enter}{Shift Up}and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment.‖
 Z‖rpa‖SI‖En‖RPA‖
@@ -733,6 +742,8 @@ Z‖tsi‖SI‖En‖TSI‖
 Z*‖tsi/‖MCL‖En‖Technical Specifications for Interoperability¦„techniczne specyfikacje interoperacyjności” (TSI) oznaczają specyfikacje przyjęte zgodnie z niniejszą dyrektywą, obejmujące każdy z podsystemów lub część podsystemu celem spełnienia zasadniczych wymagań oraz zapewnienia interoperacyjności systemu kolei Unii [ŹRÓDŁO: Dyrektywa (UE) 2016/797, art. 2, 11)]‖
 Z‖u2f‖SI‖En‖U2F‖https://en.wikipedia.org/wiki/Universal_2nd_Factor
 Z*‖u2f/‖SI‖En‖Universal 2nd Factor‖
+Z‖uac‖SI‖En‖UAC‖
+*Z‖uac/‖SI‖En‖User Account Control‖
 Z‖uaf‖SI‖En‖UAF‖Pendolino
 *Z‖uaf/‖SI‖En‖Unified Architecture Framework‖Pendolino
 Z‖udp‖SI‖En‖UDP‖
