@@ -6,6 +6,21 @@ Hotstring-library is text file (*.csv) formatted to work with [*Hotstrings*](htt
 <br />
 <br />
 
+International Age Rating Coalition (IARC) policy.
+
+The libraries are downloadable content from Hotstrings application. Therefore before you upload any new library to this repository, please make sure it doesn't contain:
+
+- violence, depicted in form of e.g. ASCII art or in form of descriptive text,
+- sexuality, depicted in form of e.g. ASCII art or in form of descriptive text,
+- potentially offensive language e.g. in form of descriptive text, 
+- do not promote by any means sale of age-restricted products or activities e.g. in form of descriptive text.
+
+Thank you for your understanding. Any newly added content to Library cathalog will be checked manually against above policy.
+
+<br />
+<br />
+<br />
+
 # List of content <!-- omit from toc -->
 1. [**The free library files** ](#the-free-library-files-)
 1. [**The not-free libraries** ](#the-not-free-libraries-)
