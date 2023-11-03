@@ -8,6 +8,8 @@ Z‖cit‖SI‖En‖CIT‖
 *Z‖cit/‖SI‖En‖Corporate Income Tax‖
 Z‖cvc‖SI‖En‖CVC‖
 *Z‖cvc/‖SI‖En‖Card Verivication Code‖
+Z‖dba‖SI‖En‖DBA‖
+*Z‖dba/‖MSI‖En‖Doing Business As¦a name under which a corporation coducts business that is not the legal name of the corporation as shown i ints articles of incorporation‖
 Z‖duns‖MSI‖En‖DUNS¦D-U-N-S‖
 *Z‖duns/‖SI‖En‖Data Universal Numbering System‖
 ZC‖ebit‖SI‖En‖EBIT‖
@@ -24,6 +26,8 @@ Z‖gdp‖SI‖En‖GDP‖
 Z*‖gdp/‖SI‖En‖Gross Domestic Product‖https://en.wikipedia.org/wiki/Gross_domestic_product
 Z‖iban‖SI‖En‖IBAN‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
 Z*‖iban/‖SI‖En‖International Bank Account Number‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
+Z‖irs‖SI‖En‖IRS‖
+*Z‖irs/‖SI‖En‖Internal Revenue Service‖
 Z‖ivr‖SI‖En‖IVR‖
 *Z‖ivr/‖SI‖En‖Interactive Voice Response‖
 CZ‖mor‖SI‖En‖MoR‖

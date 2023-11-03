@@ -17,7 +17,7 @@ Z*‖*/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 Z*‖+-‖CL‖En‖±‖
 Z*‖-'t‖MSI‖En‖-¦−¦–¦—‖U+2010, U+2212, U+2013, U+2014
 Z*‖-+‖CL‖En‖±‖
-*?Z‖--‖SI‖En‖–‖
+?Z‖--‖SI‖Dis‖–‖
 *Z‖->‖MSI‖En‖→¦←¦↔¦↓¦↑‖
 Z*‖/=‖CL‖En‖≠‖
 Z*‖<=‖CL‖En‖≤‖
@@ -79,7 +79,6 @@ Z*‖stopc/‖CL‖En‖°‖
 *?Z‖superscript3/‖MSI‖En‖ⁿ¦ⁱ‖
 *?Z‖superscripti/‖SI‖En‖ⁱ‖
 *?Z‖superscriptn/‖SI‖En‖ⁿ‖
-Z*‖tilde/‖SI‖En‖~‖
 Z‖va‖SI‖En‖VA‖UPS capacity
 Z‖vac‖SI‖En‖V{U+00A0}AC‖
 Z*‖vdc‖SI‖En‖V{U+00A0}DC‖

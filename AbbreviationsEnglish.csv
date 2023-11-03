@@ -44,8 +44,8 @@ Z‖altgr‖SI‖En‖AltGr‖
 Z*‖altgr/‖MSI‖En‖alternate graphics¦LControl & RAlt‖
 Z‖alu‖SI‖En‖ALU‖
 *Z‖alu/‖SI‖En‖Arithmetic Logic Unit‖https://en.wikipedia.org/wiki/Arithmetic_logic_unit
-Z‖am‖SI‖En‖AM‖
 *Z‖am/‖MSI‖En‖Ante Meridiem¦Amplitude Modulated‖
+*Z‖am`t‖SI‖En‖AM‖
 Z‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
 Z‖api‖SI‖En‖API‖
@@ -121,6 +121,8 @@ Z‖cli‖SI‖En‖CLI‖
 Z*‖cli/‖SI‖En‖Command Line Interface‖
 Z‖cms‖SI‖En‖CMS‖
 Z*‖cms/‖SI‖En‖Content Management System‖
+Z‖cmyk‖SI‖En‖CMYK‖
+*Z‖cmyk/‖SI‖En‖Cyan Magenta Yellow Key (black)‖
 Z‖cnc‖SI‖En‖CNC‖
 *Z‖cnc/‖SI‖En‖Computer Numerical Control‖
 Z‖com‖SI‖Dis‖COM‖
@@ -247,12 +249,14 @@ Z‖ems‖SI‖En‖EMS‖
 Z*‖ems/‖CL‖En‖Electronics Manufacturing Services‖
 Z‖emu‖SI‖En‖EMU‖
 Z*‖emu/‖SI‖En‖Electric Multiple Unit‖
+Z‖enisa‖SI‖En‖ENISA‖
+*Z‖enisa/‖MSI‖En‖European Union Agency for Cybersecurity¦https://www.enisa.europa.eu/‖
 Z‖eol‖SI‖En‖EOL‖
 Z*‖eol/‖SI‖En‖End of Life‖
 Z‖eq‖SI‖En‖EQ ‖
 Z*‖eq/‖CL‖En‖Emotional Quotient‖
 Z‖era‖SI‖En‖ERA‖
-Z*‖era/‖CL‖En‖European Railway Agency‖
+*Z‖era/‖MSI‖En‖European Union Agency for Railways¦https://www.era.europa.eu/‖
 Z‖ere‖SI‖En‖ERE‖
 Z*‖ere/‖CL‖En‖Explicit Risk Estimation‖
 Z‖erp‖SI‖En‖ERP‖
@@ -351,6 +355,8 @@ Z‖hw‖SI‖En‖HW‖
 Z*‖hw/‖SI‖En‖hardware‖
 Z‖iacs‖SI‖En‖IACS‖IEC 62443-4-1
 Z*‖iacs/‖SI‖En‖Industrial Automation and Control Systems‖
+Z‖iarc‖SI‖En‖IARC‖
+*Z‖iarc/‖SI‖En‖International Age Rating Coalition‖
 Z‖ic‖SI‖En‖IC‖
 Z*‖ic/‖CL‖En‖Interoperability Constituent‖
 Z‖ide‖SI‖En‖IDE‖
@@ -508,10 +514,14 @@ Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
 Z‖osh‖SI‖En‖OSH‖
 *Z‖osh/‖SI‖En‖Occupational Safety and Health‖
+Z‖osi‖SI‖En‖OSI‖
+*Z‖osi/‖SI‖En‖Open Source Initiative‖
 *Z‖osi`n‖SI‖En‖Open Systems Interconnection model‖https://en.wikipedia.org/wiki/OSI_model
 *Z‖osi`t‖SI‖En‖OSI‖
 Z‖oslc‖SI‖En‖OSLC‖
 *Z‖oslc/‖SI‖En‖Open Services for Lifecycle Collaboration‖https://en.wikipedia.org/wiki/Open_Services_for_Lifecycle_Collaboration
+Z‖oss‖SI‖En‖OSS‖
+*Z‖oss/‖SI‖En‖Open-Source Software‖
 Z‖ostree‖SI‖En‖OSTree‖
 *Z‖ostree/‖SI‖En‖System for versioning updates of Linux-based operating systems. It can be considered as "Git for operating system binaries". It operates in userspace, and will work on top of any Linux file system. At its core is a Git-like content-addressed object store with branches (or "refs") to track meaningful file system trees within the store.‖
 Z‖otp‖SI‖En‖OTP‖https://en.wikipedia.org/wiki/One-time_password
@@ -526,6 +536,8 @@ Z‖pcm‖SI‖En‖PCM‖
 *Z‖pcm/‖SI‖En‖Pulse-Code Modulation‖https://en.wikipedia.org/wiki/Pulse-code_modulation
 Z‖pcn‖SI‖En‖PCN‖
 Z*‖pcn/‖SI‖En‖Product Change Notification‖
+Z‖pda‖SI‖En‖PDA‖
+*Z‖pda/‖SI‖En‖Personal Digital Assistant‖
 Z‖pe‖SI‖En‖PE‖
 Z*‖pe/‖SI‖En‖Protective Earth‖
 Z?‖pgp‖SI‖En‖PGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
@@ -643,6 +655,8 @@ Z‖sdk‖SI‖En‖SDK‖https://en.wikipedia.org/wiki/Software_development_kit
 Z*‖sdk/‖SI‖En‖Software Development Kit‖
 Z‖sdl‖SI‖En‖SDL‖
 Z*‖sdl/‖SI‖En‖Secure Development Lifecycle‖
+Z‖sdlc‖SI‖En‖SDLC‖
+*Z‖sdlc/‖SI‖En‖Software Development Life Cycle‖
 Z‖sdram‖SI‖En‖SDRAM‖
 *Z‖sdram/‖SI‖En‖Synchronous Dynamic Rrandom-Access Memory‖
 Z‖sef‖SI‖En‖SEF‖
@@ -680,7 +694,7 @@ Z‖spst‖SI‖En‖SPST‖
 Z‖sql‖SI‖En‖SQL‖
 Z*‖sql/‖CL‖En‖Structured Query Language‖
 Z‖srac‖SI‖En‖SRAC‖Source: 3.75 → EN 50126-1:2017 (E)
-Z*‖srac/‖MCL‖En‖Safety Related Application Condition¦Those conditions which need to be met in order for a system to be safely integrated and safely operated. Note 1 to entry: Application conditions can for example be: operational restrictions (e.g. speed limit, maximum duration of use), operational rules, maintenance restrictions (e.g. requested maintenance intervals) or environmental conditions.‖
+*Z‖srac/‖MCL‖En‖Safety Related Application Condition¦Those conditions which need to be met in order for a system to be safely integrated and safely operated. Note 1 to entry: Application conditions can for example be: operational restrictions (e.g. speed limit, maximum duration of use), operational rules, maintenance restrictions (e.g. requested maintenance intervals) or environmental conditions.¦warunki zastosowania związane z bezpieczeństwem‖
 Z‖ssh‖SI‖En‖SSH‖
 Z*‖ssh/‖MSI‖En‖Secure Shell¦a cryptographic network protocol for operating network services securely over an unsecured network‖
 Z‖ssid‖SI‖En‖SSID‖
@@ -695,8 +709,6 @@ Z‖suv‖SI‖En‖SUV‖
 Z*‖suv/‖SI‖En‖Sport Utility Vehicle‖
 Z‖sw‖SI‖En‖SW‖
 Z*‖sw/‖SI‖En‖software‖
-Z‖swot‖SI‖En‖SWOT‖
-*Z‖swot/‖SI‖En‖Strength Weakness Opportunity Threat‖
 Z‖sysml‖SI‖En‖SysML‖
 *Z‖sysml/‖SI‖En‖System Modeling Language‖
 Z*‖tbc/‖CL‖En‖to be continued‖

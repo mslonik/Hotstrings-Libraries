@@ -28,7 +28,11 @@ ZC*‖bucharest‖SI‖En‖Bucharest‖
 Z*‖canada‖SI‖En‖Canada‖
 Z*‖china‖SI‖En‖China‖
 Z‖christmas‖SI‖En‖Christmas‖
+*Z‖ciechanow‖SI‖En‖Ciechanów‖
+*Z‖ciechanów‖SI‖En‖Ciechanów‖
 ZC*‖cracow‖SI‖En‖Cracow‖
+*Z‖czestochow‖SI‖En‖Częstochow‖
+*Z‖częstochow‖SI‖En‖Częstochow‖
 ZC*‖december‖SI‖En‖December‖
 *Z‖dubai‖SI‖En‖Dubai‖
 Z‖dutch‖SI‖En‖Dutch‖
@@ -63,18 +67,23 @@ Z*‖italy‖SI‖En‖Italy‖
 ZC*‖january‖SI‖En‖January‖
 ZC*‖july‖SI‖En‖July‖
 ZC*‖june‖SI‖En‖June‖
+*Z‖kielc‖SI‖En‖Kielc‖
 ZC*‖koln‖SI‖En‖Köln‖
 *Z‖korea‖SI‖En‖Korea‖
 Z*‖lithuania‖SI‖En‖Lithuania‖
 *Z‖maastricht‖SI‖En‖Maastricht‖
+*Z‖malbork‖SI‖En‖Malbork‖
 *Z‖malesia‖SI‖En‖Malesia‖
 Z*‖mexico‖SI‖En‖Mexico‖
 ZC*‖monday‖SI‖En‖Monday‖
+*Z‖montreal‖SI‖En‖Montreal‖
+*Z‖nasielsk‖SI‖En‖Nasielsk‖
 Z*‖netherlands‖SI‖En‖Netherlands‖
 ZC*‖north‖SI‖En‖North‖
 Z*‖norway‖SI‖En‖Norway‖
 ZC*‖november‖SI‖En‖November‖
 ZC*‖october‖SI‖En‖October‖
+*Z‖olsztyn‖SI‖En‖Olsztyn‖
 *Z‖orebic‖SI‖En‖Orebić‖
 *Z‖pacific‖SI‖En‖Pacific‖
 Z*‖panama‖SI‖En‖Panama‖
@@ -88,6 +97,8 @@ ZC*‖przymorze‖SI‖En‖Przymorze‖
 ZC*‖romania‖SI‖En‖Romania‖
 ZC*‖saturday‖SI‖En‖Saturday‖
 ZC*‖september‖SI‖En‖September‖
+*Z‖skarzysko-kamienn‖SI‖En‖Skarżysko-Kamienn‖
+*Z‖skarżysko-kamienn‖SI‖En‖Skarżysko-Kamienn‖
 ZC*‖slavic‖SI‖En‖Slavic‖
 Z*‖slovakia‖SI‖En‖Slovakia‖
 Z*C‖sopot‖SI‖En‖Sopot‖
@@ -111,6 +122,7 @@ ZC‖usa‖SI‖En‖USA‖
 Z*‖usa/‖SI‖En‖United States of America‖
 ZC‖usd‖SI‖En‖USD‖
 Z*C‖waddinxveen‖SI‖En‖Waddinxveen‖
+*Z‖warsaw‖SI‖En‖Warsaw‖
 Z*C‖wednesday‖SI‖En‖Wednesday‖
 ZC*‖west‖SI‖En‖West‖
 *Z‖wimbledon‖SI‖En‖Wimbledon‖
