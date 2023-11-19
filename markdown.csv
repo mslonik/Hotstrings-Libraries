@@ -10,6 +10,7 @@ Notes:		Prepared according to GitHub requirements.
 Example:		mdquoting/ → > text
 */
 
+*Z‖mdbold/‖SI‖En‖**text**‖
 Z*‖mdcollapse/‖CL‖En‖<details>`n	<summary>Header collapsible</summary>`n	…`n</details>‖
 Z*‖mdcolor/‖MSI‖En‖hex color: `{#}0969DA`¦RGB color: `rgb(9, 105, 218)`‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdcomment/‖SI‖En‖<{!}-- This content will not appear in the rendered Markdown -->‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
@@ -18,6 +19,7 @@ Z*‖mdfootnote/‖SI‖En‖Here is a simple footnote[{^}1].`n`nA footnote can 
 Z*‖mdheadings/‖MSI‖En‖{#} The largest heading¦{#}{#} The second largest heading¦{#}{#}{#} The third largest heading¦{#}{#}{#}{#} The fourth largest heading¦{#}{#}{#}{#}{#}{#} The smallest heading‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdhelp/‖MSI‖En‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax¦https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables‖
 Z*‖mdimage/‖MSI‖En‖{!}[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)¦{!}[Text on the picture](pictures\Help.png)‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*Z‖mditalic/‖SI‖En‖*text*‖
 Z*‖mdlink/‖SI‖En‖This site was built using [GitHub Pages](https://pages.github.com/).‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdlists/‖MSI‖En‖- George Washington`n- John Adams`n- Thomas Jefferson¦1. James Madison`n2. James Monroe`n3. John Quincy Adams¦1. First list item`n   - First nested list item`n     - Second nested list item‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdnewline/‖SI‖En‖ <br />‖

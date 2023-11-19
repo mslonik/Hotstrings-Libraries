@@ -29,9 +29,9 @@ Examples:	     Text f18/ entered in currently active window calls F18 funciton k
 ?*Z‖context/‖SI‖En‖{appskey}‖
 ?*Z‖control/‖SI‖En‖{control}‖
 ?*Z‖csbracket/‖SI‖En‖]‖
+?*Z‖ctrd/‖SI‖En‖{control down}‖
 *Z‖ctrl/‖SI‖En‖{LControl Down}{LControl Up}‖
 *Z‖ctrr/‖SI‖En‖{RControl Down}{RControl Up}‖
-?*Z‖ctrd/‖SI‖En‖{control down}‖
 ?*Z‖ctru/‖SI‖En‖{control up}‖
 ?*Z‖dash/‖SI‖En‖-‖
 ?Z*‖delete/‖SI‖En‖{delete}‖
@@ -44,54 +44,54 @@ Examples:	     Text f18/ entered in currently active window calls F18 funciton k
 ?*Z‖equal/‖SI‖En‖=‖
 ?Z*‖esc/‖SI‖En‖{esc}‖
 ?*Z‖exclmark/‖SI‖En‖{!}‖
-?Z*‖f10/‖SI‖En‖{F10}‖
-?Z*‖f11/‖SI‖En‖{F11}‖
-?Z*‖f12/‖SI‖En‖{F12}‖
-?Z*‖f13/‖SI‖En‖{F13}‖
-?Z*‖f14/‖SI‖En‖{F14}‖
-?Z*‖f15/‖SI‖En‖{F15}‖
-?Z*‖f16/‖SI‖En‖{F16}‖
-?Z*‖f17/‖SI‖En‖{F17}‖
-?Z*‖f18/‖SI‖En‖{F18}‖
-?Z*‖f19/‖SI‖En‖{F19}‖
-?Z*‖f1/‖SI‖En‖{F1}‖
-?Z*‖f20/‖SI‖En‖{F20}‖
-?Z*‖f21/‖SI‖En‖{F21}‖
-?Z*‖f22/‖SI‖En‖{F22}‖
-?Z*‖f23/‖SI‖En‖{F23}‖
-?Z*‖f24/‖SI‖En‖{F24}‖
-?Z*‖f2/‖SI‖En‖{F2}‖
-?Z*‖f3/‖SI‖En‖{F3}‖
-?Z*‖f4/‖SI‖En‖{F4}‖
-?Z*‖f5/‖SI‖En‖{F5}‖
-?Z*‖f6/‖SI‖En‖{F6}‖
-?Z*‖f7/‖SI‖En‖{F7}‖
-?Z*‖f8/‖SI‖En‖{F8}‖
-?Z*‖f9/‖SI‖En‖{F9}‖
-Z‖f10‖SI‖En‖F10‖
-Z‖f11‖SI‖En‖F11‖
-Z‖f12‖SI‖En‖F12‖
-Z‖f13‖SI‖En‖F13‖
-Z‖f14‖SI‖En‖F14‖
-Z‖f15‖SI‖En‖F15‖
-Z‖f16‖SI‖En‖F16‖
-Z‖f17‖SI‖En‖F17‖
-Z‖f18‖SI‖En‖F18‖
-Z‖f19‖SI‖En‖F19‖
 Z‖f1‖SI‖En‖F1‖
-Z‖f20‖SI‖En‖F20‖
-Z‖f21‖SI‖En‖F21‖
-Z‖f22‖SI‖En‖F22‖
-Z‖f23‖SI‖En‖F23‖
-Z‖f24‖SI‖En‖F24‖
+?Z*‖f1/‖SI‖En‖{F1}‖
+Z‖f10‖SI‖En‖F10‖
+?Z*‖f10/‖SI‖En‖{F10}‖
+Z‖f11‖SI‖En‖F11‖
+?Z*‖f11/‖SI‖En‖{F11}‖
+Z‖f12‖SI‖En‖F12‖
+?Z*‖f12/‖SI‖En‖{F12}‖
+Z‖f13‖SI‖En‖F13‖
+?Z*‖f13/‖SI‖En‖{F13}‖
+Z‖f14‖SI‖En‖F14‖
+?Z*‖f14/‖SI‖En‖{F14}‖
+Z‖f15‖SI‖En‖F15‖
+?Z*‖f15/‖SI‖En‖{F15}‖
+Z‖f16‖SI‖En‖F16‖
+?Z*‖f16/‖SI‖En‖{F16}‖
+Z‖f17‖SI‖En‖F17‖
+?Z*‖f17/‖SI‖En‖{F17}‖
+Z‖f18‖SI‖En‖F18‖
+?Z*‖f18/‖SI‖En‖{F18}‖
+Z‖f19‖SI‖En‖F19‖
+?Z*‖f19/‖SI‖En‖{F19}‖
 Z‖f2‖SI‖En‖F2‖
+?Z*‖f2/‖SI‖En‖{F2}‖
+Z‖f20‖SI‖En‖F20‖
+?Z*‖f20/‖SI‖En‖{F20}‖
+Z‖f21‖SI‖En‖F21‖
+?Z*‖f21/‖SI‖En‖{F21}‖
+Z‖f22‖SI‖En‖F22‖
+?Z*‖f22/‖SI‖En‖{F22}‖
+Z‖f23‖SI‖En‖F23‖
+?Z*‖f23/‖SI‖En‖{F23}‖
+Z‖f24‖SI‖En‖F24‖
+?Z*‖f24/‖SI‖En‖{F24}‖
 Z‖f3‖SI‖En‖F3‖
+?Z*‖f3/‖SI‖En‖{F3}‖
 Z‖f4‖SI‖En‖F4‖
+?Z*‖f4/‖SI‖En‖{F4}‖
 Z‖f5‖SI‖En‖F5‖
+?Z*‖f5/‖SI‖En‖{F5}‖
 Z‖f6‖SI‖En‖F6‖
+?Z*‖f6/‖SI‖En‖{F6}‖
 Z‖f7‖SI‖En‖F7‖
+?Z*‖f7/‖SI‖En‖{F7}‖
 Z‖f8‖SI‖En‖F8‖
+?Z*‖f8/‖SI‖En‖{F8}‖
 Z‖f9‖SI‖En‖F9‖
+?Z*‖f9/‖SI‖En‖{F9}‖
 ?*Z‖five/‖SI‖En‖5‖
 ?*Z‖four/‖SI‖En‖4‖
 ?*Z‖greaterthan/‖SI‖En‖>‖
@@ -108,7 +108,7 @@ Z‖f9‖SI‖En‖F9‖
 ?Z*‖numlock/‖SI‖En‖{NumLock}‖
 ?*Z‖obracket/‖SI‖En‖(‖
 ?*Z‖ocbracket/‖SI‖En‖{{}‖
-?*Z‖one/‖SI‖En‖1‖
+?*Z‖one/‖SI‖Dis‖1‖
 ?*Z‖osbracket/‖SI‖En‖[‖
 ?Z*‖pause/‖SI‖En‖{Pause}‖
 ?*Z‖percent/‖SI‖En‖%‖
@@ -136,6 +136,6 @@ Z‖f9‖SI‖En‖F9‖
 ?*Z‖up/‖SI‖En‖{Up}‖
 ?*Z‖verticalbar/‖SI‖En‖|‖
 ?*Z‖wind/‖SI‖En‖{lwin down}‖
-?*Z‖winu/‖SI‖En‖{lwin up}‖
 ?*Z‖windows/‖SI‖En‖{lwin}‖
+?*Z‖winu/‖SI‖En‖{lwin up}‖
 ?*Z‖zero/‖SI‖En‖0‖

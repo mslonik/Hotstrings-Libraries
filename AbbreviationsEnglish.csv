@@ -159,6 +159,8 @@ Z‖cto‖SI‖En‖CTO‖
 *Z‖cto/‖SI‖En‖Chief Technical Officer‖
 Z‖cv‖SI‖En‖CV‖course of life
 Z‖cv/‖SI‖En‖Curriculum Vitae‖
+Z‖cwd‖SI‖En‖CWD‖
+*Z‖cwd/‖SI‖En‖Current Working Directory‖
 Z‖daas‖SI‖En‖DaaS‖
 *Z‖daas/‖SI‖En‖Data as a Service‖
 *Z‖dam/‖SI‖En‖Digital Asset Management‖
@@ -311,9 +313,9 @@ Z‖ftp‖SI‖En‖FTP‖
 *Z‖ftp/‖SI‖En‖File Ttransfer Protocol‖https://en.wikipedia.org/wiki/File_Transfer_Protocol
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z‖ga‖SI‖En‖GA‖
-*Z‖ga/‖MSI‖En‖Generic Application¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: personal computer (hardware & software) where operating system is installed without any user specific / application software.‖
+*Z‖ga/‖MSI‖En‖Generic Application¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: personal computer (hardware & software) where operating system is installed without any user specific / application software.¦Aplikacja Ogólna‖
 Z‖gdpr‖SI‖En‖GDPR‖
-Z*‖gdpr/‖SI‖En‖General Data Protection Regulation‖
+*Z‖gdpr/‖MSI‖En‖General Data Protection Regulation¦Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to processing of personal data and the free movement of that data‖
 Z‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
 Z*‖gmt/‖MSI‖En‖Greenwich Mean Time¦Poland: GMT + 01:00¦Polska: GMT + 01:00‖
 Z‖gnu‖SI‖En‖GNU‖https://en.wikipedia.org/wiki/GNU
@@ -388,6 +390,8 @@ Z‖isp‖SI‖En‖ISP‖
 Z*‖isp/‖SI‖En‖Internet Service Provider‖
 Z‖isv‖SI‖En‖ISV‖
 *Z‖isv/‖SI‖En‖Independent Software Vendor‖
+Z‖itil‖SI‖En‖ITIL‖
+*Z‖itil/‖SI‖En‖Information Technology Infrastructure Library‖https://www.itlibrary.org/
 Z*‖javascript‖SI‖En‖JavaScript‖
 Z‖json‖SI‖En‖JSON‖
 Z*‖json/‖SI‖En‖JavaScript Object Notation‖
@@ -417,6 +421,8 @@ Z‖lgbt‖SI‖En‖LGBT‖
 Z*‖lgbt/‖SI‖En‖Lesbian Gay Bisexual Transgender‖
 Z‖llc‖SI‖En‖LLC‖
 *Z‖llc/‖MSI‖En‖Life Cycle Cost¦Limited Liability Company‖
+Z‖llm‖SI‖En‖LLM‖
+*Z‖llm/‖SI‖En‖Large Language Model‖
 Z‖lms‖SI‖En‖LMS‖https://en.wikipedia.org/wiki/Learning_management_system
 Z*‖lms/‖SI‖En‖Learning Management System‖
 Z‖lnd‖SI‖En‖L&D‖
@@ -514,7 +520,7 @@ Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
 Z‖osh‖SI‖En‖OSH‖
 *Z‖osh/‖SI‖En‖Occupational Safety and Health‖
-Z‖osi‖SI‖En‖OSI‖
+Z‖osi‖SI‖Dis‖OSI‖
 *Z‖osi/‖SI‖En‖Open Source Initiative‖
 *Z‖osi`n‖SI‖En‖Open Systems Interconnection model‖https://en.wikipedia.org/wiki/OSI_model
 *Z‖osi`t‖SI‖En‖OSI‖
@@ -574,6 +580,8 @@ Z‖ptfe‖SI‖En‖PTFE‖
 *Z‖ptfe/‖SI‖En‖polytetrafluoroethylene‖https://en.wikipedia.org/wiki/Polytetrafluoroethylene
 Z‖puk‖SI‖En‖PUK‖
 Z*‖puk/‖SI‖En‖PIN Unlock Key‖
+Z‖pwa‖SI‖En‖PWA‖
+*Z‖pwa/‖MSI‖En‖Progressive Web App¦type of application software delivered through the web, built using common web technologies incuding HTML, CSS, JavaScript and WebAssembly.‖
 Z‖pwm‖SI‖En‖PWM‖
 Z*‖PWM/‖SI‖En‖Pulse-Width Modulation‖
 Z‖qhsee‖SI‖En‖QHSEE‖
@@ -639,7 +647,7 @@ Z‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
 Z‖rtf‖SI‖En‖RTF‖
 *Z‖rtf/‖SI‖En‖Revision Task Force‖
-*Z‖sa/‖MSI‖En‖Specific Application¦specific application¦specific application of generic product applicable for specific factors and requirements, suitable for a specific intended use. Example: personal computer (hardware & software) where besides operating system are installed user oriented applications and user oriented data.‖
+*Z‖sa/‖MSI‖En‖Specific Application¦specific application¦specific application of generic product applicable for specific factors and requirements, suitable for a specific intended use. Example: personal computer (hardware & software) where besides operating system are installed user oriented applications and user oriented data.¦Aplikacja Szczególna (SA)¦Aplikacji Szczególnej (SA)‖
 Z*‖sa`t‖SI‖En‖SA‖
 Z‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
@@ -683,6 +691,8 @@ Z‖so-dimm‖SI‖En‖SO-DIMM‖
 *Z‖so-dimm/‖SI‖En‖Small Outline DIMM‖
 Z‖soc‖SI‖En‖SoC‖
 *Z‖soc/‖SI‖En‖System on a Chip‖
+Z‖sos‖SI‖En‖SOS‖
+*Z‖sos/‖SI‖En‖Morse code distress signal (  ▄ ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄ ▄ )‖
 Z‖spd‖SI‖En‖SPD‖
 Z*‖spd/‖SI‖En‖Surge Protection Device‖
 Z‖spdt‖SI‖En‖SPDT‖https://en.wikipedia.org/wiki/Switch
@@ -694,7 +704,7 @@ Z‖spst‖SI‖En‖SPST‖
 Z‖sql‖SI‖En‖SQL‖
 Z*‖sql/‖CL‖En‖Structured Query Language‖
 Z‖srac‖SI‖En‖SRAC‖Source: 3.75 → EN 50126-1:2017 (E)
-*Z‖srac/‖MCL‖En‖Safety Related Application Condition¦Those conditions which need to be met in order for a system to be safely integrated and safely operated. Note 1 to entry: Application conditions can for example be: operational restrictions (e.g. speed limit, maximum duration of use), operational rules, maintenance restrictions (e.g. requested maintenance intervals) or environmental conditions.¦warunki zastosowania związane z bezpieczeństwem‖
+*Z‖srac/‖MSI‖En‖Safety Related Application Condition¦Those conditions which need to be met in order for a system to be safely integrated and safely operated. Note 1 to entry: Application conditions can for example be: operational restrictions (e.g. speed limit, maximum duration of use), operational rules, maintenance restrictions (e.g. requested maintenance intervals) or environmental conditions.¦warunki zastosowania związane z bezpieczeństwem (SRAC)‖
 Z‖ssh‖SI‖En‖SSH‖
 Z*‖ssh/‖MSI‖En‖Secure Shell¦a cryptographic network protocol for operating network services securely over an unsecured network‖
 Z‖ssid‖SI‖En‖SSID‖
@@ -782,6 +792,7 @@ Z‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL
 Z*‖url/‖SI‖En‖Uniform Resource Locator‖
 Z‖usb‖SI‖En‖USB‖
 Z*‖usb/‖CL‖En‖Universal Serial Bus‖
+*Z‖usd/‖SI‖En‖United States Dollar‖
 Z‖usp‖SI‖En‖USP‖
 Z*‖usp/‖SI‖En‖Unique Selling Point‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z‖utc‖SI‖En‖UTC‖https://en.wikipedia.org/wiki/Network_Time_Protocol
@@ -790,6 +801,8 @@ Z‖utf‖SI‖En‖UTF‖
 Z*‖utf/‖CL‖En‖Unicode Transformation Format‖
 Z‖uv‖SI‖En‖UV‖
 Z*‖uv/‖SI‖En‖Ultraviolet form of electromagetic radiation, shorter than that of visible light, but longer than X-rays.‖https://en.wikipedia.org/wiki/Ultraviolet
+Z‖uwp‖SI‖En‖UWP‖
+*Z‖uwp/‖MSI‖En‖Universal Windows Platform¦computing platform created by Microsoft to help develop universal apps that run on Windows 10, Windows 11, xbox One, etc. without the need to be rewritten for each.‖
 Z‖ux‖SI‖En‖UX‖
 Z*‖ux/‖CL‖En‖User Experience‖
 *Z‖var/‖SI‖En‖Video Assistant Referee‖

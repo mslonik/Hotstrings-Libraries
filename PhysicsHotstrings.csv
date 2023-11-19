@@ -18,7 +18,7 @@ Z*‖+-‖CL‖En‖±‖
 Z*‖-'t‖MSI‖En‖-¦−¦–¦—‖U+2010, U+2212, U+2013, U+2014
 Z*‖-+‖CL‖En‖±‖
 ?Z‖--‖SI‖Dis‖–‖
-*Z‖->‖MSI‖En‖→¦←¦↔¦↓¦↑‖
+*Z‖->‖MSI‖En‖→¦←¦↔¦↓¦↑¦⮂‖
 Z*‖/=‖CL‖En‖≠‖
 Z*‖<=‖CL‖En‖≤‖
 Z*‖>=‖CL‖En‖≥‖
@@ -34,7 +34,11 @@ Z*?‖deg/‖CL‖En‖°‖
 Z*‖diameter/‖SI‖En‖Ø‖U+00D8
 Z*‖euro/‖CL‖En‖€‖
 Z*‖exponent/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
+Z‖gb‖SI‖En‖GB‖
+*Z‖gb/‖MSI‖En‖gigabyte¦10⁹ = 1000³‖
 Z‖Ghz‖SI‖En‖GHz‖
+Z‖gIb‖SI‖En‖GiB‖
+*Z‖gIb/‖MSI‖En‖gibibyte¦2³⁰ = 1024³‖
 Z‖hz‖SI‖En‖Hz‖
 Z‖infinity‖SI‖En‖∞‖
 Z‖kamp‖CL‖En‖kA‖
@@ -51,7 +55,9 @@ Z*‖m2‖SI‖En‖m²‖
 Z*‖m3‖SI‖En‖m³‖
 Z‖mah‖SI‖En‖mAh‖
 Z*‖mamp‖CL‖En‖mA‖
+Z‖mb‖SI‖En‖MB‖
 Z‖mhz‖SI‖En‖MHz‖
+Z‖mib‖SI‖En‖MiB‖
 Z*‖minusplus‖CL‖En‖±‖
 C1Z‖mj‖SI‖En‖MJ‖
 Z*‖mkropka‖MSI‖En‖·¦×‖U+00B7 | U+00D7
@@ -79,6 +85,10 @@ Z*‖stopc/‖CL‖En‖°‖
 *?Z‖superscript3/‖MSI‖En‖ⁿ¦ⁱ‖
 *?Z‖superscripti/‖SI‖En‖ⁱ‖
 *?Z‖superscriptn/‖SI‖En‖ⁿ‖
+Z‖tb‖SI‖En‖TB‖
+*Z‖tb/‖MSI‖En‖terabyte¦10¹² = 1000⁴‖
+Z‖tib‖SI‖En‖TiB‖
+*Z‖tib/‖MSI‖En‖tebibyte¦2⁴⁰ = 1024⁴‖
 Z‖va‖SI‖En‖VA‖UPS capacity
 Z‖vac‖SI‖En‖V{U+00A0}AC‖
 Z*‖vdc‖SI‖En‖V{U+00A0}DC‖
