@@ -54,7 +54,7 @@ Z*‖gif/‖SI‖En‖Graphics Interchange Format‖
 Z‖mobi‖SI‖En‖MOBI‖
 *CZ‖mobi/‖SI‖En‖Kindle‖
 Z‖msi‖SI‖En‖MSI‖only for file extenstions
-*Z‖msi/‖SI‖En‖Windows Installer Package‖
+*Z‖msi/‖MSI‖En‖Windows Installer Package¦Microsoft Installer‖
 Z‖msix‖SI‖En‖MSIX‖
 *Z‖msix/‖SI‖En‖Windows app package format‖only for extensions
 Z‖odf‖SI‖En‖ODF‖

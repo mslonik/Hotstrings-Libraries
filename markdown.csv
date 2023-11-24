@@ -23,6 +23,7 @@ Z*‖mdimage/‖MSI‖En‖{!}[This is an image](https://myoctocat.com/assets/im
 Z*‖mdlink/‖SI‖En‖This site was built using [GitHub Pages](https://pages.github.com/).‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdlists/‖MSI‖En‖- George Washington`n- John Adams`n- Thomas Jefferson¦1. James Madison`n2. James Monroe`n3. John Quincy Adams¦1. First list item`n   - First nested list item`n     - Second nested list item‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdnewline/‖SI‖En‖ <br />‖
+*Z‖mdonline/‖SI‖En‖https://markdownlivepreview.com/‖
 Z*‖mdquoting/‖MSI‖En‖> text¦``single command``¦``````nBlock of code`n``````¦``````AutoHotkey`n`tFormatted block of code.`n``````‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdstyling/‖MSI‖En‖**bold**¦*italic*¦~~strikethrough~~¦<sub>subscript</sub>¦<sup>superscript</sup>‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdtable/‖SI‖En‖| Left-aligned | Center-aligned | Right-aligned |`n| :---         |     :---:      |          ---: |`n| git status   | git status     | git status    |`n| git diff     | git diff       | git diff      |‖https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organi

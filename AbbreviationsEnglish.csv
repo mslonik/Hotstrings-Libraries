@@ -34,7 +34,7 @@ Z*‖adhd/‖SI‖En‖Attention Deficit Hyperactivity Disorder‖https://en.wik
 Z‖aed‖SI‖En‖AED‖
 *Z‖aed/‖SI‖En‖Automated External Defibrillator‖https://en.wikipedia.org/wiki/Automated_external_defibrillator
 Z*‖afaik/‖CL‖En‖as far as I know‖
-*Z‖ahk/‖MSI‖En‖AutoHotkey¦https://github.com/mslonik¦https://www.autohotkey.com/docs/AutoHotkey.htm‖https://www.autohotkey.com/
+*Z‖ahk/‖MSI‖En‖AutoHotkey¦https://github.com/mslonik¦https://www.autohotkey.com/docs/AutoHotkey.htm¦https://www.autohotkey.com/boards/‖https://www.autohotkey.com/
 Z‖ai‖SI‖En‖AI‖
 *Z‖ai/‖SI‖En‖Artificial Inteligence‖
 Z‖aids‖SI‖En‖AIDS‖
@@ -72,6 +72,10 @@ Z‖awg‖SI‖En‖AWG‖
 Z*‖awg/‖SI‖En‖American Wire Gauge‖
 Z‖b2b‖SI‖En‖B2B‖
 Z*‖b2b/‖SI‖En‖Business-to-Business‖
+Z‖bbcode‖SI‖En‖BBCode‖
+*Z‖bbcode/‖SI‖En‖Bulletin Board Code‖
+Z‖bbs‖SI‖En‖BBS‖
+*Z‖bbs/‖SI‖En‖Bulletin Board System‖
 Z‖bi‖SI‖En‖BI‖
 *Z‖bi/‖MSI‖En‖Basic Integration¦Basic Integration / SIL0‖
 Z‖bios‖SI‖En‖BIOS‖
@@ -96,6 +100,8 @@ Z*‖can`t‖SI‖En‖CAN‖
 Z*‖cat/‖CL‖En‖Computer Assisted Translation‖https://en.wikipedia.org/wiki/Computer-assisted_translation
 *Z‖cat`n‖MSI‖En‖CAT¦Computer Assisted Translation¦🐈‖
 *OZ‖cat`t‖SI‖En‖CAT‖
+Z‖cbbs‖SI‖En‖CBBS‖
+*Z‖cbbs/‖SI‖En‖Computer Board Bulletin System‖
 Z*‖cc/‖MSI‖En‖CC0 (Creative Commons "No Rights Reserved")¦CC BY (Creative Commons Attribution)¦CC BY-SA (Creative Commons Attribution-ShareAlike)¦CC BY-NC (Creative Commons Attribution-NonCommercial)¦BY-NC-SA (Creative Commons NonCommercial-ShareAlike)¦BY-ND (Creative Commons Attribution-NoDerivatives)¦BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)‖https://en.wikipedia.org/wiki/Creative_Commons_license
 Z‖ccms‖SI‖En‖CCMS‖
 Z*‖ccms/‖SI‖En‖Component Content Management System‖
@@ -244,7 +250,7 @@ Z‖emea/‖SI‖En‖Europe, the Middle East and Africa‖
 Z‖emf‖SI‖En‖EMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖emf/‖CL‖En‖Enhanced Metafile‖
 Z‖emi‖SI‖En‖EMI‖
-Z*‖emi/‖CL‖En‖Electromagnetic Interference‖
+*Z‖emi/‖MSI‖En‖Electromagnetic Interference¦interferencje elektromagnetyczne‖
 Z‖emmc‖SI‖En‖eMMC‖
 *Z‖emmc/‖SI‖En‖embedded MMC‖
 Z‖ems‖SI‖En‖EMS‖
@@ -264,7 +270,7 @@ Z*‖ere/‖CL‖En‖Explicit Risk Estimation‖
 Z‖erp‖SI‖En‖ERP‖
 Z*‖erp/‖CL‖En‖Enterprise Resource Planning‖
 Z‖esd‖SI‖En‖ESD‖
-Z*‖esd/‖SI‖En‖Electro Static Discharge‖
+*Z‖esd/‖MSI‖En‖Electro Static Discharge¦wyładowania elektrostatyczne‖
 Z‖eta‖SI‖En‖ETA‖
 Z*‖eta/‖SI‖En‖Estimated Time to Arrival‖
 Z‖eto‖SI‖En‖ETO‖
@@ -281,6 +287,8 @@ Z‖faq‖SI‖En‖FAQ‖
 Z*‖faq/‖CL‖En‖Frequently Asked Questions‖
 Z*‖fat/‖CL‖En‖Factory Acceptance Test‖
 *Z‖fat`t‖SI‖En‖FAT‖
+Z‖fbi‖SI‖En‖FBI‖
+*Z‖fbi/‖SI‖En‖Federal Bureau of Investigation‖
 Z‖fbx‖SI‖En‖FBX‖
 Z*‖fbx/‖SI‖En‖(Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006‖
 Z‖fea‖SI‖En‖FEA‖https://en.wikipedia.org/wiki/LSD
@@ -313,7 +321,7 @@ Z‖ftp‖SI‖En‖FTP‖
 *Z‖ftp/‖SI‖En‖File Ttransfer Protocol‖https://en.wikipedia.org/wiki/File_Transfer_Protocol
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z‖ga‖SI‖En‖GA‖
-*Z‖ga/‖MSI‖En‖Generic Application¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: personal computer (hardware & software) where operating system is installed without any user specific / application software.¦Aplikacja Ogólna‖
+*Z‖ga/‖MSI‖En‖Generic Application (GA)¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: personal computer (hardware & software) where operating system is installed without any user specific / application software.¦Aplikacja Ogólna (GA)¦Aplikacji Ogólnej (GA)‖
 Z‖gdpr‖SI‖En‖GDPR‖
 *Z‖gdpr/‖MSI‖En‖General Data Protection Regulation¦Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to processing of personal data and the free movement of that data‖
 Z‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
@@ -739,7 +747,7 @@ Z*‖ted/‖SI‖En‖Technology Entertainment Design‖
 Z‖tedx‖SI‖En‖TEDx‖
 Z*‖tedx/‖SI‖En‖independent event similar to TED presentation‖
 Z‖tffr‖SI‖En‖TFFR‖
-Z*‖tffr/‖CL‖En‖Tolerable Functional Failure Rate‖
+*Z‖tffr/‖MSI‖En‖Tolerable Functional Failure Rate¦tolerowany wskaźnik awaryjności funkcjonalnej‖
 Z‖thr‖SI‖En‖THR‖
 Z*‖thr/‖MSI‖En‖Tolerable Hazard Rate¦współczynnik tolerowanego zagrożenia‖
 CZ‖tht‖SI‖En‖THT‖https://en.wikipedia.org/wiki/Through-hole_technology
@@ -777,7 +785,7 @@ Z‖uefi‖SI‖En‖UEFI‖
 Z‖ui‖SI‖En‖UI‖
 Z*‖ui/‖CL‖En‖User Interface‖
 Z‖uic‖SI‖En‖UIC‖https://uic.org/
-Z*‖uic/‖MCL‖En‖International Union of Railways¦French: Union internationale des chemins de fer‖
+*Z‖uic/‖MCL‖En‖International Union of Railways¦French: Union internationale des Chemins de fer¦Międzynarodowy Związek Kolei‖
 Z‖uml‖SI‖En‖UML‖
 *Z‖uml/‖MSI‖En‖Unified Modeling Language¦software modeling language‖
 Z‖un‖SI‖En‖UN‖

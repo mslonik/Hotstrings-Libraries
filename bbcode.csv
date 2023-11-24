@@ -1,0 +1,57 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Support entering BBCode at AutoHotkey forum. https://www.autohotkey.com/boards/
+
+Notes:		Documentation: https://www.autohotkey.com/boards/help/bbcode
+		All definitions are immediate (*) and all start with "bbc".
+
+Example:		bbcb → [b]text[/b]
+*/
+*Z‖bbca‖SI‖En‖[clyp]http://clyp.it/nyau5xjc[/clyp]{left 7}‖audio file
+*Z‖bbcb‖SI‖En‖[b]text[/b]{left 4}‖bold text
+*Z‖bbcbold‖SI‖En‖[b]text[/b]{left 4}‖bold text
+*Z‖bbccenter‖SI‖En‖[center]text[/center]{left 9}‖center text on screen
+*Z‖bbccode‖SI‖En‖[code]`n[/code]{left 8}‖code full
+*Z‖bbcdocs‖SI‖En‖[docs]MsgBox[/docs]{left 7}‖Links to a topic in the documentation
+*Z‖bbcfc‖MSI‖En‖[color=red]text[/color]{left 8}¦[color=#FF0000]text[/color]{left 8}‖font color
+*Z‖bbcfont‖SI‖En‖[font=Arial]text[/font]{left 7}‖change font
+*Z‖bbcfontcolor‖MSI‖En‖[color=red]text[/color]{left 8}¦[color=#FF0000]text[/color]{left 8}‖font color
+*Z‖bbcgist‖SI‖En‖[gist]gistnumber[/gist]{left 7}‖embedded gist
+*Z‖bbchorizontalline‖SI‖En‖[hr][/hr]‖horizontal line
+*Z‖bbchr‖SI‖En‖[hr][/hr]‖horizontal line
+*Z‖bbcic‖SI‖En‖[c]code[/c]{left 4}‖inline code
+*Z‖bbcim‖SI‖En‖[img]http://image_url[/img]{left 6}‖insert image
+*Z‖bbcindent‖SI‖En‖[indent=1]text[/indent]{left 9}‖indented text
+*Z‖bbcinlinecode‖SI‖En‖[c]code[/c]{left 4}‖inline code
+*Z‖bbcinsertimage‖SI‖En‖[img]http://image_url[/img]{left 6}‖insert image
+*Z‖bbcit‖SI‖En‖[i]text[/i]{left 4}‖italic text
+*Z‖bbcitalic‖SI‖En‖[i]text[/i]{left 4}‖italic text
+*Z‖bbckbd‖SI‖En‖[kbd]Ctrl[/kbd]{left 6}‖keyboard key
+*Z‖bbclb‖SI‖En‖[list]`n[*]text`n[/list]{left 8}‖list bulleted
+*Z‖bbcli‖SI‖En‖[*]text‖list item
+*Z‖bbclistbulleted‖SI‖En‖[list]`n[*]text`n[/list]{left 8}‖list bulleted
+*Z‖bbclistitem‖SI‖En‖[*]text‖list item
+*Z‖bbclyp‖SI‖En‖[clyp]http://clyp.it/nyau5xjc[/clyp]{left 7}‖audio file
+*Z‖bbcm‖SI‖En‖[mention][/mention]{left 10}‖mention
+*Z‖bbcola‖SI‖En‖[list=a]`n[*]Point a`n[/list]{left 8}‖ordered list alphabetical
+*Z‖bbcoln‖SI‖En‖[list=1]`n[*]First point`n[/list]{left 8}‖ordered list numbered
+*Z‖bbcorderedlistalphabetical‖SI‖En‖[list=a]`n[*]Point a`n[/list]{left 8}‖ordered list alphabetical
+*Z‖bbcorderedlistnumbered‖SI‖En‖[list=1]`n[*]First point`n[/list]{left 8}‖ordered list numbered
+*Z‖bbcq‖SI‖En‖[quote]`n[/quote]{left 9}‖quote
+*Z‖bbcquote‖SI‖En‖[quote]`n[/quote]{left 9}‖quote
+*Z‖bbcsec‖SI‖En‖[section id=section_ref_id]text here[/section]{left 10}‖section
+*Z‖bbcspoiler2‖SI‖En‖[spoiler2=title]text[/spoiler2]{left 11}‖title spoiler
+*Z‖bbcspoiler3‖SI‖En‖[spoiler3=title]text[/spoiler3]{left 11}‖onmouse spoiler
+*Z‖bbcspoilerm‖MSI‖En‖[spoiler]text[/spoiler]{left 10}¦[spoiler2=title]text[/spoiler2]{left 11}¦[spoiler3=title]text[/spoiler3]{left 11}‖spoiler menu
+*Z‖bbcspoilermouse‖SI‖En‖[spoiler3=title]text[/spoiler3]{left 11}‖onmouse spoiler
+*Z‖bbcspoilert‖SI‖En‖[spoiler]text[/spoiler]{left 10}‖spoiler menu
+*Z‖bbcspoilertitle‖SI‖En‖[spoiler2=title]text[/spoiler2]{left 11}‖title spoiler
+*Z‖bbcstrike‖MSI‖En‖[strike]text[/strike]{left 9}¦[s]text[/s]{left 4}‖strike text
+*Z‖bbcunderlinetext‖SI‖En‖[u]text[/u]{left 4}‖underline text
+*Z‖bbcurl‖SI‖En‖[url=http:/url]URL text[/url]‖URL = Uniform Resource Locator
+*Z‖bbcut‖SI‖En‖[u]text[/u]{left 4}‖underline text
+*Z‖bbcuunderline‖SI‖En‖[u]text[/u]{left 4}‖underline text
+*Z‖bbcyt‖MSI‖En‖[y2be]http://y2u.be[/y2be]{left 7}¦[youtube]http://www.youtube.com/watch?v=dQw4w9WgXc[/youtube]{left 10}‖YouTube links
