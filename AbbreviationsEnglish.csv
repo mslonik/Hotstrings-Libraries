@@ -49,7 +49,7 @@ Z‖alu‖SI‖En‖ALU‖
 Z‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
 Z‖api‖SI‖En‖API‖
-Z*‖api/‖CL‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
+*Z‖api/‖SI‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
 Z‖appdata‖SI‖En‖AppData‖
 Z‖ar‖SI‖En‖AR‖
 Z*‖ar/‖SI‖En‖Augmented Reality‖
@@ -67,7 +67,6 @@ Z‖atm‖SI‖En‖ATM‖
 *Z‖atm/‖SI‖En‖Automatic Teller Machine‖
 Z‖ato‖SI‖En‖ATO‖
 Z*‖av/‖SI‖En‖Availability‖
-Z*‖availability/‖SI‖En‖ability of a product to be in a state to perform a required function under given conditions at a given instant of time or over a given time interval assuming that the required external resources are provided.`n[SOURCE: IEC 62278:2002, 3.4]`n‖
 Z‖awg‖SI‖En‖AWG‖
 Z*‖awg/‖SI‖En‖American Wire Gauge‖
 Z‖b2b‖SI‖En‖B2B‖
@@ -588,6 +587,8 @@ Z‖ptfe‖SI‖En‖PTFE‖
 *Z‖ptfe/‖SI‖En‖polytetrafluoroethylene‖https://en.wikipedia.org/wiki/Polytetrafluoroethylene
 Z‖puk‖SI‖En‖PUK‖
 Z*‖puk/‖SI‖En‖PIN Unlock Key‖
+Z‖pvc‖SI‖En‖PVC‖
+*Z‖pvc/‖SI‖En‖Polivinyl chloride‖
 Z‖pwa‖SI‖En‖PWA‖
 *Z‖pwa/‖MSI‖En‖Progressive Web App¦type of application software delivered through the web, built using common web technologies incuding HTML, CSS, JavaScript and WebAssembly.‖
 Z‖pwm‖SI‖En‖PWM‖
@@ -621,14 +622,16 @@ Z‖rda‖SI‖En‖RDA‖
 Z*‖rda/‖SI‖En‖Robotics Desktop Automation‖
 Z‖rem‖SI‖En‖REM‖
 *Z‖rem/‖SI‖En‖Rapid Eye Movement‖
-Z‖rest‖SI‖En‖REST‖
 *Z‖rest/‖SI‖En‖REpresentational State Transfer‖https://en.wikipedia.org/wiki/Representational_state_transfer
+*Z‖rest`t‖SI‖En‖REST‖
 Z‖rfid‖SI‖En‖RFID‖
 Z*‖rfid/‖SI‖En‖Radio Frequency Identification‖
 Z‖rfp‖SI‖En‖RFP‖
 *Z‖rfp/‖SI‖En‖Request for Proposal‖
 Z‖rgb‖SI‖En‖RGB‖https://en.wikipedia.org/wiki/RGB_color_model
 Z*‖rgb/‖SI‖En‖Red Green Blue‖
+Z‖rip‖SI‖En‖RIP‖
+*Z‖rip/‖SI‖En‖Rest In Peace‖
 Z‖risc‖SI‖En‖RISC‖
 *Z‖risc/‖SI‖En‖Reduced Instruction Set Computer‖
 Z‖rma‖SI‖En‖RMA‖
@@ -655,7 +658,7 @@ Z‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
 Z‖rtf‖SI‖En‖RTF‖
 *Z‖rtf/‖SI‖En‖Revision Task Force‖
-*Z‖sa/‖MSI‖En‖Specific Application¦specific application¦specific application of generic product applicable for specific factors and requirements, suitable for a specific intended use. Example: personal computer (hardware & software) where besides operating system are installed user oriented applications and user oriented data.¦Aplikacja Szczególna (SA)¦Aplikacji Szczególnej (SA)‖
+*Z‖sa/‖MSI‖En‖Specific Application (SA)¦specific application¦specific application of generic product applicable for specific factors and requirements, suitable for a specific intended use. Example: personal computer (hardware & software) where besides operating system are installed user oriented applications and user oriented data.¦Aplikacja Szczególna (SA)¦Aplikacji Szczególnej (SA)‖
 Z*‖sa`t‖SI‖En‖SA‖
 Z‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
@@ -721,6 +724,8 @@ Z‖ssl‖SI‖En‖SSL‖
 Z*‖ssl/‖SI‖En‖Secure Sockets Layer‖
 Z‖stem‖SI‖En‖STEM‖
 Z*‖stem/‖SI‖En‖Science Technology Engineering and Mathematics‖
+Z‖sti‖SI‖En‖STI‖
+*Z‖sti/‖SI‖En‖Sexually Transmitted Infection‖
 Z‖sup‖SI‖En‖SUP‖
 *Z‖sup/‖SI‖En‖Stand Up Paddle‖
 Z‖suv‖SI‖En‖SUV‖

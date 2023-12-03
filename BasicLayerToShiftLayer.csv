@@ -1,0 +1,33 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Auto replace characters from shift layer after double pressing of characters from the first layer.
+
+Notes:		
+
+Example:		–
+*/
+
+*?Z‖,`t`t‖SI‖En‖<‖
+*?Z‖'`t`t‖SI‖En‖"‖
+*?Z‖-`t`t‖SI‖En‖_‖
+*?Z‖.`t`t‖SI‖En‖>‖
+*?Z‖/`t`t‖SI‖En‖?‖
+*?Z‖0`t`t‖SI‖En‖)‖
+*?Z‖1`t`t‖SI‖En‖{!}‖
+*?Z‖2`t`t‖SI‖En‖@‖
+*?Z‖3`t`t‖SI‖En‖{#}‖
+*?Z‖4`t`t‖SI‖En‖$‖
+*?Z‖5`t`t‖SI‖En‖%‖
+*?Z‖6`t`t‖SI‖En‖{^}‖
+*?Z‖7`t`t‖SI‖En‖&‖
+*?Z‖8`t`t‖SI‖En‖*‖
+*?Z‖9`t`t‖SI‖En‖(‖
+*?Z‖;`t`t‖SI‖En‖:‖
+*?Z‖=`t`t‖SI‖En‖{+}‖
+*?Z‖[`t`t‖SI‖En‖{{}‖
+*?Z‖\`t`t‖SI‖En‖|‖
+*?Z‖]`t`t‖SI‖En‖{}}‖
+*?Z‖``t`t‖SI‖En‖~‖
