@@ -64,8 +64,12 @@ Z*‖siwz/‖CL‖En‖Specyfikacja Istotnych Warunków Zamówienia‖
 ZC‖skm‖MSI‖En‖SKM¦https://www.skm.pkp.pl/dla-pasazera/wyszukaj-polaczenie‖
 Z*‖skm/‖SI‖En‖Szybka Kolej Miejska‖
 *Z‖srk/‖MSI‖En‖(urządzenia) sterowania ruchem kolejowym¦urządzenia techniczne służące do`nsterowania ruchem kolejowym oraz zapewnienia`nwymaganego bezpieczeństwa i sprawności tego`nruchu`n[źródło: Ie-4 (WTB-E10)]¦Obejmuje urządzenia niezbędne do zapewnienia bezpieczeństwa oraz sterowania ruchem pociągów na sieci kolejowej, wraz z urządzeniami do zapewnienia komunikacji i oprogramowaniem urządzeń sterowania.‖
+Z‖ssp‖SI‖En‖SSP‖
+*C2Z‖ssp/‖SI‖En‖samoczynna sygnalizacja przejazdowa‖
 ZC‖ue‖SI‖En‖UE‖
 Z*‖ue/‖SI‖En‖Unia Europejska‖
+Z‖usg‖SI‖En‖USG‖
+*Z‖usg/‖SI‖En‖ultrasonografia‖
 ZC‖utk‖SI‖En‖UTK‖
 *Z‖utk/‖MSI‖En‖Urząd Transportu Kolejowego¦Office of Rail Transport‖
 ZC‖wtwio‖SI‖En‖WTWiO‖

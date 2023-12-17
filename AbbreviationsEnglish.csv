@@ -209,7 +209,7 @@ Z*‖dnd/‖SI‖En‖Drag&Drop‖
 Z‖dns‖SI‖En‖DNS‖https://en.wikipedia.org/wiki/Domain_Name_System
 Z‖dns/‖SI‖En‖Domain Name System‖https://www.ibm.com/pl-pl/products/requirements-management
 Z*‖doors/‖SI‖En‖ Dynamic Object Oriented Requirements System‖
-Z‖doors`t‖SI‖En‖IBM DOORS‖
+*Z‖doors`t‖SI‖En‖IBM DOORS‖
 *Z‖dora/‖SI‖En‖DevOps Research and Assessment‖
 Z‖dos‖SI‖En‖DoS‖
 Z*‖dos/‖SI‖En‖Denial of Service‖
@@ -319,8 +319,6 @@ Z‖frmcs‖SI‖En‖FRMCS‖
 Z‖ftp‖SI‖En‖FTP‖
 *Z‖ftp/‖SI‖En‖File Ttransfer Protocol‖https://en.wikipedia.org/wiki/File_Transfer_Protocol
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
-Z‖ga‖SI‖En‖GA‖
-*Z‖ga/‖MSI‖En‖Generic Application (GA)¦generische Anwendung¦product independent of application, fulfilling predefined boundary conditions, interfaces and functionality (black box). Example: personal computer (hardware & software) where operating system is installed without any user specific / application software.¦Aplikacja Ogólna (GA)¦Aplikacji Ogólnej (GA)‖
 Z‖gdpr‖SI‖En‖GDPR‖
 *Z‖gdpr/‖MSI‖En‖General Data Protection Regulation¦Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to processing of personal data and the free movement of that data‖
 Z‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
@@ -405,7 +403,7 @@ Z*‖json/‖SI‖En‖JavaScript Object Notation‖
 Z‖kerml‖SI‖En‖KerML‖
 *Z‖kerml/‖MSI‖En‖Kernel Modeling Language¦modeling language to create modeling languages‖
 Z‖kpi‖SI‖En‖KPI‖
-Z*‖kpi/‖CL‖En‖Key Performance Indicator‖
+*C2Z‖kpi/‖MSI‖En‖Key Performance Indicator¦kluczowy wskaźnik efektywności‖
 Z‖kvm‖SI‖En‖KVM‖
 *Z‖kvm/‖SI‖En‖Keyboard Video and Mouse (switch)‖
 Z‖l&d‖SI‖En‖L&D‖
@@ -658,8 +656,6 @@ Z‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
 Z‖rtf‖SI‖En‖RTF‖
 *Z‖rtf/‖SI‖En‖Revision Task Force‖
-*Z‖sa/‖MSI‖En‖Specific Application (SA)¦specific application¦specific application of generic product applicable for specific factors and requirements, suitable for a specific intended use. Example: personal computer (hardware & software) where besides operating system are installed user oriented applications and user oriented data.¦Aplikacja Szczególna (SA)¦Aplikacji Szczególnej (SA)‖
-Z*‖sa`t‖SI‖En‖SA‖
 Z‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
 Z‖sbc‖SI‖En‖SBC‖
@@ -684,7 +680,7 @@ Z‖seo‖SI‖En‖SEO‖
 Z*‖seo/‖SI‖En‖Search Engine Optimization‖
 Z‖sftp‖SI‖En‖SFTP‖
 *Z‖sftp/‖SI‖En‖SSH File Transfer Protocol‖https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
-Z‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confidence that a system will meet its specified safety functions with respect to systematic failures`n[SOURCE: IEC 62280:2014, 3.1.50]¦Safety Integrity Level‖
+Z‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confidence that a system will meet its specified safety functions with respect to systematic failures`n[SOURCE: IEC 62280:2014, 3.1.50]¦Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa‖
 Z*‖sil/‖MSI‖En‖Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa funkcjonalnego‖
 Z‖sim‖SI‖En‖SIM‖
 *Z‖sim/‖SI‖En‖Subscriber Identity Module‖
@@ -754,7 +750,7 @@ Z*‖tedx/‖SI‖En‖independent event similar to TED presentation‖
 Z‖tffr‖SI‖En‖TFFR‖
 *Z‖tffr/‖MSI‖En‖Tolerable Functional Failure Rate¦tolerowany wskaźnik awaryjności funkcjonalnej‖
 Z‖thr‖SI‖En‖THR‖
-Z*‖thr/‖MSI‖En‖Tolerable Hazard Rate¦współczynnik tolerowanego zagrożenia‖
+*Z‖thr/‖MSI‖En‖Tolerable Hazard Rate¦dopuszczalna intensywność zagrożeń`n[źródło: Ie-100a:2023 Tablica 3]‖
 CZ‖tht‖SI‖En‖THT‖https://en.wikipedia.org/wiki/Through-hole_technology
 *CZ‖tht/‖SI‖En‖Through-Hole Technology‖https://en.wikipedia.org/wiki/Through-hole_technology
 Z‖tls‖SI‖En‖TLS‖https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_

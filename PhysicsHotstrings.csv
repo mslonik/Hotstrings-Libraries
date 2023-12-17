@@ -34,6 +34,7 @@ Z*?‖deg/‖CL‖En‖°‖
 Z*‖diameter/‖SI‖En‖Ø‖U+00D8
 Z*‖euro/‖CL‖En‖€‖
 Z*‖exponent/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
+*Z‖fullhd‖SI‖En‖1920 px × 1080 px‖
 Z‖gb‖SI‖En‖GB‖
 *Z‖gb/‖MSI‖En‖gigabyte¦10⁹ = 1000³‖
 Z‖Ghz‖SI‖En‖GHz‖

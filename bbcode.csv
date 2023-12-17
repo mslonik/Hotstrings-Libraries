@@ -6,10 +6,11 @@ Author:		Maciej Słojewski (🐘), http://mslonik.pl
 Purpose:		Support entering BBCode at AutoHotkey forum. https://www.autohotkey.com/boards/
 
 Notes:		Documentation: https://www.autohotkey.com/boards/help/bbcode
-		All definitions are immediate (*) and all start with "bbc".
+All definitions are immediate (*) and all start with "bbc".
 
 Example:		bbcb → [b]text[/b]
 */
+
 *Z‖bbca‖SI‖En‖[clyp]http://clyp.it/nyau5xjc[/clyp]{left 7}‖audio file
 *Z‖bbcb‖SI‖En‖[b]text[/b]{left 4}‖bold text
 *Z‖bbcbold‖SI‖En‖[b]text[/b]{left 4}‖bold text
@@ -43,6 +44,7 @@ Example:		bbcb → [b]text[/b]
 *Z‖bbcq‖SI‖En‖[quote]`n[/quote]{left 9}‖quote
 *Z‖bbcquote‖SI‖En‖[quote]`n[/quote]{left 9}‖quote
 *Z‖bbcsec‖SI‖En‖[section id=section_ref_id]text here[/section]{left 10}‖section
+*Z‖bbcsize/‖SI‖En‖[size=120][/size]{left 7}‖font size in %, 20 to 200
 *Z‖bbcspoiler2‖SI‖En‖[spoiler2=title]text[/spoiler2]{left 11}‖title spoiler
 *Z‖bbcspoiler3‖SI‖En‖[spoiler3=title]text[/spoiler3]{left 11}‖onmouse spoiler
 *Z‖bbcspoilerm‖MSI‖En‖[spoiler]text[/spoiler]{left 10}¦[spoiler2=title]text[/spoiler2]{left 11}¦[spoiler3=title]text[/spoiler3]{left 11}‖spoiler menu

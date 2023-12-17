@@ -1,5 +1,6 @@
 ﻿Z‖act‖SI‖En‖ACT‖
 *Z‖act/‖SI‖En‖Activity Diagram‖
+*Z‖act`t‖SI‖En‖ACT‖
 Z‖bdd‖SI‖En‖BDD‖
 *Z‖bdd/‖SI‖En‖Block Definition Diagram‖
 *Z‖behaviordiagrams/‖SI‖En‖Activity Diagram (act) {+} State Machine Diagram (stm) {+} Sequence Diagram (sd) {+} Use Case Diagram (uc)‖
