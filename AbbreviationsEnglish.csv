@@ -221,6 +221,8 @@ Z‖dsl‖SI‖En‖DSL‖https://en.wikipedia.org/wiki/Digital_subscriber_line
 Z*‖dsl/‖SI‖En‖Digital Subscriber Line‖
 Z‖dslr‖SI‖En‖DSLR‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z*‖dslr/‖SI‖En‖Digital Single-Lens Reflex camera‖
+Z‖dtd‖SI‖En‖DTD‖
+*Z‖dtd/‖SI‖En‖Document Type Definition‖
 Z‖dvd‖SI‖En‖DVD‖https://en.wikipedia.org/wiki/DVD
 Z*‖dvd/‖SI‖En‖Digital Versatile Disc‖
 Z‖dwg‖SI‖En‖DWG‖https://en.wikipedia.org/wiki/.dwg
@@ -398,8 +400,6 @@ Z‖isv‖SI‖En‖ISV‖
 Z‖itil‖SI‖En‖ITIL‖
 *Z‖itil/‖SI‖En‖Information Technology Infrastructure Library‖https://www.itlibrary.org/
 Z*‖javascript‖SI‖En‖JavaScript‖
-Z‖json‖SI‖En‖JSON‖
-Z*‖json/‖SI‖En‖JavaScript Object Notation‖
 Z‖kerml‖SI‖En‖KerML‖
 *Z‖kerml/‖MSI‖En‖Kernel Modeling Language¦modeling language to create modeling languages‖
 Z‖kpi‖SI‖En‖KPI‖
@@ -496,6 +496,8 @@ Z‖nda‖SI‖En‖NDA‖
 Z*‖nda/‖CL‖En‖Non-Disclosure Agreement‖
 Z‖nfc‖SI‖En‖NFC‖https://en.wikipedia.org/wiki/Near-field_communication
 Z*‖nfc/‖SI‖En‖Near-Field Communication‖
+Z‖ngo‖SI‖En‖NGO‖
+*Z‖ngo/‖SI‖En‖Nongovermental Organization‖
 Z*‖nic/‖SI‖En‖Network Interface Card‖
 Z*‖nic`t‖SI‖En‖NIC‖
 Z‖nkro‖SI‖En‖NKRO‖
@@ -514,6 +516,8 @@ Z‖oecd‖SI‖En‖OECD‖
 *Z‖oecd/‖SI‖En‖Organisation for Economic Co-operation and Development‖
 Z‖oem‖SI‖En‖OEM‖
 Z*‖oem/‖SI‖En‖Original Equipment Manufacturer‖
+Z‖ohs‖SI‖En‖OHS‖
+*Z‖ohs/‖SI‖En‖Occupational Health and Safety‖
 Z‖ohsas‖SI‖En‖OHSAS‖https://pl.wikipedia.org/wiki/OHSAS_18001
 Z*‖ohsas/‖SI‖En‖Occupational Health and Safety Assessment Series‖
 *Z‖ole/‖SI‖En‖Object Linking & Embedding‖
@@ -796,7 +800,7 @@ Z‖unc‖SI‖En‖UNC‖
 Z‖unicef‖SI‖En‖UNICEF‖
 *Z‖unicef/‖SI‖En‖United Nations International Children's Emergency Fund‖
 Z‖ups‖SI‖En‖UPS‖
-Z*‖ups/‖CL‖En‖Uninterruptable Power Supply‖
+*Z‖ups/‖MSI‖En‖Uninterruptable Power Supply¦zasilacz awaryjny‖
 Z‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL
 Z*‖url/‖SI‖En‖Uniform Resource Locator‖
 Z‖usb‖SI‖En‖USB‖
@@ -820,6 +824,8 @@ Z‖vat‖SI‖En‖VAT‖
 Z*‖vat/‖CL‖En‖Value Added Tax‖
 Z‖vba‖SI‖En‖VBA‖
 Z*‖vba/‖CL‖En‖Visual Basic for Applications‖
+Z‖vfs‖SI‖En‖VFS‖
+*Z‖vfs/‖SI‖En‖Virtual File System‖
 Z‖vga‖SI‖En‖VGA‖
 *Z‖vga/‖SI‖En‖Video Graphics Array‖
 Z‖vip‖SI‖En‖VIP‖

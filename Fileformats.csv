@@ -18,6 +18,7 @@ CB0?Z‖.epub‖SI‖En‖‖
 ZB0?‖.exe‖SI‖En‖‖
 ZB0?‖.fbx‖SI‖En‖‖only for file extensions
 ZB0?‖.gif‖SI‖En‖‖
+B0?Z‖.json‖SI‖En‖‖only for extensions
 CB0?Z‖.mobi‖SI‖En‖‖
 *B0?Z‖.msi‖SI‖En‖‖only for file extenstions
 B0?Z‖.msix‖SI‖En‖‖only for extensions
@@ -51,6 +52,8 @@ Z‖fbx‖SI‖En‖FBX‖
 Z*‖fbx/‖SI‖En‖(Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006‖
 Z‖gif‖SI‖En‖GIF‖
 Z*‖gif/‖SI‖En‖Graphics Interchange Format‖
+Z‖json‖SI‖En‖JSON‖
+Z*‖json/‖SI‖En‖JavaScript Object Notation‖
 Z‖mobi‖SI‖En‖MOBI‖
 *CZ‖mobi/‖SI‖En‖Kindle‖
 Z‖msi‖SI‖En‖MSI‖only for file extenstions
