@@ -247,7 +247,7 @@ Z‖elsa‖SI‖En‖ELSA‖
 Z‖emc‖SI‖En‖EMC‖
 Z*‖emc/‖CL‖En‖Electro-Magnetic Compatibility‖
 Z‖emea‖SI‖En‖EMEA‖
-Z‖emea/‖SI‖En‖Europe, the Middle East and Africa‖
+*Z‖emea/‖SI‖En‖Europe, the Middle East and Africa‖
 Z‖emf‖SI‖En‖EMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖emf/‖CL‖En‖Enhanced Metafile‖
 Z‖emi‖SI‖En‖EMI‖
@@ -397,6 +397,7 @@ Z‖isp‖SI‖En‖ISP‖
 Z*‖isp/‖SI‖En‖Internet Service Provider‖
 Z‖isv‖SI‖En‖ISV‖
 *Z‖isv/‖SI‖En‖Independent Software Vendor‖
+*Z‖it`t‖SI‖En‖IT‖
 Z‖itil‖SI‖En‖ITIL‖
 *Z‖itil/‖SI‖En‖Information Technology Infrastructure Library‖https://www.itlibrary.org/
 Z*‖javascript‖SI‖En‖JavaScript‖
@@ -801,6 +802,8 @@ Z‖unicef‖SI‖En‖UNICEF‖
 *Z‖unicef/‖SI‖En‖United Nations International Children's Emergency Fund‖
 Z‖ups‖SI‖En‖UPS‖
 *Z‖ups/‖MSI‖En‖Uninterruptable Power Supply¦zasilacz awaryjny‖
+Z‖uri‖SI‖En‖URI‖
+*C2Z‖uri/‖SI‖En‖uniform resource identifier‖
 Z‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL
 Z*‖url/‖SI‖En‖Uniform Resource Locator‖
 Z‖usb‖SI‖En‖USB‖
