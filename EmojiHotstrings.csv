@@ -44,6 +44,7 @@ Z*‖bicycle/‖MSI‖En‖🚲¦🚴¦🚵¦🚳‖
 *Z‖book/‖MSI‖En‖📚¦📕¦📖‖
 Z*‖box/‖SI‖En‖☐‖
 *Z‖brain/‖SI‖En‖🧠‖
+*Z‖bravo/‖SI‖En‖👏‖
 Z*‖brokenheart/‖SI‖En‖💔‖U+1F494
 Z*‖bug/‖SI‖En‖🐛‖U+1F41B
 Z*‖bulb/‖SI‖En‖💡‖
@@ -70,7 +71,9 @@ Z*‖cloud/‖MSI‖En‖🌩¦☁¦⛅¦⛈¦🌧¦🌥¦🌤‖
 Z*‖coffee/‖SI‖En‖☕‖U+2615
 *Z‖coffin/‖SI‖En‖⚰‖
 *Z‖coin/‖SI‖En‖🪙‖
+*Z‖cold/‖SI‖En‖🥶‖
 Z*‖comment/‖SI‖En‖🗫‖U+1F5EB
+*Z‖computer/‖SI‖En‖🖥‖
 *Z‖cookie/‖MSI‖En‖🍪¦🥠‖
 *Z‖cookies/‖SI‖En‖🍪🥠🍪‖
 Z*‖copyright/‖SI‖En‖©‖https://en.wikipedia.org/wiki/SCADA
@@ -128,6 +131,7 @@ Z*‖hospital/‖SI‖En‖🏥‖{U+1F3E5}
 *Z‖house/‖MSI‖En‖🏠¦🏡‖
 *Z‖houses/‖SI‖En‖🏘‖
 *CZ‖human/‖SI‖En‖🚹‖
+*Z‖ice/‖SI‖En‖🧊‖
 *Z‖ill/‖SI‖En‖🤒‖
 *Z‖issue/‖SI‖En‖💬‖
 Z*‖keyboard/‖SI‖En‖🖮‖
@@ -138,6 +142,8 @@ Z*‖keyboard/‖SI‖En‖🖮‖
 *Z‖lollipop/‖SI‖En‖🍭‖
 Z*‖male/‖SI‖En‖{U+2642}‖
 *Z‖man/‖SI‖En‖🚹🛉‖
+*Z‖math/‖SI‖En‖🧮‖
+*Z‖mathematics/‖SI‖En‖🧮‖
 *CZ‖meal/‖MSI‖En‖🍽¦🍴🍱‖
 *Z‖mermaid/‖SI‖En‖🧜‍♀️‖
 *Z‖mobilephone/‖SI‖En‖📱‖
@@ -166,7 +172,7 @@ Z*‖ops/‖SI‖En‖¯\_(ツ)_/¯‖
 *Z‖owl/‖SI‖En‖🦉‖
 Z*‖package/‖SI‖En‖📦‖U+1F4E6
 *Z‖parrot/‖SI‖En‖🦜‖
-Z*‖pc/‖SI‖En‖🖥‖
+*Z‖pc/‖MSI‖En‖🖥¦Personal Computer‖
 *Z‖peacock/‖SI‖En‖🦚‖
 *Z‖pedestrian/‖SI‖En‖🚶‖
 *Z‖penguin/‖SI‖En‖🐧‖
@@ -211,6 +217,7 @@ Z*C‖shower/‖SI‖En‖🚿‖
 *Z‖sloth/‖SI‖En‖🦥‖
 *Z‖smile/‖CL‖En‖🙂‖
 *Z‖smiletongue/‖SI‖En‖😜‖
+*Z‖smilewide/‖SI‖En‖😀‖
 *Z‖snail/‖SI‖En‖🐌‖
 *Z‖snake/‖SI‖En‖🐍‖
 Z*‖snow/‖SI‖En‖🌨‖

@@ -1,0 +1,10 @@
+﻿*Z‖obbg‖SI‖En‖===={left 2}‖
+*Z‖obblock‖SI‖En‖{^}block_id‖
+*Z‖obcallout‖MSI‖En‖> [{!}note]¦> [{!}warning]¦> [{!}info]¦> [{!}tip]¦> [{!}error]‖
+*Z‖obeblock‖SI‖En‖{!}[[{#} {^}]]{left 2}‖
+*Z‖obembed‖SI‖En‖{!}[[]]{left 2}‖
+*Z‖oblink‖SI‖En‖[[]]{left 2}‖
+*Z‖obrem‖SI‖En‖- [ ] This is a sample tsk with reminder (@).‖
+*Z‖obstrikethrough‖SI‖En‖~~~~{left 2}‖
+*Z‖obtag‖SI‖En‖{#}‖
+*Z‖obtask‖SI‖En‖- [ ]‖

@@ -230,6 +230,8 @@ Z*‖dwg/‖SI‖En‖Drawings binary file format‖
 Z‖dxf‖SI‖En‖DXF‖
 Z*‖dxf/‖SI‖En‖Drawing Exchange Format‖
 Z*‖dyi/‖SI‖En‖do it yourself‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
+Z‖e/e/pe‖SI‖En‖E/E/PE‖
+*Z‖e/e/pe/‖SI‖En‖electrical / electronic / programmable electronic‖
 *Z‖ea/‖SI‖En‖Enterprise architecture (EA) is a business function concerned with the structures and behaviors of a business, especially business roles and processes that create and use business data. The international definition according to the Federation of Enterprise Architecture Professional Organizations is "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a comprehensive approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes."‖https://en.wikipedia.org/wiki/Enterprise_architecture
 Z‖ecg‖SI‖En‖ECG‖
 *Z‖ecg/‖SI‖En‖ELectrocardiogram‖https://en.wikipedia.org/wiki/Electrocardiography
@@ -449,6 +451,8 @@ Z‖mbe‖SI‖En‖MBE‖
 *Z‖mbe/‖SI‖En‖Model Based Engineering‖
 Z‖mbse‖SI‖En‖MBSE‖
 *Z‖mbse/‖SI‖En‖Model Based System Engineering‖
+Z‖mbti‖SI‖En‖MBTI‖
+*Z‖mbti/‖MSI‖En‖Myers−Briggs Type Indicator¦ENTJ: extraversion (E), intuition (N), thinking (T), judgment (J)`nISFP: introversion (I), sensing (S), feeling (F), perception (P)‖
 Z‖md5‖SI‖En‖MD5‖https://en.wikipedia.org/wiki/MD5
 Z*‖md5/‖MSI‖En‖Message-Digest Algorithm¦hash function producing a 128-bit hash value‖
 Z‖mdt‖SI‖En‖MDT‖
@@ -584,6 +588,8 @@ Z‖pp‖SI‖En‖pp.‖
 *Z‖pp/‖MSI‖En‖Pair Programming¦per procurationem, on behalf of‖
 Z‖ppi‖SI‖En‖PPI‖
 Z*‖ppi/‖SI‖En‖Point Per Inch‖
+Z‖pri‖SI‖En‖PRI‖
+*Z‖pri/‖SI‖En‖Package Resource Index‖
 Z‖psi‖SI‖En‖PSI‖
 *Z‖psi/‖SI‖En‖Pound per Square Inch‖
 Z‖ptfe‖SI‖En‖PTFE‖
@@ -782,6 +788,8 @@ Z‖uac‖SI‖En‖UAC‖
 *Z‖uac/‖SI‖En‖User Account Control‖
 Z‖uaf‖SI‖En‖UAF‖Pendolino
 *Z‖uaf/‖SI‖En‖Unified Architecture Framework‖Pendolino
+Z‖uci‖SI‖En‖UCI‖
+*Z‖uci/‖SI‖En‖Union Cycliste Internationale‖
 Z‖udp‖SI‖En‖UDP‖
 *Z‖udp/‖SI‖En‖User Diagram Protocol‖
 Z‖uefa‖SI‖En‖UEFA‖
@@ -861,3 +869,11 @@ Z‖www‖SI‖En‖WWW‖
 Z*‖www/‖SI‖En‖World Wide Web‖
 Z‖wysiwyg‖SI‖En‖WYSIWYG‖
 Z*‖wysiwyg/‖SI‖En‖What You See Is What You Get‖1=U+00E5|2=U+00E4|3=U+00E2|4=U+00E0|5=U+00E1|6=U+0105|7=U+0101
+Z‖xl‖SI‖En‖XL‖
+*Z‖xl/‖SI‖En‖eXtra Large‖
+Z‖xxl‖SI‖En‖XXL‖
+*Z‖xxl/‖SI‖En‖2x eXtra Large‖
+Z‖xxxl‖SI‖En‖XXXL‖
+*Z‖xxxl/‖SI‖En‖3x eXtra Large‖
+Z‖yaml‖SI‖En‖YAML‖
+*Z‖yaml/‖SI‖En‖YAML Ain't Markup Language‖

@@ -13,6 +13,7 @@ ZC*‖alic‖SI‖En‖Alic‖
 *Z‖alkmaar‖SI‖En‖Alkmaar‖
 ZC*‖america‖SI‖En‖America‖
 ZC*‖april‖SI‖En‖April‖
+*CZ‖arabia‖SI‖En‖Arabia‖
 *Z‖arnhem‖SI‖En‖Arnhem‖
 Z*C‖august‖SI‖En‖August‖
 *Z‖austral‖SI‖En‖Austral‖
@@ -23,6 +24,7 @@ Z*‖baltic‖SI‖En‖Baltic‖
 Z*‖belgium‖SI‖En‖Belgium‖
 *Z‖berlin‖SI‖En‖Berlin‖
 ZC*‖brasil‖SI‖En‖Brasil‖
+*Z‖braunschweig‖SI‖En‖Braunschweig‖
 *Z‖brussels‖SI‖En‖Brussels‖
 ZC*‖bucharest‖SI‖En‖Bucharest‖
 *Z‖bydgoszcz‖SI‖En‖Bydgoszcz‖
@@ -38,6 +40,7 @@ ZC*‖cracow‖SI‖En‖Cracow‖
 ZC*‖december‖SI‖En‖December‖
 *Z‖dubai‖SI‖En‖Dubai‖
 Z‖dutch‖SI‖En‖Dutch‖
+CZ‖earth‖SI‖En‖Earth‖
 CZ‖east‖SI‖En‖East‖
 CZ‖easter‖SI‖En‖Easter‖
 ZC*‖egypt‖SI‖En‖Egypt‖
@@ -71,6 +74,7 @@ ZC*‖january‖SI‖En‖January‖
 Z‖java‖SI‖En‖Java‖
 ZC*‖july‖SI‖En‖July‖
 ZC*‖june‖SI‖En‖June‖
+*CZ‖jupiter‖SI‖En‖Jupiter‖
 *Z‖kielc‖SI‖En‖Kielc‖
 ZC*‖koln‖SI‖En‖Köln‖
 *Z‖korea‖SI‖En‖Korea‖
@@ -79,12 +83,15 @@ Z*‖lithuania‖SI‖En‖Lithuania‖
 *Z‖maastricht‖SI‖En‖Maastricht‖
 *Z‖malbork‖SI‖En‖Malbork‖
 *Z‖malesia‖SI‖En‖Malesia‖
+*CZ‖mars‖SI‖En‖Mars‖
+*CZ‖mercury‖SI‖En‖Mercury‖
 Z*‖mexico‖SI‖En‖Mexico‖
 ZC*‖monday‖SI‖En‖Monday‖
 *Z‖montreal‖SI‖En‖Montreal‖
 *Z‖nasielsk‖SI‖En‖Nasielsk‖
+*CZ‖neptune‖SI‖En‖Neptune‖
 Z*‖netherlands‖SI‖En‖Netherlands‖
-ZC*‖north‖SI‖En‖North‖
+CZ‖north‖SI‖En‖North‖
 Z*‖norway‖SI‖En‖Norway‖
 ZC*‖november‖SI‖En‖November‖
 ZC*‖october‖SI‖En‖October‖
@@ -95,19 +102,22 @@ Z*‖panama‖SI‖En‖Panama‖
 ZC*‖paris‖SI‖En‖Paris‖"peszel"
 *Z‖perth‖SI‖En‖Perth‖
 ZC‖pln‖SI‖En‖PLN‖
+*CZ‖pluto‖SI‖En‖Pluto‖
 ZC*‖poland‖CL‖En‖Poland‖
 ZC*‖polish‖CL‖En‖Polish‖
 ZC*‖posen‖SI‖En‖Posen‖
 ZC*‖przymorze‖SI‖En‖Przymorze‖
 ZC*‖romania‖SI‖En‖Romania‖
 ZC*‖saturday‖SI‖En‖Saturday‖
+*CZ‖saturn‖SI‖En‖Saturn‖
+*CZ‖saudi‖SI‖En‖Saudi‖
 ZC*‖september‖SI‖En‖September‖
 *Z‖skarzysko-kamienn‖SI‖En‖Skarżysko-Kamienn‖
 *Z‖skarżysko-kamienn‖SI‖En‖Skarżysko-Kamienn‖
 ZC*‖slavic‖SI‖En‖Slavic‖
 Z*‖slovakia‖SI‖En‖Slovakia‖
 Z*C‖sopot‖SI‖En‖Sopot‖
-ZC*‖south‖SI‖En‖South‖
+CZ‖south‖SI‖En‖South‖
 *Z‖spring‖SI‖En‖Spring‖
 *Z‖summer‖SI‖En‖Summer‖
 ZC*‖sunday‖SI‖En‖Sunday‖
@@ -123,13 +133,16 @@ Z‖torun‖SI‖En‖Toruń‖
 Z‖toruń‖SI‖En‖Toruń‖
 ZC*‖tuesday‖SI‖En‖Tuesday‖
 Z*‖tw/‖MSI‖En‖Trąbki Wielkie¦Trąbek Wielkich¦Trąbkom Wielkim¦Trąbkami Wielkimi¦Trąbkach Wielkich‖
+*CZ‖uranus‖SI‖En‖Uranus‖
 ZC‖usa‖SI‖En‖USA‖
 Z*‖usa/‖SI‖En‖United States of America‖
 ZC‖usd‖SI‖En‖USD‖
+*CZ‖venus‖SI‖En‖Venus‖
 Z*C‖waddinxveen‖SI‖En‖Waddinxveen‖
 *Z‖warsaw‖SI‖En‖Warsaw‖
 Z*C‖wednesday‖SI‖En‖Wednesday‖
-ZC*‖west‖SI‖En‖West‖
+CZ‖west‖SI‖En‖West‖
+*Z‖wigry‖SI‖En‖Wigry‖
 *Z‖wimbledon‖SI‖En‖Wimbledon‖
 *Z‖winter‖SI‖En‖Winter‖
 *Z‖wisł‖SI‖En‖Wisł‖
