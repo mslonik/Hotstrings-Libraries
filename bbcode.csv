@@ -14,13 +14,14 @@ Example:		bbcb → [b]text[/b]
 *Z‖bbca‖SI‖En‖[clyp]http://clyp.it/nyau5xjc[/clyp]{left 7}‖audio file
 *Z‖bbcb‖SI‖En‖[b]text[/b]{left 4}‖bold text
 *Z‖bbcbold‖SI‖En‖[b]text[/b]{left 4}‖bold text
+*Z‖bbccallout‖MSI‖En‖[color=red]text[/color]`n[quote]`n[/quote]¦[color=blue]text[/color]`n[quote]`n[/quote]¦[color=green]text[/color]`n[quote]`n[/quote]¦[color=orange]text[/color]`n[quote]`n[/quote]‖font color
 *Z‖bbccenter‖SI‖En‖[center]text[/center]{left 9}‖center text on screen
 *Z‖bbccode‖SI‖En‖[code]`n[/code]{left 8}‖code full
 *Z‖bbcdocs‖SI‖En‖[docs]MsgBox[/docs]{left 7}‖Links to a topic in the documentation
-*Z‖bbcfc‖MSI‖En‖[color=red]text[/color]{left 8}¦[color=#FF0000]text[/color]{left 8}‖font color
-*Z‖bbcfont‖SI‖En‖[font=Arial]text[/font]{left 7}‖change font
-*Z‖bbcfontcolor‖MSI‖En‖[color=red]text[/color]{left 8}¦[color=#FF0000]text[/color]{left 8}‖font color
+*Z‖bbcfc‖MSI‖En‖[color=red]text[/color]{left 8}¦[color=blue]text[/color]{left 8}¦[color=green]text[/color]{left 8}¦[color=orange]text[/color]{left 8}¦[color=#FF0000]text[/color]{left 8}‖font color
+*Z‖bbcfname‖SI‖En‖[font=Arial]text[/font]{left 7}‖change font name
 *Z‖bbcgist‖SI‖En‖[gist]gistnumber[/gist]{left 7}‖embedded gist
+*Z‖bbcheader‖MSI‖En‖[b][size=160][/size][/b]{left 11}¦[b][size=140][/size][/b]{left 11}¦[b][size=120][/size][/b]{left 11}‖font size in %, 20 to 200
 *Z‖bbchorizontalline‖SI‖En‖[hr][/hr]‖horizontal line
 *Z‖bbchr‖SI‖En‖[hr][/hr]‖horizontal line
 *Z‖bbcic‖SI‖En‖[c]code[/c]{left 4}‖inline code
@@ -37,14 +38,14 @@ Example:		bbcb → [b]text[/b]
 *Z‖bbclistitem‖SI‖En‖[*]text‖list item
 *Z‖bbclyp‖SI‖En‖[clyp]http://clyp.it/nyau5xjc[/clyp]{left 7}‖audio file
 *Z‖bbcm‖SI‖En‖[mention][/mention]{left 10}‖mention
-*Z‖bbcola‖SI‖En‖[list=a]`n[*]Point a`n[/list]{left 8}‖ordered list alphabetical
-*Z‖bbcoln‖SI‖En‖[list=1]`n[*]First point`n[/list]{left 8}‖ordered list numbered
-*Z‖bbcorderedlistalphabetical‖SI‖En‖[list=a]`n[*]Point a`n[/list]{left 8}‖ordered list alphabetical
-*Z‖bbcorderedlistnumbered‖SI‖En‖[list=1]`n[*]First point`n[/list]{left 8}‖ordered list numbered
+*Z‖bbcola‖MSI‖En‖[list=a]`n[*]Point a`n[/list]{left 8}¦[list=A]`n[*]Point a`n[/list]{left 8}‖ordered list alphabetical
+*Z‖bbcoln‖MSI‖En‖[list=1]`n[*]First point`n[/list]{left 8}¦[list=i]`n[*]First point`n[/list]{left 8}¦[list=|]`n[*]First point`n[/list]{left 8}‖ordered list numbered
+*Z‖bbcorderedlistalphabetical‖MSI‖En‖[list=a]`n[*]Point a`n[/list]{left 8}¦[list=A]`n[*]Point a`n[/list]{left 8}‖ordered list alphabetical
+*Z‖bbcorderedlistnumbered‖MSI‖En‖[list=1]`n[*]First point`n[/list]{left 8}¦[list=i]`n[*]First point`n[/list]{left 8}¦[list=|]`n[*]First point`n[/list]{left 8}‖ordered list numbered
 *Z‖bbcq‖SI‖En‖[quote]`n[/quote]{left 9}‖quote
 *Z‖bbcquote‖SI‖En‖[quote]`n[/quote]{left 9}‖quote
 *Z‖bbcsec‖SI‖En‖[section id=section_ref_id]text here[/section]{left 10}‖section
-*Z‖bbcsize/‖SI‖En‖[size=120][/size]{left 7}‖font size in %, 20 to 200
+*Z‖bbcsize‖MSI‖En‖[size=160][/size]{left 7}¦[size=140][/size]{left 7}¦[size=120][/size]{left 7}‖font size in %, 20 to 200
 *Z‖bbcspoiler2‖SI‖En‖[spoiler2=title]text[/spoiler2]{left 11}‖title spoiler
 *Z‖bbcspoiler3‖SI‖En‖[spoiler3=title]text[/spoiler3]{left 11}‖onmouse spoiler
 *Z‖bbcspoilerm‖MSI‖En‖[spoiler]text[/spoiler]{left 10}¦[spoiler2=title]text[/spoiler2]{left 11}¦[spoiler3=title]text[/spoiler3]{left 11}‖spoiler menu
