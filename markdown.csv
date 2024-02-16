@@ -10,7 +10,8 @@ Notes:		Prepared according to GitHub requirements.
 Example:		mdquoting/ → > text
 */
 
-*Z‖mdbold/‖SI‖En‖**text**‖
+*Z‖mdbold/‖SI‖En‖**text**{left 2}‖
+*Z‖mdcode/‖MSI‖En‖> text¦``single command``¦``````nBlock of code`n``````¦``````AutoHotkey`n`tFormatted block of code.`n``````‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdcollapse/‖CL‖En‖<details>`n	<summary>Header collapsible</summary>`n	…`n</details>‖
 Z*‖mdcolor/‖MSI‖En‖hex color: `{#}0969DA`¦RGB color: `rgb(9, 105, 218)`‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdcomment/‖SI‖En‖<{!}-- This content will not appear in the rendered Markdown -->‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
@@ -19,13 +20,16 @@ Z*‖mdfootnote/‖SI‖En‖Here is a simple footnote[{^}1].`n`nA footnote can 
 Z*‖mdheadings/‖MSI‖En‖{#} The largest heading¦{#}{#} The second largest heading¦{#}{#}{#} The third largest heading¦{#}{#}{#}{#} The fourth largest heading¦{#}{#}{#}{#}{#}{#} The smallest heading‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdhelp/‖MSI‖En‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax¦https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables‖
 Z*‖mdimage/‖MSI‖En‖{!}[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)¦{!}[Text on the picture](pictures\Help.png)‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
-*Z‖mditalic/‖SI‖En‖*text*‖
+*Z‖mditalic/‖SI‖En‖*text*{left}‖
 Z*‖mdlink/‖SI‖En‖This site was built using [GitHub Pages](https://pages.github.com/).‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdlists/‖MSI‖En‖- George Washington`n- John Adams`n- Thomas Jefferson¦1. James Madison`n2. James Monroe`n3. John Quincy Adams¦1. First list item`n   - First nested list item`n     - Second nested list item‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdnewline/‖SI‖En‖ <br />‖
 *Z‖mdonline/‖SI‖En‖https://markdownlivepreview.com/‖
 Z*‖mdquoting/‖MSI‖En‖> text¦``single command``¦``````nBlock of code`n``````¦``````AutoHotkey`n`tFormatted block of code.`n``````‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
-Z*‖mdstyling/‖MSI‖En‖**bold**¦*italic*¦~~strikethrough~~¦<sub>subscript</sub>¦<sup>superscript</sup>‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*Z‖mdstrikethrough/‖SI‖En‖~~strikethrough~~{left 2}‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*Z‖mdstyling/‖MSI‖En‖**bold**{left 2}¦*italic*{left}¦~~strikethrough~~{left 2}¦<sub>subscript</sub>{left 6}¦<sup>superscript</sup>{left 6}‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*Z‖mdsubscript/‖SI‖En‖<sub>subscript</sub>{left 7}‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*Z‖mdsuperscript/‖SI‖En‖<sup>superscript</sup>{left 6}‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdtable/‖SI‖En‖| Left-aligned | Center-aligned | Right-aligned |`n| :---         |     :---:      |          ---: |`n| git status   | git status     | git status    |`n| git diff     | git diff       | git diff      |‖https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organi
 *Z‖mdtablegenerator/‖SI‖En‖https://www.tablesgenerator.com/markdown_tables{#}‖
 *Z‖mdtoc/‖MSI‖En‖{#} Table of contents`n1. [Introduction]({#}introduction)`n2. [Some paragraph]({#}paragraph1)`n`t1. [Sub paragraph]({#}subparagraph1)`n3. [Another paragraph]({#}paragraph2)`n`n`n{#}{#} This is the introduction <a name="introduction"></a>`nSome introduction text, formatted in heading 2 style`n`n`n{#}{#} Some paragraph <a name="paragraph1"></a>`nThe first paragraph text`n`n{#}{#}{#} Sub paragraph <a name="subparagraph1"></a>`nThis is a sub paragraph, formatted in heading 3 style`n`n{#}{#} Another paragraph <a name="paragraph2"></a>`nThe second paragraph text`n¦{#} Hotstrings-Libraries <a name="back-to-the-top"></a> <{!}-- omit from toc -->`n`n[Header 1]({#}header-identifier-first)`n[Header 2]({#}header-identifier-second)`n`n<a name="header-identifier-first"></a>`n<details>`n<summary><h3><b>Header 1</b></h3></summary>`n`n[Back to the top]({#}back-to-the-top)`n<br />`n<br />`n<br />`n</details>`n`n<a name="header-identifier-second"></a>`n<details>`n<summary><h3><b>Header 2</b></h3></summary>`n`n[Back to the top]({#}back-to-the-top)`n<br />`n<br />`n<br />`n</details>‖

@@ -473,7 +473,7 @@ Z‖mri‖SI‖En‖MRI‖
 Z‖mrna‖SI‖En‖mRNA‖
 *Z‖mrna/‖SI‖En‖messenger RNA‖
 Z‖mtbf‖SI‖En‖MTBF‖
-Z*‖mtbf/‖MSI‖En‖Mean Time Between Failures¦the predicted elapsed time between inherent failures of a mechanical or electronic system, during normal system operation. MTBF can be calculated as the arithmetic mean (average) time between failures of a system. The term is used for repairable systems, while mean time to failure (MTTF) denotes the expected time to failure for a non-repairable system.`n[SOURCE: https://en.wikipedia.org/wiki/Mean_time_between_failures]`n‖
+*Z‖mtbf/‖MSI‖En‖Mean Time Between Failures¦the predicted elapsed time between inherent failures of a mechanical or electronic system, during normal system operation. MTBF can be calculated as the arithmetic mean (average) time between failures of a system. The term is used for repairable systems, while mean time to failure (MTTF) denotes the expected time to failure for a non-repairable system.`n[SOURCE: https://en.wikipedia.org/wiki/Mean_time_between_failures]`n¦średni czas bezawaryjnej pracy‖
 Z‖mtbm‖SI‖En‖MTBM‖
 Z*‖mtbm/‖CL‖En‖Mean Time Between Maintainances‖
 Z*‖mtm‖SI‖En‖MTM‖
