@@ -50,7 +50,6 @@ Z‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
 Z‖api‖SI‖En‖API‖
 *Z‖api/‖SI‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
-Z‖appdata‖SI‖En‖AppData‖
 Z‖ar‖SI‖En‖AR‖
 Z*‖ar/‖SI‖En‖Augmented Reality‖
 Z‖arema‖SI‖En‖AREMA‖
@@ -66,6 +65,8 @@ Z‖asmr‖SI‖En‖ASMR‖
 Z‖atm‖SI‖En‖ATM‖
 *Z‖atm/‖SI‖En‖Automatic Teller Machine‖
 Z‖ato‖SI‖En‖ATO‖
+Z‖ato‖SI‖En‖ATO‖
+*Z‖ato/‖MSI‖En‖Assembly to Order¦to complete an order, typical or standard modules are applied‖
 Z*‖av/‖SI‖En‖Availability‖
 Z‖awg‖SI‖En‖AWG‖
 Z*‖awg/‖SI‖En‖American Wire Gauge‖
@@ -203,7 +204,7 @@ Z*‖diy/‖SI‖En‖Do It Yourself‖
 Z‖dmu‖SI‖En‖DMU‖
 Z*‖dmu/‖SI‖En‖Diesel Multiple Unit‖
 Z‖dna‖SI‖En‖DNA‖
-Z*‖dna/‖SI‖En‖deoxyribonucleic acid‖
+*Z‖dna/‖MSI‖En‖deoxyribonucleic acid¦🧬‖
 Z‖dnd‖SI‖En‖D&D‖
 Z*‖dnd/‖SI‖En‖Drag&Drop‖
 Z‖dns‖SI‖En‖DNS‖https://en.wikipedia.org/wiki/Domain_Name_System
@@ -213,6 +214,8 @@ Z*‖doors/‖SI‖En‖ Dynamic Object Oriented Requirements System‖
 *Z‖dora/‖SI‖En‖DevOps Research and Assessment‖
 Z‖dos‖SI‖En‖DoS‖
 Z*‖dos/‖SI‖En‖Denial of Service‖
+Z‖dpi‖SI‖En‖DPI‖
+*Z‖dpi/‖SI‖En‖Dots Per Inch‖
 Z‖dram‖SI‖En‖DRAM‖
 *Z‖dram/‖SI‖En‖Dynamic Random-Access Memory‖
 Z‖drm‖CL‖En‖DRM‖
@@ -277,7 +280,7 @@ Z‖esd‖SI‖En‖ESD‖
 Z‖eta‖SI‖En‖ETA‖
 Z*‖eta/‖SI‖En‖Estimated Time to Arrival‖
 Z‖eto‖SI‖En‖ETO‖
-Z*‖eto/‖CL‖En‖Engineer To Order‖
+*Z‖eto/‖MSI‖En‖Engineer to Order¦to complete an order, redesign effort is required, potentially including tests and certification.‖
 Z‖eu‖SI‖En‖EU‖
 Z*‖eu/‖SI‖En‖European Union‖
 Z‖eula‖SI‖En‖EULA‖
@@ -459,6 +462,8 @@ Z‖mdt‖SI‖En‖MDT‖
 Z*‖mdt/‖CL‖En‖Mean Down Time‖
 Z‖mfa‖SI‖En‖MFA‖
 Z*‖mfa/‖SI‖En‖Multi Factor Authentication‖
+Z‖midi‖SI‖En‖MIDI‖
+*Z‖midi/‖SI‖En‖Musical Instrument Digital Interface‖
 Z‖mime‖SI‖En‖MIME‖
 *Z‖mime/‖SI‖En‖Multipurpose Internet Mail Extensions‖https://en.wikipedia.org/wiki/MIME
 Z‖mit‖SI‖En‖MIT‖
@@ -478,7 +483,9 @@ Z‖mtbm‖SI‖En‖MTBM‖
 Z*‖mtbm/‖CL‖En‖Mean Time Between Maintainances‖
 Z*‖mtm‖SI‖En‖MTM‖
 Z‖mto‖SI‖En‖MTO‖
-Z*‖mto/‖CL‖En‖Make To Order‖
+*Z‖mto/‖MSI‖En‖Make to Order¦to complete an order, new but typical modules are applied, e.g. new modem, new connector.‖
+Z‖mts‖SI‖En‖MTS‖
+*Z‖mts/‖MSI‖En‖Make to Stock¦inventory is manufactured and stocked in warehouses‖
 Z‖mttf‖SI‖En‖MTTF‖
 Z*‖mttf/‖MSI‖En‖Mean Time To Failure¦the expected time to failure for a non-repairable system.`n[SOURCE: https://en.wikipedia.org/wiki/Mean_time_between_failures]`n‖
 Z*‖mttm‖SI‖En‖MTTM‖
@@ -604,6 +611,8 @@ Z‖pwm‖SI‖En‖PWM‖
 Z*‖PWM/‖SI‖En‖Pulse-Width Modulation‖
 Z‖qhsee‖SI‖En‖QHSEE‖
 Z*‖qhsee/‖SI‖En‖Quality, Health, Safety, Environment and Energy‖
+Z‖qmk‖SI‖En‖QMK‖
+*Z‖qmk/‖SI‖En‖Quantum Mechanical Keyboard‖
 Z‖qna‖SI‖En‖Q&A‖
 Z*‖qna/‖CL‖En‖Questions and Answers‖
 ZC‖qr‖SI‖En‖QR code‖
@@ -703,6 +712,8 @@ Z‖smime‖SI‖En‖S/MIME‖https://en.wikipedia.org/wiki/S/MIME
 Z*‖smime/‖SI‖En‖Secure/Multipurpose Internet Mail Extensions‖
 Z‖sms‖SI‖En‖SMS‖
 Z*‖sms/‖CL‖En‖Short Message Service‖
+Z‖smt‖SI‖En‖SMT‖
+*Z‖smt/‖SI‖En‖Surface Mount Technology‖
 Z‖snmp‖SI‖En‖SNMP‖https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
 Z*‖snmp/‖SI‖En‖Simple Network Management Protocol‖
 Z‖so-dimm‖SI‖En‖SO-DIMM‖
@@ -777,7 +788,7 @@ Z*‖totp/‖SI‖En‖Time-based One-time Password‖
 Z‖tpu‖SI‖En‖TPU‖
 *Z‖tpu/‖SI‖En‖Thermoplastic Polyurethane‖https://en.wikipedia.org/wiki/Thermoplastic_polyurethane
 Z‖trrs‖SI‖En‖TRRS‖
-*Z‖trrs/‖SI‖En‖Tip Ring Ring Sleeve‖
+*Z‖trrs/‖SI‖En‖Tip Ring Ring Sleeve; 3.5 mm plug at both ends; four sections on each end: a Tip, two Rings, and a Sleeve.‖
 CZ‖tsh‖SI‖En‖TSH‖
 *CZ‖tsh/‖SI‖En‖Thyroid-Stimulating Hormone‖https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone
 Z‖tsi‖SI‖En‖TSI‖
@@ -798,6 +809,8 @@ Z‖uefi‖SI‖En‖UEFI‖
 *Z‖uefi/‖SI‖En‖Unified Extensible Firmware Interface‖
 Z‖ui‖SI‖En‖UI‖
 Z*‖ui/‖CL‖En‖User Interface‖
+Z‖uia‖SI‖En‖UIA‖
+*Z‖uia/‖MSI‖En‖User Interface Automation¦framework developed by Microsoft that provides a standardized way to access, identify, and manipulate the user interface elements of an operating system and applications running on it. By using UI Automation, scripts and applications can programmatically interact with UI elements such as buttons, menus, text fields, and more.‖
 Z‖uic‖SI‖En‖UIC‖https://uic.org/
 *Z‖uic/‖MCL‖En‖International Union of Railways¦French: Union internationale des Chemins de fer¦Międzynarodowy Związek Kolei‖
 Z‖uml‖SI‖En‖UML‖

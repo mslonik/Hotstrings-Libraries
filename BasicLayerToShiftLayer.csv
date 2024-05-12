@@ -5,14 +5,14 @@ Author:		Maciej Słojewski (🐘), http://mslonik.pl
 
 Purpose:		Auto replace characters from shift layer after double pressing of characters from the first layer.
 
-Notes:		
+Notes:
 
 Example:		–
 */
 
-*?Z‖,`t`t‖SI‖En‖<‖
 *?Z‖'`t`t‖SI‖En‖"‖
-*?Z‖-`t`t‖SI‖En‖_‖
+*?Z‖,`t`t‖SI‖En‖<‖
+*?Z‖-`t`t‖SI‖Dis‖_‖
 *?Z‖.`t`t‖SI‖En‖>‖
 *?Z‖/`t`t‖SI‖En‖?‖
 *?Z‖0`t`t‖SI‖En‖)‖

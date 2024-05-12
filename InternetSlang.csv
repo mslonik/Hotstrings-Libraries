@@ -1,0 +1,556 @@
+﻿/*
+License:		CC BY-SA (Creative Commons Attribution-ShareAlike)
+
+Author:		Maciej Słojewski (🐘), http://mslonik.pl
+
+Purpose:		Internet slang Hotstrings.
+
+Notes:		Based on: https://en.wiktionary.org/wiki/Appendix:English_internet_slang.
+		Created: 2023-11 → 2024-05-12. 
+
+Example:		yolo → YOLO, yolo/ → you only live once
+*/
+Z‖10q‖SI‖En‖10Q‖
+*C2Z‖10q/‖SI‖En‖thank you‖
+Z‖10x‖SI‖En‖10X‖
+*C2Z‖10x/‖SI‖En‖thanks‖
+Z‖aaf‖SI‖En‖AAF‖
+*C2Z‖aaf/‖SI‖En‖as a friend‖
+Z‖adad‖SI‖En‖ADAD‖
+*C2Z‖adad/‖SI‖En‖another day another dollar‖
+Z‖adih‖SI‖En‖ADIH‖
+*C2Z‖adih/‖SI‖En‖another day in hell‖
+Z‖adip‖SI‖En‖ADIP‖
+*C2Z‖adip/‖SI‖En‖another day in paradise‖
+Z‖aeap‖SI‖En‖AEAP‖
+*C2Z‖aeap/‖SI‖En‖as early as possible‖
+Z‖af‖SI‖En‖AF‖
+*C2Z‖af/‖SI‖En‖as fuck‖
+Z‖afaicr‖SI‖En‖AFAICR‖
+*C2Z‖afaicr/‖SI‖En‖as far as I can recall / remember‖
+Z‖afaics‖SI‖En‖AFAICS‖
+*C2Z‖afaics/‖SI‖En‖as far as I can see‖
+Z‖afaict‖SI‖En‖AFAICT‖
+*C2Z‖afaict/‖SI‖En‖as far as I can tell‖
+Z‖afaik‖SI‖En‖AFAIK‖
+*C2Z‖afaik/‖SI‖En‖as far as I know‖
+Z‖afair‖SI‖En‖AFAIR‖
+*C2Z‖afair/‖SI‖En‖as far as I remember‖
+Z‖afaiu‖SI‖En‖AFAIU‖
+*C2Z‖afaiu/‖SI‖En‖as far as I understand‖
+Z‖afaiui‖SI‖En‖AFAIUI‖
+*C2Z‖afaiui/‖SI‖En‖as far as I understand it‖
+Z‖afap‖SI‖En‖AFAP‖
+*C2Z‖afap/‖SI‖En‖as far as possible‖
+Z‖afk‖SI‖En‖AFK‖
+*C2Z‖afk/‖SI‖En‖away from keyboard‖
+Z‖alol‖SI‖En‖ALOL‖
+*C2Z‖alol/‖SI‖En‖actually laughing out loud‖
+Z‖asap‖SI‖En‖ASAP‖
+*C2Z‖asap/‖SI‖En‖as soon as possible‖
+Z‖asl‖SI‖En‖ASL‖
+*C2Z‖asl/‖SI‖En‖age / sex / location‖
+Z‖aslp‖SI‖En‖ASLP‖
+*C2Z‖aslp/‖SI‖En‖age, sex, location, picture‖
+Z‖ateotd‖SI‖En‖ATEOTD‖
+*C2Z‖ateotd/‖SI‖En‖at the end of the day‖
+Z‖atb‖SI‖En‖ATB‖
+*C2Z‖atb/‖SI‖En‖all the best‖
+Z‖atfq‖SI‖En‖ATFQ‖
+*C2Z‖atfq/‖SI‖En‖answer the fucking / full question‖
+Z‖atm‖SI‖En‖ATM‖
+*C2Z‖atm/‖SI‖En‖at the moment‖
+Z‖awol‖SI‖En‖AWOL‖
+*C2Z‖awol/‖SI‖En‖absent without (official) leave‖
+Z‖aybabtu‖SI‖En‖AYBABTU‖
+*C2Z‖aybabtu/‖SI‖En‖all your base are belong to us (from the video game Zero Wing)‖
+Z‖b2b‖SI‖En‖B2B‖
+*C2Z‖b2b/‖SI‖En‖business to business‖
+Z‖b2c‖SI‖En‖B2C‖
+*C2Z‖b2c/‖SI‖En‖business to customer‖
+Z‖b4‖SI‖En‖B4‖
+*C2Z‖b4/‖SI‖En‖before‖
+Z‖bbiab‖SI‖En‖BBIAB‖
+*C2Z‖bbiab/‖SI‖En‖be back in a bit‖
+Z‖bbq‖SI‖En‖BBQ‖
+*C2Z‖bbq/‖SI‖En‖barbeque‖
+Z‖bbl‖SI‖En‖BBL‖
+*C2Z‖bbl/‖SI‖En‖be back later / shortly / soon‖
+Z‖bbs‖SI‖En‖BBS‖
+*C2Z‖bbs/‖SI‖En‖be back shortly / soon‖
+Z‖bcnu‖SI‖En‖BCNU‖
+*C2Z‖bcnu/‖SI‖En‖be seein' you‖
+Z‖bf‖SI‖En‖BF‖
+*C2Z‖bf/‖SI‖En‖best friend / boyfriend‖
+Z‖bff‖SI‖En‖BFF‖
+*C2Z‖bff/‖SI‖En‖best friends forever‖
+Z‖bfn‖SI‖En‖BFN‖
+*C2Z‖bfn/‖SI‖En‖bye for now‖
+Z‖bofh‖SI‖En‖BOFH‖
+*C2Z‖bofh/‖SI‖En‖bastard operator from hell‖
+Z‖brb‖SI‖En‖BRB‖
+*C2Z‖brb/‖SI‖En‖be right back‖
+Z‖bsod‖SI‖En‖BSOD‖
+*C2Z‖bsod/‖SI‖En‖blue screen of death‖
+Z‖btdt‖SI‖En‖BTDT‖
+*C2Z‖btdt/‖SI‖En‖been there done that‖
+Z‖bttt‖SI‖En‖BTTT‖
+*C2Z‖bttt/‖SI‖En‖back to the top‖
+Z‖btw‖SI‖En‖BTW‖
+*C2Z‖btw/‖SI‖En‖by the way‖
+Z‖bump‖SI‖En‖BUMP‖
+*C2Z‖bump/‖SI‖En‖bring up my post‖
+Z‖cmiiw‖SI‖En‖CMIIW‖
+*C2Z‖cmiiw/‖SI‖En‖correct me if I'm wrong‖
+Z‖cob‖SI‖En‖COB‖
+*C2Z‖cob/‖SI‖En‖close of business‖
+Z‖cu‖SI‖En‖CU‖
+*C2Z‖cu/‖SI‖En‖see you (later)‖
+Z‖cya‖SI‖En‖CYA‖
+*C2Z‖cya/‖SI‖En‖see ya OR cover your ass‖
+Z‖dftt‖SI‖En‖DFTT‖
+*C2Z‖dftt/‖SI‖En‖don't feed the trolls‖
+Z‖dftba‖SI‖En‖DFTBA‖
+*C2Z‖dftba/‖SI‖En‖don't forget to be awesome‖
+Z‖dgaf‖SI‖En‖DGAF‖
+*C2Z‖dgaf/‖SI‖En‖don't give a fuck‖
+Z‖diaf‖SI‖En‖DIAF‖
+*C2Z‖diaf/‖SI‖En‖die in a fire‖
+Z‖dilligaf‖SI‖En‖DILLIGAF‖
+*C2Z‖dilligaf/‖SI‖En‖does it look like I give a flip / fuck‖
+Z‖dilligad‖SI‖En‖DILLIGAD‖
+*C2Z‖dilligad/‖SI‖En‖does it look like I give a damn‖
+Z‖dilligas‖SI‖En‖DILLIGAS‖
+*C2Z‖dilligas/‖SI‖En‖does it look like I give a shit‖
+Z‖d/l‖SI‖En‖D/L‖
+*C2Z‖d/l/‖SI‖En‖download‖
+Z‖dnd‖SI‖En‖DND‖
+*C2Z‖dnd/‖SI‖En‖do not disturb‖
+Z‖doa‖SI‖En‖DOA‖
+*C2Z‖doa/‖SI‖En‖dead on arrival; refers to hardware that is broken on delivery.‖
+Z‖eli5‖SI‖En‖ELI5‖
+*C2Z‖eli5/‖SI‖En‖explain like I'm five‖
+Z‖esad‖SI‖En‖ESAD‖
+*C2Z‖esad/‖SI‖En‖eat shit and die‖
+Z‖f9‖SI‖En‖F9‖
+*C2Z‖f9/‖SI‖En‖fine‖
+Z‖faq‖SI‖En‖FAQ‖
+*C2Z‖faq/‖SI‖En‖frequently asked question(s)‖
+Z‖ffs‖SI‖En‖FFS‖
+*C2Z‖ffs/‖SI‖En‖for fuck's sake‖
+Z‖fmcdh‖SI‖En‖FMCDH‖
+*C2Z‖fmcdh/‖SI‖En‖from my cold, dead hands‖
+Z‖fml‖SI‖En‖FML‖
+*C2Z‖fml/‖SI‖En‖fuck my life‖
+Z‖foad‖SI‖En‖FOAD‖
+*C2Z‖foad/‖SI‖En‖fuck off and die‖
+Z‖foaf‖SI‖En‖FOAF‖
+*C2Z‖foaf/‖SI‖En‖friend of a friend‖
+Z‖ftfy‖SI‖En‖FTFY‖
+*C2Z‖ftfy/‖SI‖En‖fixed that for you‖
+Z‖ftr‖SI‖En‖FTR‖
+*C2Z‖ftr/‖SI‖En‖for the record‖
+Z‖ftl‖SI‖En‖FTL‖
+*C2Z‖ftl/‖SI‖En‖for the loss‖
+Z‖ftw‖SI‖En‖FTW‖
+*C2Z‖ftw/‖SI‖En‖for the win‖
+Z‖fu‖SI‖En‖FU‖
+*C2Z‖fu/‖SI‖En‖fuck you‖
+Z‖fubar‖SI‖En‖FUBAR‖
+*C2Z‖fubar/‖SI‖En‖fucked up beyond all recognition / repair (from military slang‖pronounced ""foo-bar"")"‖
+Z‖fud‖SI‖En‖FUD‖
+*C2Z‖fud/‖SI‖En‖fear, uncertainty and Doubt (the purposeful spread of misinformation)‖
+Z‖fwiw‖SI‖En‖FWIW‖
+*C2Z‖fwiw/‖SI‖En‖for what it's worth‖
+Z‖fyi‖SI‖En‖FYI‖
+*C2Z‖fyi/‖SI‖En‖for your information‖
+Z‖gbtw‖SI‖En‖GBTW‖
+*C2Z‖gbtw/‖SI‖En‖get back to work‖
+Z‖gf‖SI‖En‖GF‖
+*C2Z‖gf/‖SI‖En‖girlfriend‖
+Z‖gfu‖SI‖En‖GFU‖
+*C2Z‖gfu/‖SI‖En‖good for you‖
+Z‖gfy‖SI‖En‖GFY‖
+*C2Z‖gfy/‖SI‖En‖go fuck yourself‖
+Z‖gg‖SI‖En‖GG‖
+*C2Z‖gg/‖SI‖En‖good game‖used at or near the conclusion of a gaming match‖
+Z‖ggs‖SI‖En‖GGS‖
+*C2Z‖ggs/‖SI‖En‖good games‖used at or near the conclusion of a gaming match‖
+Z‖giyf‖SI‖En‖GIYF‖
+*C2Z‖giyf/‖SI‖En‖Google is your friend‖a suggestion that somebody could find something out using an Internet search engine, rather than asking others‖
+Z‖gj‖SI‖En‖GJ‖
+*C2Z‖gj/‖SI‖En‖good job‖in online gaming when a teammate performs an act benefitting his team, such as killing an opponent or enabling that kill‖
+Z‖gl‖SI‖En‖GL‖
+*C2Z‖gl/‖SI‖En‖good luck‖used before commencing a game‖
+Z‖gmta‖SI‖En‖GMTA‖
+*C2Z‖gmta/‖SI‖En‖great minds think alike‖
+Z‖gr‖SI‖En‖GR‖
+*C2Z‖gr/‖SI‖En‖good race, good round‖
+Z‖gr8‖SI‖En‖GR8‖
+*C2Z‖gr8/‖SI‖En‖great‖
+Z‖gtfo‖SI‖En‖GTFO‖
+*C2Z‖gtfo/‖SI‖En‖get the fuck out‖
+Z‖gtg‖SI‖En‖GTG‖
+*C2Z‖gtg/‖SI‖En‖'got to go' or 'good to go'‖
+Z‖hbu‖SI‖En‖HBU‖
+*C2Z‖hbu/‖SI‖En‖how (a)bout you?‖
+Z‖hand‖SI‖En‖HAND‖
+*C2Z‖hand/‖SI‖En‖have a nice day‖
+Z‖hf‖SI‖En‖HF‖
+*C2Z‖hf/‖SI‖En‖have fun‖
+Z‖hth‖SI‖En‖HTH‖
+*C2Z‖hth/‖SI‖En‖hope this / that helps‖
+Z‖ianal‖SI‖En‖IANAL‖
+*C2Z‖ianal/‖SI‖En‖I am not a lawyer‖
+Z‖ibtl‖SI‖En‖IBTL‖
+*C2Z‖ibtl/‖SI‖En‖in before the lock‖
+Z‖idk‖SI‖En‖IDK‖
+*C2Z‖idk/‖SI‖En‖I don't know‖
+Z‖ig‖SI‖En‖IG‖
+*C2Z‖ig/‖SI‖En‖I guess‖
+Z‖iht‖SI‖En‖IHT‖
+*C2Z‖iht/‖SI‖En‖I had to‖
+Z‖iirc‖SI‖En‖IIRC‖
+*C2Z‖iirc/‖SI‖En‖if I recall / remember correctly‖
+Z‖iiuc‖SI‖En‖IIUC‖
+*C2Z‖iiuc/‖SI‖En‖if I understand correctly‖
+Z‖ily‖SI‖En‖ILY‖
+*C2Z‖ily/‖SI‖En‖I love you‖
+Z‖imao‖SI‖En‖IMAO‖
+*C2Z‖imao/‖SI‖En‖in my arrogant opinion‖
+Z‖imo‖SI‖En‖IMO‖
+*C2Z‖imo/‖SI‖En‖in my opinion‖
+Z‖imho‖SI‖En‖IMHO‖
+*C2Z‖imho/‖SI‖En‖in my humble / honest opinion‖
+Z‖imnsho‖SI‖En‖IMNSHO‖
+*C2Z‖imnsho/‖SI‖En‖in my not so humble opinion‖
+Z‖iow‖SI‖En‖IOW‖
+*C2Z‖iow/‖SI‖En‖in other words‖
+Z‖irc‖SI‖En‖IRC‖
+*C2Z‖irc/‖SI‖En‖Internet Relay Chat‖
+Z‖irl‖SI‖En‖IRL‖
+*C2Z‖irl/‖SI‖En‖in real life‖
+Z‖istm‖SI‖En‖ISTM‖
+*C2Z‖istm/‖SI‖En‖it seems to me‖
+Z‖itym‖SI‖En‖ITYM‖
+*C2Z‖itym/‖SI‖En‖I think you mean‖
+Z‖iwsn‖SI‖En‖IWSN‖
+*C2Z‖iwsn/‖SI‖En‖I want sex now‖
+Z‖iydmma‖SI‖En‖IYDMMA‖
+*C2Z‖iydmma/‖SI‖En‖if you don't mind my asking‖
+Z‖iykwim‖SI‖En‖IYKWIM‖
+*C2Z‖iykwim/‖SI‖En‖if you know what I mean‖
+Z‖jas‖SI‖En‖JAS‖
+*C2Z‖jas/‖SI‖En‖just a sec‖
+Z‖jfgi‖SI‖En‖JFGI‖
+*C2Z‖jfgi/‖SI‖En‖just fucking Google it!‖
+Z‖jftr‖SI‖En‖JFTR‖
+*C2Z‖jftr/‖SI‖En‖just for the record‖
+Z‖jk‖SI‖En‖JK‖
+*C2Z‖jk/‖SI‖En‖just kidding, or joke‖
+Z‖jtlyk‖SI‖En‖JTLYK‖
+*C2Z‖jtlyk/‖SI‖En‖just to let you know‖
+Z‖kiss‖SI‖En‖KISS‖
+*C2Z‖kiss/‖SI‖En‖keep it simple stupid‖
+Z‖kms‖SI‖En‖KMS‖
+*C2Z‖kms/‖SI‖En‖kill myself‖
+Z‖kos‖SI‖En‖KOS‖
+*C2Z‖kos/‖SI‖En‖kill on sight‖
+Z‖kthx‖SI‖En‖KTHX‖
+*C2Z‖kthx/‖SI‖En‖ok, thanks‖
+Z‖kthxbye‖SI‖En‖KTHXBYE‖used either to cut short a conversation or to express displeasure with being cut short
+*C2Z‖kthxbye/‖SI‖En‖OK, thanks, goodbye‖used either to cut short a conversation or to express displeasure with being cut short
+Z‖kys‖SI‖En‖KYS‖
+*C2Z‖kys/‖SI‖En‖kill yourself‖
+Z‖l8r‖SI‖En‖L8R‖commonly used in chat rooms and other text based communications as a way of saying good bye
+*C2Z‖l8r/‖SI‖En‖later‖commonly used in chat rooms and other text based communications as a way of saying good bye
+Z‖l8er‖SI‖En‖L8ER‖commonly used in chat rooms and other text based communications as a way of saying good bye
+*C2Z‖l8er/‖SI‖En‖later‖commonly used in chat rooms and other text based communications as a way of saying good bye
+*Z‖leet/‖SI‖En‖elite‖
+*Z‖l33t/‖SI‖En‖elite‖
+*Z‖1337/‖SI‖En‖elite‖
+Z‖lfg‖SI‖En‖LFG‖
+*C2Z‖lfg/‖SI‖En‖looking for group‖
+Z‖lfm‖SI‖En‖LFM‖
+*C2Z‖lfm/‖SI‖En‖looking for more‖
+Z‖lmao‖SI‖En‖LMAO‖
+*C2Z‖lmao/‖SI‖En‖laughing my ass off‖
+Z‖lmbo‖SI‖En‖LMBO‖
+*C2Z‖lmbo/‖SI‖En‖laughing my butt off‖
+Z‖lmfao‖SI‖En‖LMFAO‖
+*C2Z‖lmfao/‖SI‖En‖laughing my fucking ass off‖
+Z‖lmgtfy‖SI‖En‖LMGTFY‖
+*C2Z‖lmgtfy/‖SI‖En‖let me Google that for you‖
+Z‖lmirl‖SI‖En‖LMIRL‖
+*C2Z‖lmirl/‖SI‖En‖let's meet in real life‖
+Z‖lmk‖SI‖En‖LMK‖
+*C2Z‖lmk/‖SI‖En‖let me know‖
+Z‖lol‖SI‖En‖LOL‖
+*C2Z‖lol/‖SI‖En‖laughing out loud, laugh out loud‖
+Z‖ltns‖SI‖En‖LTNS‖
+*C2Z‖ltns/‖SI‖En‖long time no see‖
+Z‖lylap‖SI‖En‖LYLAP‖
+*C2Z‖lylap/‖SI‖En‖love you like a brother‖
+Z‖lylas‖SI‖En‖LYLAS‖
+*C2Z‖lylas/‖SI‖En‖love you like a sister‖
+Z‖mfw‖SI‖En‖MFW‖
+*C2Z‖mfw/‖SI‖En‖my face when‖(Usually accompanied by an image)
+Z‖mmo‖SI‖En‖MMO‖
+*C2Z‖mmo/‖SI‖En‖massive multi-player online‖[game]
+Z‖mmorpg‖SI‖En‖MMORPG‖
+*C2Z‖mmorpg/‖SI‖En‖MMO + RPG‖Massive Multi-player Online Role-Playing Game. The most frequent genre of MMO.
+Z‖motd‖SI‖En‖MOTD‖
+*C2Z‖motd/‖SI‖En‖message of the day‖
+Z‖mtfbwy‖SI‖En‖MTFBWY‖
+*C2Z‖mtfbwy/‖SI‖En‖may the force be with you‖
+Z‖mud‖SI‖En‖MUD‖
+*C2Z‖mud/‖SI‖En‖multi-user dungeon‖
+Z‖mush‖SI‖En‖MUSH‖
+*C2Z‖mush/‖SI‖En‖multi-user shared hallucination‖
+Z‖myob‖SI‖En‖MYOB‖
+*C2Z‖myob/‖SI‖En‖mind your own business‖
+Z‖m8‖SI‖En‖M8‖
+Z‖m8/‖SI‖En‖mate‖
+Z‖n1‖SI‖En‖N1‖used mostly often in gaming
+Z‖n1/‖SI‖En‖nice one‖used mostly often in gaming
+Z‖ne1‖SI‖En‖NE1‖
+Z‖ne1/‖SI‖En‖anyone‖
+Z‖ngl‖SI‖En‖NGL‖
+*C2Z‖ngl/‖SI‖En‖not gonna lie‖
+Z‖nifoc‖SI‖En‖NIFOC‖
+*C2Z‖nifoc/‖SI‖En‖naked in front of computer‖
+Z‖nm‖SI‖En‖NM‖
+Z‖nm/‖MSI‖En‖never mind¦no message¦not much‖
+Z‖n0rp/‖SI‖En‖intentional misspelling of porn‖
+Z‖pr0n/‖SI‖En‖intentional misspelling of porn‖
+Z‖np‖SI‖En‖NP‖
+Z‖np/‖SI‖En‖no problem‖
+Z‖ns‖SI‖En‖NS‖
+Z‖ns/‖SI‖En‖nice shot‖used in online gaming‖
+Z‖nsoh‖SI‖En‖NSOH‖
+*C2Z‖nsoh/‖SI‖En‖no sense of humor‖
+Z‖nsfw‖SI‖En‖NSFW‖
+*C2Z‖nsfw/‖SI‖En‖not safe for work‖Warning about content that may get the viewer in trouble with his employer or co-workers.
+Z‖nvm‖SI‖En‖NVM‖
+*C2Z‖nvm/‖SI‖En‖nevermind‖
+Z‖nvmd‖SI‖En‖NVMD‖
+Z‖nvmd/‖SI‖En‖nevermind‖
+Z‖nm‖SI‖En‖NM‖
+Z‖nm/‖SI‖En‖nevermind‖
+Z‖oic‖SI‖En‖OIC‖
+*C2Z‖oic/‖SI‖En‖oh, I see‖
+Z‖ofn‖SI‖En‖OFN‖
+*C2Z‖ofn/‖SI‖En‖old freaking news‖
+Z‖omg‖SI‖En‖OMG‖
+*C2Z‖omg/‖SI‖En‖oh my God‖
+Z‖omfg‖SI‖En‖OMFG‖
+*C2Z‖omfg/‖SI‖En‖oh my fucking God‖
+Z‖omgwtf‖SI‖En‖OMGWTF‖
+*C2Z‖omgwtf/‖SI‖En‖oh my God what the fuck‖
+Z‖omgwtfbbq‖SI‖En‖OMGWTFBBQ‖
+*C2Z‖omgwtfbbq/‖SI‖En‖oh my God what the fuck barbecue‖
+Z‖omw‖SI‖En‖OMW‖
+Z‖omw/‖MSI‖En‖on my way¦oh my word‖
+Z‖onoz‖SI‖En‖ONOZ‖
+Z‖onoz/‖SI‖En‖oh, no‖
+Z‖os‖SI‖En‖OS‖
+*C2Z‖os/‖SI‖En‖Operating System‖
+Z‖ot‖SI‖En‖OT‖
+*C2Z‖ot/‖SI‖En‖off topic‖
+Z‖otb‖SI‖En‖OTB‖
+*C2Z‖otb/‖SI‖En‖off to bed‖
+Z‖otoh‖SI‖En‖OTOH‖
+*C2Z‖otoh/‖SI‖En‖on the other hand‖
+Z‖otp‖SI‖En‖OTP‖
+Z‖otp/‖MSI‖En‖on the phone¦one true pairing¦on the piss‖
+Z‖p2p‖SI‖En‖P2P‖
+*C2Z‖p2p/‖MSI‖En‖peer to peer¦pay to play‖
+Z‖paw‖SI‖En‖PAW‖
+*C2Z‖paw/‖SI‖En‖parents are watching‖
+Z‖pebkac‖SI‖En‖PEBKAC‖
+*C2Z‖pebkac/‖SI‖En‖problem exists between keyboard and chair‖
+Z‖pebcak‖SI‖En‖PEBCAK‖
+*C2Z‖pebcak/‖SI‖En‖problem exists between keyboard and chair‖
+Z‖pita‖SI‖En‖PITA‖
+*C2Z‖pita/‖SI‖En‖pain in the arse / ass‖
+Z‖plmk‖SI‖En‖PLMK‖
+*C2Z‖plmk/‖SI‖En‖please let me know‖
+Z‖pm‖SI‖En‖PM‖
+*C2Z‖pm/‖SI‖En‖private message‖
+Z‖pmsl‖SI‖En‖PMSL‖
+*C2Z‖pmsl/‖SI‖En‖pissing myself laughing‖
+Z‖pos‖SI‖En‖POS‖
+*C2Z‖pos/‖MSI‖En‖piece of shit¦parent over shoulder‖
+Z‖pots‖SI‖En‖POTS‖
+*C2Z‖pots/‖SI‖En‖plain old telephone service‖
+Z‖pov‖SI‖En‖POV‖
+*C2Z‖pov/‖SI‖En‖point of view‖
+Z‖ppl‖SI‖En‖PPL‖
+*C2Z‖ppl/‖SI‖En‖people‖
+Z‖pwned/‖SI‖En‖intentional misspelling of owned‖
+Z‖qft‖SI‖En‖QFT‖
+*C2Z‖qft/‖SI‖En‖quoted for truthiness‖either to show satire or agreement with something satiric
+Z‖rl‖SI‖En‖RL‖
+*C2Z‖rl/‖SI‖En‖real Life‖
+Z‖rms‖SI‖En‖RMS‖
+*C2Z‖rms/‖SI‖En‖ride me sideways‖
+Z‖rofl‖SI‖En‖ROFL‖
+*C2Z‖rofl/‖SI‖En‖rolling on (the) floor laughing‖
+Z‖rotfl‖SI‖En‖ROTFL‖
+*C2Z‖rotfl/‖SI‖En‖rolling on (the) floor laughing‖
+Z‖roflcopter‖SI‖En‖ROFLCOPTER‖
+*C2Z‖roflcopter/‖SI‖En‖indicate extreme amusement‖
+Z‖roflmao‖SI‖En‖ROFLMAO‖
+*C2Z‖roflmao/‖SI‖En‖rolling on (the) floor laughing my ass off‖
+Z‖rotflmao‖SI‖En‖ROTFLMAO‖
+*C2Z‖rotflmao/‖SI‖En‖rolling on (the) floor laughing my ass off‖
+Z‖roflol‖SI‖En‖ROFLOL‖
+*C2Z‖roflol/‖SI‖En‖rolling on (the) floor laughing out loud‖
+Z‖rotflol‖SI‖En‖ROTFLOL‖
+*C2Z‖rotflol/‖SI‖En‖rolling on (the) floor laughing out loud‖
+Z‖rsn‖SI‖En‖RSN‖
+*C2Z‖rsn/‖SI‖En‖real soon now‖(used sarcastically)
+Z‖rtfb‖SI‖En‖RTFB‖
+*C2Z‖rtfb/‖SI‖En‖read the fucking binary (or book)‖
+Z‖rtfs‖SI‖En‖RTFB‖
+*C2Z‖rtfs/‖SI‖En‖read the fucking source‖
+Z‖rtfm‖SI‖En‖RTFM‖
+*C2Z‖rtfm/‖SI‖En‖read the (fucking/fine) manual¦reboot the (fucking) machine‖
+Z‖rtm‖SI‖En‖RTM‖
+*C2Z‖rtm/‖SI‖En‖read the (fucking/fine) manual¦reboot the (fucking) machine‖
+Z‖scnr‖SI‖En‖SCNR‖
+*C2Z‖scnr/‖SI‖En‖sorry, could not resist‖
+Z‖sfw‖SI‖En‖SFW‖
+*C2Z‖sfw/‖SI‖En‖safe for Work‖see NSFW
+Z‖smh‖SI‖En‖SMH‖
+*C2Z‖smh/‖SI‖En‖shaking my head‖
+Z‖snafu‖SI‖En‖SNAFU‖
+*C2Z‖snafu/‖SI‖En‖situation normal: all (fucked/fouled) up‖
+Z‖sohf‖SI‖En‖SOHF‖
+*C2Z‖sohf/‖SI‖En‖sense of humor failure‖
+Z‖sos‖SI‖En‖SOS‖
+*C2Z‖sos/‖SI‖En‖someone (watching) over shoulder‖
+Z‖stfu‖SI‖En‖STFU‖
+*C2Z‖stfu/‖SI‖En‖shut the fuck up‖
+Z‖stfw‖SI‖En‖STFW‖
+*C2Z‖stfw/‖SI‖En‖search the fucking web‖
+Z‖tanstaafl‖SI‖En‖TANSTAAFL‖
+*C2Z‖tanstaafl/‖SI‖En‖there ain't no such thing as a free lunch‖a quote originally from Robert Heinlein's The Moon is a Harsh Mistress
+Z‖tbf‖SI‖En‖TBF‖
+*C2Z‖tbf/‖MSI‖En‖to be fair¦time between failures‖
+Z‖tbh‖SI‖En‖TBH‖
+*C2Z‖tbh/‖SI‖En‖to be honest‖
+Z‖tfw‖SI‖En‖TFW‖
+*C2Z‖tfw/‖SI‖En‖that feel when‖
+Z‖tg‖SI‖En‖TG‖
+*C2Z‖tg/‖SI‖En‖that's great‖
+Z‖tgif‖SI‖En‖TGIF‖
+*C2Z‖tgif/‖SI‖En‖thank God it's Friday‖
+Z‖thx‖SI‖En‖THX‖
+*C2Z‖thx/‖SI‖En‖thanks‖
+Z‖thnx‖SI‖En‖THNX‖
+*C2Z‖thnx/‖SI‖En‖thanks‖
+Z‖tnx‖SI‖En‖TNX‖
+*C2Z‖tnx/‖SI‖En‖thanks‖
+Z‖tx‖SI‖En‖TX‖
+*C2Z‖tx/‖SI‖En‖thanks‖
+Z‖tia‖SI‖En‖TIA‖
+*C2Z‖tia/‖SI‖En‖thanks in advance‖
+Z‖til‖SI‖En‖TIL‖
+*C2Z‖til/‖SI‖En‖today I learned‖
+Z‖timwtk‖SI‖En‖TIMWTK‖
+*C2Z‖timwtk/‖SI‖En‖this inquiring mind wants to know‖
+Z‖tinc‖SI‖En‖TINC‖
+*C2Z‖tinc/‖SI‖En‖there is no cabal‖term discouraging conspiracy theories‖
+Z‖tins‖SI‖En‖TINS‖
+*C2Z‖tins/‖SI‖En‖there is no spoon‖
+Z‖tldr‖SI‖En‖TLDR‖
+*C2Z‖tldr/‖SI‖En‖too long didn't read‖
+Z‖tmi‖SI‖En‖TMI‖
+*C2Z‖tmi/‖SI‖En‖too much information‖
+Z‖tos‖SI‖En‖TOS‖
+*C2Z‖tos/‖SI‖En‖terms of service‖
+Z‖ttbomk‖SI‖En‖TTBOMK‖
+*C2Z‖ttbomk/‖SI‖En‖to the best of my knowledge‖
+Z‖ttfn‖SI‖En‖TTFN‖
+*C2Z‖ttfn/‖SI‖En‖ta ta for now‖
+Z‖ttyl‖SI‖En‖TTYL‖
+*C2Z‖ttyl/‖SI‖En‖talk to you later‖
+Z‖ttul‖SI‖En‖TTUL‖
+*C2Z‖ttul/‖SI‖En‖talk to you later‖
+Z‖t2ul‖SI‖En‖T2UL‖
+*C2Z‖t2ul/‖SI‖En‖talk to you later‖
+Z‖t2yl‖SI‖En‖T2YL‖
+*C2Z‖t2yl/‖SI‖En‖talk to you later‖
+Z‖ttyn‖SI‖En‖TTYN‖
+*C2Z‖ttyn/‖SI‖En‖talk to you never‖
+Z‖ttys‖SI‖En‖TTYS‖
+*C2Z‖ttys/‖SI‖En‖talk to you soon‖
+Z‖ty‖SI‖En‖TY‖
+*C2Z‖ty/‖SI‖En‖thank you‖
+Z‖tyt‖SI‖En‖TYT‖
+*C2Z‖tyt/‖SI‖En‖take your time‖
+Z‖tyvm‖SI‖En‖TYVM‖
+*C2Z‖tyvm/‖SI‖En‖thank you very much‖
+Z‖u‖SI‖En‖U‖
+*C2Z‖u/‖SI‖En‖you‖
+Z‖utfse‖SI‖En‖UTFSE‖
+*C2Z‖utfse/‖SI‖En‖use the fucking search engine‖
+Z‖ugo‖SI‖En‖UGO‖
+*C2Z‖ugo/‖SI‖En‖you got owned‖
+Z‖urs‖SI‖En‖URS‖
+*C2Z‖urs/‖SI‖En‖you really suck‖
+Z‖wb‖SI‖En‖WB‖
+*C2Z‖wb/‖SI‖En‖welcome back‖
+Z‖wbu‖SI‖En‖WBU‖
+*C2Z‖wbu/‖SI‖En‖what (a)bout you‖
+Z‖wdym‖SI‖En‖WDYM‖
+*C2Z‖wdym/‖SI‖En‖what do you mean?‖
+Z‖wrt‖SI‖En‖WRT‖
+*C2Z‖wrt/‖SI‖En‖with respect¦regard to‖
+Z‖wtb‖SI‖En‖WTB‖
+*C2Z‖wtb/‖SI‖En‖want to buy‖
+Z‖wtf‖SI‖En‖WTF‖
+*C2Z‖wtf/‖SI‖En‖what the fuck‖
+Z‖wtg‖SI‖En‖WTG‖
+*C2Z‖wtg/‖SI‖En‖way to go‖
+Z‖wth‖SI‖En‖WTH‖
+*C2Z‖wth/‖SI‖En‖what the hell‖
+Z‖wts‖SI‖En‖WTS‖
+*C2Z‖wts/‖SI‖En‖want to sell‖
+Z‖wtt‖SI‖En‖WTT‖
+*C2Z‖wtt/‖SI‖En‖want to trade‖
+Z‖wug‖SI‖En‖WUG‖
+*C2Z‖wug/‖SI‖En‖what you got?‖
+Z‖wubu2‖SI‖En‖WUBU2‖
+*C2Z‖wubu2/‖SI‖En‖what (have) you been up to?‖
+Z‖wuu2‖SI‖En‖WUBU2‖
+*C2Z‖wuu2/‖SI‖En‖what (are) you up to?‖
+Z‖wyd‖SI‖En‖WYD‖
+*C2Z‖wyd/‖SI‖En‖what (are) you doing?‖
+Z‖w8‖SI‖En‖W8‖
+*C2Z‖w8/‖SI‖En‖wait‖
+Z‖y‖SI‖En‖Y‖
+*C2Z‖y/‖SI‖En‖you‖
+Z‖yagni‖SI‖En‖YAGNI‖
+*C2Z‖yagni/‖SI‖En‖you ain't gonna need it‖
+Z‖yagtoh‖SI‖En‖YAGTOH‖
+*C2Z‖yagtoh/‖SI‖En‖you are going to own him‖
+Z‖ygm‖SI‖En‖YGM‖
+*C2Z‖ygm/‖SI‖En‖you've got mail‖
+Z‖yhbt‖SI‖En‖YHBT‖
+*C2Z‖yhbt/‖SI‖En‖you have been trolled‖
+Z‖ykw‖SI‖En‖YKW‖
+*C2Z‖ykw/‖SI‖En‖you know what?‖
+Z‖ymmv‖SI‖En‖YMMV‖
+*C2Z‖ymmv/‖SI‖En‖your mileage may vary‖
+Z‖yolo‖SI‖En‖YOLO‖
+*C2Z‖yolo/‖SI‖En‖you only live once‖
+Z‖yoyo‖SI‖En‖YOYO‖
+*C2Z‖yoyo/‖SI‖En‖you're on your own‖
+Z‖ytmnd‖SI‖En‖YTMND‖
+*C2Z‖ytmnd/‖SI‖En‖you're the man now, dog‖
+Z‖yw‖SI‖En‖YW‖
+*C2Z‖yw/‖SI‖En‖you're welcome‖
+Z‖zomg‖SI‖En‖ZOMG‖
+*C2Z‖zomg/‖SI‖En‖Zoh my God‖This version is mainly used in jest or to ridicule people who use abbreviations like OMG and OMFG.

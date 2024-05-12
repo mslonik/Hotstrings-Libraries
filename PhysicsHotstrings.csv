@@ -11,14 +11,14 @@ Examples:	Greek alphabet letters, physics unit names and many more.
 */
 
 Z*‖%%‖SI‖En‖‰‖
-Z*‖**‖MSI‖En‖·¦×‖U+00B7 | U+00D7
+*Z‖***‖MSI‖En‖·¦×‖** overlaps with Markdown for bold
 Z*‖**/‖MSI‖En‖·¦×‖U+00B7 | U+00D7
 Z*‖*/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 Z*‖+-‖CL‖En‖±‖
-Z*‖-'t‖MSI‖En‖-¦−¦–¦—‖U+2010, U+2212, U+2013, U+2014
 Z*‖-+‖CL‖En‖±‖
 ?Z‖--‖SI‖Dis‖–‖
 *Z‖->‖MSI‖En‖→¦←¦↔¦↓¦↑¦⮂‖
+*Z‖-`t‖MSI‖En‖-¦−¦–¦—‖U+2010, U+2212, U+2013, U+2014
 Z*‖/=‖CL‖En‖≠‖
 Z*‖<=‖CL‖En‖≤‖
 Z*‖>=‖CL‖En‖≥‖
@@ -32,6 +32,7 @@ Z*‖bullets/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 Z*‖cent/‖SI‖En‖¢‖U+00A2
 Z*?‖deg/‖CL‖En‖°‖
 Z*‖diameter/‖SI‖En‖Ø‖U+00D8
+*Z‖divisionsign/‖SI‖En‖÷‖
 Z*‖euro/‖CL‖En‖€‖
 Z*‖exponent/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
 *Z‖fullhd‖SI‖En‖1920 px × 1080 px‖
@@ -67,6 +68,8 @@ Z*‖mminus‖CL‖En‖−‖
 Z*‖mniejszyrowny‖CL‖En‖≤‖
 Z*‖mniejszyrówny‖CL‖En‖≤‖
 Z*‖ms2‖SI‖En‖m/s²‖
+*Z‖multiply/‖MSI‖En‖·¦×‖U+00B7 | U+00D7
+Z‖nm‖SI‖En‖Nm‖Newton-metre
 Z*‖oddo‖CL‖En‖÷‖
 Z*?‖ohm‖CL‖En‖Ω‖
 *Z‖paragraph/‖SI‖En‖§‖
@@ -75,6 +78,7 @@ Z*‖plusminus‖CL‖En‖±‖
 Z*‖ppb/‖SI‖En‖{U+00BB}‖Power Point Bullet
 Z*‖recycling/‖MSI‖En‖♻¦♲¦♺‖{U+267B}|{U+2672}|{U+267A}
 Z*‖space/‖MSI‖En‖{U+2000}¦{U+2003}¦{U+2004}¦{U+2005}¦{U+2006}¦&nbsp;¦&emsp;‖useful in Mardown https://unicode-table.com/en/blocks/general-pu
+*CZ‖squareroot/‖SI‖En‖√‖
 Z*‖stopc/‖CL‖En‖°‖
 *?Z‖subscript/‖MSI‖En‖₁¦₂¦₃¦₄¦₅¦₆¦₇‖
 *?Z‖subscript2/‖MSI‖En‖₈¦₉¦₀¦₋¦₊¦₍¦₎‖
@@ -90,7 +94,7 @@ Z‖tb‖SI‖En‖TB‖
 *Z‖tb/‖MSI‖En‖terabyte¦10¹² = 1000⁴‖
 Z‖tib‖SI‖En‖TiB‖
 *Z‖tib/‖MSI‖En‖tebibyte¦2⁴⁰ = 1024⁴‖
-Z‖va‖SI‖En‖VA‖UPS capacity
+*Z‖va`t‖SI‖En‖VA‖UPS capacity
 Z‖vac‖SI‖En‖V{U+00A0}AC‖
 Z*‖vdc‖SI‖En‖V{U+00A0}DC‖
 Z*‖wiekszyrowny‖CL‖En‖≥‖

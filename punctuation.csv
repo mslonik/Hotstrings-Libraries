@@ -12,7 +12,7 @@ Examples:	minus instead of dash, newline character(s), carriage return, line fee
 */
 
 Z*‖"/‖MSI‖En‖„”{left}¦“”{left}¦«»{left}¦""{left}‖Polish, English double, French, universal
-*Z‖-- ‖SI‖En‖− `‖
+*Z‖-- ‖SI‖En‖— `‖
 Z*?‖...‖SI‖En‖…‖Horizontal Ellipsis {U+2026}
 *Z‖./‖SI‖En‖. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .‖
 Z*‖bell/‖SI‖En‖{U+0007}‖
@@ -21,9 +21,9 @@ Z‖cr‖SI‖En‖CR‖Carriage Return
 Z*C‖cr/‖MSI‖En‖Carriage Return¦{U+000D}¦␍‖
 ZC‖crlf‖SI‖En‖CRLF‖
 Z*C‖crlf/‖MSI‖En‖Carriage Return {+} Line Feed¦{U+000D}{U+000A}‖
-Z‖emdash/‖SI‖En‖—‖
+*Z‖emdash/‖SI‖En‖—‖
 Z*?‖emspace/‖SI‖En‖{U+2003}‖Em Space
-Z‖endash/‖SI‖En‖–‖
+*?Z‖endash/‖SI‖En‖–‖U+2013, for ranges, e.g. 2012–2015
 Z*?‖enspace/‖SI‖En‖{U+2002}‖En Space
 Z*‖hairspace/‖SI‖En‖{U+200A}‖Hair Space
 Z*‖hyphens/‖MSI‖En‖—¦–¦−¦‑‖

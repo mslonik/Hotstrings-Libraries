@@ -12,6 +12,7 @@ Notes:		The vast majority of definitions have set feature * (immediate execute) 
 */
 
 *Z‖.net‖SI‖En‖.NET‖
+*Z‖aar‖SI‖En‖AAR‖
 Z‖aardc‖SI‖En‖Adobe Acrobat Reader DC‖
 *Z‖aardc/‖SI‖En‖Adobe Acrobat Reader Document Cloud; cloud features are available for users‖
 *Z‖adif‖SI‖En‖ADIF‖
@@ -35,22 +36,26 @@ Z*‖autocad‖CL‖En‖AutoCAD‖
 Z*‖autodesk‖SI‖En‖Autodesk‖
 *Z‖autohotkey‖SI‖En‖AutoHotkey‖
 *Z‖bitlocker‖SI‖En‖BitLocker‖
+*Z‖blazor‖SI‖En‖Blazor‖
 *Z‖blik‖SI‖En‖BLIK‖only with ShiftFunctions!
 Z‖bmw‖CL‖En‖BMW‖
 *Z‖bmw/‖CL‖En‖Bayerische Motoren Werke AG‖
+*Z‖bnsf‖SI‖En‖BNSF‖
 Z*‖canon‖MSI‖En‖Canon¦canon‖
 *Z‖castorama‖SI‖En‖Castorama‖only for extensions
 Z‖cenelec‖SI‖En‖CENELEC‖
-Z‖cenelec/‖MSI‖En‖Comité Européen de Normalisation Électrotechnique¦European Committee for Electrotechnical Standardization‖https://www.cenelec.eu/
+*Z‖cenelec/‖MSI‖En‖Comité Européen de Normalisation Électrotechnique¦European Committee for Electrotechnical Standardization‖https://www.cenelec.eu/
 Z‖chatgpt‖SI‖En‖ChatGPT‖
 *Z‖cocacola‖SI‖En‖Coca-Cola‖
 *Z‖convertkit‖SI‖En‖ConvertKit‖
 *Z‖cpanel‖SI‖En‖cPanel‖
 *Z‖cr2032‖SI‖En‖CR2032‖https://en.wikipedia.org/wiki/Button_cell
+*Z‖dalle‖SI‖En‖DALL-E‖
 Z‖damit‖SI‖En‖DamIT‖
 Z‖decathlon‖SI‖En‖DECATHLON‖
 *Z‖deepl‖SI‖En‖DeepL‖
 *Z‖dhl‖SI‖En‖DHL‖
+*Z‖discord‖SI‖En‖Discord‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
 Z‖dkms‖SI‖En‖DKMS‖
 *Z‖dremel‖SI‖En‖Dremel‖
@@ -76,6 +81,7 @@ Z‖ihs‖SI‖En‖IHS‖
 Z*‖ikea‖SI‖En‖IKEA‖
 Z‖incose‖SI‖En‖INCOSE‖
 *Z‖incose/‖SI‖En‖International Council on System Engineering‖
+*Z‖inkscape‖SI‖En‖Inkscape‖
 *Z‖inpost‖SI‖En‖InPost‖
 Z*‖instagram‖SI‖En‖Instagram‖
 Z*‖internet‖SI‖En‖Internet‖
@@ -86,6 +92,7 @@ Z*‖iscala‖CL‖En‖iSCALA‖
 *CZ‖jlcpcb‖SI‖En‖JLCPCB‖
 Z‖joomla‖MSI‖En‖Joomla{!}¦https://www.joomla.org/‖
 *Z‖junkers‖SI‖En‖Junkers‖
+*Z‖jysk‖SI‖En‖Jysk‖
 *Z‖kanban‖SI‖En‖Kanban‖
 Z‖keepass‖SI‖En‖KeePass‖
 Z‖kindle‖SI‖En‖Kindle‖
@@ -99,7 +106,9 @@ Z‖markdown‖SI‖En‖Markdown‖
 Z‖mcu‖SI‖En‖MCU‖
 *Z‖mcu/‖SI‖En‖Micro Controller Unit‖
 Z*‖microsoft‖SI‖En‖Microsoft‖
+*Z‖mongodb‖SI‖En‖MongoDB‖
 *Z‖msword‖SI‖En‖Microsoft Word‖
+*Z‖mysql‖SI‖En‖MySQL‖
 ZC‖netflix‖SI‖En‖Netflix‖
 *Z‖newag‖SI‖En‖Newag‖
 Z‖notepad++‖SI‖En‖Notepad{+}{+}‖
@@ -113,6 +122,7 @@ Z*‖onedrive‖SI‖En‖OneDrive‖
 *Z‖peugeot‖SI‖En‖Peugeot‖
 Z‖philips‖SI‖En‖Philips‖
 *Z‖polufka‖MSI‖En‖Polufka¦Polufka, ul. Leczkowa 18 wejście od bramy przy DS7`n80-432 Gdańsk-Wrzeszcz‖
+*Z‖postgresql‖SI‖En‖PostgreSQL‖
 Z*‖power point‖SI‖En‖PowerPoint‖
 Z*‖powerpoint‖SI‖En‖PowerPoint‖
 *Z‖powershell‖SI‖En‖PowerShell‖
@@ -120,6 +130,7 @@ Z*‖powerpoint‖SI‖En‖PowerPoint‖
 Z*‖qnx‖CL‖En‖QNX‖
 *Z‖red bull‖SI‖En‖Red Bull‖
 *Z‖redbull‖SI‖En‖Red Bull‖
+*Z‖reddit‖SI‖En‖Reddit‖
 *Z‖rj45‖SI‖En‖RJ45‖
 *Z‖romet‖SI‖En‖Romet‖
 Z*‖rs232‖CL‖En‖RS232‖

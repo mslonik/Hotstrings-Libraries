@@ -10,6 +10,7 @@ Notes:		When specific application window is active, keys can be triggered even w
 Examples:	     Text f18/ entered in currently active window calls F18 funciton key and function which is assigned to it.
 */
 
+Z‖alt‖SI‖En‖Alt‖
 ?*Z‖alt/‖SI‖En‖{alt}‖
 ?*Z‖altd/‖SI‖En‖{alt down}‖
 ?*Z‖altgr/‖SI‖En‖{LControl Down}{RAlt}{LControl Up}‖
@@ -18,6 +19,7 @@ Examples:	     Text f18/ entered in currently active window calls F18 funciton k
 ?*Z‖asterisk/‖SI‖En‖*‖
 ?*Z‖atsign/‖SI‖En‖@‖
 ?*Z‖backslash/‖SI‖En‖\‖
+Z‖backspace‖SI‖En‖Backspace‖
 ?*Z‖backspace/‖SI‖En‖{bs}‖
 ?Z‖capslock‖SI‖En‖CapsLock‖
 ?Z*‖capslock/‖SI‖Dis‖{CapsLock}‖
@@ -30,10 +32,10 @@ Examples:	     Text f18/ entered in currently active window calls F18 funciton k
 ?*Z‖control/‖SI‖En‖{control}‖
 ?*Z‖csbracket/‖SI‖En‖]‖
 ?*Z‖ctrd/‖SI‖En‖{control down}‖
+Z‖ctrl‖SI‖En‖Ctrl‖
 *Z‖ctrl/‖SI‖En‖{LControl Down}{LControl Up}‖
 *Z‖ctrr/‖SI‖En‖{RControl Down}{RControl Up}‖
 ?*Z‖ctru/‖SI‖En‖{control up}‖
-?*Z‖dash/‖SI‖En‖-‖
 ?Z*‖delete/‖SI‖En‖{delete}‖
 ?*Z‖dollar/‖SI‖En‖$‖
 ?*Z‖dot/‖SI‖En‖.‖
@@ -97,9 +99,13 @@ Z‖f9‖SI‖En‖F9‖
 ?*Z‖greaterthan/‖SI‖En‖>‖
 ?*Z‖hash/‖SI‖En‖{#}‖
 ?Z*‖home/‖SI‖En‖{home}‖
+*?Z‖hyphen/‖SI‖En‖-‖
 ?Z*‖insert/‖SI‖En‖{Insert}‖
+Z‖lalt‖SI‖En‖LAlt‖
+Z‖lctl‖SI‖En‖LCtl‖
 ?*Z‖left/‖SI‖En‖{left}‖
 ?*Z‖lessthan/‖SI‖En‖<‖
+Z‖lshift‖SI‖En‖LShift‖
 ?*Z‖lwindows/‖SI‖En‖{lwin}‖
 ?*Z‖menu/‖SI‖En‖{appskey}‖
 ?*Z‖nine/‖SI‖En‖9‖
@@ -119,12 +125,16 @@ Z‖prtscr‖SI‖En‖PrtScr (Print Screen)‖
 ?Z*‖prtscr/‖SI‖En‖{PrintScreen}‖
 ?*Z‖qmark/‖SI‖En‖?‖
 ?*Z‖quotation/‖SI‖En‖"‖
+Z‖ralt‖SI‖En‖RAlt‖
+Z‖rctl‖SI‖En‖RCtl‖
 ?*Z‖right/‖SI‖En‖{right}‖
+Z‖rshift‖SI‖En‖RShift‖
 ?*Z‖rwindows/‖SI‖En‖{rwin}‖
 ?Z‖scrolllock‖SI‖En‖ScrollLock‖
 ?Z*‖scrolllock/‖SI‖Dis‖{ScrollLock}‖
 ?*Z‖semicolon/‖SI‖En‖;‖
 ?*Z‖seven/‖SI‖En‖7‖
+Z‖shift‖SI‖En‖Shift‖
 ?*Z‖shiftd/‖SI‖En‖{shift down}‖
 ?*Z‖six/‖SI‖En‖6‖
 ?*Z‖slash/‖SI‖En‖/‖
@@ -136,6 +146,7 @@ Z‖prtscr‖SI‖En‖PrtScr (Print Screen)‖
 ?*Z‖underscore/‖SI‖En‖_‖
 ?*Z‖up/‖SI‖En‖{Up}‖
 ?*Z‖verticalbar/‖SI‖En‖|‖
+Z‖win‖SI‖En‖Win‖
 ?*Z‖wind/‖SI‖En‖{lwin down}‖
 ?*Z‖windows/‖SI‖En‖{lwin}‖
 ?*Z‖winu/‖SI‖En‖{lwin up}‖
