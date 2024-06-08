@@ -42,6 +42,7 @@ Z‖ctrl‖SI‖En‖Ctrl‖
 ?*Z‖down/‖SI‖En‖{down}‖
 ?*Z‖eight/‖SI‖En‖8‖
 ?Z*‖end/‖SI‖En‖{end}‖
+Z‖enter‖SI‖En‖Enter‖
 ?*Z‖enter/‖SI‖En‖{enter}‖
 ?*Z‖equal/‖SI‖En‖=‖
 ?Z*‖esc/‖SI‖En‖{esc}‖
@@ -138,6 +139,7 @@ Z‖shift‖SI‖En‖Shift‖
 ?*Z‖shiftd/‖SI‖En‖{shift down}‖
 ?*Z‖six/‖SI‖En‖6‖
 ?*Z‖slash/‖SI‖En‖/‖
+Z‖tab‖SI‖En‖Tab‖
 ?Z*‖tab/‖MSI‖En‖{tab}¦{Space 5}‖
 ?*Z‖three/‖SI‖En‖3‖
 ?*Z‖tick/‖SI‖En‖``‖

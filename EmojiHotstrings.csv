@@ -43,6 +43,7 @@ Z*‖ambulance/‖SI‖En‖🚑‖{U+1F691}
 *Z‖beer/‖SI‖En‖🍺‖{U+1F37A}
 Z*‖bicycle/‖MSI‖En‖🚲¦🚴¦🚵¦🚳‖
 *Z‖bird/‖MSI‖En‖🦆¦🦃¦🦢¦🦩¦🐤¦🐦¦🐓‖
+*Z‖blackrectangle‖SI‖En‖▬‖
 *Z‖blood/‖SI‖En‖🩸‖
 *Z‖blow/‖SI‖En‖💨‖
 *Z‖bone/‖SI‖En‖🦴‖
@@ -137,6 +138,7 @@ Z*‖hearts/‖SI‖En‖🧡💜🖤💛💚💙‖
 *Z‖helicopter/‖SI‖En‖🚁‖
 *Z‖hi/‖MSI‖En‖(◕‿◕)¦👋‖
 *Z‖highfive/‖SI‖En‖🙌‖
+*Z‖highvoltage/‖SI‖En‖⚡‖
 *Z‖hippopotamus/‖SI‖En‖🦛‖
 *Z‖honey/‖SR‖En‖🍯‖
 *Z‖honeybee/‖SI‖En‖🐝‖
@@ -156,6 +158,8 @@ Z*‖keyboard/‖SI‖En‖🖮‖
 *Z‖leg/‖SI‖En‖🦵‖
 *Z‖lion/‖SI‖En‖🦁‖
 *Z‖lollipop/‖SI‖En‖🍭‖
+*Z‖magic/‖SI‖En‖🪄‖
+*Z‖magicwand/‖SI‖En‖🪄‖
 *Z‖magnet/‖SI‖En‖🧲‖
 Z*‖male/‖SI‖En‖{U+2642}‖
 *Z‖man/‖SI‖En‖🚹🛉‖
@@ -200,6 +204,7 @@ Z*‖phone/‖SI‖En‖☏‖
 *Z‖photo/‖SI‖En‖📷🖼‖
 *Z‖piano/‖SI‖En‖🎹‖
 *Z‖picture/‖SI‖En‖🖼‖
+*Z‖pill/‖SI‖En‖💊‖
 Z*‖pizza/‖MSI‖En‖🍕¦░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄▄░░░░░░░░░`n░░░░░░░░░░░░░░▄▄▄▄▄▄▄▄░░░░░░█████▄░░░░░░`n░░░░░░░░░▄▄█████████████▀░░▄░░▀████▄░░░░`n░░░░░░▄▄███▀▀░░▄▄▄▄▄▄░░▀░░████▄░▀████░░░`n░░░░▄███▀░▄▄██████▀▀███░░▄█▀▀░▀▀▄░▀███▄░`n░░░▄██▀░▄███▀▀▀███▄▄██░░▄██░░░░░█▄░▀███░`n░░███░▄██████████████▀░░███▄░░░▄██▄░████`n░███░▄████░█████░▀██▀░░█████████▀▀▀░░░░░`n▄██░░██████▀▀███████░░▀▀▀▀▀░░░░░░░░░░░░░`n███░██████░░░░█████░░░░░░░░░▄▄▄▄░░██░░░░`n██░░██████▄░░▄█████▄▄▄█████▀▀███░░██░░░░`n███░███▄░▀█████▀▀███████████████░░██░░░░`n███░▀██████▀████▄▄█████▄▄███▀███░▄██░░░░`n░██▄░██████▄▄██████▀▀▀█████▄▄██░░██▀░░░░`n░▀██▄░▀█▀▀████████░░░░░███████░░██▀░░░░░`n░░▀██▄░▀███████████▄░▄▄█████▀░▄██▀░░░░░░`n░░░░▀██▄░░▀███▄▄▄████████▀▀░▄███▀░░░░░░░`n░░░░░░▀███▄░░▀▀▀▀▀▀▀▀▀▀░░▄▄███▀░░░░░░░░░`n░░░░░░░░▀▀████▄▄▄▄▄▄▄▄█████▀░░░░░░░░░░░░`n░░░░░░░░░░░░░▀▀▀▀▀▀▀▀▀▀░░░░░░░░░░░░░░░░░‖
 *Z‖plant/‖SI‖En‖🪴‖
 *Z‖please/‖SI‖En‖😌‖
@@ -219,6 +224,7 @@ Z*‖printer/‖SI‖En‖🖨‖
 *Z‖recycle/‖SI‖En‖♻🚮‖
 Z*‖reserved/‖SI‖En‖Ⓡ‖https://en.wikipedia.org/wiki/SCADA
 *Z‖rocket/‖SI‖En‖🚀‖
+*Z‖rollingstock/‖SI‖En‖🚅‖
 Z*‖run2er/‖SI‖Dis‖🏃‖
 Z*‖runner/‖SI‖En‖🏃‖
 Z*‖sad/‖SI‖En‖😞‖
@@ -260,7 +266,9 @@ Z*‖stop/‖SI‖En‖🛇‖
 *Z‖support/‖SI‖En‖💪‖
 *Z‖talk/‖SI‖En‖🗪‖
 Z*‖tank/‖CL‖En‖░░░░░███████ ]▄▄▄▄▄▄ `~~~~~~ ~~~~ ~~~~ ~~~`n▂▄▅████████▅▄▃ ...............`nIl███████████████████] `n◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤..‖
+*Z‖temperature/‖SI‖En‖🌡‖
 *Z‖temple/‖SI‖En‖⛪‖
+*Z‖thermometer/‖SI‖En‖🌡‖
 *Z‖think/‖SI‖En‖🧠‖
 *Z‖thinking/‖SI‖En‖🤔‖
 *Z‖ticket/‖SI‖En‖🎫‖
@@ -281,6 +289,7 @@ Z*‖train/‖SI‖En‖🚅‖
 *Z‖video/‖SI‖En‖📹‖
 *Z‖vomit/‖MSI‖En‖🤢¦🤮‖
 *Z‖walk/‖SI‖En‖🚶‖
+*Z‖wand/‖SI‖En‖🪄‖
 *Z‖watch/‖SI‖En‖⌚‖{U+231A}
 *Z‖water/‖SI‖En‖💧‖
 *Z‖website/‖SI‖En‖🌐‖
@@ -288,6 +297,7 @@ Z*‖train/‖SI‖En‖🚅‖
 *Z‖widesmile/‖SI‖En‖😀‖
 Z*C‖wink/‖SI‖En‖😉‖
 *Z‖winktongue/‖SI‖En‖😜‖
+*Z‖wireless/‖SI‖En‖🛜‖
 *Z‖woman/‖SI‖En‖🚺🛊‖
 *Z‖world/‖MSI‖En‖🗺¦🌐¦🌍¦🌏¦🌎¦🗺🌐🌍🌏🌎‖
 Z*‖write/‖SI‖En‖✍‖U+270D

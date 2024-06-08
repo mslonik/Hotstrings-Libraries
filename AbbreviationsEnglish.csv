@@ -11,11 +11,16 @@ Examples:	Special triggerstrings: d(t, o, h): d(.ahk, B0?, ) (empty hotstring), 
 */
 
 *Z‖-/‖MCL‖En‖_¦- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¦-----------------------------------------------------------------------------------------¦= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =¦===========================================================¦# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #¦____________________________________________________‖
+*Z‖101/‖SI‖En‖beginner's guide‖
 Z*‖2d‖MSI‖En‖2D¦two-dimensional‖
 Z‖2fa‖SI‖En‖2FA‖
 Z*‖2fa/‖SI‖En‖Two-Factor Authentication‖
+Z‖2g‖SI‖En‖2G‖
 Z*‖3d‖MSI‖En‖3D¦three-dimensional‖
+Z‖3g‖SI‖En‖3G‖
+Z‖4g‖SI‖En‖4G‖
 Z‖5g‖SI‖En‖5G‖
+Z‖6d‖SI‖En‖6D‖
 Z‖6kro‖SI‖En‖6KRO‖https://en.wikipedia.org/wiki/Key_rollover
 *Z‖6kro/‖SI‖En‖6KRO; means you can push up to 6 keys + modifier keys (CTRL, ALT, etc.) at once and the keyboard will recognize all of your key presses‖https://en.wikipedia.org/wiki/Key_rollover
 Z*‖a/‖SI‖Dis‖Availability‖
@@ -33,6 +38,8 @@ Z‖adhd‖SI‖En‖ADHD‖
 Z*‖adhd/‖SI‖En‖Attention Deficit Hyperactivity Disorder‖https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
 Z‖aed‖SI‖En‖AED‖
 *Z‖aed/‖SI‖En‖Automated External Defibrillator‖https://en.wikipedia.org/wiki/Automated_external_defibrillator
+CZ‖aes‖SI‖En‖AES‖
+*CZ‖aes/‖SI‖En‖Advanced Encryption Standard‖
 Z*‖afaik/‖CL‖En‖as far as I know‖
 *Z‖ahk/‖MSI‖En‖AutoHotkey¦https://github.com/mslonik¦https://www.autohotkey.com/docs/AutoHotkey.htm¦https://www.autohotkey.com/boards/‖https://www.autohotkey.com/
 Z‖ai‖SI‖En‖AI‖
@@ -50,6 +57,8 @@ Z‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
 Z‖api‖SI‖En‖API‖
 *Z‖api/‖SI‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
+CZ‖apn‖SI‖En‖APN‖
+*CZ‖apn/‖MSI‖En‖Acess Point Name¦gateway between mobile networks and frequently the Internet‖
 Z‖ar‖SI‖En‖AR‖
 Z*‖ar/‖SI‖En‖Augmented Reality‖
 Z‖arema‖SI‖En‖AREMA‖
@@ -60,6 +69,8 @@ Z*‖asci/‖CL‖En‖American Standard Code for Information Interchange‖
 Z‖ascii‖SI‖En‖ASCII‖
 Z*‖ascii/‖SI‖En‖American Standard Code for Information Interchange‖https://en.wikipedia.org/wiki/ASCII
 Z*‖asciiart/‖SI‖En‖https://asciiart.website/index.php?art=holiday/christmas/trees‖https://en.wikipedia.org/wiki/Break-even_(economics)#Construction
+Z‖asic‖SI‖En‖ASIC‖
+*Z‖asic/‖SI‖En‖Application Specific Integrated Circuit‖
 Z‖asmr‖SI‖En‖ASMR‖
 *Z‖asmr/‖SI‖En‖Autonomous Sensory Meridian Response‖https://en.wikipedia.org/wiki/ASMR
 Z‖atm‖SI‖En‖ATM‖
@@ -76,10 +87,16 @@ Z‖bbcode‖SI‖En‖BBCode‖
 *Z‖bbcode/‖SI‖En‖Bulletin Board Code‖
 Z‖bbs‖SI‖En‖BBS‖
 *Z‖bbs/‖SI‖En‖Bulletin Board System‖
+Z‖bcm‖SI‖En‖BCM‖
+*Z‖bcm/‖SI‖En‖Business Continuity Management‖
 Z‖bi‖SI‖En‖BI‖
 *Z‖bi/‖MSI‖En‖Basic Integration¦Basic Integration / SIL0‖
+Z‖bia‖SI‖En‖BIA‖
+*Z‖bia/‖SI‖En‖Business Impact Analysis‖
 Z‖bios‖SI‖En‖BIOS‖
 Z*‖bios/‖SI‖En‖Basic Input/Output System‖https://en.wikipedia.org/wiki/BIOS
+Z‖ble‖SI‖En‖BLE‖
+*Z‖ble/‖SI‖En‖Bluetooth Low Energy‖
 Z‖bom‖SI‖En‖BOM‖
 Z*‖bom/‖MSI‖En‖Bill of Materials¦Byte Order Mark‖
 Z‖bpm‖SI‖En‖BPM‖
@@ -102,7 +119,11 @@ Z*‖cat/‖CL‖En‖Computer Assisted Translation‖https://en.wikipedia.org/w
 *OZ‖cat`t‖SI‖En‖CAT‖
 Z‖cbbs‖SI‖En‖CBBS‖
 *Z‖cbbs/‖SI‖En‖Computer Board Bulletin System‖
+Z‖cbm‖SI‖En‖CBM‖
+*Z‖cbm/‖SI‖En‖Condition Based Monitoring‖
 Z*‖cc/‖MSI‖En‖CC0 (Creative Commons "No Rights Reserved")¦CC BY (Creative Commons Attribution)¦CC BY-SA (Creative Commons Attribution-ShareAlike)¦CC BY-NC (Creative Commons Attribution-NonCommercial)¦BY-NC-SA (Creative Commons NonCommercial-ShareAlike)¦BY-ND (Creative Commons Attribution-NoDerivatives)¦BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)‖https://en.wikipedia.org/wiki/Creative_Commons_license
+CZ‖ccm‖SI‖En‖CCM‖
+*CZ‖ccm/‖SI‖En‖counter with cipher block chaining message authentication code‖
 Z‖ccms‖SI‖En‖CCMS‖
 Z*‖ccms/‖SI‖En‖Component Content Management System‖
 Z‖cctv‖CL‖En‖CCTV‖
@@ -116,11 +137,14 @@ Z‖cfo‖SI‖En‖CFO‖
 Z*‖cfo/‖SI‖En‖Chief Financial Officer‖
 Z‖cgi‖SI‖En‖CGI‖
 Z*‖cgi/‖SI‖En‖Computer-Generated Imagery‖
+Z‖chf‖SI‖En‖CHF‖
 Z‖ci‖SI‖Dis‖CI‖
 Z*‖ci/‖SI‖En‖Continuous Integration‖
 Z*‖ci`t‖SI‖En‖CI‖
 Z‖cicd‖SI‖En‖CI/CD‖
 *Z‖cicd/‖SI‖En‖Continuous Integration / Continuous Deployment (Delivery)‖
+Z‖cio‖SI‖En‖CIO‖
+*Z‖cio/‖SI‖En‖Chief Information Officer‖
 Z‖cisc‖SI‖En‖CISC‖
 *Z‖cisc/‖SI‖En‖Complex Instruction Set Computer‖
 Z‖cli‖SI‖En‖CLI‖
@@ -131,6 +155,8 @@ Z‖cmyk‖SI‖En‖CMYK‖
 *Z‖cmyk/‖SI‖En‖Cyan Magenta Yellow Key (black)‖
 Z‖cnc‖SI‖En‖CNC‖
 *Z‖cnc/‖SI‖En‖Computer Numerical Control‖
+Z‖coap‖SI‖En‖CoAP‖
+*Z‖coap/‖SI‖En‖Constrained Application Protocol‖
 Z‖com‖SI‖Dis‖COM‖
 Z*‖com/‖MCL‖En‖a serial port interface on IBM PC-compatible computers¦Component Object Model, a Microsoft software interface technology‖
 Z*‖com`t‖SI‖En‖COM‖https://en.wikipedia.org/wiki/Com
@@ -185,6 +211,8 @@ Z‖ddr2‖SI‖En‖DDR2‖
 Z‖ddr3‖SI‖En‖DDR3‖
 Z‖ddr4‖SI‖En‖DDR3‖
 Z‖ddr5‖SI‖En‖DDR3‖
+Z‖dect‖SI‖En‖DECT‖
+*Z‖dect/‖SI‖En‖Digital Enhanced Cordless Telecommunication‖
 Z‖devops‖SI‖En‖DevOps‖
 *Z‖devops/‖MSI‖En‖Development and IT Operations¦DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the software development life cycle.‖
 Z‖dftba‖SI‖En‖DFTBA‖
@@ -201,6 +229,10 @@ Z‖dita‖SI‖En‖DITA‖https://en.wikipedia.org/wiki/Darwin_Information_Typ
 Z*‖dita/‖CL‖En‖Darwin Information Typing Architecture‖
 Z‖diy‖SI‖En‖DIY‖
 Z*‖diy/‖SI‖En‖Do It Yourself‖
+Z‖dlc‖SI‖En‖DLC‖
+*Z‖dlc/‖SI‖En‖Data Link Control‖
+CZ‖dma‖SI‖En‖DMA‖
+*CZ‖dma/‖SI‖En‖Direct Memory Access‖
 Z‖dmu‖SI‖En‖DMU‖
 Z*‖dmu/‖SI‖En‖Diesel Multiple Unit‖
 Z‖dna‖SI‖En‖DNA‖
@@ -209,6 +241,8 @@ Z‖dnd‖SI‖En‖D&D‖
 Z*‖dnd/‖SI‖En‖Drag&Drop‖
 Z‖dns‖SI‖En‖DNS‖https://en.wikipedia.org/wiki/Domain_Name_System
 Z‖dns/‖SI‖En‖Domain Name System‖https://www.ibm.com/pl-pl/products/requirements-management
+Z‖dof‖SI‖En‖DOF‖
+*Z‖dof/‖SI‖En‖Degrees Of Freedom‖
 Z*‖doors/‖SI‖En‖ Dynamic Object Oriented Requirements System‖
 *Z‖doors`t‖SI‖En‖IBM DOORS‖
 *Z‖dora/‖SI‖En‖DevOps Research and Assessment‖
@@ -224,8 +258,12 @@ Z‖dsl‖SI‖En‖DSL‖https://en.wikipedia.org/wiki/Digital_subscriber_line
 Z*‖dsl/‖SI‖En‖Digital Subscriber Line‖
 Z‖dslr‖SI‖En‖DSLR‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z*‖dslr/‖SI‖En‖Digital Single-Lens Reflex camera‖
+Z‖dsp‖SI‖En‖DSP‖
+*Z‖dsp/‖SI‖En‖Digital Signal Processing‖
 Z‖dtd‖SI‖En‖DTD‖
 *Z‖dtd/‖SI‖En‖Document Type Definition‖
+Z‖dtls‖SI‖En‖DTLS‖
+*Z‖dtls/‖SI‖En‖Datagram Transport Layer Security‖
 Z‖dvd‖SI‖En‖DVD‖https://en.wikipedia.org/wiki/DVD
 Z*‖dvd/‖SI‖En‖Digital Versatile Disc‖
 Z‖dwg‖SI‖En‖DWG‖https://en.wikipedia.org/wiki/.dwg
@@ -235,6 +273,8 @@ Z*‖dxf/‖SI‖En‖Drawing Exchange Format‖
 Z*‖dyi/‖SI‖En‖do it yourself‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z‖e/e/pe‖SI‖En‖E/E/PE‖
 *Z‖e/e/pe/‖SI‖En‖electrical / electronic / programmable electronic‖
+Z‖e2e‖SI‖En‖E2E‖
+*Z‖e2e/‖SI‖En‖End-to-End‖testing procedure
 *Z‖ea/‖SI‖En‖Enterprise architecture (EA) is a business function concerned with the structures and behaviors of a business, especially business roles and processes that create and use business data. The international definition according to the Federation of Enterprise Architecture Professional Organizations is "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a comprehensive approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes."‖https://en.wikipedia.org/wiki/Enterprise_architecture
 Z‖ecg‖SI‖En‖ECG‖
 *Z‖ecg/‖SI‖En‖ELectrocardiogram‖https://en.wikipedia.org/wiki/Electrocardiography
@@ -249,6 +289,8 @@ Z‖ei‖SI‖En‖EI‖
 Z*‖ei/‖CL‖En‖Emotional Intelligence‖
 Z‖elsa‖SI‖En‖ELSA‖
 *Z‖elsa/‖SI‖En‖English Language Skills Assessment‖
+CZ‖embb‖SI‖En‖eMBB‖
+*CZ‖embb/‖SI‖En‖enhanced Mobile Broadbend‖
 Z‖emc‖SI‖En‖EMC‖
 Z*‖emc/‖CL‖En‖Electro-Magnetic Compatibility‖
 Z‖emea‖SI‖En‖EMEA‖
@@ -277,10 +319,14 @@ Z‖erp‖SI‖En‖ERP‖
 Z*‖erp/‖CL‖En‖Enterprise Resource Planning‖
 Z‖esd‖SI‖En‖ESD‖
 *Z‖esd/‖MSI‖En‖Electro Static Discharge¦wyładowania elektrostatyczne‖
+CZ‖esim‖SI‖En‖eSIM‖
+*CZ‖esim/‖SI‖En‖embedded SIM‖
 Z‖eta‖SI‖En‖ETA‖
 Z*‖eta/‖SI‖En‖Estimated Time to Arrival‖
 Z‖eto‖SI‖En‖ETO‖
 *Z‖eto/‖MSI‖En‖Engineer to Order¦to complete an order, redesign effort is required, potentially including tests and certification.‖
+Z‖etsi‖SI‖En‖ETSI‖
+*Z‖etsi/‖SI‖En‖European Telecommunications Standards Institute‖
 Z‖eu‖SI‖En‖EU‖
 Z*‖eu/‖SI‖En‖European Union‖
 Z‖eula‖SI‖En‖EULA‖
@@ -297,12 +343,22 @@ Z‖fbi‖SI‖En‖FBI‖
 *Z‖fbi/‖SI‖En‖Federal Bureau of Investigation‖
 Z‖fbx‖SI‖En‖FBX‖
 Z*‖fbx/‖SI‖En‖(Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006‖
+Z‖fdma‖SI‖En‖FDMA‖
+*Z‖fdma/‖SI‖En‖Frequency Division Multiple Access‖
 Z‖fea‖SI‖En‖FEA‖https://en.wikipedia.org/wiki/LSD
 *Z‖fea/‖SI‖En‖Finite Element Analysis‖https://en.wikipedia.org/wiki/LSD
+Z‖fem‖SI‖En‖FEM‖
+*Z‖fem/‖MSI‖En‖Front End Module¦In a radio receiver circuit, the RF front end, short for radio frequency front end, is a generic term for all the circuitry between a receiver’s antenna input up to and including the mixer stage2. It consists of all the components in the receiver that process the signal at the original incoming radio frequency (RF), before it is converted to a lower intermediate frequency (IF).`n`nKey components of an RF FEM often include:`n`nA band-pass filter (BPF) to reduce image response. This removes any signals at the image frequency, which would otherwise interfere with the desired signal. It also prevents strong out-of-band signals from saturating the input stages.`nAn RF amplifier, often called the low-noise amplifier (LNA). Its primary responsibility is to increase the sensitivity of the receiver by amplifying weak signals without contaminating them with noise, so that they can stay above the noise level in succeeding stages. It must have a very low noise figure (NF).`nA local oscillator (LO) which generates a radio frequency signal at an offset from the incoming signal, which is mixed with the incoming signal.`nThe mixer, which mixes the incoming signal with the signal from the local oscillator to convert the signal to the intermediate frequency (IF).‖
+Z‖fft‖SI‖En‖FFT‖https://en.wikipedia.org/wiki/Inertial_measurement_unit
+*Z‖fft/‖SI‖En‖Fast Fourier Transform‖
 Z‖fido‖SI‖En‖FIDO‖https://en.wikipedia.org/wiki/FIDO_Alliance
 Z*‖fido/‖MSI‖En‖Fast IDentity Online¦The FIDO Alliance is an open industry association launched in February 2013 whose stated mission is to develop and promote authentication standards that "help reduce the world’s over-reliance on passwords".‖
 Z‖fifa‖SI‖En‖FIFA‖
 Z*‖fifa/‖MSI‖En‖Fédération Internationale de Football Association¦International Federation of Association Football‖
+Z‖fifo‖SI‖En‖FIFO‖
+*Z‖fifo/‖SI‖En‖First-In, First-Out‖
+Z‖fir‖SI‖En‖FIR‖
+*Z‖fir/‖SI‖En‖Finite Impulse Response‖
 CZ‖fkk‖SI‖En‖FKK‖
 *CZ‖fkk/‖MSI‖En‖Freikörperkultur (ger.)¦free body kulture (eng.)‖
 Z‖fm‖SI‖En‖FM‖
@@ -310,17 +366,21 @@ Z‖fm‖SI‖En‖FM‖
 Z‖fmea‖SI‖En‖FMEA‖
 Z*‖fmea/‖CL‖En‖Failure Mode and Effects Analysis‖
 Z‖fmeca‖SI‖En‖FMECA‖
-Z*‖fmeca/‖SI‖En‖Failure mode effects and criticality analysis‖
+*Z‖fmeca/‖SI‖En‖Failure Mode Effects and Criticality Analysis‖
 Z‖fo‖SI‖En‖FO‖
 Z*‖fo/‖SI‖En‖Fiber Optics‖Generic Application
 Z‖foss‖SI‖En‖FOSS‖
 *Z‖foss/‖SI‖En‖Free & Open-Source Software‖
+CZ‖fota‖SI‖En‖FOTA‖
+*CZ‖fota/‖SI‖En‖Firmware Over The Air‖
 Z‖fov‖SI‖En‖FOV‖
 *Z‖fov/‖SI‖En‖Field Of View‖
 Z‖fpga‖SI‖En‖FPGA‖
 Z*‖fpga/‖SI‖En‖Field-Programmable Gate Array‖
 Z‖fps‖SI‖En‖FPS‖
 *Z‖fps/‖SI‖En‖Frames Per Seconds‖
+Z‖fpu‖SI‖En‖FPU‖
+*Z‖fpu/‖SI‖En‖Floating-Point Unit‖
 Z‖frmcs‖SI‖En‖FRMCS‖
 *Z‖frmcs/‖SI‖En‖Future Railway Mobile Communication System‖
 Z‖ftp‖SI‖En‖FTP‖
@@ -330,12 +390,16 @@ Z‖gdpr‖SI‖En‖GDPR‖
 *Z‖gdpr/‖MSI‖En‖General Data Protection Regulation¦Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to processing of personal data and the free movement of that data‖
 Z‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
 Z*‖gmt/‖MSI‖En‖Greenwich Mean Time¦Poland: GMT + 01:00¦Polska: GMT + 01:00‖
+Z‖gnss‖SI‖En‖GNSS‖
+*Z‖gnss/‖SI‖En‖Global Navigation Satellite System‖
 Z‖gnu‖SI‖En‖GNU‖https://en.wikipedia.org/wiki/GNU
 Z*‖gnu/‖MCL‖En‖GNU's Not Unix!¦https://en.wikipedia.org/wiki/GNU‖https://en.wikipedia.org/wiki/One-time_password
 Z‖gpa‖SI‖En‖GPA‖
 *Z‖gpa/‖SI‖En‖Grade Point Average‖
 Z‖gpg‖SI‖En‖GPG‖https://en.wikipedia.org/wiki/GNU_Privacy_Guard
 Z*‖gpg/‖SI‖En‖GNU Privacy Guard‖
+CZ‖gpio‖SI‖En‖GPIO‖
+*CZ‖gpio/‖SI‖En‖General Purpose Input/Output‖
 Z‖gpl‖SI‖En‖GPL‖https://en.wikipedia.org/wiki/GNU_General_Public_License
 Z*‖gpl/‖MCL‖En‖General Public License¦https://en.wikipedia.org/wiki/GNU_General_Public_License¦https://www.gnu.org/licenses/gpl-3.0.html‖
 Z‖gpo‖SI‖En‖GPO‖
@@ -344,6 +408,8 @@ Z‖gps‖SI‖En‖GPS‖
 Z*‖gps/‖CL‖En‖Global Positioning System‖
 Z‖gpt‖SI‖En‖GPT‖
 Z*‖gpt/‖SI‖En‖Generative Pre-trained Transformer‖
+Z‖gpu‖SI‖En‖GPU‖
+*Z‖gpu/‖SI‖En‖Graphics Processing Unit‖
 Z‖gsm‖SI‖En‖GSM‖
 Z*‖gsm/‖CL‖En‖Global System for Mobile Communications‖
 *Z‖gsmr‖SI‖En‖GSM-R‖
@@ -352,6 +418,8 @@ Z‖gui‖SI‖En‖GUI‖
 Z*‖gui/‖CL‖En‖Graphical User Interface‖
 Z‖hart‖SI‖En‖HART‖
 Z*‖hart/‖CL‖En‖Highway Addressable Remote Transducer Protocol‖
+Z‖hdl‖SI‖En‖HDL‖
+*Z‖hdl/‖SI‖En‖Hardware Description Language‖
 Z‖hdmi‖SI‖En‖HDMI‖
 Z*‖hdmi/‖CL‖En‖High-Definition Multimedia Interface‖
 Z‖hid‖SI‖En‖HID‖
@@ -361,12 +429,14 @@ Z‖hp‖SI‖En‖HP‖
 Z*‖hp/‖MSI‖En‖Horizontal Pitch¦1x HP = 0.2 '' = 5.08 mm¦1x HP is a unit of length defined by the Eurocard printed circuit board standard used to measure the horizontal width of rack mounted electronic equipment‖https://en.wikipedia.org/wiki/Horizontal_pitch
 Z‖hrm‖SI‖En‖HRM‖
 *Z‖hrm/‖SI‖En‖Heart Rate Monitor‖
-Z‖html‖SI‖En‖HTML‖
-Z*‖html/‖SI‖En‖HyperText Markup Language‖
 Z‖hvac‖CL‖En‖HVAC‖
 Z*‖hvac/‖CL‖En‖Heating Ventilation Air Conditioning‖
 Z‖hw‖SI‖En‖HW‖
 Z*‖hw/‖SI‖En‖hardware‖
+Z‖i2c‖MSI‖En‖I2C¦I²C¦IIC‖
+*Z‖i2c/‖MSI‖En‖Inter-Integrated Circuit¦Synchronous, multi-controller/multi-target (historically-termed as master/slave), single-ended, serial communication bus. A particular strength of I2C is the capability of a microcontroller to control a network of device chips with just two general-purpose I/O pins and software. Many other bus technologies used in similar applications, such as Serial Peripheral Interface Bus (SPI), require more pins and signals to connect multiple devices.¦IIC‖
+Z‖i3c‖SI‖En‖I3C‖
+*Z‖i3c/‖MSI‖En‖SenseWire¦Improved Inter Integrated Circuit¦Two-wire serial communication bus specification for connecting peripherals to microprocessors and microcontrollers. It's designed as the successor to I2C, SPI, and UART interfaces. The standard defines a signalling protocol in which multiple chips can control communication and thereby act as the bus controller.‖
 Z‖iacs‖SI‖En‖IACS‖IEC 62443-4-1
 Z*‖iacs/‖SI‖En‖Industrial Automation and Control Systems‖
 Z‖iarc‖SI‖En‖IARC‖
@@ -380,22 +450,36 @@ Z‖iec‖SI‖En‖IEC‖
 Z*‖iec/‖MSI‖En‖International Electrotechnical Commission¦https://www.iec.ch/homepage‖
 Z‖ielts‖SI‖En‖IELTS‖
 *Z‖ielts/‖SI‖En‖International English Language Testing System‖https://en.wikipedia.org/wiki/International_English_Language_Testing_System
+Z‖iIoT‖SI‖En‖IIoT‖
+*Z‖iioT/‖SI‖En‖Industrial Internet of Things‖
+Z‖iir‖SI‖En‖IIR‖
+*Z‖iir/‖SI‖En‖Infinite Impulse Response‖
 Z‖iis‖SI‖En‖IIS‖
 *Z‖iis/‖SI‖En‖Internet Information Service‖
+CZ‖imei‖SI‖En‖IMEI‖
+*CZ‖imei/‖SI‖En‖International Mobile Equipment Identity‖
+Z‖imu‖SI‖En‖IMU‖
+*Z‖imu/‖MSI‖En‖Inertial Measurement Unit¦an electronic device that measures and reports a body's specific force, angular rate, and sometimes the orientation of the body, using a combination of accelerometers, gyroscopes, and sometimes magnetometers.‖https://en.wikipedia.org/wiki/Inertial_measurement_unit
 Z‖iot‖SI‖En‖IoT‖
 Z*‖iot/‖SI‖En‖Internet of Things‖
 Z‖ip‖SI‖En‖IP‖
 Z*‖ip/‖MCL‖En‖IP Code, Ingress Protection code, electronic module enclosure protection level¦https://en.wikipedia.org/wiki/IP_Code‖
 Z‖ipa‖SI‖En‖IPA‖
 *Z‖ipa/‖SI‖En‖International Phonetic Alphabet‖
+CZ‖ipr‖SI‖En‖IPR‖
+*CZ‖ipr/‖SI‖En‖Intellectual Property Rights‖
 Z‖iq‖SI‖En‖IQ‖
 Z*‖iq/‖CL‖En‖Inteligence Quotient‖
 Z‖iris‖SI‖En‖IRIS‖
 Z*‖iris/‖CL‖En‖International Railway Industry Standard for the evaluation of railway management systems‖
+Z‖isa‖SI‖En‖ISA‖
+*Z‖isa/‖SI‖En‖Instruction Set Architecture‖
 Z‖isbn‖SI‖En‖ISBN‖
 Z*‖isbn/‖SI‖En‖International Standard Book Number‖https://en.wikipedia.org/wiki/ISBN
 Z‖isis‖SI‖En‖ISIS‖
 *Z‖isis/‖SI‖En‖Islamic State of Iraq and Syria‖
+Z‖ism‖SI‖En‖ISM‖
+*Z‖ism/‖SI‖En‖Industrial Scientific Medical‖
 Z‖iso‖SI‖En‖ISO‖
 Z*‖iso/‖SI‖En‖International Standard Organisation‖
 Z‖isp‖SI‖En‖ISP‖
@@ -405,7 +489,11 @@ Z‖isv‖SI‖En‖ISV‖
 *Z‖it`t‖SI‖En‖IT‖
 Z‖itil‖SI‖En‖ITIL‖
 *Z‖itil/‖SI‖En‖Information Technology Infrastructure Library‖https://www.itlibrary.org/
+Z‖itu‖SI‖En‖ITU‖
+*Z‖itu/‖SI‖En‖International Telecommunication Union‖
 Z*‖javascript‖SI‖En‖JavaScript‖
+Z‖jtag‖SI‖En‖JTAG‖
+*Z‖jtag/‖SI‖En‖Joint Test Action Group‖
 Z‖kerml‖SI‖En‖KerML‖
 *Z‖kerml/‖MSI‖En‖Kernel Modeling Language¦modeling language to create modeling languages‖
 Z‖kpi‖SI‖En‖KPI‖
@@ -426,10 +514,16 @@ Z‖lcc‖SI‖En‖LCC‖
 Z*‖lcc/‖SI‖En‖Life Cycle Cost‖
 Z‖lcd‖SI‖En‖LCD‖
 Z*‖lcd/‖SI‖En‖Liquid Cristal Display‖
+Z‖ldo‖SI‖En‖LDO‖
+*Z‖ldo/‖MSI‖En‖Low Dropout Regulator¦can be used to provide a stable power supply to the sensor and other components, regardless of fluctuations in the input power1. This can help to ensure accurate and reliable sensor readings.‖
+CZ‖le‖SI‖En‖LE‖
+*CZ‖le/‖SI‖En‖Low Energy‖
 Z‖led‖SI‖En‖LED‖
 Z*‖led/‖CL‖En‖Light Emitting Diode‖
 Z‖lgbt‖SI‖En‖LGBT‖
 Z*‖lgbt/‖SI‖En‖Lesbian Gay Bisexual Transgender‖
+Z‖lifo‖SI‖En‖LIFO‖
+*Z‖lifo/‖SI‖En‖Last-In, First-Out‖
 Z‖llc‖SI‖En‖LLC‖
 *Z‖llc/‖MSI‖En‖Life Cycle Cost¦Limited Liability Company‖
 Z‖llm‖SI‖En‖LLM‖
@@ -440,14 +534,22 @@ Z‖lnd‖SI‖En‖L&D‖
 Z*‖lnd/‖SI‖En‖Learning and Development‖
 Z‖lop‖SI‖En‖LOP‖
 Z*‖lop/‖CL‖En‖List of Open Points‖
+CZ‖lpwa‖SI‖En‖LPWA‖
+*CZ‖lpwa/‖SI‖En‖Low Power Wide Area Network‖
+Z‖lpwan‖SI‖En‖LPWAN‖
+*Z‖lpwan/‖SI‖En‖Low Power Wide Area Network‖
 Z‖lru‖SI‖En‖LRU‖
 Z*‖lru/‖SI‖En‖Line Replacable Unit‖
 Z‖lsd‖SI‖En‖LSD‖
 *Z‖lsd/‖SI‖En‖Lysergic acid diethylamide‖https://en.wikipedia.org/wiki/LSD
 Z‖lte‖SI‖En‖LTE‖
 Z*‖lte/‖SI‖En‖Long-Term Evolution‖
+Z‖ltem‖SI‖En‖LTE-M‖
+*Z‖ltem/‖SI‖En‖Long-Term Evolution Machine (Type Communication)‖
+Z‖lts‖SI‖En‖LTS‖
+*Z‖lts/‖SI‖En‖Long Time Support‖
 Z‖mac‖SI‖En‖MAC‖https://en.wikipedia.org/wiki/MAC_address
-Z*‖mac/‖SI‖En‖Media Access control Address ‖
+*Z‖mac/‖SI‖En‖Media Access Control‖
 Z‖mba‖SI‖En‖MBA‖
 Z*‖mba/‖SI‖En‖Master of Business Administration‖
 Z‖mbe‖SI‖En‖MBE‖
@@ -460,19 +562,27 @@ Z‖md5‖SI‖En‖MD5‖https://en.wikipedia.org/wiki/MD5
 Z*‖md5/‖MSI‖En‖Message-Digest Algorithm¦hash function producing a 128-bit hash value‖
 Z‖mdt‖SI‖En‖MDT‖
 Z*‖mdt/‖CL‖En‖Mean Down Time‖
+Z‖mems‖SI‖En‖MEMS‖
+*Z‖mems/‖SI‖En‖Micro-ElectroMechanical System‖
 Z‖mfa‖SI‖En‖MFA‖
 Z*‖mfa/‖SI‖En‖Multi Factor Authentication‖
 Z‖midi‖SI‖En‖MIDI‖
 *Z‖midi/‖SI‖En‖Musical Instrument Digital Interface‖
 Z‖mime‖SI‖En‖MIME‖
 *Z‖mime/‖SI‖En‖Multipurpose Internet Mail Extensions‖https://en.wikipedia.org/wiki/MIME
+Z‖mimo‖SI‖En‖MIMO‖
+*Z‖mimo/‖SI‖En‖Multiple Input Multiple Output‖
 Z‖mit‖SI‖En‖MIT‖
 *Z‖mit/‖SI‖En‖Massachusetts Institute of Technology‖
 Z‖mmc‖SI‖En‖MMC‖
 *Z‖mmc/‖SI‖En‖Multi Media Card‖
+CZ‖mmtc‖SI‖En‖mMTC‖
+*CZ‖mmtc/‖SI‖En‖massive Machine Type Communication‖
 Z‖modbus‖SI‖En‖Modbus‖
 Z‖mom‖SI‖En‖MoM‖
 Z*‖mom/‖SI‖En‖Minutes of Meeting‖
+Z‖mqtt‖SI‖En‖MQTT‖
+*Z‖mqtt/‖MSI‖En‖MQ Telemetry Transport¦lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service. It is designed for connections with remote locations that have devices with resource constraints or limited network bandwidth, such as in the Internet of Things (IoT). It must run over a transport protocol that provides ordered, lossless, bi-directional connections—typically, TCP/IP,[1] but also possibly over QUIC.It is an open OASIS standard and an ISO recommendation (ISO/IEC 20922).‖
 Z‖mri‖SI‖En‖MRI‖
 *Z‖mri/‖SI‖En‖Magnetic Rezonanse Imaging‖
 Z‖mrna‖SI‖En‖mRNA‖
@@ -502,6 +612,10 @@ Z*‖nas/‖SI‖En‖Network Attached Storage‖
 Z*‖nas`t‖SI‖En‖NAS‖
 Z‖nato‖SI‖En‖NATO‖
 Z*‖nato/‖SI‖En‖North Atlantic Treaty Organization‖
+Z‖nb-iot‖SI‖En‖NB-IoT‖
+*Z‖nb-iot/‖SI‖En‖NarrowBand Internet of Things‖
+Z‖nbiot‖SI‖En‖NB-IoT‖
+*Z‖nbiot/‖SI‖En‖NarrowBand Internet of Things‖
 Z‖ncr‖SI‖En‖NCR‖
 Z*‖ncr/‖CL‖En‖Non Conformance Report‖
 Z‖nda‖SI‖En‖NDA‖
@@ -518,12 +632,18 @@ Z‖nobo‖SI‖En‖NoBo‖
 Z*‖nobo/‖SI‖En‖Notified Body‖
 Z‖nrem‖SI‖En‖NREM‖
 *Z‖nrem/‖SI‖En‖Non-Rapid Eye Movement‖
+CZ‖ntn‖SI‖En‖NTN‖
+*CZ‖ntn/‖SI‖En‖Non-Terrestrial Network‖
 Z‖ntp‖SI‖En‖NTP‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖ntp/‖SI‖En‖Network Time Protocol‖
 Z‖ocd‖SI‖En‖OCD‖
 *Z‖ocd/‖SI‖En‖Obsessive-Compulsive Disorder‖
 Z‖ocr‖SI‖En‖OCR‖
 Z‖ocr/‖SI‖En‖Optical Character Recognition‖
+Z‖odm‖SI‖En‖ODM‖
+*Z‖odm/‖SI‖En‖Original Design Manufacturer‖
+Z‖odr‖SI‖En‖ODR‖
+*Z‖odr/‖MSI‖En‖Output Data Rate¦denote the frequency at which data is sampled and output by the device‖
 Z‖oecd‖SI‖En‖OECD‖
 *Z‖oecd/‖SI‖En‖Organisation for Economic Co-operation and Development‖
 Z‖oem‖SI‖En‖OEM‖
@@ -551,20 +671,29 @@ Z‖oss‖SI‖En‖OSS‖
 *Z‖oss/‖SI‖En‖Open-Source Software‖
 Z‖ostree‖SI‖En‖OSTree‖
 *Z‖ostree/‖SI‖En‖System for versioning updates of Linux-based operating systems. It can be considered as "Git for operating system binaries". It operates in userspace, and will work on top of any Linux file system. At its core is a Git-like content-addressed object store with branches (or "refs") to track meaningful file system trees within the store.‖
+Z‖otap‖SI‖En‖OTAP‖
+*Z‖otap/‖SI‖En‖Over the Air Programming‖
 Z‖otp‖SI‖En‖OTP‖https://en.wikipedia.org/wiki/One-time_password
 Z*‖otp/‖MSI‖En‖One-Time Password¦is a password that is valid for only one login session or transaction, on a computer system or other digital device‖
+Z‖p&l‖SI‖En‖P&L‖
+*Z‖p&l/‖SI‖En‖profit & loss‖
+*Z‖pandl/‖SI‖En‖profit & loss‖
 Z‖pbs‖SI‖En‖PBS‖
 Z*‖pbs/‖SI‖En‖Product Breakdown Structure‖
 Z‖pcb‖SI‖En‖PCB‖
 Z*‖pcb/‖CL‖En‖Printed Circuit Board‖
 Z‖pci‖SI‖En‖PCI‖
 *Z‖pci/‖SI‖En‖Peripheral Component Interconnect‖
+Z‖pcie‖SI‖En‖PCIe‖
+*Z‖pcie/‖MSI‖En‖PCI Express¦Peripheral Component Interconnect Express‖
 Z‖pcm‖SI‖En‖PCM‖
 *Z‖pcm/‖SI‖En‖Pulse-Code Modulation‖https://en.wikipedia.org/wiki/Pulse-code_modulation
 Z‖pcn‖SI‖En‖PCN‖
 Z*‖pcn/‖SI‖En‖Product Change Notification‖
 Z‖pda‖SI‖En‖PDA‖
 *Z‖pda/‖SI‖En‖Personal Digital Assistant‖
+Z‖pdn‖SI‖En‖PDN‖
+*Z‖pdn/‖SI‖En‖Product Discontinuance Notification‖
 Z‖pe‖SI‖En‖PE‖
 Z*‖pe/‖SI‖En‖Protective Earth‖
 Z?‖pgp‖SI‖En‖PGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
@@ -573,15 +702,21 @@ Z‖phd‖SI‖En‖PhD‖
 Z‖phd/‖SI‖En‖philosophiae doctor‖
 Z‖php‖SI‖En‖PHP‖
 *Z‖php/‖SI‖En‖PHP: Hypertext Preprocessor‖
+Z‖phy‖SI‖En‖PHY‖
+*Z‖phy/‖SI‖En‖Physical‖
 Z‖pin‖SI‖En‖PIN‖
 Z*‖pin/‖SI‖En‖Personal Identification Number‖
 Z‖pit‖SI‖En‖PIT‖
 Z*‖pit/‖SI‖En‖Personal Income Tax‖
+Z‖pkm‖SI‖En‖PKM‖
+*Z‖pkm/‖SI‖En‖Personal Knowledge Management‖
 Z‖plc‖SI‖En‖PLC‖https://en.wikipedia.org/wiki/Programmable_logic_controller
 Z*‖plc/‖SI‖En‖Programmable Logic Controller‖
 Z‖plm‖SI‖En‖PLM‖
 Z*‖plm/‖CL‖En‖Product Lifecycle Management‖
 *Z‖pm/‖MSI‖En‖Post Meridiem¦Phase Modulated‖
+Z‖pmic‖SI‖En‖PMIC‖
+*Z‖pmic/‖SI‖En‖Power Management Integrated Circuit‖
 Z*‖png/‖SI‖En‖Portable Network Graphics‖
 Z‖pnp‖SI‖En‖PnP‖https://en.wikipedia.org/wiki/Plug_and_play
 Z*‖pnp/‖MSI‖En‖device with a specification that facilitates the discovery of a hardware component in a system without the need for physical device configuration or user intervention in resolving resource conflicts¦Plug and Play‖
@@ -597,8 +732,14 @@ Z‖ppi‖SI‖En‖PPI‖
 Z*‖ppi/‖SI‖En‖Point Per Inch‖
 Z‖pri‖SI‖En‖PRI‖
 *Z‖pri/‖SI‖En‖Package Resource Index‖
+Z‖psd‖SI‖En‖PSD‖
+*Z‖psd/‖SI‖En‖Power Spectral Density‖
 Z‖psi‖SI‖En‖PSI‖
 *Z‖psi/‖SI‖En‖Pound per Square Inch‖
+CZ‖psm‖SI‖En‖PSM‖
+*CZ‖psm/‖SI‖En‖Power Saving Mode‖
+Z‖psoc‖SI‖En‖PSoC‖
+*Z‖psoc/‖SI‖En‖Programmable System on a Chip‖
 Z‖ptfe‖SI‖En‖PTFE‖
 *Z‖ptfe/‖SI‖En‖polytetrafluoroethylene‖https://en.wikipedia.org/wiki/Polytetrafluoroethylene
 Z‖puk‖SI‖En‖PUK‖
@@ -609,16 +750,24 @@ Z‖pwa‖SI‖En‖PWA‖
 *Z‖pwa/‖MSI‖En‖Progressive Web App¦type of application software delivered through the web, built using common web technologies incuding HTML, CSS, JavaScript and WebAssembly.‖
 Z‖pwm‖SI‖En‖PWM‖
 Z*‖PWM/‖SI‖En‖Pulse-Width Modulation‖
+Z‖qam‖SI‖En‖QAM‖
+*Z‖qam/‖SI‖En‖Qadrature Amplitude Modulation‖
 Z‖qhsee‖SI‖En‖QHSEE‖
 Z*‖qhsee/‖SI‖En‖Quality, Health, Safety, Environment and Energy‖
 Z‖qmk‖SI‖En‖QMK‖
 *Z‖qmk/‖SI‖En‖Quantum Mechanical Keyboard‖
 Z‖qna‖SI‖En‖Q&A‖
 Z*‖qna/‖CL‖En‖Questions and Answers‖
+Z‖qos‖SI‖En‖QoS‖
+*Z‖qos/‖SI‖En‖Quality of Service‖
 ZC‖qr‖SI‖En‖QR code‖
 Z*‖qr/‖SI‖En‖Quick Response code‖
 Z‖qrams‖SI‖En‖QRAMS‖
 Z*‖qrams/‖CL‖En‖Quality, Reliability, Availability, Maintainability, Safety‖
+CZ‖qspi‖SI‖En‖QSPI‖
+*CZ‖qspi/‖SI‖En‖Queued Serial Peripheral Interface‖
+Z‖quic‖SI‖En‖QUIC‖
+*Z‖quic/‖SI‖En‖general-purpose transport layer network protocol initially designed by Jim Roskind at Google, implemented, and deployed in 2012, announced publicly in 2013 as experimentation broadened, and described at an IETF meeting. QUIC is used by more than half of all connections from the Chrome web browser to Google's servers. Microsoft Edge (which, after version 1, is a derivative of the open-source Chromium browser), Firefox, and Safari support it.‖
 Z*‖r/‖SI‖En‖Reliability‖
 Z‖rac‖SI‖En‖RAC‖
 Z*‖rac/‖CL‖En‖Risk Acceptance Criteria‖
@@ -642,6 +791,8 @@ Z‖rem‖SI‖En‖REM‖
 *Z‖rem/‖SI‖En‖Rapid Eye Movement‖
 *Z‖rest/‖SI‖En‖REpresentational State Transfer‖https://en.wikipedia.org/wiki/Representational_state_transfer
 *Z‖rest`t‖SI‖En‖REST‖
+CZ‖rf‖SI‖En‖RF‖
+*CZ‖rf/‖SI‖En‖Radio Frequency‖
 Z‖rfid‖SI‖En‖RFID‖
 Z*‖rfid/‖SI‖En‖Radio Frequency Identification‖
 Z‖rfp‖SI‖En‖RFP‖
@@ -676,6 +827,8 @@ Z‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
 Z‖rtf‖SI‖En‖RTF‖
 *Z‖rtf/‖SI‖En‖Revision Task Force‖
+Z‖rtos‖SI‖En‖RTOS‖
+*Z‖rtos/‖SI‖En‖Real-Time Operating System‖
 Z‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
 Z‖sbc‖SI‖En‖SBC‖
@@ -686,6 +839,8 @@ Z‖scm‖SI‖En‖SCM‖
 *Z‖scm/‖MSI‖En‖Supply Chain Management¦Source Code Management‖
 Z‖scorm‖SI‖En‖SCORM‖https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_
 Z*‖scorm/‖SI‖En‖Sharable Content Object Reference Model‖
+Z‖scss‖SI‖En‖SCSS‖
+*Z‖scss/‖SI‖En‖Sassy CSS‖
 Z‖sdk‖SI‖En‖SDK‖https://en.wikipedia.org/wiki/Software_development_kit
 Z*‖sdk/‖SI‖En‖Software Development Kit‖
 Z‖sdl‖SI‖En‖SDL‖
@@ -698,12 +853,18 @@ Z‖sef‖SI‖En‖SEF‖
 *Z‖sef/‖SI‖En‖Search Engine Friendly‖
 Z‖seo‖SI‖En‖SEO‖
 Z*‖seo/‖SI‖En‖Search Engine Optimization‖
+CZ‖sep‖SI‖En‖SEP‖
+*CZ‖sep/‖SI‖En‖Standard Essential Patent‖
 Z‖sftp‖SI‖En‖SFTP‖
 *Z‖sftp/‖SI‖En‖SSH File Transfer Protocol‖https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
 Z‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confidence that a system will meet its specified safety functions with respect to systematic failures`n[SOURCE: IEC 62280:2014, 3.1.50]¦Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa‖
 Z*‖sil/‖MSI‖En‖Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa funkcjonalnego‖
 Z‖sim‖SI‖En‖SIM‖
 *Z‖sim/‖SI‖En‖Subscriber Identity Module‖
+Z‖sip‖SI‖En‖SiP‖
+*Z‖sip/‖SI‖En‖System in a Package‖
+Z‖sku‖SI‖En‖SKU‖
+*Z‖sku/‖SI‖En‖Stock Keeping Unit‖
 Z‖sla‖SI‖En‖SLA‖
 Z*‖sla/‖CL‖En‖Service-Level Agreement‖
 CZ‖smd‖SI‖En‖SMD‖https://en.wikipedia.org/wiki/Surface-mount_technology
@@ -720,12 +881,16 @@ Z‖so-dimm‖SI‖En‖SO-DIMM‖
 *Z‖so-dimm/‖SI‖En‖Small Outline DIMM‖
 Z‖soc‖SI‖En‖SoC‖
 *Z‖soc/‖SI‖En‖System on a Chip‖
+Z‖SOM‖SI‖En‖SoM‖
+*Z‖som/‖SI‖En‖System on Module‖
 Z‖sos‖SI‖En‖SOS‖
 *Z‖sos/‖SI‖En‖Morse code distress signal (  ▄ ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄ ▄ )‖
 Z‖spd‖SI‖En‖SPD‖
 Z*‖spd/‖SI‖En‖Surge Protection Device‖
 Z‖spdt‖SI‖En‖SPDT‖https://en.wikipedia.org/wiki/Switch
 *Z‖spdt/‖MSI‖En‖Single Pole Double Throw¦A simple break-before-make changeover switch¦Form C‖https://en.wikipedia.org/wiki/Switch
+CZ‖spi‖SI‖En‖SPI‖
+*CZ‖spi/‖SI‖En‖Serial Peripheral Interface‖
 Z‖spst‖SI‖En‖SPST‖
 *Z‖spst/‖SI‖En‖Single Pole Single Throw‖https://en.wikipedia.org/wiki/Switch
 *Z‖spstnc/‖MSI‖En‖Single Pole Single Throw – Normally Closed¦A simple on-off switch. The two terminals are normally connected together (closed) and are open when the switch is activated.¦Form B‖https://en.wikipedia.org/wiki/Switch
@@ -765,6 +930,9 @@ Z‖tcp‖SI‖En‖TCP‖
 *Z‖tcpip‖SI‖En‖TCP/IP‖
 Z‖tdd‖SI‖En‖TDD‖
 Z*‖tdd/‖SI‖En‖Test Driven Development‖
+Z‖tdm‖SI‖En‖TDM‖
+*Z‖tdm/‖SI‖En‖Time Division Multiplexing‖
+*Z‖tdma/‖SI‖En‖Time Division Multiple Access‖
 Z‖ted‖SI‖En‖TED‖
 Z*‖ted/‖SI‖En‖Technology Entertainment Design‖
 Z‖tedx‖SI‖En‖TEDx‖
@@ -799,6 +967,12 @@ Z‖uac‖SI‖En‖UAC‖
 *Z‖uac/‖SI‖En‖User Account Control‖
 Z‖uaf‖SI‖En‖UAF‖Pendolino
 *Z‖uaf/‖SI‖En‖Unified Architecture Framework‖Pendolino
+Z‖uart‖SI‖En‖UART‖
+*Z‖uart/‖SI‖En‖Universal Asynchronous Receiver-Transmitter‖
+Z‖uat‖SI‖En‖UAT‖
+*Z‖uat/‖SI‖En‖User Acceptance Test‖
+Z‖uav‖SI‖En‖UAV‖
+*Z‖uav/‖SI‖En‖Unmanned Aerial Vehicle‖
 Z‖uci‖SI‖En‖UCI‖
 *Z‖uci/‖SI‖En‖Union Cycliste Internationale‖
 Z‖udp‖SI‖En‖UDP‖
@@ -807,6 +981,8 @@ Z‖uefa‖SI‖En‖UEFA‖
 Z*‖uefa/‖SI‖En‖Union of European Football Associations‖
 Z‖uefi‖SI‖En‖UEFI‖
 *Z‖uefi/‖SI‖En‖Unified Extensible Firmware Interface‖
+CZ‖uhf‖SI‖En‖UHF‖
+*CZ‖uhf/‖SI‖En‖Ultra High Frequency‖
 Z‖ui‖SI‖En‖UI‖
 Z*‖ui/‖CL‖En‖User Interface‖
 Z‖uia‖SI‖En‖UIA‖
@@ -815,6 +991,8 @@ Z‖uic‖SI‖En‖UIC‖https://uic.org/
 *Z‖uic/‖MCL‖En‖International Union of Railways¦French: Union internationale des Chemins de fer¦Międzynarodowy Związek Kolei‖
 Z‖uml‖SI‖En‖UML‖
 *Z‖uml/‖MSI‖En‖Unified Modeling Language¦software modeling language‖
+CZ‖umts‖SI‖En‖UMTS‖https://en.wikipedia.org/wiki/3GPP
+*CZ‖umts/‖SI‖En‖Universal Mobile Telecommunications System‖
 Z‖un‖SI‖En‖UN‖
 *Z‖un/‖SI‖En‖United Nations‖
 Z‖unc‖SI‖En‖UNC‖
@@ -827,6 +1005,10 @@ Z‖uri‖SI‖En‖URI‖
 *C2Z‖uri/‖SI‖En‖uniform resource identifier‖
 Z‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL
 Z*‖url/‖SI‖En‖Uniform Resource Locator‖
+CZ‖urllc‖SI‖En‖URLLC‖
+*CZ‖urllc/‖SI‖En‖Ultra Reliable Low Latency Communication‖
+Z‖usart‖SI‖En‖USART‖
+*Z‖usart/‖SI‖En‖Universal Synchronous and Asynchronous Receiver-Transmitter‖
 Z‖usb‖SI‖En‖USB‖
 Z*‖usb/‖CL‖En‖Universal Serial Bus‖
 *Z‖usd/‖SI‖En‖United States Dollar‖
@@ -852,6 +1034,12 @@ Z‖vfs‖SI‖En‖VFS‖
 *Z‖vfs/‖SI‖En‖Virtual File System‖
 Z‖vga‖SI‖En‖VGA‖
 *Z‖vga/‖SI‖En‖Video Graphics Array‖
+Z‖vhdl‖SI‖En‖VHDL‖
+*Z‖vhdl/‖SI‖En‖VHSIC Hardware Description Language‖
+Z‖vhf‖SI‖En‖VHF‖
+*Z‖vhf/‖SI‖En‖Very High Frequency‖
+Z‖vhsic‖SI‖En‖VHSIC‖
+*Z‖vhsic/‖SI‖En‖Very High Speed Integrated Circuit‖
 Z‖vip‖SI‖En‖VIP‖
 Z*‖vip/‖MSI‖En‖Very Important Person¦Very Individual Person‖
 Z‖vlan‖SI‖En‖VLAN‖https://en.wikipedia.org/wiki/Virtual_LAN
@@ -866,10 +1054,14 @@ Z‖vr‖CL‖En‖VR‖
 Z*‖vr/‖CL‖En‖Virtual Reality‖Visual Studio Code
 Z‖vsc‖SI‖En‖VSC‖Visual Studio Code
 Z*‖vsc/‖SI‖En‖Visual Studio Code‖
+CZ‖wan‖SI‖En‖WAN‖
+*CZ‖wan/‖SI‖En‖Wide Area Network‖
 Z‖wcag‖SI‖En‖WCAG‖https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
 Z*‖wcag/‖SI‖En‖Web Content Accessibility Guidelines‖
 *Z‖who/‖SI‖En‖World Health Organization‖https://en.wikipedia.org/wiki/World_Health_Organization
 Z‖who`t‖SI‖En‖WHO‖
+CZ‖wlan‖SI‖En‖WLAN‖
+*CZ‖wlan/‖SI‖En‖Wireless Local Area Network‖
 Z‖wmf‖SI‖En‖WMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖wmf/‖CL‖En‖Windows Metafile‖
 Z‖wol‖SI‖En‖WoL‖

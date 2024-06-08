@@ -12,6 +12,8 @@ Notes:		The vast majority of definitions have set feature * (immediate execute) 
 */
 
 *Z‖.net‖SI‖En‖.NET‖
+CZ‖3gpp‖SI‖En‖3GPP‖
+*CZ‖3gpp/‖MSI‖En‖3rd Generation Partnership Project¦umbrella term for a number of standards organizations which develop protocols for mobile telecommunications‖https://en.wikipedia.org/wiki/3GPP
 *Z‖aar‖SI‖En‖AAR‖
 Z‖aardc‖SI‖En‖Adobe Acrobat Reader DC‖
 *Z‖aardc/‖SI‖En‖Adobe Acrobat Reader Document Cloud; cloud features are available for users‖
@@ -35,12 +37,18 @@ Z‖archimate‖SI‖En‖ArchiMate‖
 Z*‖autocad‖CL‖En‖AutoCAD‖
 Z*‖autodesk‖SI‖En‖Autodesk‖
 *Z‖autohotkey‖SI‖En‖AutoHotkey‖
+Z‖aws‖SI‖En‖AWS‖
+*Z‖aws/‖SI‖En‖Amazon Web Services‖
+Z‖b12‖SI‖En‖B12‖
+Z‖b6‖SI‖En‖B6‖
 *Z‖bitlocker‖SI‖En‖BitLocker‖
 *Z‖blazor‖SI‖En‖Blazor‖
 *Z‖blik‖SI‖En‖BLIK‖only with ShiftFunctions!
+*CZ‖bluetooth‖SI‖En‖Bluetooth‖
 Z‖bmw‖CL‖En‖BMW‖
 *Z‖bmw/‖CL‖En‖Bayerische Motoren Werke AG‖
 *Z‖bnsf‖SI‖En‖BNSF‖
+*Z‖bosch‖SI‖En‖Bosch‖
 Z*‖canon‖MSI‖En‖Canon¦canon‖
 *Z‖castorama‖SI‖En‖Castorama‖only for extensions
 Z‖cenelec‖SI‖En‖CENELEC‖
@@ -61,6 +69,7 @@ Z‖dkms‖SI‖En‖DKMS‖
 *Z‖dremel‖SI‖En‖Dremel‖
 Z‖ea‖SI‖En‖EA‖https://en.wikipedia.org/wiki/ArchiMate
 *Z‖elemnt‖SI‖En‖ELEMNT‖https://en.wikipedia.org/wiki/ANT_(network)
+*Z‖esp32‖SI‖En‖ESP32‖
 Z*‖ethernet‖SI‖En‖Ethernet‖
 Z‖excel‖SI‖En‖Excel‖
 Z*‖facebook‖SI‖En‖Facebook‖
@@ -70,17 +79,27 @@ Z‖git‖SI‖En‖Git‖
 Z*‖github‖SI‖En‖GitHub‖
 *Z‖google‖SI‖En‖Google‖
 Z*‖gopro‖SI‖En‖GoPro‖
+Z‖graphql‖SI‖En‖GraphQL‖
+*Z‖graphql/‖SI‖En‖open-source data query and manipulation language for APIs and query runtime engine‖https://en.wikipedia.org/wiki/GraphQL
 *Z‖grycan‖SI‖En‖Grycan‖
+CZ‖gsa‖SI‖En‖GSA‖
+*CZ‖gsa/‖MSI‖En‖Global Mobile Suppliers Association¦https://gsacom.com/‖
 Z*‖hbo‖SI‖En‖HBO‖
+Z‖hbr‖SI‖En‖HBR‖
+*Z‖hbr/‖SI‖En‖Harvard Business Review‖
 *Z‖huawei‖SI‖En‖Huawei‖
 Z‖huel‖SI‖En‖Huel‖
 *Z‖huion‖SI‖En‖Huion‖
 *Z‖ibm‖SI‖En‖IBM‖
 *Z‖icloud‖SI‖En‖iCloud‖
+Z‖ietf‖SI‖En‖IETF‖
+*Z‖ietf/‖SI‖En‖Internet Engineering Task Force‖
 Z‖ihs‖SI‖En‖IHS‖
 Z*‖ikea‖SI‖En‖IKEA‖
 Z‖incose‖SI‖En‖INCOSE‖
 *Z‖incose/‖SI‖En‖International Council on System Engineering‖
+Z‖inemo‖SI‖En‖iNEMO‖
+*Z‖inemo/‖MSI‖En‖inertial modules¦iNEMO system-in-packages (SiP) combine an accelerometer and a gyroscope in a monolithic 6-axis solution‖
 *Z‖inkscape‖SI‖En‖Inkscape‖
 *Z‖inpost‖SI‖En‖InPost‖
 Z*‖instagram‖SI‖En‖Instagram‖
@@ -88,6 +107,11 @@ Z*‖internet‖SI‖En‖Internet‖
 Z*‖ios‖SI‖En‖iOS‖"peszel"
 Z*‖iphone‖SI‖En‖iPhone‖
 Z*‖iscala‖CL‖En‖iSCALA‖
+CZ‖itur‖SI‖En‖ITU-R‖
+*CZ‖itur/‖SI‖En‖ITU Radiocommunication Sector‖
+Z‖jedec‖SI‖En‖JEDEC‖
+*Z‖jedec/‖SI‖En‖Joint Electron Device Engineering Council‖
+*Z‖jenkins‖SI‖En‖Jenkins‖
 *Z‖jira‖SI‖En‖Jira‖
 *CZ‖jlcpcb‖SI‖En‖JLCPCB‖
 Z‖joomla‖MSI‖En‖Joomla{!}¦https://www.joomla.org/‖
@@ -101,11 +125,14 @@ Z‖kindle‖SI‖En‖Kindle‖
 Z*‖linkedin‖SI‖En‖LinkedIn‖
 Z*‖linux‖SI‖En‖Linux‖
 *Z‖lufthansa‖SI‖En‖Lufthansa‖
+Z‖m365‖SI‖En‖m365‖
 Z‖markdown‖SI‖En‖Markdown‖
 *Z‖mbank‖SI‖En‖mBank‖
 Z‖mcu‖SI‖En‖MCU‖
 *Z‖mcu/‖SI‖En‖Micro Controller Unit‖
 Z*‖microsoft‖SI‖En‖Microsoft‖
+Z‖mipi‖SI‖En‖MIPI‖
+*Z‖mipi/‖SI‖En‖Mobile Industry Processor Interface‖
 *Z‖mongodb‖SI‖En‖MongoDB‖
 *Z‖msword‖SI‖En‖Microsoft Word‖
 *Z‖mysql‖SI‖En‖MySQL‖
@@ -146,6 +173,7 @@ ZC‖shimano‖SI‖En‖Shimano‖
 Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
 *Z‖skoda‖SI‖En‖Škoda‖
 *Z‖skype‖SI‖En‖Skype‖
+*CZ‖softsim‖SI‖En‖SoftSIM‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
 Z*‖sp/‖SI‖En‖Sharepoint‖
 *Z‖sparx‖SI‖En‖Sparx Systems‖
@@ -182,3 +210,4 @@ Z‖ytd‖CL‖En‖YTD‖
 ZC‖ytd/‖CL‖En‖Year To Date‖
 Z‖yubico‖SI‖En‖Yubico‖
 Z‖yubikey‖SI‖En‖YubiKey‖
+*CZ‖zigbee‖SI‖En‖Zigbee‖
