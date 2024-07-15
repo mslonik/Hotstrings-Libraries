@@ -19,6 +19,7 @@ Z‖2g‖SI‖En‖2G‖
 Z*‖3d‖MSI‖En‖3D¦three-dimensional‖
 Z‖3g‖SI‖En‖3G‖
 Z‖4g‖SI‖En‖4G‖
+Z‖4k‖SI‖En‖4K‖
 Z‖5g‖SI‖En‖5G‖
 Z‖6d‖SI‖En‖6D‖
 Z‖6kro‖SI‖En‖6KRO‖https://en.wikipedia.org/wiki/Key_rollover
@@ -63,6 +64,8 @@ Z‖ar‖SI‖En‖AR‖
 Z*‖ar/‖SI‖En‖Augmented Reality‖
 Z‖arema‖SI‖En‖AREMA‖
 *Z‖arema/‖MSI‖En‖American Railway Engineering and Maintenance-of-Way  Association¦https://www.arema.org/‖
+Z‖arq‖SI‖En‖ARQ‖
+*Z‖arq/‖MSI‖En‖Automatic Repeat-reQuest¦error control mechanism for data tramission‖
 Z*‖asap/‖CL‖En‖as soon as possible‖
 Z‖asci‖SI‖En‖ASCII‖
 Z*‖asci/‖CL‖En‖American Standard Code for Information Interchange‖
@@ -99,6 +102,8 @@ Z‖ble‖SI‖En‖BLE‖
 *Z‖ble/‖SI‖En‖Bluetooth Low Energy‖
 Z‖bom‖SI‖En‖BOM‖
 Z*‖bom/‖MSI‖En‖Bill of Materials¦Byte Order Mark‖
+Z‖bpf‖SI‖En‖BPF‖
+*Z‖bpf/‖SI‖En‖Band Pass Filter‖
 Z‖bpm‖SI‖En‖BPM‖
 *Z‖bpm/‖SI‖En‖Beats Per Minute‖
 Z‖bpmn‖SI‖En‖BPMN‖
@@ -114,6 +119,8 @@ Z‖cam‖SI‖En‖CAM‖
 Z*‖cam/‖SI‖En‖Computer Aided Manufacturing‖https://en.wikipedia.org/wiki/Computer-aided_manufacturing
 Z*‖can/‖CL‖En‖Controller Area Network‖https://en.wikipedia.org/wiki/CAN_bus
 Z*‖can`t‖SI‖En‖CAN‖
+Z‖cas‖SI‖En‖CAS‖
+*Z‖cas/‖SI‖En‖Complex Adaptive System‖
 Z*‖cat/‖CL‖En‖Computer Assisted Translation‖https://en.wikipedia.org/wiki/Computer-assisted_translation
 *Z‖cat`n‖MSI‖En‖CAT¦Computer Assisted Translation¦🐈‖
 *OZ‖cat`t‖SI‖En‖CAT‖
@@ -250,6 +257,8 @@ Z‖dos‖SI‖En‖DoS‖
 Z*‖dos/‖SI‖En‖Denial of Service‖
 Z‖dpi‖SI‖En‖DPI‖
 *Z‖dpi/‖SI‖En‖Dots Per Inch‖
+Z‖dpmo‖SI‖En‖DPMO‖
+*Z‖dpmo/‖SI‖En‖Defects Per Million Opportunities‖
 Z‖dram‖SI‖En‖DRAM‖
 *Z‖dram/‖SI‖En‖Dynamic Random-Access Memory‖
 Z‖drm‖CL‖En‖DRM‖
@@ -366,7 +375,7 @@ Z‖fm‖SI‖En‖FM‖
 Z‖fmea‖SI‖En‖FMEA‖
 Z*‖fmea/‖CL‖En‖Failure Mode and Effects Analysis‖
 Z‖fmeca‖SI‖En‖FMECA‖
-*Z‖fmeca/‖SI‖En‖Failure Mode Effects and Criticality Analysis‖
+*Z‖fmeca/‖MSI‖En‖Failure Mode Effects and Criticality Analysis¦module`nfunction`nfailure mode`nseverity of failure effects: local (module)`nprobability of failure: local (module)`ncriticality: local (module) = severity × probability`nseverity of failure effects: global (system)`nprobability of failure: global (system)`ncriticality: global (system) = severity × probability`n`ncorrective / mitigation actions¦| module or<br>function | failure <br>mode | severity of<br>failure effects:<br>local (module) | probability of<br>failure<br>local (module) | criticality:<br>local (module)<br>severity × probability | severity of<br>failure effects:<br>global (system) | probability of<br>failure<br>global (system) | criticality:<br>local (module)<br>severity × probability | corrective /<br>mitigation<br>actions |`n|:---------------------:|:----------------:|:-------------------------------------------------:|:-------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------:|`n|        module 1       |   power supply   |                         3                         |                      1                      |                             3                            |                          0                         |                       0                      |                             0                            |                  (…)                  |`n|        module 1       |   communication  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |`n|        module 1       |   configuration  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |`n|        module 1       |   el. component  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |`n| function 1            |                  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |‖
 Z‖fo‖SI‖En‖FO‖
 Z*‖fo/‖SI‖En‖Fiber Optics‖Generic Application
 Z‖foss‖SI‖En‖FOSS‖
@@ -427,6 +436,8 @@ Z‖hid‖SI‖En‖HID‖
 *Z‖hiv/‖SI‖En‖Human Immunodeficiency Viruses‖https://en.wikipedia.org/wiki/HIV
 Z‖hp‖SI‖En‖HP‖
 Z*‖hp/‖MSI‖En‖Horizontal Pitch¦1x HP = 0.2 '' = 5.08 mm¦1x HP is a unit of length defined by the Eurocard printed circuit board standard used to measure the horizontal width of rack mounted electronic equipment‖https://en.wikipedia.org/wiki/Horizontal_pitch
+Z‖hpf‖SI‖En‖HPS‖
+*Z‖hpf/‖SI‖En‖High Pass Filter‖
 Z‖hrm‖SI‖En‖HRM‖
 *Z‖hrm/‖SI‖En‖Heart Rate Monitor‖
 Z‖hvac‖CL‖En‖HVAC‖
@@ -441,6 +452,7 @@ Z‖iacs‖SI‖En‖IACS‖IEC 62443-4-1
 Z*‖iacs/‖SI‖En‖Industrial Automation and Control Systems‖
 Z‖iarc‖SI‖En‖IARC‖
 *Z‖iarc/‖SI‖En‖International Age Rating Coalition‖
+*‖ibid/‖MSI‖En‖ibidem¦tamże, w tym samym miejscu‖
 Z‖ic‖SI‖En‖IC‖
 Z*‖ic/‖CL‖En‖Interoperability Constituent‖
 Z‖ide‖SI‖En‖IDE‖
@@ -534,6 +546,8 @@ Z‖lnd‖SI‖En‖L&D‖
 Z*‖lnd/‖SI‖En‖Learning and Development‖
 Z‖lop‖SI‖En‖LOP‖
 Z*‖lop/‖CL‖En‖List of Open Points‖
+Z‖lpf‖SI‖En‖LPF‖
+*Z‖lpf/‖SI‖En‖Low Pass Filter‖
 CZ‖lpwa‖SI‖En‖LPWA‖
 *CZ‖lpwa/‖SI‖En‖Low Power Wide Area Network‖
 Z‖lpwan‖SI‖En‖LPWAN‖
@@ -628,6 +642,8 @@ Z*‖nic/‖SI‖En‖Network Interface Card‖
 Z*‖nic`t‖SI‖En‖NIC‖
 Z‖nkro‖SI‖En‖NKRO‖
 *Z‖nkro/‖SI‖En‖n-key rollover; n is a mathematical way to say that the number of items is not defined. n can be anything between zero and infinity; each keyboard key is scanned completely independently by the keyboard hardware, so that each keypress is correctly detected regardless of how many other keys are being pressed or held down at the time‖https://en.wikipedia.org/wiki/Key_rollover
+Z‖nlp‖SI‖En‖NLP‖
+*Z‖nlp/‖SI‖En‖Neuro-Linguistic Programming‖
 Z‖nobo‖SI‖En‖NoBo‖
 Z*‖nobo/‖SI‖En‖Notified Body‖
 Z‖nrem‖SI‖En‖NREM‖
@@ -648,6 +664,8 @@ Z‖oecd‖SI‖En‖OECD‖
 *Z‖oecd/‖SI‖En‖Organisation for Economic Co-operation and Development‖
 Z‖oem‖SI‖En‖OEM‖
 Z*‖oem/‖SI‖En‖Original Equipment Manufacturer‖
+Z‖ofdm‖SI‖En‖OFDM‖
+*Z‖ofdm/‖SI‖En‖Orthogonal Frequency-Division Multiplexing‖
 Z‖ohs‖SI‖En‖OHS‖
 *Z‖ohs/‖SI‖En‖Occupational Health and Safety‖
 Z‖ohsas‖SI‖En‖OHSAS‖https://pl.wikipedia.org/wiki/OHSAS_18001
@@ -657,6 +675,7 @@ Z‖ole`t‖SI‖En‖OLE‖
 Z‖oled‖SI‖En‖OLED‖
 *Z‖oled/‖SI‖En‖Organic Light-Emitting Diode‖https://en.wikipedia.org/wiki/OLED
 Z‖omg‖SI‖En‖OMG‖
+*Z‖opcit/‖MSI‖En‖opus citatum, opere citato¦dzieło cytowane, z cytowanego dzieła‖
 Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
 Z‖osh‖SI‖En‖OSH‖
@@ -855,8 +874,14 @@ Z‖seo‖SI‖En‖SEO‖
 Z*‖seo/‖SI‖En‖Search Engine Optimization‖
 CZ‖sep‖SI‖En‖SEP‖
 *CZ‖sep/‖SI‖En‖Standard Essential Patent‖
+Z‖sfp‖SI‖En‖SFP‖
+*Z‖sfp/‖SI‖En‖Small Form-factor Pluggable tranceiver‖
+Z‖sfpplus‖SI‖En‖SFP{+}‖
+*Z‖sfpplus/‖SI‖En‖enhanced Small Form-factor Pluggable transceiver‖
 Z‖sftp‖SI‖En‖SFTP‖
 *Z‖sftp/‖SI‖En‖SSH File Transfer Protocol‖https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
+Z‖sibo‖SI‖En‖SIBO‖
+*Z‖sibo/‖SI‖En‖Small Intestinal Bacterial Overgrowth‖
 Z‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confidence that a system will meet its specified safety functions with respect to systematic failures`n[SOURCE: IEC 62280:2014, 3.1.50]¦Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa‖
 Z*‖sil/‖MSI‖En‖Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa funkcjonalnego‖
 Z‖sim‖SI‖En‖SIM‖
@@ -881,6 +906,8 @@ Z‖so-dimm‖SI‖En‖SO-DIMM‖
 *Z‖so-dimm/‖SI‖En‖Small Outline DIMM‖
 Z‖soc‖SI‖En‖SoC‖
 *Z‖soc/‖SI‖En‖System on a Chip‖
+Z‖sodimm‖SI‖En‖SODIMM‖
+*Z‖sodimm/‖SI‖En‖Small Outline Dual In-line Memory Module‖
 Z‖SOM‖SI‖En‖SoM‖
 *Z‖som/‖SI‖En‖System on Module‖
 Z‖sos‖SI‖En‖SOS‖
@@ -939,12 +966,16 @@ Z‖tedx‖SI‖En‖TEDx‖
 Z*‖tedx/‖SI‖En‖independent event similar to TED presentation‖
 Z‖tffr‖SI‖En‖TFFR‖
 *Z‖tffr/‖MSI‖En‖Tolerable Functional Failure Rate¦tolerowany wskaźnik awaryjności funkcjonalnej‖
+CZ‖tft‖SI‖En‖TFT‖
+*CZ‖tft/‖SI‖En‖Thin Film Transistor‖
 Z‖thr‖SI‖En‖THR‖
 *Z‖thr/‖MSI‖En‖Tolerable Hazard Rate¦dopuszczalna intensywność zagrożeń`n[źródło: Ie-100a:2023 Tablica 3]‖
 CZ‖tht‖SI‖En‖THT‖https://en.wikipedia.org/wiki/Through-hole_technology
 *CZ‖tht/‖SI‖En‖Through-Hole Technology‖https://en.wikipedia.org/wiki/Through-hole_technology
 Z‖tls‖SI‖En‖TLS‖https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_
 Z*‖tls/‖SI‖En‖Transport Layer Security‖
+Z‖tlv‖SI‖En‖TLV‖
+*Z‖tlv/‖SI‖En‖Type-Length-Value‖
 Z‖toc‖SI‖En‖ToC‖
 *Z‖toc/‖SI‖En‖Table of Content‖
 Z‖toefl‖SI‖En‖TOEFL‖
@@ -961,6 +992,8 @@ CZ‖tsh‖SI‖En‖TSH‖
 *CZ‖tsh/‖SI‖En‖Thyroid-Stimulating Hormone‖https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone
 Z‖tsi‖SI‖En‖TSI‖
 Z*‖tsi/‖MCL‖En‖Technical Specifications for Interoperability¦„techniczne specyfikacje interoperacyjności” (TSI) oznaczają specyfikacje przyjęte zgodnie z niniejszą dyrektywą, obejmujące każdy z podsystemów lub część podsystemu celem spełnienia zasadniczych wymagań oraz zapewnienia interoperacyjności systemu kolei Unii [ŹRÓDŁO: Dyrektywa (UE) 2016/797, art. 2, 11)]‖
+Z‖ttl‖SI‖En‖TTL‖
+*Z‖ttl/‖SI‖En‖Time-To-Live‖
 Z‖u2f‖SI‖En‖U2F‖https://en.wikipedia.org/wiki/Universal_2nd_Factor
 Z*‖u2f/‖SI‖En‖Universal 2nd Factor‖
 Z‖uac‖SI‖En‖UAC‖
@@ -1064,8 +1097,12 @@ CZ‖wlan‖SI‖En‖WLAN‖
 *CZ‖wlan/‖SI‖En‖Wireless Local Area Network‖
 Z‖wmf‖SI‖En‖WMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖wmf/‖CL‖En‖Windows Metafile‖
+Z‖wmn‖SI‖En‖WMN‖
+*Z‖wmn/‖SI‖En‖Wireless Mash Network‖
 Z‖wol‖SI‖En‖WoL‖
 Z*‖wol/‖SI‖En‖Wake-on-LAN‖
+Z‖wsl‖SI‖En‖WSL‖
+*Z‖wsl/‖SI‖En‖Windows Subsystem for Linux‖
 Z‖wta‖SI‖En‖WTA‖
 *Z‖wta/‖SI‖En‖Women's Tennis Association‖https://en.wikipedia.org/wiki/Women%27s_Tennis_Association
 Z‖wwf‖SI‖En‖WWF‖

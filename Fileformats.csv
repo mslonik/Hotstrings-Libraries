@@ -20,14 +20,18 @@ ZB0?‖.exe‖SI‖En‖‖
 ZB0?‖.fbx‖SI‖En‖‖only for file extensions
 ZB0?‖.gif‖SI‖En‖‖
 B0?Z‖.html‖SI‖En‖‖only for extensions
+B0?Z‖.jpeg‖SI‖En‖‖only for extensions
+B0?Z‖.jpg‖SI‖En‖‖only for extensions
 B0?Z‖.json‖SI‖En‖‖only for extensions
 CB0?Z‖.mobi‖SI‖En‖‖
+B0?Z‖.mp4‖SI‖En‖‖only for extensions
 *B0?Z‖.msi‖SI‖En‖‖only for file extenstions
 B0?Z‖.msix‖SI‖En‖‖only for extensions
 ZCB0?‖.odf‖SI‖En‖‖
 ZB0?‖.pdf‖SI‖En‖‖only for extensions
 *B0?Z‖.pfx‖SI‖En‖‖only for file extenstions
 ZB0?‖.png‖SI‖En‖‖
+B0?Z‖.pptx‖SI‖En‖‖only for extensions
 ZCB0?‖.rtf‖SI‖En‖‖
 B0?Z‖.sgml‖SI‖En‖‖
 ZB0?‖.svg‖SI‖En‖‖only for extensions
@@ -58,10 +62,16 @@ Z‖gif‖SI‖En‖GIF‖
 Z*‖gif/‖SI‖En‖Graphics Interchange Format‖
 Z‖html‖SI‖En‖HTML‖
 Z*‖html/‖SI‖En‖HyperText Markup Language‖
+Z‖jpeg‖SI‖En‖JPEG‖
+*Z‖jpeg/‖SI‖En‖Joint Photographic Experts Group‖https://en.wikipedia.org/wiki/JPEG
+Z‖jpg‖SI‖En‖JPG‖
+*Z‖JPG/‖SI‖En‖Joint Photographic Experts Group‖https://en.wikipedia.org/wiki/JPEG
 Z‖json‖SI‖En‖JSON‖
 Z*‖json/‖SI‖En‖JavaScript Object Notation‖
 Z‖mobi‖SI‖En‖MOBI‖
 *CZ‖mobi/‖SI‖En‖Kindle‖
+OZ‖mp4‖SI‖En‖MP4‖https://en.wikipedia.org/wiki/MP4_file_format
+*CZ‖MP4/‖SI‖En‖MPEG-4 Part 14, or MP4, is a digital multimedia container format most commonly used to store video and audio, but it can also be used to store other data such as subtitles and still images.‖https://en.wikipedia.org/wiki/Design_Web_Format
 Z‖msi‖SI‖En‖MSI‖only for file extenstions
 *Z‖msi/‖MSI‖En‖Windows Installer Package¦Microsoft Installer‖
 Z‖msix‖SI‖En‖MSIX‖
@@ -75,6 +85,8 @@ Z*‖pdf/‖CL‖En‖Portable Document Format‖
 Z‖pfx‖SI‖En‖PFX‖only for file extenstions
 *Z‖pfx/‖SI‖En‖Personal Information Exchange‖only for file extenstions
 Z‖png‖SI‖En‖PNG‖
+Z‖pptx‖SI‖En‖PPTX‖
+*Z‖pptx/‖SI‖En‖Microsoft PowerPoint presentation file‖
 Z‖rtf‖SI‖En‖RTF‖
 ZC‖rtf/‖SI‖En‖Rich Text Format‖
 Z‖sgml‖SI‖En‖SGML‖

@@ -20,12 +20,13 @@ Z*‖mdfootnote/‖SI‖En‖Here is a simple footnote[{^}1].`n`nA footnote can 
 Z*‖mdheadings/‖MSI‖En‖{#} The largest heading¦{#}{#} The second largest heading¦{#}{#}{#} The third largest heading¦{#}{#}{#}{#} The fourth largest heading¦{#}{#}{#}{#}{#}{#} The smallest heading‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdhelp/‖MSI‖En‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax¦https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables‖
 *Z‖mdhorline/‖SI‖En‖---‖horizontal line
-Z*‖mdimage/‖MSI‖En‖{!}[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)¦{!}[Text on the picture](pictures\Help.png)‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
+*Z‖mdimage/‖MSI‖En‖{!}[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)¦{!}[Text on the picture](pictures\Help.png)¦{!}[GitHub style](/pictures/Help.png)‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 *Z‖mditalic/‖SI‖En‖*text*{left}‖
 Z*‖mdlink/‖SI‖En‖This site was built using [GitHub Pages](https://pages.github.com/).‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdlists/‖MSI‖En‖- George Washington`n- John Adams`n- Thomas Jefferson¦1. James Madison`n2. James Monroe`n3. John Quincy Adams¦1. First list item`n   - First nested list item`n     - Second nested list item‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdnewline/‖SI‖En‖ <br />‖
 *Z‖mdonline/‖SI‖En‖https://markdownlivepreview.com/‖
+*Z‖mdpicture/‖MSI‖En‖{!}[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)¦{!}[Text on the picture](pictures\Help.png)¦{!}[GitHub style](/pictures/Help.png)‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 Z*‖mdquoting/‖MSI‖En‖> text¦``single command``¦``````nBlock of code`n``````¦``````AutoHotkey`n`tFormatted block of code.`n``````‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 *Z‖mdstrikethrough/‖SI‖En‖~~strikethrough~~{left 2}‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
 *Z‖mdstyling/‖MSI‖En‖**bold**{left 2}¦*italic*{left}¦~~strikethrough~~{left 2}¦<sub>subscript</sub>{left 6}¦<sup>superscript</sup>{left 6}‖https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-format
