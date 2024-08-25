@@ -11,7 +11,7 @@ Examples:	     Text f18/ entered in currently active window calls F18 funciton k
 */
 
 Z‖alt‖SI‖En‖Alt‖
-?*Z‖alt/‖SI‖En‖{alt}‖
+*Z‖alt/‖SI‖En‖{alt}‖
 ?*Z‖altd/‖SI‖En‖{alt down}‖
 ?*Z‖altgr/‖SI‖En‖{LControl Down}{RAlt}{LControl Up}‖
 ?*Z‖ampersand/‖SI‖En‖&‖
@@ -149,7 +149,7 @@ Z‖tab‖SI‖En‖Tab‖
 ?*Z‖up/‖SI‖En‖{Up}‖
 ?*Z‖verticalbar/‖SI‖En‖|‖
 Z‖win‖SI‖En‖Win‖
-?*Z‖wind/‖SI‖En‖{lwin down}‖
+*?Z‖windown/‖SI‖En‖{lwin down}‖
 ?*Z‖windows/‖SI‖En‖{lwin}‖
 ?*Z‖winu/‖SI‖En‖{lwin up}‖
 ?*Z‖zero/‖SI‖En‖0‖

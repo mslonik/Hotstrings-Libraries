@@ -9,11 +9,12 @@ Notes:		All diacritic letters are entered in the same way: base letter + "^".
 
 Examples:	a^ → å
 */
+
 ZC*?‖a^‖MCL‖En‖å¦ä¦â¦à¦á¦ą¦ā‖1=U+00E5|2=U+00E4|3=U+00E2|4=U+00E0|5=U+00E1|6=U+0105|7=U+0101
 ZC*?‖A^‖MSI‖En‖Å¦Ä¦Â¦À¦Á¦Ą¦Ā‖1=U+00C5|2=U+U+00C4|3=U+00C2|4=U+00C0|5=U+00C1|6=U+0105|7=U+0100
 ZC*?‖c^‖MSI‖En‖č¦ć‖1=U+010D|2=U+0107
 ZC*?‖C^‖MSI‖En‖Č¦Ć‖1=U+010C|2=U+0106
-ZC*?‖e^‖MSI‖En‖æ¦ë¦ê¦è¦é¦ę‖1=U+00E6|2=U+00EB|3=U+00EA|4=U+00E8|5=U+00E9|6=U+0119|7=
+*C?Z‖e^‖MSI‖En‖æ¦ë¦ê¦è¦é¦ę¦ė‖1=U+00E6|2=U+00EB|3=U+00EA|4=U+00E8|5=U+00E9|6=U+0119|7=
 ZC*?‖E^‖MSI‖En‖Æ¦Ë¦Ê¦È¦É¦Ę‖1=U+00C6|2=U+00CBB|3=U+00CA|4=U+00C88|5=U+00C9|6=U+0118
 ZC*?‖i^‖MSI‖En‖ï¦î¦ì¦í‖1=U+00EF|2=U+00EE|3=U+00EC|4=U+00ED|5=|6=|7=|8=
 ZC*?‖I^‖MSI‖En‖Ï¦Î¦Ì¦Í‖1=U+00CF|2=U+00CEE|3=U+00CCC|4=U+00CD|5=|6=|7=|8=

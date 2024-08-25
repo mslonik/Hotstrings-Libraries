@@ -14,6 +14,8 @@ Notes:		The vast majority of definitions have set feature * (immediate execute) 
 *Z‖.net‖SI‖En‖.NET‖
 CZ‖3gpp‖SI‖En‖3GPP‖
 *CZ‖3gpp/‖MSI‖En‖3rd Generation Partnership Project¦umbrella term for a number of standards organizations which develop protocols for mobile telecommunications‖https://en.wikipedia.org/wiki/3GPP
+Z‖aaas‖SI‖En‖AAAS‖
+*Z‖aaas/‖SI‖En‖American Association for the Advancement of Science‖
 *Z‖aar‖SI‖En‖AAR‖
 Z‖aardc‖SI‖En‖Adobe Acrobat Reader DC‖
 *Z‖aardc/‖SI‖En‖Adobe Acrobat Reader Document Cloud; cloud features are available for users‖
@@ -33,6 +35,7 @@ ZC‖allegro‖SI‖En‖Allegro‖
 Z‖archimate‖SI‖En‖ArchiMate‖
 *Z‖archimate/‖SI‖En‖ArchiMate is an open and independent enterprise architecture modeling language to support the description, analysis and visualization of architecture within and across business domains in an unambiguous way.‖https://en.wikipedia.org/wiki/ArchiMate
 *Z‖arduino‖SI‖En‖Arduino‖
+*Z‖atlassian‖SI‖En‖Atlassian‖
 *Z‖auchan‖SI‖En‖Auchan‖
 Z*‖autocad‖CL‖En‖AutoCAD‖
 Z*‖autodesk‖SI‖En‖Autodesk‖
@@ -123,12 +126,14 @@ Z‖joomla‖MSI‖En‖Joomla{!}¦https://www.joomla.org/‖
 *Z‖kanban‖SI‖En‖Kanban‖
 Z‖keepass‖SI‖En‖KeePass‖
 Z‖kindle‖SI‖En‖Kindle‖
+Z‖kroki‖SI‖En‖Kroki{!}‖
 *Z‖lenovo‖SI‖En‖Lenovo‖
+*Z‖libreoffice‖SI‖En‖LibreOffice‖
 *Z‖lidl‖SI‖En‖Lidl‖
 Z*‖linkedin‖SI‖En‖LinkedIn‖
 Z*‖linux‖SI‖En‖Linux‖
 *Z‖lufthansa‖SI‖En‖Lufthansa‖
-Z‖m365‖SI‖En‖m365‖
+Z‖m365‖SI‖En‖M365‖
 Z‖markdown‖SI‖En‖Markdown‖
 *Z‖mbank‖SI‖En‖mBank‖
 Z‖mcu‖SI‖En‖MCU‖
@@ -145,12 +150,17 @@ Z‖notepad++‖SI‖En‖Notepad{+}{+}‖
 Z‖nsis‖SI‖En‖NSIS‖
 *Z‖nsis/‖MSI‖En‖Nullsoft Scriptable Install Service¦https://nsis.sourceforge.io/Main_Page‖
 Z‖obi‖SI‖En‖OBI‖
+Z‖ocx‖SI‖En‖OCX‖
+*Z‖ocx/‖SI‖En‖Open Community eXperience of Eclipse Foundation‖
 *Z‖omg/‖SI‖En‖Object Management Group‖https://www.omg.org/index.htm
 Z*‖onedrive‖SI‖En‖OneDrive‖
+Z‖owasp‖SI‖En‖OWASP‖
+*Z‖owasp/‖SI‖En‖Open Worldwide Application Security Project‖
 *Z‖paypal‖SI‖En‖PayPal‖
 *Z‖pepsi‖SI‖En‖Pepsi‖
 *Z‖peugeot‖SI‖En‖Peugeot‖
 Z‖philips‖SI‖En‖Philips‖
+*Z‖plantuml‖SI‖En‖PlantUML‖
 *Z‖polufka‖MSI‖En‖Polufka¦Polufka, ul. Leczkowa 18 wejście od bramy przy DS7`n80-432 Gdańsk-Wrzeszcz‖
 *Z‖postgresql‖SI‖En‖PostgreSQL‖
 Z*‖power point‖SI‖En‖PowerPoint‖
@@ -158,6 +168,8 @@ Z*‖powerpoint‖SI‖En‖PowerPoint‖
 *Z‖powershell‖SI‖En‖PowerShell‖
 *Z‖qnap‖SI‖En‖QNAP‖
 Z*‖qnx‖CL‖En‖QNX‖
+Z‖rcp‖SI‖En‖RCP‖
+*Z‖rcp/‖MSI‖En‖(Eclipse) Reach Client Platform¦application, uses the Eclipse framework to create feature-rich stand-alone desktop application‖
 *Z‖red bull‖SI‖En‖Red Bull‖
 *Z‖redbull‖SI‖En‖Red Bull‖
 *Z‖reddit‖SI‖En‖Reddit‖

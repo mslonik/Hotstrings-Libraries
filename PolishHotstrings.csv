@@ -21,6 +21,8 @@ Z*‖bałtyk‖SI‖En‖Bałtyk‖
 Z‖bdo‖SI‖En‖BDO‖
 *Z‖bdo/‖SI‖En‖baza danych odpadowych; baza danych o produktach i opakowaniach oraz o gospodarce odpadami;  zgodnie z ustawą z dnia 14 grudnia 2012 r. o odpadach (Dz.U. z 2023 r. poz. 1587) zostały uruchomione od 1 stycznia 2020 r.‖
 Z*‖cdn/‖SI‖En‖ciąg dalszy nastąpi‖
+Z‖ceeb‖SI‖En‖CEEB‖
+*Z‖ceeb/‖MSI‖En‖Centralna Ewidencja Emisyjności Budynków¦https://zoneapp.gunb.gov.pl/{#}/verify‖
 *Z‖chorwa‖SI‖En‖Chorwa‖
 Z‖codzienn‖SI‖En‖co dzień‖
 Z‖codzień‖SI‖En‖co dzień‖
@@ -42,6 +44,8 @@ Z*‖fiku/‖SI‖Dis‖fiku`amiku`n‖
 Z*‖gdyn‖SI‖En‖Gdyn‖
 Z*‖gruzin‖SI‖En‖Gruzin‖
 Z*‖gruzj‖SI‖En‖Gruzj‖
+Z‖gunb‖SI‖En‖GUNB‖
+*Z‖gunb/‖SI‖En‖Główny Urząd Nadzoru Budowlanego‖
 *Z‖hiszpan‖SI‖En‖Hiszpan‖
 Z*‖holand‖SI‖En‖Holand‖
 *Z‖holend‖MSI‖En‖Holend¦holend‖
@@ -111,6 +115,8 @@ ZC*‖polski‖MSI‖En‖Polski¦polski‖
 *Z‖sopotu‖SI‖En‖Sopocie‖
 *CZ‖szwecja‖SI‖En‖Szwecja‖
 *CZ‖szwecji‖SI‖En‖Szwecji‖
+Z‖tfi‖SI‖En‖TFI‖
+*Z‖tfi/‖SI‖En‖Towarzystwo Funduszy Inwestycyjnych‖
 *CZ‖warszaw‖SI‖En‖Warszaw‖
 *CZ‖zukowo‖SI‖En‖Żukowo‖
 *Z‖łotwa‖SI‖En‖Łotwa‖

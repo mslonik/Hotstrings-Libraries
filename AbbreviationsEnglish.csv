@@ -56,12 +56,15 @@ Z‖alu‖SI‖En‖ALU‖
 *Z‖am`t‖SI‖En‖AM‖
 Z‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
+Z‖ao‖SI‖En‖a.o.‖
+*Z‖ao/‖SI‖En‖among others‖
 Z‖api‖SI‖En‖API‖
 *Z‖api/‖SI‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
 CZ‖apn‖SI‖En‖APN‖
 *CZ‖apn/‖MSI‖En‖Acess Point Name¦gateway between mobile networks and frequently the Internet‖
 Z‖ar‖SI‖En‖AR‖
 Z*‖ar/‖SI‖En‖Augmented Reality‖
+*Z‖arcadia/‖SI‖En‖Architecture Analysis and Design Integrated Approach‖
 Z‖arema‖SI‖En‖AREMA‖
 *Z‖arema/‖MSI‖En‖American Railway Engineering and Maintenance-of-Way  Association¦https://www.arema.org/‖
 Z‖arq‖SI‖En‖ARQ‖
@@ -93,13 +96,17 @@ Z‖bbs‖SI‖En‖BBS‖
 Z‖bcm‖SI‖En‖BCM‖
 *Z‖bcm/‖SI‖En‖Business Continuity Management‖
 Z‖bi‖SI‖En‖BI‖
-*Z‖bi/‖MSI‖En‖Basic Integration¦Basic Integration / SIL0‖
+*Z‖bi/‖MSI‖En‖Basic Integrity¦Basic Integrity / SIL0‖
 Z‖bia‖SI‖En‖BIA‖
 *Z‖bia/‖SI‖En‖Business Impact Analysis‖
 Z‖bios‖SI‖En‖BIOS‖
 Z*‖bios/‖SI‖En‖Basic Input/Output System‖https://en.wikipedia.org/wiki/BIOS
+Z‖bldc‖SI‖En‖BLDC‖
+*Z‖bldc/‖SI‖En‖Brushless DC electric motor‖
 Z‖ble‖SI‖En‖BLE‖
 *Z‖ble/‖SI‖En‖Bluetooth Low Energy‖
+Z‖bmm‖SI‖En‖BMM‖
+*Z‖bmm/‖SI‖En‖BASIC Meta-Model‖
 Z‖bom‖SI‖En‖BOM‖
 Z*‖bom/‖MSI‖En‖Bill of Materials¦Byte Order Mark‖
 Z‖bpf‖SI‖En‖BPF‖
@@ -208,6 +215,8 @@ Z‖dc‖SI‖En‖DC‖
 Z*‖dc/‖CL‖En‖Direct Current‖
 Z‖dde‖SI‖En‖DDE‖
 *Z‖dde/‖SI‖En‖Dynamic Data Exchange‖
+Z‖ddl‖SI‖En‖DDL‖
+*Z‖ddl/‖SI‖En‖Drop-Down List‖
 Z‖ddns‖SI‖En‖DDNS‖https://en.wikipedia.org/wiki/Dynamic_DNS
 Z*‖ddns/‖CL‖En‖Dynamic DNS‖
 Z‖ddos‖SI‖En‖DDoS‖
@@ -305,7 +314,7 @@ Z*‖emc/‖CL‖En‖Electro-Magnetic Compatibility‖
 Z‖emea‖SI‖En‖EMEA‖
 *Z‖emea/‖SI‖En‖Europe, the Middle East and Africa‖
 Z‖emf‖SI‖En‖EMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
-Z*‖emf/‖CL‖En‖Enhanced Metafile‖
+*Z‖emf/‖MSI‖En‖Enhanced Metafile¦Eclipse Modeling Framework‖
 Z‖emi‖SI‖En‖EMI‖
 *Z‖emi/‖MSI‖En‖Electromagnetic Interference¦interferencje elektromagnetyczne‖
 Z‖emmc‖SI‖En‖eMMC‖
@@ -358,6 +367,8 @@ Z‖fea‖SI‖En‖FEA‖https://en.wikipedia.org/wiki/LSD
 *Z‖fea/‖SI‖En‖Finite Element Analysis‖https://en.wikipedia.org/wiki/LSD
 Z‖fem‖SI‖En‖FEM‖
 *Z‖fem/‖MSI‖En‖Front End Module¦In a radio receiver circuit, the RF front end, short for radio frequency front end, is a generic term for all the circuitry between a receiver’s antenna input up to and including the mixer stage2. It consists of all the components in the receiver that process the signal at the original incoming radio frequency (RF), before it is converted to a lower intermediate frequency (IF).`n`nKey components of an RF FEM often include:`n`nA band-pass filter (BPF) to reduce image response. This removes any signals at the image frequency, which would otherwise interfere with the desired signal. It also prevents strong out-of-band signals from saturating the input stages.`nAn RF amplifier, often called the low-noise amplifier (LNA). Its primary responsibility is to increase the sensitivity of the receiver by amplifying weak signals without contaminating them with noise, so that they can stay above the noise level in succeeding stages. It must have a very low noise figure (NF).`nA local oscillator (LO) which generates a radio frequency signal at an offset from the incoming signal, which is mixed with the incoming signal.`nThe mixer, which mixes the incoming signal with the signal from the local oscillator to convert the signal to the intermediate frequency (IF).‖
+Z‖fet‖SI‖En‖FET‖
+*Z‖fet/‖SI‖En‖Field-Effect Transistor‖
 Z‖fft‖SI‖En‖FFT‖https://en.wikipedia.org/wiki/Inertial_measurement_unit
 *Z‖fft/‖SI‖En‖Fast Fourier Transform‖
 Z‖fido‖SI‖En‖FIDO‖https://en.wikipedia.org/wiki/FIDO_Alliance
@@ -503,9 +514,18 @@ Z‖itil‖SI‖En‖ITIL‖
 *Z‖itil/‖SI‖En‖Information Technology Infrastructure Library‖https://www.itlibrary.org/
 Z‖itu‖SI‖En‖ITU‖
 *Z‖itu/‖SI‖En‖International Telecommunication Union‖
+Z‖javac/‖SI‖En‖Java compiler‖
 Z*‖javascript‖SI‖En‖JavaScript‖
+Z‖jdk‖SI‖En‖JDK‖
+*Z‖jdk/‖SI‖En‖Java Development Kit‖
+Z‖jdt‖SI‖En‖JDT‖
+*Z‖jdt/‖SI‖En‖Java Development Tools‖
 Z‖jtag‖SI‖En‖JTAG‖
 *Z‖jtag/‖SI‖En‖Joint Test Action Group‖
+Z‖jvm‖SI‖En‖JVM‖
+*Z‖jvm/‖SI‖En‖Java Virtual Machine‖
+Z‖jvms‖SI‖En‖JVMS‖
+*Z‖jvms/‖SI‖En‖Java Virtual Machine Specification‖
 Z‖kerml‖SI‖En‖KerML‖
 *Z‖kerml/‖MSI‖En‖Kernel Modeling Language¦modeling language to create modeling languages‖
 Z‖kpi‖SI‖En‖KPI‖
@@ -564,6 +584,8 @@ Z‖lts‖SI‖En‖LTS‖
 *Z‖lts/‖SI‖En‖Long Time Support‖
 Z‖mac‖SI‖En‖MAC‖https://en.wikipedia.org/wiki/MAC_address
 *Z‖mac/‖SI‖En‖Media Access Control‖
+Z‖marte‖SI‖En‖MARTE‖
+*Z‖marte/‖SI‖En‖Modeling and Analysis of Real-Time and Embedded systems‖
 Z‖mba‖SI‖En‖MBA‖
 Z*‖mba/‖SI‖En‖Master of Business Administration‖
 Z‖mbe‖SI‖En‖MBE‖
@@ -595,6 +617,8 @@ CZ‖mmtc‖SI‖En‖mMTC‖
 Z‖modbus‖SI‖En‖Modbus‖
 Z‖mom‖SI‖En‖MoM‖
 Z*‖mom/‖SI‖En‖Minutes of Meeting‖
+Z‖mosFET‖SI‖En‖MOSFET‖
+*Z‖mosfet/‖SI‖En‖Metal-Oxide-Semiconductor Field-Effect Transistor‖
 Z‖mqtt‖SI‖En‖MQTT‖
 *Z‖mqtt/‖MSI‖En‖MQ Telemetry Transport¦lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service. It is designed for connections with remote locations that have devices with resource constraints or limited network bandwidth, such as in the Internet of Things (IoT). It must run over a transport protocol that provides ordered, lossless, bi-directional connections—typically, TCP/IP,[1] but also possibly over QUIC.It is an open OASIS standard and an ISO recommendation (ISO/IEC 20922).‖
 Z‖mri‖SI‖En‖MRI‖
@@ -727,10 +751,14 @@ Z‖pin‖SI‖En‖PIN‖
 Z*‖pin/‖SI‖En‖Personal Identification Number‖
 Z‖pit‖SI‖En‖PIT‖
 Z*‖pit/‖SI‖En‖Personal Income Tax‖
+CZ‖pki‖SI‖En‖PKI‖
+*CZ‖pki/‖SI‖En‖Public Key Infrastructure‖
 Z‖pkm‖SI‖En‖PKM‖
 *Z‖pkm/‖SI‖En‖Personal Knowledge Management‖
 Z‖plc‖SI‖En‖PLC‖https://en.wikipedia.org/wiki/Programmable_logic_controller
 Z*‖plc/‖SI‖En‖Programmable Logic Controller‖
+Z‖ple‖SI‖En‖PLE‖
+Z‖ple/‖SI‖En‖Product Line Engineering‖
 Z‖plm‖SI‖En‖PLM‖
 Z*‖plm/‖CL‖En‖Product Lifecycle Management‖
 *Z‖pm/‖MSI‖En‖Post Meridiem¦Phase Modulated‖
@@ -751,6 +779,10 @@ Z‖ppi‖SI‖En‖PPI‖
 Z*‖ppi/‖SI‖En‖Point Per Inch‖
 Z‖pri‖SI‖En‖PRI‖
 *Z‖pri/‖SI‖En‖Package Resource Index‖
+Z‖prp‖SI‖En‖PRP‖
+*Z‖prp/‖SI‖En‖Parallel Redundancy Protocol‖
+Z‖pscs‖SI‖En‖PSCS‖
+*Z‖pscs/‖MSI‖En‖Precise Semantics of Composite Structures¦standard defined by the Object Management Group (OMG) and is part of the Executable UML (xUML) standards. PSCS provides a precise execution semantics for UML composite structures, which are used in modeling complex systems.‖
 Z‖psd‖SI‖En‖PSD‖
 *Z‖psd/‖SI‖En‖Power Spectral Density‖
 Z‖psi‖SI‖En‖PSI‖
@@ -771,6 +803,8 @@ Z‖pwm‖SI‖En‖PWM‖
 Z*‖PWM/‖SI‖En‖Pulse-Width Modulation‖
 Z‖qam‖SI‖En‖QAM‖
 *Z‖qam/‖SI‖En‖Qadrature Amplitude Modulation‖
+Z‖qfn‖SI‖En‖QFN‖
+*Z‖qfn/‖SI‖En‖Quad-Flat No-leads‖
 Z‖qhsee‖SI‖En‖QHSEE‖
 Z*‖qhsee/‖SI‖En‖Quality, Health, Safety, Environment and Energy‖
 Z‖qmk‖SI‖En‖QMK‖
@@ -798,6 +832,8 @@ Z*‖ram/‖CL‖En‖Reliability, Availability, Maintainability‖
 *Z‖ram`t‖SI‖En‖RAM‖
 Z‖rams‖SI‖En‖RAMS‖
 Z*‖rams/‖CL‖En‖Reliability, Availability, Maintainability and Safety‖
+Z‖ramss‖SI‖En‖RAMSS‖
+*Z‖ramss/‖CL‖En‖Reliability, Availability, Maintainability, Safety and Security‖
 Z‖rap‖SI‖En‖RAP‖
 Z*‖rap/‖CL‖En‖Risk Acceptance Principle‖
 Z‖rca‖SI‖En‖RCA‖
@@ -908,6 +944,8 @@ Z‖soc‖SI‖En‖SoC‖
 *Z‖soc/‖SI‖En‖System on a Chip‖
 Z‖sodimm‖SI‖En‖SODIMM‖
 *Z‖sodimm/‖SI‖En‖Small Outline Dual In-line Memory Module‖
+Z‖softap‖SI‖En‖SoftAP‖
+*Z‖softap/‖SI‖En‖Software-enabled Access Point‖
 Z‖SOM‖SI‖En‖SoM‖
 *Z‖som/‖SI‖En‖System on Module‖
 Z‖sos‖SI‖En‖SOS‖
@@ -1016,6 +1054,8 @@ Z‖uefi‖SI‖En‖UEFI‖
 *Z‖uefi/‖SI‖En‖Unified Extensible Firmware Interface‖
 CZ‖uhf‖SI‖En‖UHF‖
 *CZ‖uhf/‖SI‖En‖Ultra High Frequency‖
+Z‖uht‖SI‖En‖UHT‖
+*Z‖uht/‖SI‖En‖Ultra-Heat Treatment‖https://en.wikipedia.org/wiki/Ultra-high-temperature_processing
 Z‖ui‖SI‖En‖UI‖
 Z*‖ui/‖CL‖En‖User Interface‖
 Z‖uia‖SI‖En‖UIA‖
@@ -1051,6 +1091,8 @@ Z‖utc‖SI‖En‖UTC‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖utc/‖SI‖En‖Coordinated Universal Time‖
 Z‖utf‖SI‖En‖UTF‖
 Z*‖utf/‖CL‖En‖Unicode Transformation Format‖
+CZ‖uuid‖SI‖En‖UUID‖
+*CZ‖uuid/‖SI‖En‖Universally Unique IDentifier‖
 Z‖uv‖SI‖En‖UV‖
 Z*‖uv/‖SI‖En‖Ultraviolet form of electromagetic radiation, shorter than that of visible light, but longer than X-rays.‖https://en.wikipedia.org/wiki/Ultraviolet
 Z‖uwp‖SI‖En‖UWP‖
@@ -1095,6 +1137,8 @@ Z*‖wcag/‖SI‖En‖Web Content Accessibility Guidelines‖
 Z‖who`t‖SI‖En‖WHO‖
 CZ‖wlan‖SI‖En‖WLAN‖
 *CZ‖wlan/‖SI‖En‖Wireless Local Area Network‖
+Z‖wlcsp‖SI‖En‖WLCSP‖
+Z‖wlcsp/‖SI‖En‖Wafer-Level Chip Scale Package‖
 Z‖wmf‖SI‖En‖WMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
 Z*‖wmf/‖CL‖En‖Windows Metafile‖
 Z‖wmn‖SI‖En‖WMN‖

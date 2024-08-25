@@ -41,7 +41,7 @@ Z*‖nip/‖CL‖En‖Numer Identyfikacji Podatkowej‖
 ZC‖pca‖SI‖En‖PCA‖
 Z*‖pca/‖SI‖En‖Polskie Centrum Akredytacji‖https://pl.wikipedia.org/wiki/Polskie_Centrum_Akredytacji
 *Z‖pcv‖SI‖En‖PCW‖polichlorek winylu, patrz https://pl.wikipedia.org/wiki/Poli(chlorek_winylu)
-ZC‖pesel‖SI‖En‖PESEL‖
+Z‖pesel‖SI‖En‖PESEL‖
 Z*‖pesel/‖CL‖En‖Powszechny Elektroniczny System Ewidencji Ludności‖
 Z‖pgnig‖SI‖En‖PGNiG‖
 Z*‖pgnig/‖SI‖En‖Polskie Górnictwo Naftowe i Gazownictwo‖

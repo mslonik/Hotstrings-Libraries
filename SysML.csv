@@ -3,9 +3,12 @@
 Z‖bdd‖SI‖En‖BDD‖
 *Z‖bdd/‖SI‖En‖Block Definition Diagram‖
 *Z‖behaviordiagrams/‖SI‖En‖Activity Diagram (act) {+} State Machine Diagram (stm) {+} Sequence Diagram (sd) {+} Use Case Diagram (uc)‖
+Z‖dsml‖SI‖En‖DSML‖
+*Z‖dsml/‖SI‖En‖Domain Specific Modeling Language‖
 *Z‖empik‖SI‖En‖Empik‖
 Z‖ibd‖SI‖En‖IBD‖
 *Z‖ibd/‖SI‖En‖Internal Block Diagram‖
+Z‖magicgrid‖SI‖En‖MagicGrid‖
 *Z‖par/‖SI‖En‖Parametric Diagram‖
 Z‖par`t‖SI‖En‖PAR‖
 Z‖pkg‖SI‖En‖PKG‖
@@ -17,7 +20,7 @@ Z‖sd‖SI‖En‖SD‖
 Z‖stm‖SI‖En‖STM‖
 *Z‖stm/‖SI‖En‖State Machine Diagram‖
 *Z‖sysmlcompartment/‖SI‖En‖parts / references / values / constraints / operations / receptions / standard ports / flow ports / full ports / proxy ports / flow properties / structure‖
-*Z‖sysmldiagrams‖SI‖En‖Requirement Diagram (req) {+} Behavior Diagrams {+} Package Diagram (pkg) {+} Structure Diagrams {+} Parametric Diagram (par)‖
+*Z‖sysmldiagrams‖SI‖En‖Structure Diagrams `n	Block Definition Diagram (bdd) (8)`n	Internal Block Diagram (ibd) (9)`nBehavior Diagrams `n	Activity Diagram (act) (1)`n	Sequence Diagram (sd) (2)`n	State Machine Diagram (stm) (3)`n	Use Case Diagram (uc) (4)`nRequirement Diagram (req) (5)`nPackage Diagram (pkg) (6)`nParametric Diagram (par) (7)‖
 *Z‖sysmlheader/‖SI‖En‖diagram kind [model element type] model element name [diagram name]‖
 *Z‖sysmlmodelelementtype/‖SI‖En‖package / model / modelLibrary / view / block / constraintBlock‖
 *Z‖sysmlpartproperty/‖SI‖En‖<part name> : <type> [<multiplicity>]‖
