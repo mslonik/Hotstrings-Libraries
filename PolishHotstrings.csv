@@ -27,6 +27,8 @@ Z‖ceeb‖SI‖En‖CEEB‖
 Z‖codzienn‖SI‖En‖co dzień‖
 Z‖codzień‖SI‖En‖co dzień‖
 Z*‖conajmniej‖SI‖En‖co najmniej‖
+Z‖dfe‖SI‖En‖DFE‖
+*Z‖dfe/‖SI‖En‖Dobrowolny Fundusz Emerytalny‖
 Z‖dkf‖SI‖En‖DKF‖
 *Z‖dkf/‖SI‖En‖Dyskusyjny Klub Filmowy‖
 Z‖edycie‖SI‖En‖Edycie‖
@@ -65,6 +67,8 @@ Z*‖jw/‖SI‖En‖jak wyżej‖
 Z‖kasia‖SI‖En‖Kasia‖
 Z‖kasią‖SI‖En‖Kasią‖
 *Z‖katarzyn‖SI‖En‖Katarzyn‖
+Z‖knf‖SI‖En‖KNF‖
+*Z‖knf/‖SI‖En‖Komisja Nadzoru Finansowego‖
 *Z‖krakow‖SI‖En‖Kraków‖
 *Z‖kraków‖SI‖En‖Kraków‖
 Z‖l4‖SI‖En‖L4‖
@@ -90,6 +94,8 @@ ZC*‖niemcy‖SI‖En‖Niemcy‖
 *CZ‖niemców‖SI‖En‖Niemców‖
 ZC*‖niemiec‖SI‖Dis‖Niemiec‖
 *Z‖obsolescence management/‖MSI‖En‖zapobieganie niedostępności¦zarządzanie starzeniem‖context.reverso.net
+Z‖oiom‖SI‖En‖OIOM‖
+*Z‖oiom/‖SI‖En‖Oddział Intensywnej Opieki Medycznej‖
 Z‖oipe‖SI‖En‖OIPE‖
 *Z‖oipe/‖SI‖En‖Ogólnoeuropejski Indywidualny Produkt Emerytalny‖
 Z‖onz‖SI‖En‖ONZ‖
@@ -117,8 +123,12 @@ ZC*‖polski‖MSI‖En‖Polski¦polski‖
 *CZ‖szwecji‖SI‖En‖Szwecji‖
 Z‖tfi‖SI‖En‖TFI‖
 *Z‖tfi/‖SI‖En‖Towarzystwo Funduszy Inwestycyjnych‖
+Z‖ufk‖SI‖En‖UFK‖
+*Z‖ufk/‖SI‖En‖UbezpieczeniowyFundusz Kapitałowy‖
 *CZ‖warszaw‖SI‖En‖Warszaw‖
 *CZ‖zukowo‖SI‖En‖Żukowo‖
+Z‖zus‖SI‖En‖ZUS‖
+*Z‖zus/‖SI‖En‖Zakład Ubezpieczeń Społecznych‖
 *Z‖łotwa‖SI‖En‖Łotwa‖
 *Z‖łotwy‖SI‖En‖Łotwy‖
 *CZ‖żukowo‖SI‖En‖Żukowo‖

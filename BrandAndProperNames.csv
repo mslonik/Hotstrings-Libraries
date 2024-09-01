@@ -44,6 +44,8 @@ Z‖aws‖SI‖En‖AWS‖
 *Z‖aws/‖SI‖En‖Amazon Web Services‖
 Z‖b12‖SI‖En‖B12‖
 Z‖b6‖SI‖En‖B6‖
+Z‖bbc‖SI‖En‖BBC‖
+*Z‖bbc/‖SI‖En‖British Broadcasting Corporation‖
 *Z‖bitlocker‖SI‖En‖BitLocker‖
 *Z‖blazor‖SI‖En‖Blazor‖
 *Z‖blik‖SI‖En‖BLIK‖only with ShiftFunctions!
@@ -132,6 +134,9 @@ Z‖kroki‖SI‖En‖Kroki{!}‖
 *Z‖lidl‖SI‖En‖Lidl‖
 Z*‖linkedin‖SI‖En‖LinkedIn‖
 Z*‖linux‖SI‖En‖Linux‖
+Z‖lora‖SI‖En‖LoRa‖
+*Z‖lora/‖SI‖En‖Long Range‖
+*Z‖lorawan‖SI‖En‖LoRaWAN‖
 *Z‖lufthansa‖SI‖En‖Lufthansa‖
 Z‖m365‖SI‖En‖M365‖
 Z‖markdown‖SI‖En‖Markdown‖
@@ -154,6 +159,7 @@ Z‖ocx‖SI‖En‖OCX‖
 *Z‖ocx/‖SI‖En‖Open Community eXperience of Eclipse Foundation‖
 *Z‖omg/‖SI‖En‖Object Management Group‖https://www.omg.org/index.htm
 Z*‖onedrive‖SI‖En‖OneDrive‖
+*Z‖openjdk‖SI‖En‖OpenJDK‖
 Z‖owasp‖SI‖En‖OWASP‖
 *Z‖owasp/‖SI‖En‖Open Worldwide Application Security Project‖
 *Z‖paypal‖SI‖En‖PayPal‖
@@ -207,6 +213,7 @@ Z*‖unicode‖SI‖En‖Unicode‖
 ZC‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
 *Z‖usba‖SI‖En‖USB-A‖
 *Z‖usbc‖SI‖En‖USB-C‖
+*Z‖viessmann‖SI‖En‖Viessmann‖
 Z‖vod‖SI‖En‖VOD‖
 Z‖vod/‖SI‖En‖Video On Demand‖
 Z‖w3c‖SI‖En‖W3C‖

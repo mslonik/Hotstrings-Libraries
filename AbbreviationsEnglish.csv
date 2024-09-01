@@ -491,6 +491,8 @@ Z‖ipa‖SI‖En‖IPA‖
 *Z‖ipa/‖SI‖En‖International Phonetic Alphabet‖
 CZ‖ipr‖SI‖En‖IPR‖
 *CZ‖ipr/‖SI‖En‖Intellectual Property Rights‖
+*Z‖ipv4‖SI‖En‖IPv4‖
+*Z‖ipv6‖SI‖En‖IPv6‖
 Z‖iq‖SI‖En‖IQ‖
 Z*‖iq/‖CL‖En‖Inteligence Quotient‖
 Z‖iris‖SI‖En‖IRIS‖
@@ -699,6 +701,8 @@ Z‖ole`t‖SI‖En‖OLE‖
 Z‖oled‖SI‖En‖OLED‖
 *Z‖oled/‖SI‖En‖Organic Light-Emitting Diode‖https://en.wikipedia.org/wiki/OLED
 Z‖omg‖SI‖En‖OMG‖
+Z‖opc‖SI‖En‖OPC‖
+*Z‖opc/‖SI‖En‖Open Platform Communications‖
 *Z‖opcit/‖MSI‖En‖opus citatum, opere citato¦dzieło cytowane, z cytowanego dzieła‖
 Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
@@ -878,6 +882,8 @@ Z‖rsi‖SI‖En‖RSI‖
 *Z‖rsi/‖SI‖En‖Repetitive Strain Injury‖
 Z‖rss‖SI‖En‖RSS‖
 *Z‖rss/‖MSI‖En‖Really Simple Syndication¦Really Simple Syndication (RSS) a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format. Subscribing to RSS feeds can allow a user to keep track of many different websites in a single news aggregator, which constantly monitor sites for new content, removing the need for the user to manually check them.‖https://en.wikipedia.org/wiki/RSS
+Z‖rssi‖SI‖En‖RSSI‖
+*Z‖rssi/‖SI‖En‖Received Signal Strength Indicator‖
 Z‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
 Z‖rtf‖SI‖En‖RTF‖

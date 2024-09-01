@@ -2,8 +2,12 @@
 Z*C‖bep/‖SI‖En‖Break-Even Point‖https://en.wikipedia.org/wiki/Break-even_(economics)#Construction
 Z‖bic‖SI‖En‖BIC‖
 Z*‖bic/‖SI‖En‖Bank Identifier Code‖
+Z‖cagr‖SI‖En‖CAGR‖
+*Z‖cagr/‖SI‖En‖Compound Annual Growth Rate‖
 Z‖capex‖SI‖En‖CAPEX‖
 *Z‖capex/‖MSI‖En‖CAPital EXpenditure¦the money an organization or corporate entity spends to buy, maintain, or improve its fixed assets, such as buildings, vehicles, equipment, or land.‖https://en.wikipedia.org/wiki/Capital_expenditure
+Z‖cgr‖SI‖En‖CGR‖
+*Z‖cgr/‖SI‖En‖Compound Growth Rate‖
 Z‖cit‖SI‖En‖CIT‖
 *Z‖cit/‖SI‖En‖Corporate Income Tax‖
 Z‖cvc‖SI‖En‖CVC‖
@@ -38,6 +42,8 @@ Z‖npv‖SI‖En‖NPV‖
 Z*‖npv/‖SI‖En‖Net Present Value‖
 Z‖opex‖SI‖En‖OPEX‖https://en.wikipedia.org/wiki/Capital_expenditure
 *Z‖opex/‖MSI‖En‖OPerating EXpense¦an ongoing cost for running a product, business, or system.‖https://en.wikipedia.org/wiki/Capital_expenditure
+Z‖pepp‖SI‖En‖PEPP‖
+*Z‖pepp/‖SI‖En‖Pan-European Pension Product‖
 Z‖pos‖SI‖En‖POS‖
 *Z‖pos/‖SI‖En‖Point Of Sale‖
 Z‖roa‖SI‖En‖ROA‖

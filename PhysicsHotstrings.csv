@@ -63,6 +63,8 @@ Z‖m3‖SI‖En‖m³‖
 Z‖mah‖SI‖En‖mAh‖
 Z*‖mamp‖CL‖En‖mA‖
 Z‖mb‖SI‖En‖MB‖
+Z‖mbps‖SI‖En‖Mbps‖
+*Z‖mbps/‖MSI‖En‖Mbit/s¦megabit per second¦10⁶‖
 Z‖mhz‖SI‖En‖MHz‖
 Z‖mib‖SI‖En‖MiB‖
 Z*‖minusplus‖CL‖En‖±‖
