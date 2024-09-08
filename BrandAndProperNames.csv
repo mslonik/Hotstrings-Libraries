@@ -77,6 +77,8 @@ Z‖dkms‖SI‖En‖DKMS‖
 *Z‖dremel‖SI‖En‖Dremel‖
 Z‖ea‖SI‖En‖EA‖https://en.wikipedia.org/wiki/ArchiMate
 *Z‖elemnt‖SI‖En‖ELEMNT‖https://en.wikipedia.org/wiki/ANT_(network)
+*Z‖elk/‖MSI‖En‖Elasticsearch Logstash Kibana¦stack of open-source tools used together to collect, process, and visualize log data from various sources.‖
+*Z‖elk`t‖SI‖En‖ELK‖
 *Z‖esp32‖SI‖En‖ESP32‖
 Z*‖ethernet‖SI‖En‖Ethernet‖
 Z‖excel‖SI‖En‖Excel‖
@@ -85,7 +87,8 @@ Z*‖facebook‖SI‖En‖Facebook‖
 ZC‖framemaker‖MSI‖En‖FrameMaker¦https://www.adobe.com/pl/products/framemaker.html‖
 Z‖git‖SI‖En‖Git‖
 Z*‖github‖SI‖En‖GitHub‖
-*Z‖google‖SI‖En‖Google‖
+Z‖google‖SI‖En‖Google‖
+*Z‖googlemail‖CL‖En‖https://mail.google.com/mail/u/0/#inbox‖
 Z*‖gopro‖SI‖En‖GoPro‖
 Z‖graphql‖SI‖En‖GraphQL‖
 *Z‖graphql/‖SI‖En‖open-source data query and manipulation language for APIs and query runtime engine‖https://en.wikipedia.org/wiki/GraphQL
@@ -232,4 +235,5 @@ Z‖ytd‖CL‖En‖YTD‖
 ZC‖ytd/‖CL‖En‖Year To Date‖
 Z‖yubico‖SI‖En‖Yubico‖
 Z‖yubikey‖SI‖En‖YubiKey‖
+Z‖zabbix‖SI‖En‖Zabbix‖
 *CZ‖zigbee‖SI‖En‖Zigbee‖

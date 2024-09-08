@@ -305,6 +305,8 @@ Z*‖eeprom/‖SI‖En‖Electrically Erasable Programmable Read-Only Memory‖
 Z*‖eg/‖SI‖En‖exempli gratia‖
 Z‖ei‖SI‖En‖EI‖
 Z*‖ei/‖CL‖En‖Emotional Intelligence‖
+Z‖eiopa‖SI‖En‖EIOPA‖
+*Z‖eiopa/‖SI‖En‖European Insurance and Occupational Pensions Authority‖
 Z‖elsa‖SI‖En‖ELSA‖
 *Z‖elsa/‖SI‖En‖English Language Skills Assessment‖
 CZ‖embb‖SI‖En‖eMBB‖
@@ -337,8 +339,12 @@ Z‖erp‖SI‖En‖ERP‖
 Z*‖erp/‖CL‖En‖Enterprise Resource Planning‖
 Z‖esd‖SI‖En‖ESD‖
 *Z‖esd/‖MSI‖En‖Electro Static Discharge¦wyładowania elektrostatyczne‖
+Z‖esg‖SI‖En‖ESG‖
+*Z‖esg/‖SI‖En‖Environmental Social Governance‖
 CZ‖esim‖SI‖En‖eSIM‖
 *CZ‖esim/‖SI‖En‖embedded SIM‖
+Z‖esma‖SI‖En‖ESMA‖
+*Z‖esma/‖SI‖En‖European Securities and Markets Authority‖
 Z‖eta‖SI‖En‖ETA‖
 Z*‖eta/‖SI‖En‖Estimated Time to Arrival‖
 Z‖eto‖SI‖En‖ETO‖
@@ -436,6 +442,8 @@ Z*‖gsm/‖CL‖En‖Global System for Mobile Communications‖
 *Z‖gsmr/‖SI‖En‖GSM for Railways‖
 Z‖gui‖SI‖En‖GUI‖
 Z*‖gui/‖CL‖En‖Graphical User Interface‖
+Z‖guid‖SI‖En‖GUID‖
+*Z‖guid/‖SI‖En‖Globally Unique IDentifier‖
 Z‖hart‖SI‖En‖HART‖
 Z*‖hart/‖CL‖En‖Highway Addressable Remote Transducer Protocol‖
 Z‖hdl‖SI‖En‖HDL‖
@@ -743,6 +751,8 @@ Z‖pdn‖SI‖En‖PDN‖
 *Z‖pdn/‖SI‖En‖Product Discontinuance Notification‖
 Z‖pe‖SI‖En‖PE‖
 Z*‖pe/‖SI‖En‖Protective Earth‖
+Z‖pep‖SI‖En‖PEP‖
+*Z‖pep/‖SI‖En‖Politically Exposed Person‖
 Z?‖pgp‖SI‖En‖PGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 Z*‖pgp/‖SI‖En‖Pretty Good Privacy‖
 Z‖phd‖SI‖En‖PhD‖
@@ -762,7 +772,7 @@ Z‖pkm‖SI‖En‖PKM‖
 Z‖plc‖SI‖En‖PLC‖https://en.wikipedia.org/wiki/Programmable_logic_controller
 Z*‖plc/‖SI‖En‖Programmable Logic Controller‖
 Z‖ple‖SI‖En‖PLE‖
-Z‖ple/‖SI‖En‖Product Line Engineering‖
+*Z‖ple/‖SI‖En‖Product Line Engineering‖
 Z‖plm‖SI‖En‖PLM‖
 Z*‖plm/‖CL‖En‖Product Lifecycle Management‖
 *Z‖pm/‖MSI‖En‖Post Meridiem¦Phase Modulated‖
@@ -829,7 +839,7 @@ Z*‖r/‖SI‖En‖Reliability‖
 Z‖rac‖SI‖En‖RAC‖
 Z*‖rac/‖CL‖En‖Risk Acceptance Criteria‖
 Z‖raci‖SI‖En‖RACI‖
-*Z‖raci/‖SI‖En‖Responsible Accountable Consultant Informed‖
+*Z‖raci/‖MSI‖En‖Responsible Accountable Consultant Informed¦R = Responsible: Those who are responsible for the correct completion of the task.[7] There is at least one role with a participation type of responsible, although others can be delegated to assist in the work required.	`n`nA = Accountable (also approver or final approving authority): The one ultimately answerable for the correct and thorough completion of the deliverable or task, the one who ensures the prerequisites of the task are met and who delegates the work to those responsible.[7] In other words, an accountable must sign off (approve) work that responsible provides. There must be only one accountable specified for each task or deliverable.`n`nC = Consulted : Those whose opinions are sought, typically subject-matter experts, and with whom there is two-way communication.`n`nI = Informed : Those who are kept up-to-date on progress, often only on completion of the task or deliverable, and with whom there is just one-way communication.‖
 Z‖ral‖SI‖En‖RAL‖
 Z*‖ral/‖SI‖En‖Reichs-Ausschuß für Lieferbedingungen (National Committee for Delivery and Quality Assurance)‖
 Z*‖ram/‖CL‖En‖Reliability, Availability, Maintainability‖
@@ -852,6 +862,8 @@ Z‖rem‖SI‖En‖REM‖
 *Z‖rest`t‖SI‖En‖REST‖
 CZ‖rf‖SI‖En‖RF‖
 *CZ‖rf/‖SI‖En‖Radio Frequency‖
+Z‖rfc‖SI‖En‖RFC‖
+*Z‖rfc/‖MSI‖En‖Request For Comments¦Request For Change‖
 Z‖rfid‖SI‖En‖RFID‖
 Z*‖rfid/‖SI‖En‖Radio Frequency Identification‖
 Z‖rfp‖SI‖En‖RFP‖
@@ -989,7 +1001,7 @@ Z*‖sw/‖SI‖En‖software‖
 Z‖sysml‖SI‖En‖SysML‖
 *Z‖sysml/‖SI‖En‖System Modeling Language‖
 Z*‖tbc/‖CL‖En‖to be continued‖
-Z‖tbd‖SI‖Dis‖to be decided‖
+Z‖tbd‖SI‖En‖TBD‖
 Z*‖tbd/‖MSI‖En‖to be decided¦to be defined‖
 Z‖tbdl‖SI‖En‖TBDL‖
 Z*‖tbdl/‖SI‖En‖to be determined later‖
@@ -1097,6 +1109,7 @@ Z‖utc‖SI‖En‖UTC‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖utc/‖SI‖En‖Coordinated Universal Time‖
 Z‖utf‖SI‖En‖UTF‖
 Z*‖utf/‖CL‖En‖Unicode Transformation Format‖
+*Z‖utf8‖SI‖En‖UTF-8‖
 CZ‖uuid‖SI‖En‖UUID‖
 *CZ‖uuid/‖SI‖En‖Universally Unique IDentifier‖
 Z‖uv‖SI‖En‖UV‖

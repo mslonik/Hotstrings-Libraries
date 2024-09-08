@@ -6,10 +6,14 @@ Z‖cagr‖SI‖En‖CAGR‖
 *Z‖cagr/‖SI‖En‖Compound Annual Growth Rate‖
 Z‖capex‖SI‖En‖CAPEX‖
 *Z‖capex/‖MSI‖En‖CAPital EXpenditure¦the money an organization or corporate entity spends to buy, maintain, or improve its fixed assets, such as buildings, vehicles, equipment, or land.‖https://en.wikipedia.org/wiki/Capital_expenditure
+Z‖cfd‖SI‖En‖CFD‖
+*Z‖cfd/‖SI‖En‖Contract For Difference‖
 Z‖cgr‖SI‖En‖CGR‖
 *Z‖cgr/‖SI‖En‖Compound Growth Rate‖
 Z‖cit‖SI‖En‖CIT‖
 *Z‖cit/‖SI‖En‖Corporate Income Tax‖
+Z‖crs‖SI‖En‖CRS‖
+*Z‖crs/‖SI‖En‖Common Reporting Standard‖
 Z‖cvc‖SI‖En‖CVC‖
 *Z‖cvc/‖SI‖En‖Card Verivication Code‖
 Z‖dba‖SI‖En‖DBA‖
@@ -24,6 +28,8 @@ Z‖eea‖SI‖En‖EEA‖
 *Z‖eea/‖SI‖En‖European Economic Area‖
 Z‖etf‖SI‖En‖ETF‖https://en.wikipedia.org/wiki/Exchange-traded_fund
 Z*‖etf/‖SI‖En‖Exchange-Traded Fund‖https://en.wikipedia.org/wiki/Exchange-traded_fund
+Z‖fatca‖SI‖En‖FATCA‖
+*Z‖fatca/‖SI‖En‖Foreign Account Tax Compliance Act‖
 Z‖fcf‖SI‖En‖FCF‖
 *Z‖fcf/‖SI‖En‖Free Cash Flow‖
 Z‖fy‖SI‖En‖FY‖
@@ -36,6 +42,10 @@ Z‖irs‖SI‖En‖IRS‖
 *Z‖irs/‖SI‖En‖Internal Revenue Service‖
 Z‖ivr‖SI‖En‖IVR‖
 *Z‖ivr/‖SI‖En‖Interactive Voice Response‖
+*Z‖kid/‖SI‖En‖Key Information Document‖
+*Z‖kid`t‖SI‖En‖KID‖
+Z‖mifid‖SI‖En‖MIFID‖
+*Z‖mifid/‖SI‖En‖Markets in Financial Instruments Directive‖
 CZ‖mor‖SI‖En‖MoR‖
 *CZ‖mor/‖MSI‖En‖Merchant of Record¦a term used to describe the legal entity selling goods or services to an end customer.`n`nWhen a customer makes a purchase, they are buying from the merchant of record. The merchant of record is responsible for handling all payments and takes responsibility for everything relating to the purchase, including collecting sales tax, processing refunds and chargebacks, and ensuring PCI compliance.‖
 Z‖npv‖SI‖En‖NPV‖
@@ -60,10 +70,14 @@ ZZ‖rrso‖SI‖En‖RRSO‖
 Z*Z‖rrso/‖SI‖En‖Rzeczywista Roczna Stopa Oprocentowania‖
 Z‖sepa‖SI‖En‖SEPA‖https://pl.wikipedia.org/wiki/WIBOR
 Z*‖sepa/‖SI‖En‖Single Euro Payments Area‖https://en.wikipedia.org/wiki/Single_Euro_Payments_Area
+Z‖srri‖SI‖En‖SRRI‖
+*Z‖srri/‖SI‖En‖Synthetic Risk and Reward Indicator‖
 ZC‖swift‖SI‖En‖SWIFT‖
 Z*C‖swift/‖SI‖En‖Society for Worldwide Interbank Financial Telecommunication‖
 Z‖tco‖SI‖En‖TCO‖
 Z*‖tco/‖MSI‖En‖Total Cost of Ownership¦Total cost of ownership (TCO) is a financial estimate intended to help buyers and owners determine the direct and indirect costs of a product or service. It is a management accounting concept that can be used in full cost accounting or even ecological economics where it includes social costs.‖https://en.wikipedia.org/wiki/Total_cost_of_ownership
+Z‖ter‖SI‖En‖TER‖
+*Z‖ter/‖SI‖En‖Total Expense Ratio‖
 Z‖tin‖SI‖En‖TIN‖
 *Z‖tin/‖SI‖En‖Tax Identification Number‖
 Z‖tlc‖SI‖En‖TLC‖

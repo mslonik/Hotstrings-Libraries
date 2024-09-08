@@ -43,7 +43,11 @@ Z‖epuap‖SI‖En‖ePUAP‖
 *Z‖epuap/‖SI‖En‖Elektroniczna Platforma Usług Administracji Publicznej‖
 Z*‖fik‖SI‖Dis‖fikumiku‖
 Z*‖fiku/‖SI‖Dis‖fiku`amiku`n‖
+Z‖fzd‖SI‖En‖FZD‖
+*Z‖fzd/‖SI‖En‖Fundusz Zdefiniowanej Daty‖
 Z*‖gdyn‖SI‖En‖Gdyn‖
+Z‖gpw‖SI‖En‖GPW‖
+*Z‖gpw/‖SI‖En‖Giełda Papierów Wartościowych‖
 Z*‖gruzin‖SI‖En‖Gruzin‖
 Z*‖gruzj‖SI‖En‖Gruzj‖
 Z‖gunb‖SI‖En‖GUNB‖
@@ -88,12 +92,17 @@ Z*‖litwa‖SI‖En‖Litwa‖
 *Z‖michal‖SI‖En‖Michał‖
 *Z‖michał‖SI‖En‖Michał‖
 *Z‖michiel‖SI‖En‖Michiel‖
+*Z‖mobywatel‖SI‖En‖mObywatel‖
+*Z‖mwig40‖SI‖En‖mWIG40‖
+*Z‖mwig40/‖SI‖En‖indeks giełdowy średnich spółek akcyjnych notowanych na warszawskej Giełdzie Papierów Wartościowych‖
 *Z‖niemcami‖SI‖En‖Niemcami‖
 *CZ‖niemcow‖SI‖En‖Niemców‖
 ZC*‖niemcy‖SI‖En‖Niemcy‖
 *CZ‖niemców‖SI‖En‖Niemców‖
 ZC*‖niemiec‖SI‖Dis‖Niemiec‖
 *Z‖obsolescence management/‖MSI‖En‖zapobieganie niedostępności¦zarządzanie starzeniem‖context.reverso.net
+Z‖ofe‖SI‖En‖OFE‖
+*Z‖ofe/‖SI‖En‖Otware Fundusze Emerytalne‖
 Z‖oiom‖SI‖En‖OIOM‖
 *Z‖oiom/‖SI‖En‖Oddział Intensywnej Opieki Medycznej‖
 Z‖oipe‖SI‖En‖OIPE‖
@@ -106,6 +115,7 @@ Z‖onz‖SI‖En‖ONZ‖
 *Z‖pawlem‖SI‖En‖Pawłem‖
 *Z‖pawła‖SI‖En‖Pawła‖
 *Z‖pawłem‖SI‖En‖Pawłem‖
+*Z‖pekao‖SI‖En‖Pekao‖
 Z‖pfu‖SI‖En‖PFU‖
 *Z‖pfu/‖SI‖En‖Program Funkcjonalno-Użytkowy‖
 ZC*‖polacy‖SI‖En‖Polacy‖
@@ -114,9 +124,15 @@ ZC*‖polska‖CL‖En‖Polska‖
 *Z‖polske‖SI‖En‖Polskę‖
 ZC*‖polski‖MSI‖En‖Polski¦polski‖
 *Z‖polskę‖SI‖En‖Polskę‖
+Z‖ppe‖SI‖En‖PPE‖
+*Z‖ppe/‖SI‖En‖Pracowniczy Program Emerytalny‖
 *Z‖przemyslaw‖SI‖En‖Przemysław‖
 *Z‖przemysław‖SI‖En‖Przemysław‖
+Z‖pte‖SI‖En‖PTE‖
+*Z‖pte/‖SI‖En‖Powszechne Towarzystwo Emerytalne‖
 *Z‖rafał‖SI‖En‖Rafał‖
+Z‖sfio‖CL‖En‖SFIO‖
+*Z‖sfio/‖SI‖En‖Specjalistyczne Fundusze Inwestycyjne Otwarte‖
 *Z‖sopocie‖SI‖En‖Sopocie‖
 *Z‖sopotu‖SI‖En‖Sopocie‖
 *CZ‖szwecja‖SI‖En‖Szwecja‖
@@ -124,8 +140,12 @@ ZC*‖polski‖MSI‖En‖Polski¦polski‖
 Z‖tfi‖SI‖En‖TFI‖
 *Z‖tfi/‖SI‖En‖Towarzystwo Funduszy Inwestycyjnych‖
 Z‖ufk‖SI‖En‖UFK‖
-*Z‖ufk/‖SI‖En‖UbezpieczeniowyFundusz Kapitałowy‖
+*Z‖ufk/‖SI‖En‖Ubezpieczeniowy Fundusz Kapitałowy‖
 *CZ‖warszaw‖SI‖En‖Warszaw‖
+Z‖wig‖SI‖En‖WIG‖
+*Z‖wig/‖SI‖En‖Warszawski Indeks Giełdowy‖
+*Z‖wig20‖SI‖En‖WIG20‖
+*Z‖wig20/‖SI‖En‖indeks giełdowy 20 najwkiększych spółek akcyjnych notowanych na warszawskej Giełdzie Papierów Wartościowych‖
 *CZ‖zukowo‖SI‖En‖Żukowo‖
 Z‖zus‖SI‖En‖ZUS‖
 *Z‖zus/‖SI‖En‖Zakład Ubezpieczeń Społecznych‖
