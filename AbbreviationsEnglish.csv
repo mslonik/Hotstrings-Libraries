@@ -169,6 +169,7 @@ Z‖cmyk‖SI‖En‖CMYK‖
 *Z‖cmyk/‖SI‖En‖Cyan Magenta Yellow Key (black)‖
 Z‖cnc‖SI‖En‖CNC‖
 *Z‖cnc/‖SI‖En‖Computer Numerical Control‖
+Z‖cny‖SI‖En‖CNY‖
 Z‖coap‖SI‖En‖CoAP‖
 *Z‖coap/‖SI‖En‖Constrained Application Protocol‖
 Z‖com‖SI‖Dis‖COM‖
@@ -187,6 +188,8 @@ Z‖cots‖SI‖En‖COTS‖
 Z*‖cots/‖CL‖En‖Commercial Off-The-Shelf‖U+1F451 | U+83CC
 Z‖covid‖MSI‖En‖COVID-19¦👑🦠‖
 Z*‖covid/‖CL‖En‖severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)‖
+Z‖cpld‖SI‖En‖CPLD‖
+*Z‖cpld/‖SI‖En‖Complex Programmable Logic Devices‖
 Z‖cpr‖SI‖En‖CPR‖
 *Z‖cpr/‖SI‖En‖CardioPulmonary Resuscitation‖https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation
 Z‖cpu‖SI‖En‖CPU‖

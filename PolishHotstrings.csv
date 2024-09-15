@@ -41,6 +41,8 @@ Z‖eog‖SI‖En‖EOG‖
 *Z‖eog/‖SI‖En‖Europejski Obszar Gospodarczy‖
 Z‖epuap‖SI‖En‖ePUAP‖
 *Z‖epuap/‖SI‖En‖Elektroniczna Platforma Usług Administracji Publicznej‖
+Z‖espi‖SI‖En‖ESPI‖
+*Z‖espi/‖SI‖En‖Elektroniczny System Przekazywania Informacji‖
 Z*‖fik‖SI‖Dis‖fikumiku‖
 Z*‖fiku/‖SI‖Dis‖fiku`amiku`n‖
 Z‖fzd‖SI‖En‖FZD‖
@@ -71,6 +73,7 @@ Z*‖jw/‖SI‖En‖jak wyżej‖
 Z‖kasia‖SI‖En‖Kasia‖
 Z‖kasią‖SI‖En‖Kasią‖
 *Z‖katarzyn‖SI‖En‖Katarzyn‖
+*Z‖kghm‖SI‖En‖KGHM‖
 Z‖knf‖SI‖En‖KNF‖
 *Z‖knf/‖SI‖En‖Komisja Nadzoru Finansowego‖
 *Z‖krakow‖SI‖En‖Kraków‖
@@ -118,6 +121,11 @@ Z‖onz‖SI‖En‖ONZ‖
 *Z‖pekao‖SI‖En‖Pekao‖
 Z‖pfu‖SI‖En‖PFU‖
 *Z‖pfu/‖SI‖En‖Program Funkcjonalno-Użytkowy‖
+Z‖pkc‖SI‖En‖PKC‖
+*Z‖pkc/‖SI‖En‖Po Każdej Cenie‖
+Z‖pko‖SI‖En‖PKO‖
+*Z‖pko/‖SI‖En‖Powszechna Kasa Oszczędności‖
+*Z‖pkobp‖SI‖En‖PKO BP‖
 ZC*‖polacy‖SI‖En‖Polacy‖
 Z*‖polsce‖SI‖En‖Polsce‖
 ZC*‖polska‖CL‖En‖Polska‖
@@ -146,6 +154,8 @@ Z‖wig‖SI‖En‖WIG‖
 *Z‖wig/‖SI‖En‖Warszawski Indeks Giełdowy‖
 *Z‖wig20‖SI‖En‖WIG20‖
 *Z‖wig20/‖SI‖En‖indeks giełdowy 20 najwkiększych spółek akcyjnych notowanych na warszawskej Giełdzie Papierów Wartościowych‖
+Z‖wza‖SI‖En‖WZA‖
+*Z‖wza/‖SI‖En‖Walne Zgromadzenie Akcjonariuszy‖
 *CZ‖zukowo‖SI‖En‖Żukowo‖
 Z‖zus‖SI‖En‖ZUS‖
 *Z‖zus/‖SI‖En‖Zakład Ubezpieczeń Społecznych‖

@@ -118,6 +118,7 @@ Z*‖internet‖SI‖En‖Internet‖
 Z*‖ios‖SI‖En‖iOS‖"peszel"
 Z*‖iphone‖SI‖En‖iPhone‖
 Z*‖iscala‖CL‖En‖iSCALA‖
+*Z‖itunes‖SI‖En‖iTunes‖
 CZ‖itur‖SI‖En‖ITU-R‖
 *CZ‖itur/‖SI‖En‖ITU Radiocommunication Sector‖
 Z‖jedec‖SI‖En‖JEDEC‖
@@ -152,6 +153,8 @@ Z‖mipi‖SI‖En‖MIPI‖
 *Z‖mongodb‖SI‖En‖MongoDB‖
 *Z‖msword‖SI‖En‖Microsoft Word‖
 *Z‖mysql‖SI‖En‖MySQL‖
+Z‖nasa‖SI‖En‖NASA‖
+*Z‖nasa/‖SI‖En‖National Aeronautics and Space Administration‖
 ZC‖netflix‖SI‖En‖Netflix‖
 *Z‖newag‖SI‖En‖Newag‖
 Z‖notepad++‖SI‖En‖Notepad{+}{+}‖
@@ -163,6 +166,7 @@ Z‖ocx‖SI‖En‖OCX‖
 *Z‖omg/‖SI‖En‖Object Management Group‖https://www.omg.org/index.htm
 Z*‖onedrive‖SI‖En‖OneDrive‖
 *Z‖openjdk‖SI‖En‖OpenJDK‖
+*Z‖openssl‖SI‖En‖OpenSSL‖
 Z‖owasp‖SI‖En‖OWASP‖
 *Z‖owasp/‖SI‖En‖Open Worldwide Application Security Project‖
 *Z‖paypal‖SI‖En‖PayPal‖
@@ -175,6 +179,8 @@ Z‖philips‖SI‖En‖Philips‖
 Z*‖power point‖SI‖En‖PowerPoint‖
 Z*‖powerpoint‖SI‖En‖PowerPoint‖
 *Z‖powershell‖SI‖En‖PowerShell‖
+Z‖priip‖SI‖En‖PRIIP‖kolor voestalpine | nagłówek tabeli | wiersz tabeli
+*Z‖priip/‖SI‖En‖Packaged Retail Investment and Insurance Products‖kolor voestalpine | nagłówek tabeli | wiersz tabeli
 *Z‖qnap‖SI‖En‖QNAP‖
 Z*‖qnx‖CL‖En‖QNX‖
 Z‖rcp‖SI‖En‖RCP‖
@@ -184,6 +190,7 @@ Z‖rcp‖SI‖En‖RCP‖
 *Z‖reddit‖SI‖En‖Reddit‖
 *Z‖rj45‖SI‖En‖RJ45‖
 *Z‖romet‖SI‖En‖Romet‖
+*Z‖roswera‖SI‖En‖Roswera‖
 Z*‖rs232‖CL‖En‖RS232‖
 Z*‖rs485‖CL‖En‖RS485‖
 Z*‖s49‖CL‖En‖S49‖
@@ -201,6 +208,7 @@ Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
 Z*‖sp/‖SI‖En‖Sharepoint‖
 *Z‖sparx‖SI‖En‖Sparx Systems‖
+*Z‖spotify‖SI‖En‖Spotify‖
 Z*‖strava‖SI‖En‖Strava‖
 *Z‖suzuki‖SI‖En‖Suzuki‖
 Z‖svn‖SI‖En‖SVN‖

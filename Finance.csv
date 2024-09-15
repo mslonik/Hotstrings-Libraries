@@ -32,6 +32,8 @@ Z‖fatca‖SI‖En‖FATCA‖
 *Z‖fatca/‖SI‖En‖Foreign Account Tax Compliance Act‖
 Z‖fcf‖SI‖En‖FCF‖
 *Z‖fcf/‖SI‖En‖Free Cash Flow‖
+Z‖ftse‖SI‖En‖FTSE‖
+*Z‖ftse/‖SI‖En‖Financial Times Stock Exchange Group‖
 Z‖fy‖SI‖En‖FY‖
 *Z‖fy/‖SI‖En‖Financial Year‖
 Z‖gdp‖SI‖En‖GDP‖
@@ -40,10 +42,14 @@ Z‖iban‖SI‖En‖IBAN‖https://en.wikipedia.org/wiki/International_Bank_Acc
 Z*‖iban/‖SI‖En‖International Bank Account Number‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
 Z‖irs‖SI‖En‖IRS‖
 *Z‖irs/‖SI‖En‖Internal Revenue Service‖
+Z‖isin‖SI‖En‖ISIN‖
+*Z‖isin/‖SI‖En‖International Securities Identification Number‖
 Z‖ivr‖SI‖En‖IVR‖
 *Z‖ivr/‖SI‖En‖Interactive Voice Response‖
 *Z‖kid/‖SI‖En‖Key Information Document‖
 *Z‖kid`t‖SI‖En‖KID‖
+Z‖kiid‖SI‖En‖KIID‖
+*Z‖kiid/‖SI‖En‖Key Investor Information Document‖
 Z‖mifid‖SI‖En‖MIFID‖
 *Z‖mifid/‖SI‖En‖Markets in Financial Instruments Directive‖
 CZ‖mor‖SI‖En‖MoR‖
@@ -52,6 +58,8 @@ Z‖npv‖SI‖En‖NPV‖
 Z*‖npv/‖SI‖En‖Net Present Value‖
 Z‖opex‖SI‖En‖OPEX‖https://en.wikipedia.org/wiki/Capital_expenditure
 *Z‖opex/‖MSI‖En‖OPerating EXpense¦an ongoing cost for running a product, business, or system.‖https://en.wikipedia.org/wiki/Capital_expenditure
+Z‖otc‖SI‖En‖OTC‖
+*Z‖otc/‖SI‖En‖Over The Counter‖
 Z‖pepp‖SI‖En‖PEPP‖
 *Z‖pepp/‖SI‖En‖Pan-European Pension Product‖
 Z‖pos‖SI‖En‖POS‖
@@ -70,6 +78,7 @@ ZZ‖rrso‖SI‖En‖RRSO‖
 Z*Z‖rrso/‖SI‖En‖Rzeczywista Roczna Stopa Oprocentowania‖
 Z‖sepa‖SI‖En‖SEPA‖https://pl.wikipedia.org/wiki/WIBOR
 Z*‖sepa/‖SI‖En‖Single Euro Payments Area‖https://en.wikipedia.org/wiki/Single_Euro_Payments_Area
+*Z‖snp500‖SI‖En‖S&P500‖
 Z‖srri‖SI‖En‖SRRI‖
 *Z‖srri/‖SI‖En‖Synthetic Risk and Reward Indicator‖
 ZC‖swift‖SI‖En‖SWIFT‖
