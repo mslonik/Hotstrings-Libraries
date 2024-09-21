@@ -477,6 +477,7 @@ Z‖iarc‖SI‖En‖IARC‖
 *‖ibid/‖MSI‖En‖ibidem¦tamże, w tym samym miejscu‖
 Z‖ic‖SI‖En‖IC‖
 Z*‖ic/‖CL‖En‖Interoperability Constituent‖
+*Z‖id`t‖SI‖En‖ID‖
 Z‖ide‖SI‖En‖IDE‖
 Z*‖ide/‖SI‖En‖Integrated Development Environment‖
 Z*‖idk/‖SI‖En‖I don't know‖
@@ -559,6 +560,8 @@ Z‖lcc‖SI‖En‖LCC‖
 Z*‖lcc/‖SI‖En‖Life Cycle Cost‖
 Z‖lcd‖SI‖En‖LCD‖
 Z*‖lcd/‖SI‖En‖Liquid Cristal Display‖
+Z‖ldap‖SI‖En‖LDAP‖
+*Z‖ldap/‖SI‖En‖Lightweight Directory Access Protocol‖
 Z‖ldo‖SI‖En‖LDO‖
 *Z‖ldo/‖MSI‖En‖Low Dropout Regulator¦can be used to provide a stable power supply to the sensor and other components, regardless of fluctuations in the input power1. This can help to ensure accurate and reliable sensor readings.‖
 CZ‖le‖SI‖En‖LE‖

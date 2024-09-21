@@ -147,6 +147,7 @@ Z‖markdown‖SI‖En‖Markdown‖
 *Z‖mbank‖SI‖En‖mBank‖
 Z‖mcu‖SI‖En‖MCU‖
 *Z‖mcu/‖SI‖En‖Micro Controller Unit‖
+Z*‖medicover‖SI‖En‖Medicover‖
 Z*‖microsoft‖SI‖En‖Microsoft‖
 Z‖mipi‖SI‖En‖MIPI‖
 *Z‖mipi/‖SI‖En‖Mobile Industry Processor Interface‖
@@ -229,6 +230,7 @@ Z‖vod‖SI‖En‖VOD‖
 Z‖vod/‖SI‖En‖Video On Demand‖
 Z‖w3c‖SI‖En‖W3C‖
 *C2Z‖w3c/‖SI‖En‖World Wide Web Consortium‖
+*Z‖wacom‖SI‖En‖Wacom‖
 *Z‖wahoo‖SI‖En‖Wahoo‖
 Z‖wd40‖SI‖En‖WD40‖
 Z*‖webex‖SI‖En‖Webex‖

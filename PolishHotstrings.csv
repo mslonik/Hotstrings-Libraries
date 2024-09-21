@@ -43,8 +43,14 @@ Z‖epuap‖SI‖En‖ePUAP‖
 *Z‖epuap/‖SI‖En‖Elektroniczna Platforma Usług Administracji Publicznej‖
 Z‖espi‖SI‖En‖ESPI‖
 *Z‖espi/‖SI‖En‖Elektroniczny System Przekazywania Informacji‖
+Z‖fep‖SI‖En‖FEP‖
+*Z‖fep/‖SI‖En‖Fundusz Emerytur Pomostowych‖
+Z‖fgsp‖SI‖En‖FGŚP‖
+*Z‖fgsp/‖SI‖En‖Fundusz Gwarantowanych Swiadczeń Pracowniczych‖
 Z*‖fik‖SI‖Dis‖fikumiku‖
 Z*‖fiku/‖SI‖Dis‖fiku`amiku`n‖
+Z‖fp‖SI‖En‖FP‖
+*Z‖fp/‖SI‖En‖Fundusz Pracy‖
 Z‖fzd‖SI‖En‖FZD‖
 *Z‖fzd/‖SI‖En‖Fundusz Zdefiniowanej Daty‖
 Z*‖gdyn‖SI‖En‖Gdyn‖
@@ -103,6 +109,8 @@ Z*‖litwa‖SI‖En‖Litwa‖
 ZC*‖niemcy‖SI‖En‖Niemcy‖
 *CZ‖niemców‖SI‖En‖Niemców‖
 ZC*‖niemiec‖SI‖Dis‖Niemiec‖
+Z‖NNW‖SI‖En‖NNW‖
+*Z‖nnw/‖SI‖En‖ubezpieczenie Następstw Nieszczęśliwych Wypadków‖
 *Z‖obsolescence management/‖MSI‖En‖zapobieganie niedostępności¦zarządzanie starzeniem‖context.reverso.net
 Z‖ofe‖SI‖En‖OFE‖
 *Z‖ofe/‖SI‖En‖Otware Fundusze Emerytalne‖
@@ -141,10 +149,12 @@ Z‖pte‖SI‖En‖PTE‖
 *Z‖rafał‖SI‖En‖Rafał‖
 Z‖sfio‖CL‖En‖SFIO‖
 *Z‖sfio/‖SI‖En‖Specjalistyczne Fundusze Inwestycyjne Otwarte‖
+*Z‖slowacj‖SI‖En‖Słowacj‖
 *Z‖sopocie‖SI‖En‖Sopocie‖
 *Z‖sopotu‖SI‖En‖Sopocie‖
 *CZ‖szwecja‖SI‖En‖Szwecja‖
 *CZ‖szwecji‖SI‖En‖Szwecji‖
+*Z‖słowacj‖SI‖En‖Słowacj‖
 Z‖tfi‖SI‖En‖TFI‖
 *Z‖tfi/‖SI‖En‖Towarzystwo Funduszy Inwestycyjnych‖
 Z‖ufk‖SI‖En‖UFK‖

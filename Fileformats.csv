@@ -15,6 +15,7 @@ CB0?Z‖.dotm‖SI‖En‖‖
 ZB0?‖.dwf‖SI‖En‖‖
 ZCB0?‖.dwfx‖SI‖En‖‖https://en.wikipedia.org/wiki/Design_Web_Format
 ZB0?‖.easm‖SI‖En‖‖only for extensions
+B0?Z‖.eps‖SI‖En‖‖only for extensions
 CB0?Z‖.epub‖SI‖En‖‖
 ZB0?‖.exe‖SI‖En‖‖
 ZB0?‖.fbx‖SI‖En‖‖only for file extensions
@@ -52,6 +53,8 @@ Z*C‖dwf/‖MSI‖En‖Design Web Format¦file format developed by Autodesk for
 Z‖dwfx‖SI‖En‖DWFX‖https://en.wikipedia.org/wiki/Design_Web_Format
 Z*C‖dwfx/‖MSI‖En‖Design Web Format¦file format developed by Autodesk for the efficient distribution and communication of rich design data to anyone who needs to view, review, or print design files‖https://en.wikipedia.org/wiki/Design_Web_Format
 Z‖easm‖SI‖En‖EASM‖
+Z‖eps‖SI‖En‖EPS‖
+*Z‖eps/‖SI‖En‖Encapsulated PostScript‖Microsoft Windows template with macros
 Z‖epub‖SI‖En‖EPUB‖
 *CZ‖epub/‖SI‖En‖all ebooks except Kindle‖
 Z‖exe‖SI‖En‖EXE‖
