@@ -8,12 +8,16 @@ Z‖cagr‖SI‖En‖CAGR‖
 *Z‖cagr/‖SI‖En‖Compound Annual Growth Rate‖
 Z‖capex‖SI‖En‖CAPEX‖
 *Z‖capex/‖MSI‖En‖CAPital EXpenditure¦the money an organization or corporate entity spends to buy, maintain, or improve its fixed assets, such as buildings, vehicles, equipment, or land.‖https://en.wikipedia.org/wiki/Capital_expenditure
+Z‖cfa‖SI‖En‖CFA‖
+*Z‖cfa/‖SI‖En‖Chartered Financial Analyst‖
 Z‖cfd‖SI‖En‖CFD‖
 *Z‖cfd/‖SI‖En‖Contract For Difference‖
 Z‖cgr‖SI‖En‖CGR‖
 *Z‖cgr/‖SI‖En‖Compound Growth Rate‖
 Z‖cit‖SI‖En‖CIT‖
 *Z‖cit/‖SI‖En‖Corporate Income Tax‖
+Z‖cpi‖SI‖En‖CPI‖
+*Z‖cpi/‖SI‖En‖Consumer Price Index‖
 Z‖crs‖SI‖En‖CRS‖
 *Z‖crs/‖SI‖En‖Common Reporting Standard‖
 Z‖cvc‖SI‖En‖CVC‖
@@ -36,10 +40,13 @@ Z‖fcf‖SI‖En‖FCF‖
 *Z‖fcf/‖SI‖En‖Free Cash Flow‖
 Z‖ftse‖SI‖En‖FTSE‖
 *Z‖ftse/‖SI‖En‖Financial Times Stock Exchange Group‖
+*Z‖fv/‖SI‖En‖Final Value‖
 Z‖fy‖SI‖En‖FY‖
 *Z‖fy/‖SI‖En‖Financial Year‖
 Z‖gdp‖SI‖En‖GDP‖
 Z*‖gdp/‖SI‖En‖Gross Domestic Product‖https://en.wikipedia.org/wiki/Gross_domestic_product
+Z‖gst‖SI‖En‖GST‖
+*Z‖gst/‖SI‖En‖General Sales Tax‖
 Z‖iban‖SI‖En‖IBAN‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
 Z*‖iban/‖SI‖En‖International Bank Account Number‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
 Z‖irs‖SI‖En‖IRS‖
@@ -66,6 +73,8 @@ Z‖pepp‖SI‖En‖PEPP‖
 *Z‖pepp/‖SI‖En‖Pan-European Pension Product‖
 Z‖pos‖SI‖En‖POS‖
 *Z‖pos/‖SI‖En‖Point Of Sale‖
+Z‖pv‖SI‖En‖PV‖
+*Z‖pv/‖SI‖En‖Present Value‖
 Z‖roa‖SI‖En‖ROA‖
 Z*‖roa/‖SI‖En‖Return On Assets‖
 ZC‖roce‖SI‖En‖ROCE‖https://en.wikipedia.org/wiki/Return_on_capital_employed

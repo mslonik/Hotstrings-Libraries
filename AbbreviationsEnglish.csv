@@ -105,6 +105,8 @@ Z‖bldc‖SI‖En‖BLDC‖
 *Z‖bldc/‖SI‖En‖Brushless DC electric motor‖
 Z‖ble‖SI‖En‖BLE‖
 *Z‖ble/‖SI‖En‖Bluetooth Low Energy‖
+Z‖bleu‖SI‖En‖BLEU‖
+*Z‖bleu/‖SI‖En‖Bilingual Evaluation Understudy‖
 Z‖bmm‖SI‖En‖BMM‖
 *Z‖bmm/‖SI‖En‖BASIC Meta-Model‖
 Z‖bom‖SI‖En‖BOM‖
@@ -115,6 +117,8 @@ Z‖bpm‖SI‖En‖BPM‖
 *Z‖bpm/‖SI‖En‖Beats Per Minute‖
 Z‖bpmn‖SI‖En‖BPMN‖
 Z*‖bpmn/‖SI‖En‖Business Process Model and Notation‖https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
+Z‖bredr‖SI‖En‖BR/EDR‖
+*Z‖bredr/‖SI‖En‖Bluetooth BASIC Rate / Enhanced Data Rate‖
 Z*‖btw/‖CL‖En‖by the way‖
 Z‖byod‖SI‖En‖BYOD‖
 *Z‖byod/‖SI‖En‖Bring Your Own Device‖
@@ -163,6 +167,8 @@ Z‖cisc‖SI‖En‖CISC‖
 *Z‖cisc/‖SI‖En‖Complex Instruction Set Computer‖
 Z‖cli‖SI‖En‖CLI‖
 Z*‖cli/‖SI‖En‖Command Line Interface‖
+Z‖clo‖SI‖En‖CLO‖
+*Z‖clo/‖SI‖En‖Chief Legal Officer‖
 Z‖cms‖SI‖En‖CMS‖
 Z*‖cms/‖SI‖En‖Content Management System‖
 Z‖cmyk‖SI‖En‖CMYK‖
@@ -259,7 +265,7 @@ Z‖dna‖SI‖En‖DNA‖
 Z‖dnd‖SI‖En‖D&D‖
 Z*‖dnd/‖SI‖En‖Drag&Drop‖
 Z‖dns‖SI‖En‖DNS‖https://en.wikipedia.org/wiki/Domain_Name_System
-Z‖dns/‖SI‖En‖Domain Name System‖https://www.ibm.com/pl-pl/products/requirements-management
+*Z‖dns/‖SI‖En‖Domain Name System‖https://www.ibm.com/pl-pl/products/requirements-management
 Z‖dof‖SI‖En‖DOF‖
 *Z‖dof/‖SI‖En‖Degrees Of Freedom‖
 Z*‖doors/‖SI‖En‖ Dynamic Object Oriented Requirements System‖
@@ -305,6 +311,8 @@ Z‖eeg‖SI‖En‖EEG‖
 *Z‖eeg/‖SI‖En‖Electroencephalography‖
 Z‖eeprom‖SI‖En‖EEPROM‖
 Z*‖eeprom/‖SI‖En‖Electrically Erasable Programmable Read-Only Memory‖
+Z‖efta‖SI‖En‖EFTA‖
+*Z‖efta/‖SI‖En‖European Free Trade Association‖
 Z*‖eg/‖SI‖En‖exempli gratia‖
 Z‖ei‖SI‖En‖EI‖
 Z*‖ei/‖CL‖En‖Emotional Intelligence‖
@@ -380,6 +388,8 @@ Z‖fet‖SI‖En‖FET‖
 *Z‖fet/‖SI‖En‖Field-Effect Transistor‖
 Z‖fft‖SI‖En‖FFT‖https://en.wikipedia.org/wiki/Inertial_measurement_unit
 *Z‖fft/‖SI‖En‖Fast Fourier Transform‖
+Z‖fhss‖SI‖En‖FHSS‖
+*Z‖fhss/‖SI‖En‖Frequency Hopping Spread Spectrum‖
 Z‖fido‖SI‖En‖FIDO‖https://en.wikipedia.org/wiki/FIDO_Alliance
 Z*‖fido/‖MSI‖En‖Fast IDentity Online¦The FIDO Alliance is an open industry association launched in February 2013 whose stated mission is to develop and promote authentication standards that "help reduce the world’s over-reliance on passwords".‖
 Z‖fifa‖SI‖En‖FIFA‖
@@ -449,6 +459,8 @@ Z‖guid‖SI‖En‖GUID‖
 *Z‖guid/‖SI‖En‖Globally Unique IDentifier‖
 Z‖hart‖SI‖En‖HART‖
 Z*‖hart/‖CL‖En‖Highway Addressable Remote Transducer Protocol‖
+Z‖hci‖SI‖En‖HCI‖
+*Z‖hci/‖SI‖En‖Host Controller Interface‖
 Z‖hdl‖SI‖En‖HDL‖
 *Z‖hdl/‖SI‖En‖Hardware Description Language‖
 Z‖hdmi‖SI‖En‖HDMI‖
@@ -507,6 +519,8 @@ CZ‖ipr‖SI‖En‖IPR‖
 *Z‖ipv6‖SI‖En‖IPv6‖
 Z‖iq‖SI‖En‖IQ‖
 Z*‖iq/‖CL‖En‖Inteligence Quotient‖
+Z‖irda‖SI‖En‖IrDA‖
+*Z‖irda/‖SI‖En‖Infrared Data Association‖
 Z‖iris‖SI‖En‖IRIS‖
 Z*‖iris/‖CL‖En‖International Railway Industry Standard for the evaluation of railway management systems‖
 Z‖isa‖SI‖En‖ISA‖
@@ -692,6 +706,10 @@ CZ‖ntn‖SI‖En‖NTN‖
 *CZ‖ntn/‖SI‖En‖Non-Terrestrial Network‖
 Z‖ntp‖SI‖En‖NTP‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖ntp/‖SI‖En‖Network Time Protocol‖
+Z‖nvm‖SI‖En‖NVM‖
+*Z‖nvm/‖SI‖En‖Non-Volatile Memory‖
+Z‖nvme‖SI‖En‖NVMe‖
+*Z‖nvme/‖MSI‖En‖NVM express¦Non-Volatile Memory Host Controller Interface Specification‖
 Z‖ocd‖SI‖En‖OCD‖
 *Z‖ocd/‖SI‖En‖Obsessive-Compulsive Disorder‖
 Z‖ocr‖SI‖En‖OCR‖
@@ -908,6 +926,8 @@ Z‖rtf‖SI‖En‖RTF‖
 *Z‖rtf/‖SI‖En‖Revision Task Force‖
 Z‖rtos‖SI‖En‖RTOS‖
 *Z‖rtos/‖SI‖En‖Real-Time Operating System‖
+Z‖rtu‖SI‖En‖RTU‖
+*Z‖rtu/‖SI‖En‖Remote Terminal Unit‖
 Z‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
 Z‖sbc‖SI‖En‖SBC‖
@@ -942,6 +962,8 @@ Z‖sftp‖SI‖En‖SFTP‖
 *Z‖sftp/‖SI‖En‖SSH File Transfer Protocol‖https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
 Z‖sibo‖SI‖En‖SIBO‖
 *Z‖sibo/‖SI‖En‖Small Intestinal Bacterial Overgrowth‖
+Z‖sig‖SI‖En‖SIG‖
+*Z‖sig/‖SI‖En‖Special Interest Group‖
 Z‖sil‖MSI‖En‖SIL¦number which indicates the required degree of confidence that a system will meet its specified safety functions with respect to systematic failures`n[SOURCE: IEC 62280:2014, 3.1.50]¦Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa‖
 Z*‖sil/‖MSI‖En‖Safety Integrity Level¦poziom nienaruszalności bezpieczeństwa funkcjonalnego‖
 Z‖sim‖SI‖En‖SIM‖
@@ -1034,6 +1056,8 @@ Z‖thr‖SI‖En‖THR‖
 *Z‖thr/‖MSI‖En‖Tolerable Hazard Rate¦dopuszczalna intensywność zagrożeń`n[źródło: Ie-100a:2023 Tablica 3]‖
 CZ‖tht‖SI‖En‖THT‖https://en.wikipedia.org/wiki/Through-hole_technology
 *CZ‖tht/‖SI‖En‖Through-Hole Technology‖https://en.wikipedia.org/wiki/Through-hole_technology
+Z‖tir‖SI‖En‖TIR‖
+*Z‖tir/‖SI‖En‖Transports Internationaux Routiers‖
 Z‖tls‖SI‖En‖TLS‖https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_
 Z*‖tls/‖SI‖En‖Transport Layer Security‖
 Z‖tlv‖SI‖En‖TLV‖
@@ -1154,6 +1178,8 @@ Z‖vr‖CL‖En‖VR‖
 Z*‖vr/‖CL‖En‖Virtual Reality‖Visual Studio Code
 Z‖vsc‖SI‖En‖VSC‖Visual Studio Code
 Z*‖vsc/‖SI‖En‖Visual Studio Code‖
+Z‖vtol‖SI‖En‖VTOL‖
+*Z‖vtol/‖SI‖En‖Vertical Take-Off and Landing‖
 CZ‖wan‖SI‖En‖WAN‖
 *CZ‖wan/‖SI‖En‖Wide Area Network‖
 Z‖wcag‖SI‖En‖WCAG‖https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
@@ -1182,6 +1208,8 @@ Z‖wysiwyg‖SI‖En‖WYSIWYG‖
 Z*‖wysiwyg/‖SI‖En‖What You See Is What You Get‖1=U+00E5|2=U+00E4|3=U+00E2|4=U+00E0|5=U+00E1|6=U+0105|7=U+0101
 Z‖xl‖SI‖En‖XL‖
 *Z‖xl/‖SI‖En‖eXtra Large‖
+Z‖xliff‖SI‖En‖XLIFF‖
+*Z‖xliff/‖SI‖En‖XML Localization Interchange File Format‖
 Z‖xxl‖SI‖En‖XXL‖
 *Z‖xxl/‖SI‖En‖2x eXtra Large‖
 Z‖xxxl‖SI‖En‖XXXL‖

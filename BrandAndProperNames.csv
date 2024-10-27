@@ -55,10 +55,13 @@ Z‖bmw‖CL‖En‖BMW‖
 *Z‖bnsf‖SI‖En‖BNSF‖
 *Z‖boox‖SI‖En‖BOOX‖
 *Z‖bosch‖SI‖En‖Bosch‖
+*Z‖broadcom‖SI‖En‖Broadcom‖
 Z*‖canon‖MSI‖En‖Canon¦canon‖
 *Z‖castorama‖SI‖En‖Castorama‖only for extensions
 Z‖cenelec‖SI‖En‖CENELEC‖
 *Z‖cenelec/‖MSI‖En‖Comité Européen de Normalisation Électrotechnique¦European Committee for Electrotechnical Standardization‖https://www.cenelec.eu/
+Z‖ces‖SI‖En‖CES‖
+*Z‖ces/‖SI‖En‖Consumer Electronics Show‖
 Z‖chatgpt‖SI‖En‖ChatGPT‖
 *Z‖cocacola‖SI‖En‖Coca-Cola‖
 *Z‖convertkit‖SI‖En‖ConvertKit‖
@@ -72,19 +75,30 @@ Z‖decathlon‖SI‖En‖DECATHLON‖
 *Z‖deepl‖SI‖En‖DeepL‖
 *Z‖dhl‖SI‖En‖DHL‖
 *Z‖discord‖SI‖En‖Discord‖
+*Z‖display port‖SI‖En‖DisplayPort‖
+*Z‖displayport‖SI‖En‖DisplayPort‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
 Z‖dkms‖SI‖En‖DKMS‖
 *Z‖dremel‖SI‖En‖Dremel‖
 Z‖ea‖SI‖En‖EA‖https://en.wikipedia.org/wiki/ArchiMate
+Z‖ecb‖SI‖En‖ECB‖
+*Z‖ecb/‖SI‖En‖European Central Bank‖
 *Z‖elemnt‖SI‖En‖ELEMNT‖https://en.wikipedia.org/wiki/ANT_(network)
 *Z‖elk/‖MSI‖En‖Elasticsearch Logstash Kibana¦stack of open-source tools used together to collect, process, and visualize log data from various sources.‖
 *Z‖elk`t‖SI‖En‖ELK‖
+Z‖esa‖SI‖En‖ESA‖
+*Z‖esa/‖SI‖En‖European Space Agency‖
 *Z‖esp32‖SI‖En‖ESP32‖
 Z*‖ethernet‖SI‖En‖Ethernet‖
 Z‖excel‖SI‖En‖Excel‖
 Z*‖facebook‖SI‖En‖Facebook‖
+Z‖fcc‖SI‖En‖FCC‖
+*Z‖fcc/‖SI‖En‖Federal Communications Commission‖
 *Z‖firefox‖SI‖En‖Firefox‖
 ZC‖framemaker‖MSI‖En‖FrameMaker¦https://www.adobe.com/pl/products/framemaker.html‖
+*Z‖freebsd‖SI‖En‖FreeBSD‖
+Z‖gbp‖SI‖En‖GBP‖
+*Z‖gbp/‖SI‖En‖£‖
 Z‖git‖SI‖En‖Git‖
 Z*‖github‖SI‖En‖GitHub‖
 Z‖google‖SI‖En‖Google‖
@@ -95,14 +109,18 @@ Z‖graphql‖SI‖En‖GraphQL‖
 *Z‖grycan‖SI‖En‖Grycan‖
 CZ‖gsa‖SI‖En‖GSA‖
 *CZ‖gsa/‖MSI‖En‖Global Mobile Suppliers Association¦https://gsacom.com/‖
+*Z‖hamas‖SI‖En‖Hamas‖
 Z*‖hbo‖SI‖En‖HBO‖
 Z‖hbr‖SI‖En‖HBR‖
 *Z‖hbr/‖SI‖En‖Harvard Business Review‖
+*Z‖hezbollah‖SI‖En‖Hezbollah‖
 *Z‖huawei‖SI‖En‖Huawei‖
 Z‖huel‖SI‖En‖Huel‖
 *Z‖huion‖SI‖En‖Huion‖
 *Z‖ibm‖SI‖En‖IBM‖
 *Z‖icloud‖SI‖En‖iCloud‖
+Z‖ieee‖SI‖En‖IEEE‖
+*Z‖ieee/‖SI‖En‖Institute of Electrical and Electronics Engineers‖
 Z‖ietf‖SI‖En‖IETF‖
 *Z‖ietf/‖SI‖En‖Internet Engineering Task Force‖
 Z‖ihs‖SI‖En‖IHS‖
@@ -143,6 +161,7 @@ Z‖lora‖SI‖En‖LoRa‖
 *Z‖lorawan‖SI‖En‖LoRaWAN‖
 *Z‖lufthansa‖SI‖En‖Lufthansa‖
 Z‖m365‖SI‖En‖M365‖
+*Z‖macos‖SI‖En‖macOS‖
 Z‖markdown‖SI‖En‖Markdown‖
 *Z‖mbank‖SI‖En‖mBank‖
 Z‖mcu‖SI‖En‖MCU‖
@@ -152,15 +171,20 @@ Z*‖microsoft‖SI‖En‖Microsoft‖
 Z‖mipi‖SI‖En‖MIPI‖
 *Z‖mipi/‖SI‖En‖Mobile Industry Processor Interface‖
 *Z‖mongodb‖SI‖En‖MongoDB‖
+*Z‖motorola‖SI‖En‖Motorola‖
 *Z‖msword‖SI‖En‖Microsoft Word‖
 *Z‖mysql‖SI‖En‖MySQL‖
 Z‖nasa‖SI‖En‖NASA‖
 *Z‖nasa/‖SI‖En‖National Aeronautics and Space Administration‖
 ZC‖netflix‖SI‖En‖Netflix‖
 *Z‖newag‖SI‖En‖Newag‖
+*Z‖nintendo‖SI‖En‖Nintendo‖
+*Z‖nokia‖SI‖En‖Nokia‖
 Z‖notepad++‖SI‖En‖Notepad{+}{+}‖
 Z‖nsis‖SI‖En‖NSIS‖
 *Z‖nsis/‖MSI‖En‖Nullsoft Scriptable Install Service¦https://nsis.sourceforge.io/Main_Page‖
+Z‖nyse‖SI‖En‖NYSE‖
+*Z‖nyse/‖SI‖En‖New York Stock Exchange‖
 Z‖obi‖SI‖En‖OBI‖
 Z‖ocx‖SI‖En‖OCX‖
 *Z‖ocx/‖SI‖En‖Open Community eXperience of Eclipse Foundation‖
@@ -170,11 +194,13 @@ Z*‖onedrive‖SI‖En‖OneDrive‖
 *Z‖openssl‖SI‖En‖OpenSSL‖
 Z‖owasp‖SI‖En‖OWASP‖
 *Z‖owasp/‖SI‖En‖Open Worldwide Application Security Project‖
+*Z‖ozempic‖SI‖En‖Ozempic‖
 *Z‖paypal‖SI‖En‖PayPal‖
 *Z‖pepsi‖SI‖En‖Pepsi‖
 *Z‖peugeot‖SI‖En‖Peugeot‖
 Z‖philips‖SI‖En‖Philips‖
 *Z‖plantuml‖SI‖En‖PlantUML‖
+*Z‖playstation‖SI‖En‖PlayStation‖
 *Z‖polufka‖MSI‖En‖Polufka¦Polufka, ul. Leczkowa 18 wejście od bramy przy DS7`n80-432 Gdańsk-Wrzeszcz‖
 *Z‖postgresql‖SI‖En‖PostgreSQL‖
 Z*‖power point‖SI‖En‖PowerPoint‖
@@ -184,6 +210,7 @@ Z‖priip‖SI‖En‖PRIIP‖kolor voestalpine | nagłówek tabeli | wiersz tab
 *Z‖priip/‖SI‖En‖Packaged Retail Investment and Insurance Products‖kolor voestalpine | nagłówek tabeli | wiersz tabeli
 *Z‖qnap‖SI‖En‖QNAP‖
 Z*‖qnx‖CL‖En‖QNX‖
+*Z‖qualcomm‖SI‖En‖Qualcomm‖
 Z‖rcp‖SI‖En‖RCP‖
 *Z‖rcp/‖MSI‖En‖(Eclipse) Reach Client Platform¦application, uses the Eclipse framework to create feature-rich stand-alone desktop application‖
 *Z‖red bull‖SI‖En‖Red Bull‖
@@ -195,6 +222,7 @@ Z‖rcp‖SI‖En‖RCP‖
 Z*‖rs232‖CL‖En‖RS232‖
 Z*‖rs485‖CL‖En‖RS485‖
 Z*‖s49‖CL‖En‖S49‖
+*Z‖samsung‖SI‖En‖Samsung‖
 Z*‖santander‖SI‖En‖Santander‖
 Z‖sap‖CL‖En‖SAP‖enterprise software to manage business operations and customer
 ZC‖seat‖SI‖En‖Seat‖
@@ -218,13 +246,19 @@ Z*‖tales‖SI‖En‖Thales‖
 Z*‖thales‖SI‖En‖Thales‖
 *Z‖thinkpad‖SI‖En‖ThinkPad‖
 *Z‖tinymce‖SI‖En‖TinyMCE‖
+*Z‖toshiba‖SI‖En‖Toshiba‖
 Z‖trello‖SI‖En‖Trello‖
 Z*‖twitter‖SI‖En‖Twitter‖
 *Z‖ubuntu‖SI‖En‖Ubuntu‖
+*Z‖udemy‖SI‖En‖Udemy‖
+Z‖unesco‖SI‖En‖UNESCO‖
+*Z‖unesco/‖SI‖En‖United Nations Educational, Scientific and Cultural Organization‖
 Z*‖unicode‖SI‖En‖Unicode‖
 ZC‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
 *Z‖usba‖SI‖En‖USB-A‖
 *Z‖usbc‖SI‖En‖USB-C‖
+Z‖vesa‖SI‖En‖VESA‖
+*Z‖vesa/‖SI‖En‖Video Electronics Standards Association‖
 *Z‖viessmann‖SI‖En‖Viessmann‖
 Z‖vod‖SI‖En‖VOD‖
 Z‖vod/‖SI‖En‖Video On Demand‖
@@ -236,6 +270,7 @@ Z‖wd40‖SI‖En‖WD40‖
 Z*‖webex‖SI‖En‖Webex‖
 Z*?‖whatsapp‖SI‖En‖WhatsApp‖
 Z*‖wifi‖SI‖En‖WiFi‖
+*Z‖wii‖SI‖En‖Wii‖
 Z*‖wikipedia‖SI‖En‖Wikipedia‖
 Z*‖windows‖MSI‖En‖Windows¦windows‖
 *Z‖xbox‖SI‖En‖Xbox‖

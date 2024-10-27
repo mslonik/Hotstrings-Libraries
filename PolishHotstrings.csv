@@ -10,6 +10,8 @@ Notes:		In future this set should be divided into smaller sets dedicated to spec
 Example:		litwa → Litwa.
 */
 
+Z‖agd‖SI‖En‖AGD‖
+*Z‖agd/‖SI‖En‖Artykuły Gospodarstwa Domowego‖
 *Z‖ameryk‖SI‖En‖Ameryk‖
 *CZ‖andrzej‖SI‖En‖Andrzej‖
 C1Z‖asi‖SI‖En‖Asi‖
@@ -104,6 +106,8 @@ Z*‖litwa‖SI‖En‖Litwa‖
 *Z‖mobywatel‖SI‖En‖mObywatel‖
 *Z‖mwig40‖SI‖En‖mWIG40‖
 *Z‖mwig40/‖SI‖En‖indeks giełdowy średnich spółek akcyjnych notowanych na warszawskej Giełdzie Papierów Wartościowych‖
+Z‖nbp‖SI‖En‖NBP‖
+*Z‖nbp/‖MSI‖En‖Narodowy Bank Polski¦National Bank of Poland‖
 *Z‖niemcami‖SI‖En‖Niemcami‖
 *CZ‖niemcow‖SI‖En‖Niemców‖
 ZC*‖niemcy‖SI‖En‖Niemcy‖
@@ -147,6 +151,7 @@ Z‖ppe‖SI‖En‖PPE‖
 Z‖pte‖SI‖En‖PTE‖
 *Z‖pte/‖SI‖En‖Powszechne Towarzystwo Emerytalne‖
 *Z‖rafał‖SI‖En‖Rafał‖
+Z‖rtv‖SI‖En‖RTV‖
 Z‖sfio‖CL‖En‖SFIO‖
 *Z‖sfio/‖SI‖En‖Specjalistyczne Fundusze Inwestycyjne Otwarte‖
 *Z‖slowacj‖SI‖En‖Słowacj‖
