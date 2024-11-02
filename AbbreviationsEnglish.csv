@@ -54,6 +54,8 @@ Z‖alu‖SI‖En‖ALU‖
 *Z‖alu/‖SI‖En‖Arithmetic Logic Unit‖https://en.wikipedia.org/wiki/Arithmetic_logic_unit
 *Z‖am/‖MSI‖En‖Ante Meridiem¦Amplitude Modulated‖
 *Z‖am`t‖SI‖En‖AM‖
+Z‖amqp‖SI‖En‖AMQP‖
+*Z‖amqp/‖SI‖En‖Advanced Message Queuing Protocol‖
 Z‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
 Z‖ao‖SI‖En‖a.o.‖
@@ -307,6 +309,8 @@ Z‖ecg‖SI‖En‖ECG‖
 *Z‖ecg/‖SI‖En‖ELectrocardiogram‖https://en.wikipedia.org/wiki/Electrocardiography
 Z‖ecm‖SI‖En‖ECM‖
 Z*‖ecm/‖SI‖En‖Enterprise Content Management‖
+Z‖edrx‖SI‖En‖eDRX‖
+*Z‖edrx/‖SI‖En‖extended Discontinuous Reception‖
 Z‖eeg‖SI‖En‖EEG‖
 *Z‖eeg/‖SI‖En‖Electroencephalography‖
 Z‖eeprom‖SI‖En‖EEPROM‖
@@ -449,6 +453,8 @@ Z‖gpt‖SI‖En‖GPT‖
 Z*‖gpt/‖SI‖En‖Generative Pre-trained Transformer‖
 Z‖gpu‖SI‖En‖GPU‖
 *Z‖gpu/‖SI‖En‖Graphics Processing Unit‖
+Z‖grpc‖SI‖En‖gRPC‖
+*Z‖grpc/‖SI‖En‖google Remote Procedure Calls‖
 Z‖gsm‖SI‖En‖GSM‖
 Z*‖gsm/‖CL‖En‖Global System for Mobile Communications‖
 *Z‖gsmr‖SI‖En‖GSM-R‖
@@ -457,6 +463,8 @@ Z‖gui‖SI‖En‖GUI‖
 Z*‖gui/‖CL‖En‖Graphical User Interface‖
 Z‖guid‖SI‖En‖GUID‖
 *Z‖guid/‖SI‖En‖Globally Unique IDentifier‖
+Z‖hal‖SI‖En‖HAL‖
+*Z‖hal/‖SI‖En‖Hardware Abstraction Layer‖
 Z‖hart‖SI‖En‖HART‖
 Z*‖hart/‖CL‖En‖Highway Addressable Remote Transducer Protocol‖
 Z‖hci‖SI‖En‖HCI‖
@@ -467,6 +475,8 @@ Z‖hdmi‖SI‖En‖HDMI‖
 Z*‖hdmi/‖CL‖En‖High-Definition Multimedia Interface‖
 Z‖hid‖SI‖En‖HID‖
 *Z‖hid/‖SI‖En‖Human Interface Device‖
+Z‖hifi‖SI‖En‖Hi-Fi‖
+*Z‖hifi/‖SI‖En‖High Fidelity‖
 *Z‖hiv/‖SI‖En‖Human Immunodeficiency Viruses‖https://en.wikipedia.org/wiki/HIV
 Z‖hp‖SI‖En‖HP‖
 Z*‖hp/‖MSI‖En‖Horizontal Pitch¦1x HP = 0.2 '' = 5.08 mm¦1x HP is a unit of length defined by the Eurocard printed circuit board standard used to measure the horizontal width of rack mounted electronic equipment‖https://en.wikipedia.org/wiki/Horizontal_pitch
@@ -474,6 +484,8 @@ Z‖hpf‖SI‖En‖HPS‖
 *Z‖hpf/‖SI‖En‖High Pass Filter‖
 Z‖hrm‖SI‖En‖HRM‖
 *Z‖hrm/‖SI‖En‖Heart Rate Monitor‖
+Z‖http‖SI‖En‖HTTP‖
+*Z‖http/‖SI‖En‖HyperText Transfer Protocol‖
 Z‖hvac‖CL‖En‖HVAC‖
 Z*‖hvac/‖CL‖En‖Heating Ventilation Air Conditioning‖
 Z‖hw‖SI‖En‖HW‖
@@ -484,6 +496,8 @@ Z‖i3c‖SI‖En‖I3C‖
 *Z‖i3c/‖MSI‖En‖SenseWire¦Improved Inter Integrated Circuit¦Two-wire serial communication bus specification for connecting peripherals to microprocessors and microcontrollers. It's designed as the successor to I2C, SPI, and UART interfaces. The standard defines a signalling protocol in which multiple chips can control communication and thereby act as the bus controller.‖
 Z‖iacs‖SI‖En‖IACS‖IEC 62443-4-1
 Z*‖iacs/‖SI‖En‖Industrial Automation and Control Systems‖
+Z‖iana‖SI‖En‖IANA‖
+*Z‖iana/‖SI‖En‖Internet Assigned Numbers Authority‖
 Z‖iarc‖SI‖En‖IARC‖
 *Z‖iarc/‖SI‖En‖International Age Rating Coalition‖
 *‖ibid/‖MSI‖En‖ibidem¦tamże, w tym samym miejscu‖
@@ -644,13 +658,15 @@ Z‖mmc‖SI‖En‖MMC‖
 *Z‖mmc/‖SI‖En‖Multi Media Card‖
 CZ‖mmtc‖SI‖En‖mMTC‖
 *CZ‖mmtc/‖SI‖En‖massive Machine Type Communication‖
+Z‖mno‖SI‖En‖MNO‖
+*Z‖mno/‖SI‖En‖Mobile Network Operator‖
 Z‖modbus‖SI‖En‖Modbus‖
 Z‖mom‖SI‖En‖MoM‖
 Z*‖mom/‖SI‖En‖Minutes of Meeting‖
 Z‖mosFET‖SI‖En‖MOSFET‖
 *Z‖mosfet/‖SI‖En‖Metal-Oxide-Semiconductor Field-Effect Transistor‖
 Z‖mqtt‖SI‖En‖MQTT‖
-*Z‖mqtt/‖MSI‖En‖MQ Telemetry Transport¦lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service. It is designed for connections with remote locations that have devices with resource constraints or limited network bandwidth, such as in the Internet of Things (IoT). It must run over a transport protocol that provides ordered, lossless, bi-directional connections—typically, TCP/IP,[1] but also possibly over QUIC.It is an open OASIS standard and an ISO recommendation (ISO/IEC 20922).‖
+*Z‖mqtt/‖MSI‖En‖Message Quenue Telemetry Transport¦lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service. It is designed for connections with remote locations that have devices with resource constraints or limited network bandwidth, such as in the Internet of Things (IoT). It must run over a transport protocol that provides ordered, lossless, bi-directional connections—typically, TCP/IP,[1] but also possibly over QUIC.It is an open OASIS standard and an ISO recommendation (ISO/IEC 20922).‖
 Z‖mri‖SI‖En‖MRI‖
 *Z‖mri/‖SI‖En‖Magnetic Rezonanse Imaging‖
 Z‖mrna‖SI‖En‖mRNA‖
@@ -930,6 +946,8 @@ Z‖rtu‖SI‖En‖RTU‖
 *Z‖rtu/‖SI‖En‖Remote Terminal Unit‖
 Z‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
+Z‖sasl‖SI‖En‖SASL‖
+*Z‖sasl/‖SI‖En‖Simple Authentication and Security Layer‖
 Z‖sbc‖SI‖En‖SBC‖
 *Z‖sbc/‖SI‖En‖Single Board Computer‖
 Z‖scada‖SI‖En‖SCADA‖https://en.wikipedia.org/wiki/SCADA
@@ -946,6 +964,8 @@ Z‖sdl‖SI‖En‖SDL‖
 Z*‖sdl/‖SI‖En‖Secure Development Lifecycle‖
 Z‖sdlc‖SI‖En‖SDLC‖
 *Z‖sdlc/‖SI‖En‖Software Development Life Cycle‖
+Z‖sdr‖SI‖En‖SDR‖
+*Z‖sdr/‖SI‖En‖Software Defined Radio‖
 Z‖sdram‖SI‖En‖SDRAM‖
 *Z‖sdram/‖SI‖En‖Synchronous Dynamic Rrandom-Access Memory‖
 Z‖sef‖SI‖En‖SEF‖
@@ -960,6 +980,8 @@ Z‖sfpplus‖SI‖En‖SFP{+}‖
 *Z‖sfpplus/‖SI‖En‖enhanced Small Form-factor Pluggable transceiver‖
 Z‖sftp‖SI‖En‖SFTP‖
 *Z‖sftp/‖SI‖En‖SSH File Transfer Protocol‖https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
+Z‖shf‖SI‖En‖SHF‖
+*Z‖shf/‖SI‖En‖Super High Frequency‖
 Z‖sibo‖SI‖En‖SIBO‖
 *Z‖sibo/‖SI‖En‖Small Intestinal Bacterial Overgrowth‖
 Z‖sig‖SI‖En‖SIG‖
@@ -1026,6 +1048,8 @@ Z‖suv‖SI‖En‖SUV‖
 Z*‖suv/‖SI‖En‖Sport Utility Vehicle‖
 Z‖sw‖SI‖En‖SW‖
 Z*‖sw/‖SI‖En‖software‖
+Z‖swd‖SI‖En‖SWD‖
+*Z‖swd/‖SI‖En‖Serial Wire Debug‖
 Z‖sysml‖SI‖En‖SysML‖
 *Z‖sysml/‖SI‖En‖System Modeling Language‖
 Z*‖tbc/‖CL‖En‖to be continued‖

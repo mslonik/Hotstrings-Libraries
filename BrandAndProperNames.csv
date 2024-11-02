@@ -94,11 +94,14 @@ Z‖excel‖SI‖En‖Excel‖
 Z*‖facebook‖SI‖En‖Facebook‖
 Z‖fcc‖SI‖En‖FCC‖
 *Z‖fcc/‖SI‖En‖Federal Communications Commission‖
+*Z‖figma‖SI‖En‖Figma‖
 *Z‖firefox‖SI‖En‖Firefox‖
 ZC‖framemaker‖MSI‖En‖FrameMaker¦https://www.adobe.com/pl/products/framemaker.html‖
 *Z‖freebsd‖SI‖En‖FreeBSD‖
 Z‖gbp‖SI‖En‖GBP‖
 *Z‖gbp/‖SI‖En‖£‖
+Z‖gcf‖SI‖En‖GCF‖
+*Z‖gcf/‖SI‖En‖Global Certification Forum‖
 Z‖git‖SI‖En‖Git‖
 Z*‖github‖SI‖En‖GitHub‖
 Z‖google‖SI‖En‖Google‖
@@ -190,6 +193,8 @@ Z‖ocx‖SI‖En‖OCX‖
 *Z‖ocx/‖SI‖En‖Open Community eXperience of Eclipse Foundation‖
 *Z‖omg/‖SI‖En‖Object Management Group‖https://www.omg.org/index.htm
 Z*‖onedrive‖SI‖En‖OneDrive‖
+*Z‖onenote‖SI‖En‖OneNote‖
+*Z‖openai‖SI‖En‖OpenAI‖
 *Z‖openjdk‖SI‖En‖OpenJDK‖
 *Z‖openssl‖SI‖En‖OpenSSL‖
 Z‖owasp‖SI‖En‖OWASP‖
@@ -208,6 +213,8 @@ Z*‖powerpoint‖SI‖En‖PowerPoint‖
 *Z‖powershell‖SI‖En‖PowerShell‖
 Z‖priip‖SI‖En‖PRIIP‖kolor voestalpine | nagłówek tabeli | wiersz tabeli
 *Z‖priip/‖SI‖En‖Packaged Retail Investment and Insurance Products‖kolor voestalpine | nagłówek tabeli | wiersz tabeli
+Z‖ptcrb‖SI‖En‖PTCRB‖
+*Z‖ptcrb/‖SI‖En‖Personal Communications Service Type Certification Review Board‖
 *Z‖qnap‖SI‖En‖QNAP‖
 Z*‖qnx‖CL‖En‖QNX‖
 *Z‖qualcomm‖SI‖En‖Qualcomm‖
@@ -269,7 +276,7 @@ Z‖w3c‖SI‖En‖W3C‖
 Z‖wd40‖SI‖En‖WD40‖
 Z*‖webex‖SI‖En‖Webex‖
 Z*?‖whatsapp‖SI‖En‖WhatsApp‖
-Z*‖wifi‖SI‖En‖WiFi‖
+*Z‖wifi‖SI‖En‖Wi-Fi‖
 *Z‖wii‖SI‖En‖Wii‖
 Z*‖wikipedia‖SI‖En‖Wikipedia‖
 Z*‖windows‖MSI‖En‖Windows¦windows‖
