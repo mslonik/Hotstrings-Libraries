@@ -81,6 +81,9 @@ Z‖asic‖SI‖En‖ASIC‖
 *Z‖asic/‖SI‖En‖Application Specific Integrated Circuit‖
 Z‖asmr‖SI‖En‖ASMR‖
 *Z‖asmr/‖SI‖En‖Autonomous Sensory Meridian Response‖https://en.wikipedia.org/wiki/ASMR
+Z‖asp.net‖SI‖En‖ASP.NET‖
+Z‖aspnet‖SI‖En‖ASP.NET‖
+*Z‖aspnet/‖SI‖En‖Active Server Pages Network Enabled Technologies‖
 Z‖atm‖SI‖En‖ATM‖
 *Z‖atm/‖SI‖En‖Automatic Teller Machine‖
 Z‖ato‖SI‖En‖ATO‖
@@ -202,6 +205,8 @@ Z‖cpr‖SI‖En‖CPR‖
 *Z‖cpr/‖SI‖En‖CardioPulmonary Resuscitation‖https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation
 Z‖cpu‖SI‖En‖CPU‖
 *Z‖cpu/‖SI‖En‖Central Processing Unit‖
+Z‖cqrs‖SI‖En‖CQRS‖
+*Z‖cqrs/‖SI‖En‖Command Query Responsibility Segregation‖
 Z‖crc‖SI‖En‖CRC‖
 Z*‖crc/‖SI‖En‖Cyclic Redundancy Check‖
 Z‖crm‖SI‖En‖CRM‖
@@ -224,6 +229,8 @@ Z‖daas‖SI‖En‖DaaS‖
 Z‖dam`t‖SI‖En‖DAM‖
 Z‖dc‖SI‖En‖DC‖
 Z*‖dc/‖CL‖En‖Direct Current‖
+Z‖ddd‖SI‖En‖DDD‖
+*Z‖ddd/‖SI‖En‖Domain-Driven Design‖
 Z‖dde‖SI‖En‖DDE‖
 *Z‖dde/‖SI‖En‖Dynamic Data Exchange‖
 Z‖ddl‖SI‖En‖DDL‖
@@ -376,7 +383,9 @@ Z‖fai‖SI‖En‖FAI‖
 Z*‖fai/‖CL‖En‖First Article Inspection‖
 Z‖faq‖SI‖En‖FAQ‖
 Z*‖faq/‖CL‖En‖Frequently Asked Questions‖
-Z*‖fat/‖CL‖En‖Factory Acceptance Test‖
+*Z‖fat/‖SI‖En‖File Allocation Table‖
+*Z‖fat16‖SI‖En‖FAT16‖
+*Z‖fat32‖SI‖En‖FAT32‖
 *Z‖fat`t‖SI‖En‖FAT‖
 Z‖fbi‖SI‖En‖FBI‖
 *Z‖fbi/‖SI‖En‖Federal Bureau of Investigation‖
@@ -690,6 +699,8 @@ Z‖mtu‖SI‖En‖MTU‖https://en.wikipedia.org/wiki/Maximum_transmission_uni
 Z*‖mtu/‖SI‖En‖Maximum Transmission Unit‖
 Z‖mut‖SI‖En‖MUT‖
 Z*‖mut/‖CL‖En‖Mean Up Time‖
+Z‖mvc‖SI‖En‖MVC‖
+*Z‖mvc/‖SI‖En‖Model View Controller‖
 Z*‖n/a/‖SI‖En‖not applicable‖
 Z*‖na/‖SI‖En‖not applicable‖
 Z*‖nas/‖SI‖En‖Network Attached Storage‖
@@ -716,6 +727,7 @@ Z‖nlp‖SI‖En‖NLP‖
 *Z‖nlp/‖SI‖En‖Neuro-Linguistic Programming‖
 Z‖nobo‖SI‖En‖NoBo‖
 Z*‖nobo/‖SI‖En‖Notified Body‖
+*Z‖nosql‖SI‖En‖NoSQL‖
 Z‖nrem‖SI‖En‖NREM‖
 *Z‖nrem/‖SI‖En‖Non-Rapid Eye Movement‖
 CZ‖ntn‖SI‖En‖NTN‖
@@ -744,6 +756,8 @@ Z‖ohs‖SI‖En‖OHS‖
 *Z‖ohs/‖SI‖En‖Occupational Health and Safety‖
 Z‖ohsas‖SI‖En‖OHSAS‖https://pl.wikipedia.org/wiki/OHSAS_18001
 Z*‖ohsas/‖SI‖En‖Occupational Health and Safety Assessment Series‖
+Z‖ojeu‖SI‖En‖OJEU‖
+*Z‖ojeu/‖SI‖En‖Official Journal of European Union‖
 *Z‖ole/‖SI‖En‖Object Linking & Embedding‖
 Z‖ole`t‖SI‖En‖OLE‖
 Z‖oled‖SI‖En‖OLED‖
@@ -1086,6 +1100,8 @@ Z‖tls‖SI‖En‖TLS‖https://en.wikipedia.org/wiki/Transport_Layer_Security
 Z*‖tls/‖SI‖En‖Transport Layer Security‖
 Z‖tlv‖SI‖En‖TLV‖
 *Z‖tlv/‖SI‖En‖Type-Length-Value‖
+Z‖tnt‖SI‖En‖TNT‖
+*Z‖tnt/‖MSI‖En‖🧨¦trinitrotoluene¦C₆H₂(NO₂)₃CH₃‖
 Z‖toc‖SI‖En‖ToC‖
 *Z‖toc/‖SI‖En‖Table of Content‖
 Z‖toefl‖SI‖En‖TOEFL‖

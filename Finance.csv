@@ -89,7 +89,8 @@ ZZ‖rrso‖SI‖En‖RRSO‖
 Z*Z‖rrso/‖SI‖En‖Rzeczywista Roczna Stopa Oprocentowania‖
 Z‖sepa‖SI‖En‖SEPA‖https://pl.wikipedia.org/wiki/WIBOR
 Z*‖sepa/‖SI‖En‖Single Euro Payments Area‖https://en.wikipedia.org/wiki/Single_Euro_Payments_Area
-*Z‖snp500‖SI‖En‖S&P500‖
+Z‖snp500‖SI‖En‖S&P 500‖
+*Z‖snp500/‖SI‖En‖Standard and Poor's 500‖
 Z‖srri‖SI‖En‖SRRI‖
 *Z‖srri/‖SI‖En‖Synthetic Risk and Reward Indicator‖
 ZC‖swift‖SI‖En‖SWIFT‖

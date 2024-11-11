@@ -79,10 +79,12 @@ Z‖decathlon‖SI‖En‖DECATHLON‖
 *Z‖displayport‖SI‖En‖DisplayPort‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
 Z‖dkms‖SI‖En‖DKMS‖
+*Z‖drawio‖SI‖En‖diagrams.net (former name: draw.io)‖
 *Z‖dremel‖SI‖En‖Dremel‖
 Z‖ea‖SI‖En‖EA‖https://en.wikipedia.org/wiki/ArchiMate
 Z‖ecb‖SI‖En‖ECB‖
 *Z‖ecb/‖SI‖En‖European Central Bank‖
+*Z‖elasticsearch‖SI‖En‖Elasticsearch‖
 *Z‖elemnt‖SI‖En‖ELEMNT‖https://en.wikipedia.org/wiki/ANT_(network)
 *Z‖elk/‖MSI‖En‖Elasticsearch Logstash Kibana¦stack of open-source tools used together to collect, process, and visualize log data from various sources.‖
 *Z‖elk`t‖SI‖En‖ELK‖
@@ -104,9 +106,11 @@ Z‖gcf‖SI‖En‖GCF‖
 *Z‖gcf/‖SI‖En‖Global Certification Forum‖
 Z‖git‖SI‖En‖Git‖
 Z*‖github‖SI‖En‖GitHub‖
+*Z‖gitlab‖SI‖En‖GitLab‖
 Z‖google‖SI‖En‖Google‖
 *Z‖googlemail‖CL‖En‖https://mail.google.com/mail/u/0/#inbox‖
 Z*‖gopro‖SI‖En‖GoPro‖
+*Z‖grafana‖SI‖En‖Grafana‖
 Z‖graphql‖SI‖En‖GraphQL‖
 *Z‖graphql/‖SI‖En‖open-source data query and manipulation language for APIs and query runtime engine‖https://en.wikipedia.org/wiki/GraphQL
 *Z‖grycan‖SI‖En‖Grycan‖
@@ -152,8 +156,10 @@ Z‖joomla‖MSI‖En‖Joomla{!}¦https://www.joomla.org/‖
 *Z‖jysk‖SI‖En‖Jysk‖
 *Z‖kanban‖SI‖En‖Kanban‖
 Z‖keepass‖SI‖En‖KeePass‖
+*Z‖keycloak‖SI‖En‖Keycloak‖
 Z‖kindle‖SI‖En‖Kindle‖
 Z‖kroki‖SI‖En‖Kroki{!}‖
+*Z‖kubernetes‖SI‖En‖Kubernetes‖
 *Z‖lenovo‖SI‖En‖Lenovo‖
 *Z‖libreoffice‖SI‖En‖LibreOffice‖
 *Z‖lidl‖SI‖En‖Lidl‖
@@ -222,7 +228,11 @@ Z‖rcp‖SI‖En‖RCP‖
 *Z‖rcp/‖MSI‖En‖(Eclipse) Reach Client Platform¦application, uses the Eclipse framework to create feature-rich stand-alone desktop application‖
 *Z‖red bull‖SI‖En‖Red Bull‖
 *Z‖redbull‖SI‖En‖Red Bull‖
+Z‖redca‖SI‖En‖REDCA‖
+*Z‖redca/‖SI‖En‖Radio Equipment Directive Compliance Association‖
 *Z‖reddit‖SI‖En‖Reddit‖
+Z‖redis‖SI‖En‖Redis‖
+*Z‖redis/‖SI‖En‖Remote Dictionary Server‖
 *Z‖rj45‖SI‖En‖RJ45‖
 *Z‖romet‖SI‖En‖Romet‖
 *Z‖roswera‖SI‖En‖Roswera‖
@@ -242,8 +252,10 @@ Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
 *Z‖skype‖SI‖En‖Skype‖
 *CZ‖softsim‖SI‖En‖SoftSIM‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
+*Z‖sonarqube‖SI‖En‖SonarQube‖
 Z*‖sp/‖SI‖En‖Sharepoint‖
 *Z‖sparx‖SI‖En‖Sparx Systems‖
+*Z‖splitwise‖SI‖En‖Splitwise‖
 *Z‖spotify‖SI‖En‖Spotify‖
 Z*‖strava‖SI‖En‖Strava‖
 *Z‖suzuki‖SI‖En‖Suzuki‖
@@ -252,6 +264,7 @@ Z‖svn‖SI‖En‖SVN‖
 Z*‖tales‖SI‖En‖Thales‖
 Z*‖thales‖SI‖En‖Thales‖
 *Z‖thinkpad‖SI‖En‖ThinkPad‖
+*Z‖timescaledb‖SI‖En‖TimescaleDB‖
 *Z‖tinymce‖SI‖En‖TinyMCE‖
 *Z‖toshiba‖SI‖En‖Toshiba‖
 Z‖trello‖SI‖En‖Trello‖
