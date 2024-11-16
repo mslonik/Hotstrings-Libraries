@@ -12,6 +12,8 @@ Notes:		The vast majority of definitions have set feature * (immediate execute) 
 */
 
 *Z‖.net‖SI‖En‖.NET‖
+*Z‖1mphy‖SI‖En‖1MPHY‖
+*Z‖2mphy‖SI‖En‖2MPHY‖
 CZ‖3gpp‖SI‖En‖3GPP‖
 *CZ‖3gpp/‖MSI‖En‖3rd Generation Partnership Project¦umbrella term for a number of standards organizations which develop protocols for mobile telecommunications‖https://en.wikipedia.org/wiki/3GPP
 Z‖aaas‖SI‖En‖AAAS‖
@@ -71,6 +73,10 @@ Z‖chatgpt‖SI‖En‖ChatGPT‖
 Z‖damit‖SI‖En‖DamIT‖
 Z‖darpa‖SI‖En‖DARPA‖
 *Z‖darpa/‖SI‖En‖Defense Advanced Research Projects Agency‖
+Z‖dcom‖SI‖En‖DCOM‖
+*Z‖dcom/‖MSI‖En‖Distributed Component Object Model¦Microsoft solution for client-server communication‖
+Z‖dcs‖SI‖En‖DCS‖
+*Z‖dcs/‖SI‖En‖Distributed Control System‖
 Z‖decathlon‖SI‖En‖DECATHLON‖
 *Z‖deepl‖SI‖En‖DeepL‖
 *Z‖dhl‖SI‖En‖DHL‖
@@ -158,6 +164,8 @@ Z‖joomla‖MSI‖En‖Joomla{!}¦https://www.joomla.org/‖
 Z‖keepass‖SI‖En‖KeePass‖
 *Z‖keycloak‖SI‖En‖Keycloak‖
 Z‖kindle‖SI‖En‖Kindle‖
+Z‖kpmg‖SI‖En‖KPMG‖
+*Z‖kpmg/‖SI‖En‖Klynveld Peat Marvick Goerdeler‖
 Z‖kroki‖SI‖En‖Kroki{!}‖
 *Z‖kubernetes‖SI‖En‖Kubernetes‖
 *Z‖lenovo‖SI‖En‖Lenovo‖
@@ -176,6 +184,7 @@ Z‖markdown‖SI‖En‖Markdown‖
 Z‖mcu‖SI‖En‖MCU‖
 *Z‖mcu/‖SI‖En‖Micro Controller Unit‖
 Z*‖medicover‖SI‖En‖Medicover‖
+*Z‖micropython‖SI‖En‖MicroPython‖
 Z*‖microsoft‖SI‖En‖Microsoft‖
 Z‖mipi‖SI‖En‖MIPI‖
 *Z‖mipi/‖SI‖En‖Mobile Industry Processor Interface‖
@@ -183,6 +192,8 @@ Z‖mipi‖SI‖En‖MIPI‖
 *Z‖motorola‖SI‖En‖Motorola‖
 *Z‖msword‖SI‖En‖Microsoft Word‖
 *Z‖mysql‖SI‖En‖MySQL‖
+Z‖nando‖SI‖En‖NANDO‖
+*Z‖nando/‖MSI‖En‖New Approach Notified and Designated Organisations information system¦https://www.europeansources.info/record/nando-new-approach-notified-and-designated-organisations-information-system/‖
 Z‖nasa‖SI‖En‖NASA‖
 *Z‖nasa/‖SI‖En‖National Aeronautics and Space Administration‖
 ZC‖netflix‖SI‖En‖Netflix‖
@@ -226,6 +237,7 @@ Z*‖qnx‖CL‖En‖QNX‖
 *Z‖qualcomm‖SI‖En‖Qualcomm‖
 Z‖rcp‖SI‖En‖RCP‖
 *Z‖rcp/‖MSI‖En‖(Eclipse) Reach Client Platform¦application, uses the Eclipse framework to create feature-rich stand-alone desktop application‖
+*Z‖realpars‖SI‖En‖RealPars‖
 *Z‖red bull‖SI‖En‖Red Bull‖
 *Z‖redbull‖SI‖En‖Red Bull‖
 Z‖redca‖SI‖En‖REDCA‖
@@ -243,6 +255,7 @@ Z*‖s49‖CL‖En‖S49‖
 Z*‖santander‖SI‖En‖Santander‖
 Z‖sap‖CL‖En‖SAP‖enterprise software to manage business operations and customer
 ZC‖seat‖SI‖En‖Seat‖
+*Z‖selgros‖SI‖En‖Selgros‖
 Z*‖sharepoint‖CL‖En‖Sharepoint‖
 ZC‖shimano‖SI‖En‖Shimano‖
 *Z‖shipify/‖SI‖En‖Shopify‖U+1F3E2
@@ -258,6 +271,8 @@ Z*‖sp/‖SI‖En‖Sharepoint‖
 *Z‖splitwise‖SI‖En‖Splitwise‖
 *Z‖spotify‖SI‖En‖Spotify‖
 Z*‖strava‖SI‖En‖Strava‖
+Z‖structurizr‖SI‖En‖Structurizr‖
+*Z‖structurizr/‖MSI‖En‖Structurizr DSL¦Structurizr Domain-Specific Language¦https://structurizr.com/dsl¦https://docs.structurizr.com/quickstart‖
 *Z‖suzuki‖SI‖En‖Suzuki‖
 Z‖svn‖SI‖En‖SVN‖
 *Z‖svn/‖CL‖En‖versioning and revision control system‖
@@ -268,6 +283,8 @@ Z*‖thales‖SI‖En‖Thales‖
 *Z‖tinymce‖SI‖En‖TinyMCE‖
 *Z‖toshiba‖SI‖En‖Toshiba‖
 Z‖trello‖SI‖En‖Trello‖
+Z‖tsn‖SI‖En‖TSN‖
+*Z‖tsn/‖SI‖En‖Time Sensitive Networking‖
 Z*‖twitter‖SI‖En‖Twitter‖
 *Z‖ubuntu‖SI‖En‖Ubuntu‖
 *Z‖udemy‖SI‖En‖Udemy‖

@@ -440,6 +440,8 @@ Z‖ftp‖SI‖En‖FTP‖
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z‖gdpr‖SI‖En‖GDPR‖
 *Z‖gdpr/‖MSI‖En‖General Data Protection Regulation¦Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to processing of personal data and the free movement of that data‖
+Z‖gis‖SI‖En‖GIS‖
+*Z‖gis/‖SI‖En‖Geographic Information System‖
 Z‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
 Z*‖gmt/‖MSI‖En‖Greenwich Mean Time¦Poland: GMT + 01:00¦Polska: GMT + 01:00‖
 Z‖gnss‖SI‖En‖GNSS‖
@@ -528,6 +530,8 @@ Z‖iis‖SI‖En‖IIS‖
 *Z‖iis/‖SI‖En‖Internet Information Service‖
 CZ‖imei‖SI‖En‖IMEI‖
 *CZ‖imei/‖SI‖En‖International Mobile Equipment Identity‖
+Z‖imsi‖SI‖En‖IMSI‖
+*Z‖imsi/‖SI‖En‖International Mobile Subscriber Identity‖
 Z‖imu‖SI‖En‖IMU‖
 *Z‖imu/‖MSI‖En‖Inertial Measurement Unit¦an electronic device that measures and reports a body's specific force, angular rate, and sometimes the orientation of the body, using a combination of accelerometers, gyroscopes, and sometimes magnetometers.‖https://en.wikipedia.org/wiki/Inertial_measurement_unit
 Z‖iot‖SI‖En‖IoT‖
@@ -607,6 +611,8 @@ Z‖led‖SI‖En‖LED‖
 Z*‖led/‖CL‖En‖Light Emitting Diode‖
 Z‖lgbt‖SI‖En‖LGBT‖
 Z*‖lgbt/‖SI‖En‖Lesbian Gay Bisexual Transgender‖
+Z‖lidar‖SI‖En‖LIDAR‖
+*Z‖lidar/‖SI‖En‖LIght DAtaction and Ranging‖
 Z‖lifo‖SI‖En‖LIFO‖
 *Z‖lifo/‖SI‖En‖Last-In, First-Out‖
 Z‖llc‖SI‖En‖LLC‖
@@ -635,6 +641,8 @@ Z‖ltem‖SI‖En‖LTE-M‖
 *Z‖ltem/‖SI‖En‖Long-Term Evolution Machine (Type Communication)‖
 Z‖lts‖SI‖En‖LTS‖
 *Z‖lts/‖SI‖En‖Long Time Support‖
+Z‖lwm2m‖SI‖En‖LwM2M‖
+*Z‖lwm2m/‖SI‖En‖Lightweight Machine to Machine application layer communication protocol‖
 Z‖mac‖SI‖En‖MAC‖https://en.wikipedia.org/wiki/MAC_address
 *Z‖mac/‖SI‖En‖Media Access Control‖
 Z‖marte‖SI‖En‖MARTE‖
@@ -655,6 +663,8 @@ Z‖mems‖SI‖En‖MEMS‖
 *Z‖mems/‖SI‖En‖Micro-ElectroMechanical System‖
 Z‖mfa‖SI‖En‖MFA‖
 Z*‖mfa/‖SI‖En‖Multi Factor Authentication‖
+Z‖mhf4‖SI‖En‖MHF4‖
+*Z‖mhf4/‖MSI‖En‖Micro High-Frequency 4¦a type of miniature RF (Radio Frequency) coaxial connector used for high-frequency signals, typically up to 6 GHz‖
 Z‖midi‖SI‖En‖MIDI‖
 *Z‖midi/‖SI‖En‖Musical Instrument Digital Interface‖
 Z‖mime‖SI‖En‖MIME‖
@@ -701,6 +711,10 @@ Z‖mut‖SI‖En‖MUT‖
 Z*‖mut/‖CL‖En‖Mean Up Time‖
 Z‖mvc‖SI‖En‖MVC‖
 *Z‖mvc/‖SI‖En‖Model View Controller‖
+Z‖mvne‖SI‖En‖MVNE‖
+*Z‖mvne/‖SI‖En‖Mobile Virtual Network Enabler‖
+Z‖mvno‖SI‖En‖MVNO‖
+*Z‖mvno/‖SI‖En‖Mobile Virtual Network Operator‖
 Z*‖n/a/‖SI‖En‖not applicable‖
 Z*‖na/‖SI‖En‖not applicable‖
 Z*‖nas/‖SI‖En‖Network Attached Storage‖
@@ -877,6 +891,8 @@ Z‖qhsee‖SI‖En‖QHSEE‖
 Z*‖qhsee/‖SI‖En‖Quality, Health, Safety, Environment and Energy‖
 Z‖qmk‖SI‖En‖QMK‖
 *Z‖qmk/‖SI‖En‖Quantum Mechanical Keyboard‖
+Z‖qms‖SI‖En‖QMS‖
+*Z‖qms/‖SI‖En‖Quality Management System‖
 Z‖qna‖SI‖En‖Q&A‖
 Z*‖qna/‖CL‖En‖Questions and Answers‖
 Z‖qos‖SI‖En‖QoS‖
@@ -894,6 +910,8 @@ Z‖rac‖SI‖En‖RAC‖
 Z*‖rac/‖CL‖En‖Risk Acceptance Criteria‖
 Z‖raci‖SI‖En‖RACI‖
 *Z‖raci/‖MSI‖En‖Responsible Accountable Consultant Informed¦R = Responsible: Those who are responsible for the correct completion of the task.[7] There is at least one role with a participation type of responsible, although others can be delegated to assist in the work required.	`n`nA = Accountable (also approver or final approving authority): The one ultimately answerable for the correct and thorough completion of the deliverable or task, the one who ensures the prerequisites of the task are met and who delegates the work to those responsible.[7] In other words, an accountable must sign off (approve) work that responsible provides. There must be only one accountable specified for each task or deliverable.`n`nC = Consulted : Those whose opinions are sought, typically subject-matter experts, and with whom there is two-way communication.`n`nI = Informed : Those who are kept up-to-date on progress, often only on completion of the task or deliverable, and with whom there is just one-way communication.‖
+Z‖radar‖SI‖En‖RADAR‖
+*Z‖radar/‖SI‖En‖RAdio Detection And Ranging‖
 Z‖ral‖SI‖En‖RAL‖
 Z*‖ral/‖SI‖En‖Reichs-Ausschuß für Lieferbedingungen (National Committee for Delivery and Quality Assurance)‖
 Z*‖ram/‖CL‖En‖Reliability, Availability, Maintainability‖
@@ -954,12 +972,16 @@ Z‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
 Z‖rtf‖SI‖En‖RTF‖
 *Z‖rtf/‖SI‖En‖Revision Task Force‖
+Z‖rtls‖SI‖En‖RTLS‖
+*Z‖rtls/‖SI‖En‖Real Time Locating System‖
 Z‖rtos‖SI‖En‖RTOS‖
 *Z‖rtos/‖SI‖En‖Real-Time Operating System‖
 Z‖rtu‖SI‖En‖RTU‖
 *Z‖rtu/‖SI‖En‖Remote Terminal Unit‖
 Z‖saas‖SI‖En‖SaaS‖https://en.wikipedia.org/wiki/Software_as_a_service
 Z*‖saas/‖SI‖En‖Software as a Service‖
+Z‖sar‖SI‖En‖SAR‖
+*Z‖sar/‖SI‖En‖Specific Absorption Rate‖
 Z‖sasl‖SI‖En‖SASL‖
 *Z‖sasl/‖SI‖En‖Simple Authentication and Security Layer‖
 Z‖sbc‖SI‖En‖SBC‖
@@ -1140,6 +1162,8 @@ Z‖uefa‖SI‖En‖UEFA‖
 Z*‖uefa/‖SI‖En‖Union of European Football Associations‖
 Z‖uefi‖SI‖En‖UEFI‖
 *Z‖uefi/‖SI‖En‖Unified Extensible Firmware Interface‖
+Z‖ufl‖SI‖En‖uFL‖
+*Z‖ufl/‖MSI‖En‖Ultra-Fine Line¦a type of miniature RF (Radio Frequency) coaxial connector used for high-frequency signals, typically up to 6 GHz.‖
 CZ‖uhf‖SI‖En‖UHF‖
 *CZ‖uhf/‖SI‖En‖Ultra High Frequency‖
 Z‖uht‖SI‖En‖UHT‖
@@ -1184,6 +1208,8 @@ CZ‖uuid‖SI‖En‖UUID‖
 *CZ‖uuid/‖SI‖En‖Universally Unique IDentifier‖
 Z‖uv‖SI‖En‖UV‖
 Z*‖uv/‖SI‖En‖Ultraviolet form of electromagetic radiation, shorter than that of visible light, but longer than X-rays.‖https://en.wikipedia.org/wiki/Ultraviolet
+Z‖uwb‖SI‖En‖UWB‖
+*Z‖uwb/‖SI‖En‖Ultra-WideBand‖
 Z‖uwp‖SI‖En‖UWP‖
 *Z‖uwp/‖MSI‖En‖Universal Windows Platform¦computing platform created by Microsoft to help develop universal apps that run on Windows 10, Windows 11, xbox One, etc. without the need to be rewritten for each.‖
 Z‖ux‖SI‖En‖UX‖
@@ -1224,6 +1250,8 @@ CZ‖wan‖SI‖En‖WAN‖
 *CZ‖wan/‖SI‖En‖Wide Area Network‖
 Z‖wcag‖SI‖En‖WCAG‖https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
 Z*‖wcag/‖SI‖En‖Web Content Accessibility Guidelines‖
+Z‖weee‖SI‖En‖WEEE‖
+*Z‖weee/‖SI‖En‖Waste from Electrical and Electronic Equipment‖
 *Z‖who/‖SI‖En‖World Health Organization‖https://en.wikipedia.org/wiki/World_Health_Organization
 Z‖who`t‖SI‖En‖WHO‖
 CZ‖wlan‖SI‖En‖WLAN‖

@@ -21,6 +21,8 @@ Z*‖-+‖CL‖En‖±‖
 *Z‖-`t‖MSI‖En‖-¦−¦–¦—‖U+2010, U+2212, U+2013, U+2014
 Z*‖/=‖CL‖En‖≠‖
 Z*‖<=‖CL‖En‖≤‖
+*Z‖<==‖SI‖En‖⇐‖
+*Z‖==>‖SI‖En‖⇒‖
 Z*‖>=‖CL‖En‖≥‖
 Z*‖\<‖CL‖En‖↓‖
 Z*‖\>‖CL‖En‖↑‖
@@ -64,6 +66,8 @@ Z‖m3‖SI‖En‖m³‖
 Z‖mah‖SI‖En‖mAh‖
 Z*‖mamp‖CL‖En‖mA‖
 Z‖mb‖SI‖En‖MB‖
+Z‖mbit‖SI‖En‖Mbit‖
+*Z‖mbit/‖SI‖En‖megabit 1000²‖
 Z‖mbps‖SI‖En‖Mbps‖
 *Z‖mbps/‖MSI‖En‖Mbit/s¦megabit per second¦10⁶‖
 Z‖mhz‖SI‖En‖MHz‖

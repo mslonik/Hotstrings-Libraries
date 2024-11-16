@@ -13,6 +13,8 @@ ZC*‖alic‖SI‖En‖Alic‖
 *Z‖alkmaar‖SI‖En‖Alkmaar‖
 ZC*‖america‖SI‖En‖America‖
 *Z‖amsterdam‖SI‖En‖Amsterdam‖
+Z‖apac‖SI‖En‖APAC‖
+*Z‖apac/‖SI‖En‖Asia-PACific‖
 ZC*‖april‖SI‖En‖April‖
 *CZ‖arabia‖SI‖En‖Arabia‖
 *Z‖arnhem‖SI‖En‖Arnhem‖
@@ -42,6 +44,7 @@ ZC*‖cracow‖SI‖En‖Cracow‖
 *Z‖czestochow‖SI‖En‖Częstochow‖
 *Z‖częstochow‖SI‖En‖Częstochow‖
 ZC*‖december‖SI‖En‖December‖
+*Z‖denmark‖SI‖En‖Denmark‖
 *Z‖dubai‖SI‖En‖Dubai‖
 Z‖dutch‖SI‖En‖Dutch‖
 CZ‖earth‖SI‖En‖Earth‖
@@ -71,6 +74,7 @@ Z*‖ghana‖SI‖En‖Ghana‖
 Z‖hashimoto‖SI‖En‖Hashimoto‖
 *Z‖helsinki‖SI‖En‖Helsinki‖
 *Z‖hvar‖SI‖En‖Hvar‖
+Z‖i/o‖SI‖En‖I/O‖
 Z*‖india‖SI‖En‖India‖
 ZC‖iran‖SI‖En‖Iran‖
 Z*‖istanbul‖SI‖En‖Istanbul‖
@@ -141,6 +145,7 @@ ZC*‖taiwan‖SI‖En‖Taiwan‖
 Z*‖tczew‖SI‖En‖Tczew‖
 ZC*‖thailand‖SI‖En‖Thailand‖
 ZC*‖thursday‖SI‖En‖Thursday‖
+Z‖todo‖SI‖En‖TODO‖
 Z‖torun‖SI‖En‖Toruń‖
 Z‖toruń‖SI‖En‖Toruń‖
 ZC*‖tuesday‖SI‖En‖Tuesday‖
