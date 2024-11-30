@@ -16,6 +16,9 @@ Z*‖"/‖MSI‖En‖„”{left}¦“”{left}¦«»{left}¦""{left}‖Polish, 
 Z*?‖...‖SI‖En‖…‖Horizontal Ellipsis {U+2026}
 *Z‖./‖SI‖En‖. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .‖
 *Z‖5xspace‖SI‖En‖     `‖
+*Z‖<<‖SI‖En‖≪‖
+*Z‖>>‖SI‖En‖≫‖
+*Z‖ast/‖SI‖En‖*‖
 Z*‖bell/‖SI‖En‖{U+0007}‖
 Z*‖cgj/‖SI‖En‖{U+034F}‖Combining Grapheme Joiner
 Z‖cr‖SI‖En‖CR‖Carriage Return
@@ -23,6 +26,7 @@ Z*C‖cr/‖MSI‖En‖Carriage Return¦{U+000D}¦␍‖
 ZC‖crlf‖SI‖En‖CRLF‖
 Z*C‖crlf/‖MSI‖En‖Carriage Return {+} Line Feed¦{U+000D}{U+000A}‖
 *Z‖dash/‖SI‖En‖—‖
+*Z‖dots/‖SI‖En‖…‖
 *Z‖emdash/‖SI‖En‖—‖
 Z*?‖emspace/‖SI‖En‖{U+2003}‖Em Space
 *?Z‖endash/‖SI‖En‖–‖U+2013, for ranges, e.g. 2012–2015

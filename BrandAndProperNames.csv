@@ -42,12 +42,15 @@ Z‖archimate‖SI‖En‖ArchiMate‖
 Z*‖autocad‖CL‖En‖AutoCAD‖
 Z*‖autodesk‖SI‖En‖Autodesk‖
 *Z‖autohotkey‖SI‖En‖AutoHotkey‖
+Z‖autosar‖SI‖En‖AUTOSAR‖
+*Z‖autosar/‖SI‖En‖AUTomotive Open System ARchitecture‖
 Z‖aws‖SI‖En‖AWS‖
 *Z‖aws/‖SI‖En‖Amazon Web Services‖
 Z‖b12‖SI‖En‖B12‖
 Z‖b6‖SI‖En‖B6‖
 Z‖bbc‖SI‖En‖BBC‖
 *Z‖bbc/‖SI‖En‖British Broadcasting Corporation‖
+*Z‖beidou‖SI‖En‖BeiDou‖
 *Z‖bitlocker‖SI‖En‖BitLocker‖
 *Z‖blazor‖SI‖En‖Blazor‖
 *Z‖blik‖SI‖En‖BLIK‖only with ShiftFunctions!
@@ -68,6 +71,7 @@ Z‖chatgpt‖SI‖En‖ChatGPT‖
 *Z‖cocacola‖SI‖En‖Coca-Cola‖
 *Z‖convertkit‖SI‖En‖ConvertKit‖
 *Z‖cpanel‖SI‖En‖cPanel‖
+*Z‖cr1632‖SI‖En‖CR1632‖
 *Z‖cr2032‖SI‖En‖CR2032‖https://en.wikipedia.org/wiki/Button_cell
 *Z‖dalle‖SI‖En‖DALL-E‖
 Z‖damit‖SI‖En‖DamIT‖
@@ -98,6 +102,8 @@ Z‖esa‖SI‖En‖ESA‖
 *Z‖esa/‖SI‖En‖European Space Agency‖
 *Z‖esp32‖SI‖En‖ESP32‖
 Z*‖ethernet‖SI‖En‖Ethernet‖
+Z‖euicc‖SI‖En‖eUICC‖
+*Z‖euicc/‖SI‖En‖embedded Universal Integrated Circuit Card‖
 Z‖excel‖SI‖En‖Excel‖
 Z*‖facebook‖SI‖En‖Facebook‖
 Z‖fcc‖SI‖En‖FCC‖
@@ -186,6 +192,8 @@ Z‖mcu‖SI‖En‖MCU‖
 Z*‖medicover‖SI‖En‖Medicover‖
 *Z‖micropython‖SI‖En‖MicroPython‖
 Z*‖microsoft‖SI‖En‖Microsoft‖
+Z‖mioty‖SI‖En‖MIoTy‖
+*Z‖mioty/‖SI‖En‖a low-power wide-area network (LPWAN) protocol‖
 Z‖mipi‖SI‖En‖MIPI‖
 *Z‖mipi/‖SI‖En‖Mobile Industry Processor Interface‖
 *Z‖mongodb‖SI‖En‖MongoDB‖
@@ -199,6 +207,8 @@ Z‖nasa‖SI‖En‖NASA‖
 ZC‖netflix‖SI‖En‖Netflix‖
 *Z‖newag‖SI‖En‖Newag‖
 *Z‖nintendo‖SI‖En‖Nintendo‖
+Z‖nist‖SI‖En‖NIST‖
+*Z‖nist/‖SI‖En‖National Institute of Standards and Technology‖
 *Z‖nokia‖SI‖En‖Nokia‖
 Z‖notepad++‖SI‖En‖Notepad{+}{+}‖
 Z‖nsis‖SI‖En‖NSIS‖
@@ -206,6 +216,8 @@ Z‖nsis‖SI‖En‖NSIS‖
 Z‖nyse‖SI‖En‖NYSE‖
 *Z‖nyse/‖SI‖En‖New York Stock Exchange‖
 Z‖obi‖SI‖En‖OBI‖
+Z‖obs‖MSI‖En‖OBS Studio‖
+*Z‖obs/‖MSI‖En‖Open Broadcaster Software¦https://obsproject.com/‖
 Z‖ocx‖SI‖En‖OCX‖
 *Z‖ocx/‖SI‖En‖Open Community eXperience of Eclipse Foundation‖
 *Z‖omg/‖SI‖En‖Object Management Group‖https://www.omg.org/index.htm
@@ -245,6 +257,7 @@ Z‖redca‖SI‖En‖REDCA‖
 *Z‖reddit‖SI‖En‖Reddit‖
 Z‖redis‖SI‖En‖Redis‖
 *Z‖redis/‖SI‖En‖Remote Dictionary Server‖
+Z‖restful‖SI‖En‖RESTful‖
 *Z‖rj45‖SI‖En‖RJ45‖
 *Z‖romet‖SI‖En‖Romet‖
 *Z‖roswera‖SI‖En‖Roswera‖
@@ -262,6 +275,7 @@ ZC‖shimano‖SI‖En‖Shimano‖
 *Z‖shopify‖SI‖En‖Shopify‖
 Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
 *Z‖skoda‖SI‖En‖Škoda‖
+*Z‖skycash‖SI‖En‖SkyCash‖
 *Z‖skype‖SI‖En‖Skype‖
 *CZ‖softsim‖SI‖En‖SoftSIM‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
@@ -285,6 +299,7 @@ Z*‖thales‖SI‖En‖Thales‖
 Z‖trello‖SI‖En‖Trello‖
 Z‖tsn‖SI‖En‖TSN‖
 *Z‖tsn/‖SI‖En‖Time Sensitive Networking‖
+Z‖tvn‖SI‖En‖TVN‖
 Z*‖twitter‖SI‖En‖Twitter‖
 *Z‖ubuntu‖SI‖En‖Ubuntu‖
 *Z‖udemy‖SI‖En‖Udemy‖

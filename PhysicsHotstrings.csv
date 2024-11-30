@@ -26,6 +26,7 @@ Z*‖<=‖CL‖En‖≤‖
 Z*‖>=‖CL‖En‖≥‖
 Z*‖\<‖CL‖En‖↓‖
 Z*‖\>‖CL‖En‖↑‖
+*Z‖angle/‖SI‖En‖∠‖
 Z*‖approx/‖CL‖En‖≈‖
 *Z‖arrows/‖MSI‖En‖↕¦↖¦↗¦↘¦↙¦↩¦↪‖
 *Z‖arrowsdouble/‖MSI‖En‖⇐¦⇑¦⇒¦⇓¦⇔¦⇕‖
@@ -37,11 +38,16 @@ Z‖dbi‖SI‖En‖dBi‖
 Z‖dbm‖SI‖En‖dBm‖
 *Z‖dbm/‖SI‖En‖dBm = 10 · log(P / 1 mW)‖
 Z*?‖deg/‖CL‖En‖°‖
+*Z‖degc/‖SI‖En‖°C‖
+*Z‖degf/‖SI‖En‖°F‖
 Z*‖diameter/‖SI‖En‖Ø‖U+00D8
+*Z‖div/‖SI‖En‖÷‖
 *Z‖divisionsign/‖SI‖En‖÷‖
 *Z‖dps/‖SI‖En‖degrees per second‖
 Z*‖euro/‖CL‖En‖€‖
+*Z‖exists/‖SI‖En‖∃‖
 Z*‖exponent/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
+*Z‖forall/‖SI‖En‖∀‖
 *Z‖fullhd‖SI‖En‖1920 px × 1080 px‖
 Z‖gb‖SI‖En‖GB‖
 *Z‖gb/‖MSI‖En‖gigabyte¦10⁹ = 1000³‖
@@ -82,7 +88,9 @@ Z*‖mniejszyrówny‖CL‖En‖≤‖
 Z*‖ms2‖SI‖En‖m/s²‖
 *Z‖multiply/‖MSI‖En‖·¦×‖U+00B7 | U+00D7
 Z‖nm‖SI‖En‖Nm‖Newton-metre
+*Z‖notelement/‖SI‖En‖∉‖
 *Z‖notequal‖SI‖En‖≠‖
+*Z‖notin/‖SI‖En‖∉‖
 Z*‖oddo‖CL‖En‖÷‖
 Z*?‖ohm‖CL‖En‖Ω‖
 *Z‖paragraph/‖SI‖En‖§‖
@@ -107,6 +115,8 @@ Z‖tb‖SI‖En‖TB‖
 *Z‖tb/‖MSI‖En‖terabyte¦10¹² = 1000⁴‖
 Z‖tib‖SI‖En‖TiB‖
 *Z‖tib/‖MSI‖En‖tebibyte¦2⁴⁰ = 1024⁴‖
+Z‖tops‖SI‖En‖TOPS‖
+*Z‖tops/‖SI‖En‖Tera (10¹²) Operations Per Second‖
 *Z‖va`t‖SI‖En‖VA‖UPS capacity
 Z‖vac‖SI‖En‖V{U+00A0}AC‖
 Z*‖vdc‖SI‖En‖V{U+00A0}DC‖

@@ -45,6 +45,7 @@ Z‖ctrl‖SI‖En‖Ctrl‖
 Z‖enter‖SI‖En‖Enter‖
 ?*Z‖enter/‖SI‖En‖{enter}‖
 ?*Z‖equal/‖SI‖En‖=‖
+Z‖esc‖SI‖En‖Esc‖
 ?Z*‖esc/‖SI‖En‖{esc}‖
 ?*Z‖exclmark/‖SI‖En‖{!}‖
 Z‖f1‖SI‖En‖F1‖

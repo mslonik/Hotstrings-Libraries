@@ -24,6 +24,8 @@ Z‖5g‖SI‖En‖5G‖
 Z‖6d‖SI‖En‖6D‖
 Z‖6kro‖SI‖En‖6KRO‖https://en.wikipedia.org/wiki/Key_rollover
 *Z‖6kro/‖SI‖En‖6KRO; means you can push up to 6 keys + modifier keys (CTRL, ALT, etc.) at once and the keyboard will recognize all of your key presses‖https://en.wikipedia.org/wiki/Key_rollover
+Z‖6lowpan‖SI‖En‖6LoWPAN‖
+*Z‖6lowpan/‖SI‖En‖IPv6 over Low-Power Wireless Personal Area Network‖
 Z*‖a/‖SI‖Dis‖Availability‖
 Z*‖a3‖MSI‖En‖A3¦297 × 420 [mm]‖size of paper sheet in Europe
 Z*‖a4‖MSI‖En‖A4¦210 × 297 [mm]‖
@@ -41,6 +43,7 @@ Z‖aed‖SI‖En‖AED‖
 *Z‖aed/‖SI‖En‖Automated External Defibrillator‖https://en.wikipedia.org/wiki/Automated_external_defibrillator
 CZ‖aes‖SI‖En‖AES‖
 *CZ‖aes/‖SI‖En‖Advanced Encryption Standard‖
+*Z‖aes128‖SI‖En‖AES128‖
 Z*‖afaik/‖CL‖En‖as far as I know‖
 *Z‖ahk/‖MSI‖En‖AutoHotkey¦https://github.com/mslonik¦https://www.autohotkey.com/docs/AutoHotkey.htm¦https://www.autohotkey.com/boards/‖https://www.autohotkey.com/
 Z‖ai‖SI‖En‖AI‖
@@ -54,12 +57,20 @@ Z‖alu‖SI‖En‖ALU‖
 *Z‖alu/‖SI‖En‖Arithmetic Logic Unit‖https://en.wikipedia.org/wiki/Arithmetic_logic_unit
 *Z‖am/‖MSI‖En‖Ante Meridiem¦Amplitude Modulated‖
 *Z‖am`t‖SI‖En‖AM‖
+Z‖ami‖SI‖En‖AMI‖
+*Z‖ami/‖SI‖En‖Advanced Metering Infrastructure‖
 Z‖amqp‖SI‖En‖AMQP‖
 *Z‖amqp/‖SI‖En‖Advanced Message Queuing Protocol‖
+Z‖amr‖SI‖En‖AMR‖
+*Z‖amr/‖SI‖En‖Automatic Meter Reading‖
 Z‖ansi‖SI‖En‖ANSI‖
 Z*‖ansi/‖SI‖En‖American National Standards Institute‖https://en.wikipedia.org/wiki/American_National_Standards_Instit
 Z‖ao‖SI‖En‖a.o.‖
 *Z‖ao/‖SI‖En‖among others‖
+Z‖aoa‖SI‖En‖AoA‖
+*Z‖aoa/‖SI‖En‖Angle of Arrival‖
+Z‖apdu‖SI‖En‖APDU‖
+*Z‖apdu/‖SI‖En‖Application Protocol Data Unit‖
 Z‖api‖SI‖En‖API‖
 *Z‖api/‖SI‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
 CZ‖apn‖SI‖En‖APN‖
@@ -84,6 +95,8 @@ Z‖asmr‖SI‖En‖ASMR‖
 Z‖asp.net‖SI‖En‖ASP.NET‖
 Z‖aspnet‖SI‖En‖ASP.NET‖
 *Z‖aspnet/‖SI‖En‖Active Server Pages Network Enabled Technologies‖
+Z‖atacms‖SI‖En‖ATACMS‖
+*Z‖atacms/‖SI‖En‖Army TACtical Missile System‖
 Z‖atm‖SI‖En‖ATM‖
 *Z‖atm/‖SI‖En‖Automatic Teller Machine‖
 Z‖ato‖SI‖En‖ATO‖
@@ -127,6 +140,7 @@ Z‖bredr‖SI‖En‖BR/EDR‖
 Z*‖btw/‖CL‖En‖by the way‖
 Z‖byod‖SI‖En‖BYOD‖
 *Z‖byod/‖SI‖En‖Bring Your Own Device‖
+*Z‖c++‖SI‖En‖C{+}{+}‖
 Z‖cad‖SI‖En‖CAD‖
 Z*‖cad/‖CL‖En‖Computer Aided Design‖https://en.wikipedia.org/wiki/Computer-aided_design
 Z‖cae‖SI‖En‖CAE‖
@@ -201,6 +215,7 @@ Z‖covid‖MSI‖En‖COVID-19¦👑🦠‖
 Z*‖covid/‖CL‖En‖severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)‖
 Z‖cpld‖SI‖En‖CPLD‖
 *Z‖cpld/‖SI‖En‖Complex Programmable Logic Devices‖
+*Z‖cplusplus‖SI‖En‖C{+}{+}‖
 Z‖cpr‖SI‖En‖CPR‖
 *Z‖cpr/‖SI‖En‖CardioPulmonary Resuscitation‖https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation
 Z‖cpu‖SI‖En‖CPU‖
@@ -213,6 +228,8 @@ Z‖crm‖SI‖En‖CRM‖
 Z*‖crm/‖SI‖En‖Customer Relationship Management‖
 Z‖crud‖SI‖En‖CRUD‖
 *Z‖crud/‖SI‖En‖Create Read Update Delete‖
+Z‖csi‖SI‖En‖CSI‖
+*Z‖csi/‖SI‖En‖Camera Serial Interface‖
 Z‖cso‖SI‖En‖CSO‖
 Z*‖cso/‖SI‖En‖Chief Sales Officer‖
 Z‖css‖SI‖En‖CSS‖
@@ -290,8 +307,10 @@ Z‖dram‖SI‖En‖DRAM‖
 *Z‖dram/‖SI‖En‖Dynamic Random-Access Memory‖
 Z‖drm‖CL‖En‖DRM‖
 Z*‖drm/‖CL‖En‖Digital Right Management‖
+Z‖dsi‖SI‖En‖DSI‖
+*Z‖dsi/‖SI‖En‖Display Serial Interface‖
 Z‖dsl‖SI‖En‖DSL‖https://en.wikipedia.org/wiki/Digital_subscriber_line
-Z*‖dsl/‖SI‖En‖Digital Subscriber Line‖
+*Z‖dsl/‖MSI‖En‖Domain Specific Language¦Digital Subscriber Line‖
 Z‖dslr‖SI‖En‖DSLR‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z*‖dslr/‖SI‖En‖Digital Single-Lens Reflex camera‖
 Z‖dsp‖SI‖En‖DSP‖
@@ -488,6 +507,8 @@ Z‖hid‖SI‖En‖HID‖
 *Z‖hid/‖SI‖En‖Human Interface Device‖
 Z‖hifi‖SI‖En‖Hi-Fi‖
 *Z‖hifi/‖SI‖En‖High Fidelity‖
+Z‖himars‖SI‖En‖HIMARS‖
+*Z‖himars/‖SI‖En‖HIgh Mobility Artillery Rocket System‖
 *Z‖hiv/‖SI‖En‖Human Immunodeficiency Viruses‖https://en.wikipedia.org/wiki/HIV
 Z‖hp‖SI‖En‖HP‖
 Z*‖hp/‖MSI‖En‖Horizontal Pitch¦1x HP = 0.2 '' = 5.08 mm¦1x HP is a unit of length defined by the Eurocard printed circuit board standard used to measure the horizontal width of rack mounted electronic equipment‖https://en.wikipedia.org/wiki/Horizontal_pitch
@@ -497,6 +518,7 @@ Z‖hrm‖SI‖En‖HRM‖
 *Z‖hrm/‖SI‖En‖Heart Rate Monitor‖
 Z‖http‖SI‖En‖HTTP‖
 *Z‖http/‖SI‖En‖HyperText Transfer Protocol‖
+*Z‖http2‖SI‖En‖HTTP/2‖
 Z‖hvac‖CL‖En‖HVAC‖
 Z*‖hvac/‖CL‖En‖Heating Ventilation Air Conditioning‖
 Z‖hw‖SI‖En‖HW‖
@@ -514,6 +536,8 @@ Z‖iarc‖SI‖En‖IARC‖
 *‖ibid/‖MSI‖En‖ibidem¦tamże, w tym samym miejscu‖
 Z‖ic‖SI‖En‖IC‖
 Z*‖ic/‖CL‖En‖Interoperability Constituent‖
+Z‖icbm‖SI‖En‖ICBM‖
+*Z‖icbm/‖SI‖En‖InterContinental Ballistic Missile‖
 *Z‖id`t‖SI‖En‖ID‖
 Z‖ide‖SI‖En‖IDE‖
 Z*‖ide/‖SI‖En‖Integrated Development Environment‖
@@ -567,6 +591,8 @@ Z‖isv‖SI‖En‖ISV‖
 *Z‖it`t‖SI‖En‖IT‖
 Z‖itil‖SI‖En‖ITIL‖
 *Z‖itil/‖SI‖En‖Information Technology Infrastructure Library‖https://www.itlibrary.org/
+Z‖itsm‖SI‖En‖ITSM‖
+*Z‖itsm/‖SI‖En‖IT Service Management‖
 Z‖itu‖SI‖En‖ITU‖
 *Z‖itu/‖SI‖En‖International Telecommunication Union‖
 Z‖javac/‖SI‖En‖Java compiler‖
@@ -575,6 +601,8 @@ Z‖jdk‖SI‖En‖JDK‖
 *Z‖jdk/‖SI‖En‖Java Development Kit‖
 Z‖jdt‖SI‖En‖JDT‖
 *Z‖jdt/‖SI‖En‖Java Development Tools‖
+Z‖jre‖SI‖En‖JRE‖
+*Z‖jre/‖SI‖En‖Java Runtime Environment‖
 Z‖jtag‖SI‖En‖JTAG‖
 *Z‖jtag/‖SI‖En‖Joint Test Action Group‖
 Z‖jvm‖SI‖En‖JVM‖
@@ -625,6 +653,9 @@ Z‖lnd‖SI‖En‖L&D‖
 Z*‖lnd/‖SI‖En‖Learning and Development‖
 Z‖lop‖SI‖En‖LOP‖
 Z*‖lop/‖CL‖En‖List of Open Points‖
+Z‖lpddr‖SI‖En‖LPDDR‖
+*Z‖lpddr/‖MSI‖En‖Low-Power Double Data Rate¦LPDDR SDRAM‖
+Z‖lpddr4‖SI‖En‖LPDDR4‖
 Z‖lpf‖SI‖En‖LPF‖
 *Z‖lpf/‖SI‖En‖Low Pass Filter‖
 CZ‖lpwa‖SI‖En‖LPWA‖
@@ -641,8 +672,13 @@ Z‖ltem‖SI‖En‖LTE-M‖
 *Z‖ltem/‖SI‖En‖Long-Term Evolution Machine (Type Communication)‖
 Z‖lts‖SI‖En‖LTS‖
 *Z‖lts/‖SI‖En‖Long Time Support‖
+Z‖lvds‖SI‖En‖LVDS‖
+*Z‖lvds/‖SI‖En‖Low-Voltage Differential Signaling‖
 Z‖lwm2m‖SI‖En‖LwM2M‖
 *Z‖lwm2m/‖SI‖En‖Lightweight Machine to Machine application layer communication protocol‖
+Z‖lzma‖SI‖En‖LZMA‖
+*Z‖lzma/‖SI‖En‖Lempel-ZivMArkov chain algorithm‖
+Z‖lzma2‖SI‖En‖LZMA2‖
 Z‖mac‖SI‖En‖MAC‖https://en.wikipedia.org/wiki/MAC_address
 *Z‖mac/‖SI‖En‖Media Access Control‖
 Z‖marte‖SI‖En‖MARTE‖
@@ -667,10 +703,12 @@ Z‖mhf4‖SI‖En‖MHF4‖
 *Z‖mhf4/‖MSI‖En‖Micro High-Frequency 4¦a type of miniature RF (Radio Frequency) coaxial connector used for high-frequency signals, typically up to 6 GHz‖
 Z‖midi‖SI‖En‖MIDI‖
 *Z‖midi/‖SI‖En‖Musical Instrument Digital Interface‖
+Z‖mii‖SI‖En‖MII‖
+*Z‖mii/‖SI‖En‖Media-Independent Interface‖
 Z‖mime‖SI‖En‖MIME‖
 *Z‖mime/‖SI‖En‖Multipurpose Internet Mail Extensions‖https://en.wikipedia.org/wiki/MIME
-Z‖mimo‖SI‖En‖MIMO‖
 *Z‖mimo/‖SI‖En‖Multiple Input Multiple Output‖
+*Z‖mimo`t‖SI‖En‖MIMO‖
 Z‖mit‖SI‖En‖MIT‖
 *Z‖mit/‖SI‖En‖Massachusetts Institute of Technology‖
 Z‖mmc‖SI‖En‖MMC‖
@@ -803,6 +841,7 @@ Z‖p&l‖SI‖En‖P&L‖
 *Z‖pandl/‖SI‖En‖profit & loss‖
 Z‖pbs‖SI‖En‖PBS‖
 Z*‖pbs/‖SI‖En‖Product Breakdown Structure‖
+Z‖pc‖SI‖En‖PC‖
 Z‖pcb‖SI‖En‖PCB‖
 Z*‖pcb/‖CL‖En‖Printed Circuit Board‖
 Z‖pci‖SI‖En‖PCI‖
@@ -821,6 +860,10 @@ Z‖pe‖SI‖En‖PE‖
 Z*‖pe/‖SI‖En‖Protective Earth‖
 Z‖pep‖SI‖En‖PEP‖
 *Z‖pep/‖SI‖En‖Politically Exposed Person‖
+*Z‖pet/‖SI‖En‖PolyEthylene Terephthalate‖
+Z‖pet`t‖SI‖En‖PET‖
+Z‖pete‖SI‖En‖PETE‖
+*Z‖pete/‖SI‖En‖PolyEthylene Terephthalate‖
 Z?‖pgp‖SI‖En‖PGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 Z*‖pgp/‖SI‖En‖Pretty Good Privacy‖
 Z‖phd‖SI‖En‖PhD‖
@@ -859,6 +902,7 @@ Z‖pp‖SI‖En‖pp.‖
 *Z‖pp/‖MSI‖En‖Pair Programming¦per procurationem, on behalf of‖
 Z‖ppi‖SI‖En‖PPI‖
 Z*‖ppi/‖SI‖En‖Point Per Inch‖
+*Z‖pps/‖SI‖En‖Packet Per Second‖
 Z‖pri‖SI‖En‖PRI‖
 *Z‖pri/‖SI‖En‖Package Resource Index‖
 Z‖prp‖SI‖En‖PRP‖
@@ -994,6 +1038,8 @@ Z‖scorm‖SI‖En‖SCORM‖https://en.wikipedia.org/wiki/Sharable_Content_Obj
 Z*‖scorm/‖SI‖En‖Sharable Content Object Reference Model‖
 Z‖scss‖SI‖En‖SCSS‖
 *Z‖scss/‖SI‖En‖Sassy CSS‖
+Z‖sdio‖SI‖En‖SDIO‖
+*Z‖sdio/‖SI‖En‖Secure Digital Input Output‖
 Z‖sdk‖SI‖En‖SDK‖https://en.wikipedia.org/wiki/Software_development_kit
 Z*‖sdk/‖SI‖En‖Software Development Kit‖
 Z‖sdl‖SI‖En‖SDL‖
@@ -1084,6 +1130,8 @@ Z‖suv‖SI‖En‖SUV‖
 Z*‖suv/‖SI‖En‖Sport Utility Vehicle‖
 Z‖sw‖SI‖En‖SW‖
 Z*‖sw/‖SI‖En‖software‖
+Z‖swat‖SI‖En‖SWAT‖
+*Z‖swat/‖SI‖En‖Special Weapons And Tactics‖
 Z‖swd‖SI‖En‖SWD‖
 *Z‖swd/‖SI‖En‖Serial Wire Debug‖
 Z‖sysml‖SI‖En‖SysML‖
@@ -1250,6 +1298,8 @@ CZ‖wan‖SI‖En‖WAN‖
 *CZ‖wan/‖SI‖En‖Wide Area Network‖
 Z‖wcag‖SI‖En‖WCAG‖https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
 Z*‖wcag/‖SI‖En‖Web Content Accessibility Guidelines‖
+Z‖wcdma‖SI‖En‖WCDMA‖
+*Z‖wcdma/‖SI‖En‖Wideband Code-Division Multiple Access‖
 Z‖weee‖SI‖En‖WEEE‖
 *Z‖weee/‖SI‖En‖Waste from Electrical and Electronic Equipment‖
 *Z‖who/‖SI‖En‖World Health Organization‖https://en.wikipedia.org/wiki/World_Health_Organization
