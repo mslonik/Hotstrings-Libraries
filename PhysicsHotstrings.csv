@@ -38,8 +38,8 @@ Z‖dbi‖SI‖En‖dBi‖
 Z‖dbm‖SI‖En‖dBm‖
 *Z‖dbm/‖SI‖En‖dBm = 10 · log(P / 1 mW)‖
 Z*?‖deg/‖CL‖En‖°‖
-*Z‖degc/‖SI‖En‖°C‖
-*Z‖degf/‖SI‖En‖°F‖
+*?Z‖degc/‖SI‖En‖°C‖
+*?Z‖degf/‖SI‖En‖°F‖
 Z*‖diameter/‖SI‖En‖Ø‖U+00D8
 *Z‖div/‖SI‖En‖÷‖
 *Z‖divisionsign/‖SI‖En‖÷‖

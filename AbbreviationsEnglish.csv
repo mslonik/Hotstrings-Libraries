@@ -35,6 +35,8 @@ Z‖ac‖SI‖En‖AC‖
 Z*‖ac/‖MSI‖En‖Alternating Current¦Axle Counter‖
 Z‖acl‖SI‖En‖ACL‖
 Z*‖acl/‖SI‖En‖Access Control List‖
+Z‖acpi‖SI‖En‖ACPI‖
+*Z‖acpi/‖SI‖En‖Advanced Configuration and Power Interface‖
 Z‖adc‖SI‖En‖ADC‖
 *Z‖adc/‖MSI‖En‖Analog to Digital Converter¦Analog to Digital Converter (ADC) is a system in electronics that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal.‖
 Z‖adhd‖SI‖En‖ADHD‖
@@ -280,6 +282,8 @@ Z‖dita‖SI‖En‖DITA‖https://en.wikipedia.org/wiki/Darwin_Information_Typ
 Z*‖dita/‖CL‖En‖Darwin Information Typing Architecture‖
 Z‖diy‖SI‖En‖DIY‖
 Z*‖diy/‖SI‖En‖Do It Yourself‖
+Z‖dk‖SI‖En‖DK‖
+*Z‖dk/‖SI‖En‖Development Kit‖
 Z‖dlc‖SI‖En‖DLC‖
 *Z‖dlc/‖SI‖En‖Data Link Control‖
 CZ‖dma‖SI‖En‖DMA‖
@@ -402,6 +406,8 @@ Z‖fai‖SI‖En‖FAI‖
 Z*‖fai/‖CL‖En‖First Article Inspection‖
 Z‖faq‖SI‖En‖FAQ‖
 Z*‖faq/‖CL‖En‖Frequently Asked Questions‖
+Z‖fas‖SI‖En‖FAS‖
+*Z‖fas/‖SI‖En‖Fetal Alcohol Syndrome‖
 *Z‖fat/‖SI‖En‖File Allocation Table‖
 *Z‖fat16‖SI‖En‖FAT16‖
 *Z‖fat32‖SI‖En‖FAT32‖
@@ -728,6 +734,8 @@ Z‖mri‖SI‖En‖MRI‖
 *Z‖mri/‖SI‖En‖Magnetic Rezonanse Imaging‖
 Z‖mrna‖SI‖En‖mRNA‖
 *Z‖mrna/‖SI‖En‖messenger RNA‖
+Z‖msd‖SI‖En‖MSD‖
+*Z‖msd/‖SI‖En‖Mass Storage Device‖
 Z‖mtbf‖SI‖En‖MTBF‖
 *Z‖mtbf/‖MSI‖En‖Mean Time Between Failures¦the predicted elapsed time between inherent failures of a mechanical or electronic system, during normal system operation. MTBF can be calculated as the arithmetic mean (average) time between failures of a system. The term is used for repairable systems, while mean time to failure (MTTF) denotes the expected time to failure for a non-repairable system.`n[SOURCE: https://en.wikipedia.org/wiki/Mean_time_between_failures]`n¦średni czas bezawaryjnej pracy‖
 Z‖mtbm‖SI‖En‖MTBM‖
@@ -826,6 +834,8 @@ Z‖osi‖SI‖Dis‖OSI‖
 *Z‖osi/‖SI‖En‖Open Source Initiative‖
 *Z‖osi`n‖SI‖En‖Open Systems Interconnection model‖https://en.wikipedia.org/wiki/OSI_model
 *Z‖osi`t‖SI‖En‖OSI‖
+Z‖osint‖SI‖En‖OSINT‖
+*Z‖osint/‖SI‖En‖Open Source INTelligence‖
 Z‖oslc‖SI‖En‖OSLC‖
 *Z‖oslc/‖SI‖En‖Open Services for Lifecycle Collaboration‖https://en.wikipedia.org/wiki/Open_Services_for_Lifecycle_Collaboration
 Z‖oss‖SI‖En‖OSS‖
@@ -864,7 +874,7 @@ Z‖pep‖SI‖En‖PEP‖
 Z‖pet`t‖SI‖En‖PET‖
 Z‖pete‖SI‖En‖PETE‖
 *Z‖pete/‖SI‖En‖PolyEthylene Terephthalate‖
-Z?‖pgp‖SI‖En‖PGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
+Z‖pgp‖SI‖En‖PGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 Z*‖pgp/‖SI‖En‖Pretty Good Privacy‖
 Z‖phd‖SI‖En‖PhD‖
 Z‖phd/‖SI‖En‖philosophiae doctor‖
@@ -1222,6 +1232,8 @@ Z‖uia‖SI‖En‖UIA‖
 *Z‖uia/‖MSI‖En‖User Interface Automation¦framework developed by Microsoft that provides a standardized way to access, identify, and manipulate the user interface elements of an operating system and applications running on it. By using UI Automation, scripts and applications can programmatically interact with UI elements such as buttons, menus, text fields, and more.‖
 Z‖uic‖SI‖En‖UIC‖https://uic.org/
 *Z‖uic/‖MCL‖En‖International Union of Railways¦French: Union internationale des Chemins de fer¦Międzynarodowy Związek Kolei‖
+Z‖uicc‖SI‖En‖UICC‖
+*Z‖uicc/‖SI‖En‖Universal Integrated Circuit Card‖
 Z‖uml‖SI‖En‖UML‖
 *Z‖uml/‖MSI‖En‖Unified Modeling Language¦software modeling language‖
 CZ‖umts‖SI‖En‖UMTS‖https://en.wikipedia.org/wiki/3GPP
@@ -1268,6 +1280,8 @@ Z‖vat‖SI‖En‖VAT‖
 Z*‖vat/‖CL‖En‖Value Added Tax‖
 Z‖vba‖SI‖En‖VBA‖
 Z*‖vba/‖CL‖En‖Visual Basic for Applications‖
+Z‖vcom‖SI‖En‖VCOM‖
+*Z‖vcom/‖MSI‖En‖Virtual COM Port¦Software interface taht emulates a physical COM port over USB, allowing serial communication between the development kit and a computer. This is commonly used for debuggin and programming purposes.‖
 Z‖vfs‖SI‖En‖VFS‖
 *Z‖vfs/‖SI‖En‖Virtual File System‖
 Z‖vga‖SI‖En‖VGA‖

@@ -10,6 +10,7 @@ Examples:	Ad. 1. svg/ → Scalable Vector Graphics. Ad 2. Filename.txt ← hotst
 
 ZB0?‖.ahk‖SI‖En‖‖only for extensions
 ZB0?‖.csv‖SI‖En‖‖only for extensions
+B0?Z‖.dll‖SI‖En‖‖only for extensions
 ZB0?‖.docx‖SI‖En‖‖only for extensions
 CB0?Z‖.dotm‖SI‖En‖‖
 ZB0?‖.dwf‖SI‖En‖‖
@@ -45,6 +46,8 @@ B0?Z‖.zip‖SI‖En‖‖only for extensions
 Z‖ahk‖SI‖En‖AHK‖
 Z‖csv‖SI‖En‖CSV‖
 Z*‖csv/‖SI‖En‖Comma Separated Values‖https://en.wikipedia.org/wiki/Comma-separated_values
+Z‖dll‖SI‖En‖DLL‖
+*Z‖dll/‖SI‖En‖Dynamically Linked Libraries‖
 OZ‖docx‖SI‖En‖DOCX‖https://en.wikipedia.org/wiki/Office_Open_XML
 CZ‖dotm‖SI‖En‖DOTM‖
 *Z‖dotm/‖SI‖En‖DOTM‖Microsoft Windows template with macros

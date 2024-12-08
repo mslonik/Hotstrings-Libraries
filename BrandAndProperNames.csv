@@ -21,6 +21,7 @@ Z‖aaas‖SI‖En‖AAAS‖
 *Z‖aar‖SI‖En‖AAR‖
 Z‖aardc‖SI‖En‖Adobe Acrobat Reader DC‖
 *Z‖aardc/‖SI‖En‖Adobe Acrobat Reader Document Cloud; cloud features are available for users‖
+*Z‖activex‖SI‖En‖ActiveX‖
 *Z‖adif‖SI‖En‖ADIF‖
 Z‖adobe‖SI‖En‖Adobe‖
 Z‖aem‖SI‖En‖AEM‖
@@ -73,6 +74,7 @@ Z‖chatgpt‖SI‖En‖ChatGPT‖
 *Z‖cpanel‖SI‖En‖cPanel‖
 *Z‖cr1632‖SI‖En‖CR1632‖
 *Z‖cr2032‖SI‖En‖CR2032‖https://en.wikipedia.org/wiki/Button_cell
+*Z‖csharp‖SI‖En‖C{#}‖
 *Z‖dalle‖SI‖En‖DALL-E‖
 Z‖damit‖SI‖En‖DamIT‖
 Z‖darpa‖SI‖En‖DARPA‖
@@ -108,8 +110,10 @@ Z‖excel‖SI‖En‖Excel‖
 Z*‖facebook‖SI‖En‖Facebook‖
 Z‖fcc‖SI‖En‖FCC‖
 *Z‖fcc/‖SI‖En‖Federal Communications Commission‖
+*Z‖fido2‖SI‖En‖FIDO2‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 *Z‖figma‖SI‖En‖Figma‖
 *Z‖firefox‖SI‖En‖Firefox‖
+Z‖fortran‖SI‖En‖Fortran‖
 ZC‖framemaker‖MSI‖En‖FrameMaker¦https://www.adobe.com/pl/products/framemaker.html‖
 *Z‖freebsd‖SI‖En‖FreeBSD‖
 Z‖gbp‖SI‖En‖GBP‖
@@ -167,9 +171,11 @@ Z‖joomla‖MSI‖En‖Joomla{!}¦https://www.joomla.org/‖
 *Z‖junkers‖SI‖En‖Junkers‖
 *Z‖jysk‖SI‖En‖Jysk‖
 *Z‖kanban‖SI‖En‖Kanban‖
+*Z‖kconfig‖SI‖En‖Kconfig‖
 Z‖keepass‖SI‖En‖KeePass‖
 *Z‖keycloak‖SI‖En‖Keycloak‖
 Z‖kindle‖SI‖En‖Kindle‖
+Z‖kotlin‖SI‖En‖Kotlin‖
 Z‖kpmg‖SI‖En‖KPMG‖
 *Z‖kpmg/‖SI‖En‖Klynveld Peat Marvick Goerdeler‖
 Z‖kroki‖SI‖En‖Kroki{!}‖
@@ -225,6 +231,7 @@ Z*‖onedrive‖SI‖En‖OneDrive‖
 *Z‖onenote‖SI‖En‖OneNote‖
 *Z‖openai‖SI‖En‖OpenAI‖
 *Z‖openjdk‖SI‖En‖OpenJDK‖
+*Z‖openpgp‖SI‖En‖OpenPGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 *Z‖openssl‖SI‖En‖OpenSSL‖
 Z‖owasp‖SI‖En‖OWASP‖
 *Z‖owasp/‖SI‖En‖Open Worldwide Application Security Project‖
@@ -258,6 +265,7 @@ Z‖redca‖SI‖En‖REDCA‖
 Z‖redis‖SI‖En‖Redis‖
 *Z‖redis/‖SI‖En‖Remote Dictionary Server‖
 Z‖restful‖SI‖En‖RESTful‖
+*Z‖riscv‖SI‖En‖RISC-V‖
 *Z‖rj45‖SI‖En‖RJ45‖
 *Z‖romet‖SI‖En‖Romet‖
 *Z‖roswera‖SI‖En‖Roswera‖
@@ -268,6 +276,7 @@ Z*‖s49‖CL‖En‖S49‖
 Z*‖santander‖SI‖En‖Santander‖
 Z‖sap‖CL‖En‖SAP‖enterprise software to manage business operations and customer
 ZC‖seat‖SI‖En‖Seat‖
+*Z‖segger‖SI‖En‖SEGGER‖
 *Z‖selgros‖SI‖En‖Selgros‖
 Z*‖sharepoint‖CL‖En‖Sharepoint‖
 ZC‖shimano‖SI‖En‖Shimano‖
