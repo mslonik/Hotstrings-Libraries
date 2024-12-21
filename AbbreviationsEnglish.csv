@@ -75,6 +75,7 @@ Z‖apdu‖SI‖En‖APDU‖
 *Z‖apdu/‖SI‖En‖Application Protocol Data Unit‖
 Z‖api‖SI‖En‖API‖
 *Z‖api/‖SI‖En‖Application Programming Interface‖https://en.wikipedia.org/wiki/API
+*Z‖apis‖SI‖En‖APIs‖
 CZ‖apn‖SI‖En‖APN‖
 *CZ‖apn/‖MSI‖En‖Acess Point Name¦gateway between mobile networks and frequently the Internet‖
 Z‖ar‖SI‖En‖AR‖
@@ -97,6 +98,7 @@ Z‖asmr‖SI‖En‖ASMR‖
 Z‖asp.net‖SI‖En‖ASP.NET‖
 Z‖aspnet‖SI‖En‖ASP.NET‖
 *Z‖aspnet/‖SI‖En‖Active Server Pages Network Enabled Technologies‖
+*Z‖at`t‖SI‖En‖AT‖
 Z‖atacms‖SI‖En‖ATACMS‖
 *Z‖atacms/‖SI‖En‖Army TACtical Missile System‖
 Z‖atm‖SI‖En‖ATM‖
@@ -105,6 +107,7 @@ Z‖ato‖SI‖En‖ATO‖
 Z‖ato‖SI‖En‖ATO‖
 *Z‖ato/‖MSI‖En‖Assembly to Order¦to complete an order, typical or standard modules are applied‖
 Z*‖av/‖SI‖En‖Availability‖
+*Z‖avr‖SI‖En‖AVR‖
 Z‖awg‖SI‖En‖AWG‖
 Z*‖awg/‖SI‖En‖American Wire Gauge‖
 Z‖b2b‖SI‖En‖B2B‖
@@ -311,6 +314,8 @@ Z‖dram‖SI‖En‖DRAM‖
 *Z‖dram/‖SI‖En‖Dynamic Random-Access Memory‖
 Z‖drm‖CL‖En‖DRM‖
 Z*‖drm/‖CL‖En‖Digital Right Management‖
+CZ‖drx‖SI‖En‖DRX‖
+*CZ‖drx/‖MSI‖En‖Discontinues Reception¦The device alternates between active and low-power states to conserve battery life. During the low-power state, the device turns off its receiver and only wakes up periodically to check for incoming data.‖
 Z‖dsi‖SI‖En‖DSI‖
 *Z‖dsi/‖SI‖En‖Display Serial Interface‖
 Z‖dsl‖SI‖En‖DSL‖https://en.wikipedia.org/wiki/Digital_subscriber_line
@@ -352,6 +357,8 @@ Z‖ei‖SI‖En‖EI‖
 Z*‖ei/‖CL‖En‖Emotional Intelligence‖
 Z‖eiopa‖SI‖En‖EIOPA‖
 *Z‖eiopa/‖SI‖En‖European Insurance and Occupational Pensions Authority‖
+Z‖eirp‖SI‖En‖EIRP‖
+*Z‖eirp/‖SI‖En‖Effective Isotropic Radiated Power‖
 Z‖elsa‖SI‖En‖ELSA‖
 *Z‖elsa/‖SI‖En‖English Language Skills Assessment‖
 CZ‖embb‖SI‖En‖eMBB‖
@@ -374,6 +381,8 @@ Z‖enisa‖SI‖En‖ENISA‖
 *Z‖enisa/‖MSI‖En‖European Union Agency for Cybersecurity¦https://www.enisa.europa.eu/‖
 Z‖eol‖SI‖En‖EOL‖
 Z*‖eol/‖SI‖En‖End of Life‖
+Z‖eprom‖SI‖En‖EPROM‖
+*Z‖eprom/‖SI‖En‖Erasable Programmable Read-Only Memory‖
 Z‖eq‖SI‖En‖EQ ‖
 Z*‖eq/‖CL‖En‖Emotional Quotient‖
 Z‖era‖SI‖En‖ERA‖
@@ -465,6 +474,8 @@ Z‖ftp‖SI‖En‖FTP‖
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z‖gdpr‖SI‖En‖GDPR‖
 *Z‖gdpr/‖MSI‖En‖General Data Protection Regulation¦Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to processing of personal data and the free movement of that data‖
+Z‖genai‖SI‖En‖GenAI‖
+*Z‖genai/‖SI‖En‖Generative Artificial Inteligence‖
 Z‖gis‖SI‖En‖GIS‖
 *Z‖gis/‖SI‖En‖Geographic Information System‖
 Z‖gmt‖SI‖En‖GMT‖https://en.wikipedia.org/wiki/Greenwich_Mean_Time
@@ -582,8 +593,12 @@ Z‖iris‖SI‖En‖IRIS‖
 Z*‖iris/‖CL‖En‖International Railway Industry Standard for the evaluation of railway management systems‖
 Z‖isa‖SI‖En‖ISA‖
 *Z‖isa/‖SI‖En‖Instruction Set Architecture‖
+Z‖isae‖SI‖En‖ISAE‖
+*Z‖isae/‖SI‖En‖International Standard on Assurance Engagements‖
 Z‖isbn‖SI‖En‖ISBN‖
 Z*‖isbn/‖SI‖En‖International Standard Book Number‖https://en.wikipedia.org/wiki/ISBN
+Z‖isdn‖SI‖En‖ISDN‖
+*Z‖isdn/‖SI‖En‖Integrated Services Digital Network‖
 Z‖isis‖SI‖En‖ISIS‖
 *Z‖isis/‖SI‖En‖Islamic State of Iraq and Syria‖
 Z‖ism‖SI‖En‖ISM‖
@@ -592,6 +607,8 @@ Z‖iso‖SI‖En‖ISO‖
 Z*‖iso/‖SI‖En‖International Standard Organisation‖
 Z‖isp‖SI‖En‖ISP‖
 Z*‖isp/‖SI‖En‖Internet Service Provider‖
+C1Z‖isr‖SI‖En‖ISR‖
+*C1Z‖isr/‖SI‖En‖Interrupt Service Routine‖
 Z‖isv‖SI‖En‖ISV‖
 *Z‖isv/‖SI‖En‖Independent Software Vendor‖
 *Z‖it`t‖SI‖En‖IT‖
@@ -675,7 +692,7 @@ Z‖lsd‖SI‖En‖LSD‖
 Z‖lte‖SI‖En‖LTE‖
 Z*‖lte/‖SI‖En‖Long-Term Evolution‖
 Z‖ltem‖SI‖En‖LTE-M‖
-*Z‖ltem/‖SI‖En‖Long-Term Evolution Machine (Type Communication)‖
+*Z‖ltem/‖MSI‖En‖Long-Term Evolution Machine (Type Communication)¦Cat-M1‖
 Z‖lts‖SI‖En‖LTS‖
 *Z‖lts/‖SI‖En‖Long Time Support‖
 Z‖lvds‖SI‖En‖LVDS‖
@@ -770,7 +787,7 @@ Z*‖nato/‖SI‖En‖North Atlantic Treaty Organization‖
 Z‖nb-iot‖SI‖En‖NB-IoT‖
 *Z‖nb-iot/‖SI‖En‖NarrowBand Internet of Things‖
 Z‖nbiot‖SI‖En‖NB-IoT‖
-*Z‖nbiot/‖SI‖En‖NarrowBand Internet of Things‖
+*Z‖nbiot/‖MSI‖En‖NarrowBand Internet of Things¦Cat-NB1‖
 Z‖ncr‖SI‖En‖NCR‖
 Z*‖ncr/‖CL‖En‖Non Conformance Report‖
 Z‖nda‖SI‖En‖NDA‖
@@ -795,6 +812,8 @@ CZ‖ntn‖SI‖En‖NTN‖
 Z‖ntp‖SI‖En‖NTP‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖ntp/‖SI‖En‖Network Time Protocol‖
 Z‖nvm‖SI‖En‖NVM‖
+Z‖nvm‖SI‖En‖NVM‖
+*Z‖nvm/‖SI‖En‖Non-Volatile Memory‖
 *Z‖nvm/‖SI‖En‖Non-Volatile Memory‖
 Z‖nvme‖SI‖En‖NVMe‖
 *Z‖nvme/‖MSI‖En‖NVM express¦Non-Volatile Memory Host Controller Interface Specification‖
@@ -881,7 +900,7 @@ Z‖phd/‖SI‖En‖philosophiae doctor‖
 Z‖php‖SI‖En‖PHP‖
 *Z‖php/‖SI‖En‖PHP: Hypertext Preprocessor‖
 Z‖phy‖SI‖En‖PHY‖
-*Z‖phy/‖SI‖En‖Physical‖
+*Z‖phy/‖SI‖En‖Physical Layer‖
 Z‖pin‖SI‖En‖PIN‖
 Z*‖pin/‖SI‖En‖Personal Identification Number‖
 Z‖pit‖SI‖En‖PIT‖
@@ -1014,6 +1033,8 @@ Z‖rpm‖SI‖En‖RPM‖
 *Z‖rpm/‖SI‖En‖Rotation Per Minute‖
 Z‖rpu‖SI‖En‖RPU‖"peszel"
 Z*‖rpu/‖SI‖En‖Reinforced Polyurethane Hose‖
+CZ‖rrc‖SI‖En‖RRC‖
+*CZ‖rrc/‖SI‖En‖Radio Resource Control‖
 Z‖rsa‖SI‖En‖RSA‖https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 Z*‖rsa/‖MSI‖En‖Rivest–Shamir–Adleman¦a public-key cryptosystem that is widely used for secure data transmission‖
 Z‖rsi‖SI‖En‖RSI‖
@@ -1106,7 +1127,7 @@ Z‖sodimm‖SI‖En‖SODIMM‖
 *Z‖sodimm/‖SI‖En‖Small Outline Dual In-line Memory Module‖
 Z‖softap‖SI‖En‖SoftAP‖
 *Z‖softap/‖SI‖En‖Software-enabled Access Point‖
-Z‖SOM‖SI‖En‖SoM‖
+Z‖som‖SI‖En‖SoM‖
 *Z‖som/‖SI‖En‖System on Module‖
 Z‖sos‖SI‖En‖SOS‖
 *Z‖sos/‖SI‖En‖Morse code distress signal (  ▄ ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄ ▄ )‖
@@ -1200,6 +1221,8 @@ Z‖tsi‖SI‖En‖TSI‖
 Z*‖tsi/‖MCL‖En‖Technical Specifications for Interoperability¦„techniczne specyfikacje interoperacyjności” (TSI) oznaczają specyfikacje przyjęte zgodnie z niniejszą dyrektywą, obejmujące każdy z podsystemów lub część podsystemu celem spełnienia zasadniczych wymagań oraz zapewnienia interoperacyjności systemu kolei Unii [ŹRÓDŁO: Dyrektywa (UE) 2016/797, art. 2, 11)]‖
 Z‖ttl‖SI‖En‖TTL‖
 *Z‖ttl/‖SI‖En‖Time-To-Live‖
+Z‖twi‖SI‖En‖TWI‖
+*Z‖twi/‖SI‖En‖Two Wire Interface‖
 Z‖u2f‖SI‖En‖U2F‖https://en.wikipedia.org/wiki/Universal_2nd_Factor
 Z*‖u2f/‖SI‖En‖Universal 2nd Factor‖
 Z‖uac‖SI‖En‖UAC‖
@@ -1244,6 +1267,10 @@ Z‖unc‖SI‖En‖UNC‖
 *Z‖unc/‖SI‖En‖Universal Naming Convention‖https://en.wikipedia.org/wiki/Path_(computing)#Universal_Naming_Convention
 Z‖unicef‖SI‖En‖UNICEF‖
 *Z‖unicef/‖SI‖En‖United Nations International Children's Emergency Fund‖
+Z‖unife‖SI‖En‖UNIFE‖
+*Z‖unife/‖SI‖En‖fr. UNion des Industries Ferroviaires Européenes, eng. European Rail Supply Association‖
+Z‖upcs‖SI‖En‖UPCS‖
+*Z‖upcs/‖SI‖En‖Unlicensed Personal Communications Services‖
 Z‖ups‖SI‖En‖UPS‖
 *Z‖ups/‖MSI‖En‖Uninterruptable Power Supply¦zasilacz awaryjny‖
 Z‖uri‖SI‖En‖URI‖

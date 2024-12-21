@@ -64,11 +64,14 @@ Z‖bmw‖CL‖En‖BMW‖
 *Z‖broadcom‖SI‖En‖Broadcom‖
 Z*‖canon‖MSI‖En‖Canon¦canon‖
 *Z‖castorama‖SI‖En‖Castorama‖only for extensions
+Z‖cbs‖SI‖En‖CBS‖
+Z‖cbs/‖SI‖En‖CBS Boradcasting Inc.‖
 Z‖cenelec‖SI‖En‖CENELEC‖
 *Z‖cenelec/‖MSI‖En‖Comité Européen de Normalisation Électrotechnique¦European Committee for Electrotechnical Standardization‖https://www.cenelec.eu/
 Z‖ces‖SI‖En‖CES‖
 *Z‖ces/‖SI‖En‖Consumer Electronics Show‖
 Z‖chatgpt‖SI‖En‖ChatGPT‖
+*Z‖cmake‖SI‖En‖CMake‖
 *Z‖cocacola‖SI‖En‖Coca-Cola‖
 *Z‖convertkit‖SI‖En‖ConvertKit‖
 *Z‖cpanel‖SI‖En‖cPanel‖
@@ -275,7 +278,7 @@ Z*‖s49‖CL‖En‖S49‖
 *Z‖samsung‖SI‖En‖Samsung‖
 Z*‖santander‖SI‖En‖Santander‖
 Z‖sap‖CL‖En‖SAP‖enterprise software to manage business operations and customer
-ZC‖seat‖SI‖En‖Seat‖
+*CZ‖seat‖SI‖En‖Seat‖
 *Z‖segger‖SI‖En‖SEGGER‖
 *Z‖selgros‖SI‖En‖Selgros‖
 Z*‖sharepoint‖CL‖En‖Sharepoint‖
@@ -316,6 +319,7 @@ Z‖unesco‖SI‖En‖UNESCO‖
 *Z‖unesco/‖SI‖En‖United Nations Educational, Scientific and Cultural Organization‖
 Z*‖unicode‖SI‖En‖Unicode‖
 ZC‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
+Z‖unix‖SI‖En‖Unix‖
 *Z‖usba‖SI‖En‖USB-A‖
 *Z‖usbc‖SI‖En‖USB-C‖
 Z‖vesa‖SI‖En‖VESA‖

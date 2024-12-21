@@ -31,6 +31,7 @@ Z*‖approx/‖CL‖En‖≈‖
 *Z‖arrows/‖MSI‖En‖↕¦↖¦↗¦↘¦↙¦↩¦↪‖
 *Z‖arrowsdouble/‖MSI‖En‖⇐¦⇑¦⇒¦⇓¦⇔¦⇕‖
 *Z‖arrowswhite/‖MSI‖En‖⇦¦⇧¦⇨¦⇩¦⇳‖
+*CZ‖belongsto‖SI‖En‖∈‖
 Z*‖bullets/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 Z*‖cent/‖SI‖En‖¢‖U+00A2
 Z‖dbi‖SI‖En‖dBi‖
@@ -44,6 +45,8 @@ Z*‖diameter/‖SI‖En‖Ø‖U+00D8
 *Z‖div/‖SI‖En‖÷‖
 *Z‖divisionsign/‖SI‖En‖÷‖
 *Z‖dps/‖SI‖En‖degrees per second‖
+*CZ‖elementof‖SI‖En‖∈‖
+*CZ‖emptyset‖SI‖En‖∅‖
 Z*‖euro/‖CL‖En‖€‖
 *Z‖exists/‖SI‖En‖∃‖
 Z*‖exponent/‖MSI‖En‖¹¦²¦³¦⁴¦⁵¦⁶¦⁷‖U+00B2 | U+00B3 | U+2074 | U+2075 | U+2076 | U+2077
@@ -87,8 +90,11 @@ Z*‖mniejszyrowny‖CL‖En‖≤‖
 Z*‖mniejszyrówny‖CL‖En‖≤‖
 Z*‖ms2‖SI‖En‖m/s²‖
 *Z‖multiply/‖MSI‖En‖·¦×‖U+00B7 | U+00D7
+Z‖mw‖SI‖En‖mW‖
 Z‖nm‖SI‖En‖Nm‖Newton-metre
+*CZ‖notbelongto‖SI‖En‖∉‖
 *Z‖notelement/‖SI‖En‖∉‖
+*CZ‖notelementof‖SI‖En‖∉‖
 *Z‖notequal‖SI‖En‖≠‖
 *Z‖notin/‖SI‖En‖∉‖
 Z*‖oddo‖CL‖En‖÷‖
