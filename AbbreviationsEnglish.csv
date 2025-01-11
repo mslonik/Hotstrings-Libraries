@@ -93,6 +93,8 @@ Z*‖ascii/‖SI‖En‖American Standard Code for Information Interchange‖htt
 Z*‖asciiart/‖SI‖En‖https://asciiart.website/index.php?art=holiday/christmas/trees‖https://en.wikipedia.org/wiki/Break-even_(economics)#Construction
 Z‖asic‖SI‖En‖ASIC‖
 *Z‖asic/‖SI‖En‖Application Specific Integrated Circuit‖
+Z‖asil‖SI‖En‖ASIL‖
+*Z‖asil/‖SI‖En‖Automotive Safety Integrity Level‖
 Z‖asmr‖SI‖En‖ASMR‖
 *Z‖asmr/‖SI‖En‖Autonomous Sensory Meridian Response‖https://en.wikipedia.org/wiki/ASMR
 Z‖asp.net‖SI‖En‖ASP.NET‖
@@ -517,7 +519,7 @@ Z*‖hart/‖CL‖En‖Highway Addressable Remote Transducer Protocol‖
 Z‖hci‖SI‖En‖HCI‖
 *Z‖hci/‖SI‖En‖Host Controller Interface‖
 Z‖hdl‖SI‖En‖HDL‖
-*Z‖hdl/‖SI‖En‖Hardware Description Language‖
+*Z‖hdl/‖MSI‖En‖Hardware Description Language¦High-Density Lipoprotein‖
 Z‖hdmi‖SI‖En‖HDMI‖
 Z*‖hdmi/‖CL‖En‖High-Definition Multimedia Interface‖
 Z‖hid‖SI‖En‖HID‖
@@ -654,6 +656,8 @@ Z‖lcd‖SI‖En‖LCD‖
 Z*‖lcd/‖SI‖En‖Liquid Cristal Display‖
 Z‖ldap‖SI‖En‖LDAP‖
 *Z‖ldap/‖SI‖En‖Lightweight Directory Access Protocol‖
+Z‖ldl‖SI‖En‖LDL‖
+*Z‖ldl/‖SI‖En‖Low-Density Lipoprotein‖
 Z‖ldo‖SI‖En‖LDO‖
 *Z‖ldo/‖MSI‖En‖Low Dropout Regulator¦can be used to provide a stable power supply to the sensor and other components, regardless of fluctuations in the input power1. This can help to ensure accurate and reliable sensor readings.‖
 CZ‖le‖SI‖En‖LE‖
@@ -805,6 +809,7 @@ Z‖nlp‖SI‖En‖NLP‖
 Z‖nobo‖SI‖En‖NoBo‖
 Z*‖nobo/‖SI‖En‖Notified Body‖
 *Z‖nosql‖SI‖En‖NoSQL‖
+*Z‖npm/‖SI‖En‖Node Package Manager‖
 Z‖nrem‖SI‖En‖NREM‖
 *Z‖nrem/‖SI‖En‖Non-Rapid Eye Movement‖
 CZ‖ntn‖SI‖En‖NTN‖
@@ -1332,7 +1337,7 @@ Z*‖vps/‖SI‖En‖Virtual Private Server‖
 Z‖vr‖CL‖En‖VR‖
 Z*‖vr/‖CL‖En‖Virtual Reality‖Visual Studio Code
 Z‖vsc‖SI‖En‖VSC‖Visual Studio Code
-Z*‖vsc/‖SI‖En‖Visual Studio Code‖
+*Z‖vsc/‖MSI‖En‖Visual Studio Code¦VS Code‖
 Z‖vtol‖SI‖En‖VTOL‖
 *Z‖vtol/‖SI‖En‖Vertical Take-Off and Landing‖
 CZ‖wan‖SI‖En‖WAN‖

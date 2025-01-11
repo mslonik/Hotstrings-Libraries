@@ -78,6 +78,8 @@ Z‖chatgpt‖SI‖En‖ChatGPT‖
 *Z‖cr1632‖SI‖En‖CR1632‖
 *Z‖cr2032‖SI‖En‖CR2032‖https://en.wikipedia.org/wiki/Button_cell
 *Z‖csharp‖SI‖En‖C{#}‖
+Z‖cuda‖SI‖En‖CUDA‖
+*Z‖cuda/‖SI‖En‖Compute Unified Device Architecture‖
 *Z‖dalle‖SI‖En‖DALL-E‖
 Z‖damit‖SI‖En‖DamIT‖
 Z‖darpa‖SI‖En‖DARPA‖
@@ -94,7 +96,8 @@ Z‖decathlon‖SI‖En‖DECATHLON‖
 *Z‖displayport‖SI‖En‖DisplayPort‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
 Z‖dkms‖SI‖En‖DKMS‖
-*Z‖drawio‖SI‖En‖diagrams.net (former name: draw.io)‖
+Z‖drawio‖SI‖En‖diagrams.net (former name: draw.io)‖
+*Z‖drawio/‖MSI‖En‖diagrams.net (former name: draw.io)¦https://www.drawio.com/¦https://app.diagrams.net/¦manual: https://www.drawio.com/doc/‖
 *Z‖dremel‖SI‖En‖Dremel‖
 Z‖ea‖SI‖En‖EA‖https://en.wikipedia.org/wiki/ArchiMate
 Z‖ecb‖SI‖En‖ECB‖
@@ -109,6 +112,8 @@ Z‖esa‖SI‖En‖ESA‖
 Z*‖ethernet‖SI‖En‖Ethernet‖
 Z‖euicc‖SI‖En‖eUICC‖
 *Z‖euicc/‖SI‖En‖embedded Universal Integrated Circuit Card‖
+Z‖excalidraw‖SI‖En‖Excalidraw‖
+*Z‖excalidraw/‖MSI‖En‖https://excalidraw.com/¦https://github.com/excalidraw/excalidraw‖
 Z‖excel‖SI‖En‖Excel‖
 Z*‖facebook‖SI‖En‖Facebook‖
 Z‖fcc‖SI‖En‖FCC‖
@@ -123,9 +128,11 @@ Z‖gbp‖SI‖En‖GBP‖
 *Z‖gbp/‖SI‖En‖£‖
 Z‖gcf‖SI‖En‖GCF‖
 *Z‖gcf/‖SI‖En‖Global Certification Forum‖
+*Z‖geforce‖SI‖En‖GeForce‖
 *Z‖gemini‖SI‖En‖Gemini‖
 Z‖git‖SI‖En‖Git‖
-Z*‖github‖SI‖En‖GitHub‖
+Z‖github‖SI‖En‖GitHub‖
+*Z‖github/‖SI‖En‖https://github.com/‖
 *Z‖gitlab‖SI‖En‖GitLab‖
 Z‖google‖SI‖En‖Google‖
 *Z‖googlemail‖CL‖En‖https://mail.google.com/mail/u/0/#inbox‖
@@ -133,6 +140,8 @@ Z*‖gopro‖SI‖En‖GoPro‖
 *Z‖grafana‖SI‖En‖Grafana‖
 Z‖graphql‖SI‖En‖GraphQL‖
 *Z‖graphql/‖SI‖En‖open-source data query and manipulation language for APIs and query runtime engine‖https://en.wikipedia.org/wiki/GraphQL
+Z‖graphviz‖SI‖En‖Graphviz‖
+*Z‖graphviz/‖MSI‖En‖https://graphviz.org/¦sandbox: https://magjac.com/graphviz-visual-editor/¦examples: https://graphs.grevian.org/example¦manual: https://graphviz.org/pdf/dotguide.pdf‖
 *Z‖grycan‖SI‖En‖Grycan‖
 CZ‖gsa‖SI‖En‖GSA‖
 *CZ‖gsa/‖MSI‖En‖Global Mobile Suppliers Association¦https://gsacom.com/‖
@@ -140,6 +149,7 @@ CZ‖gsa‖SI‖En‖GSA‖
 Z*‖hbo‖SI‖En‖HBO‖
 Z‖hbr‖SI‖En‖HBR‖
 *Z‖hbr/‖SI‖En‖Harvard Business Review‖
+*Z‖hendi‖SI‖En‖Hendi‖
 *Z‖hezbollah‖SI‖En‖Hezbollah‖
 *Z‖huawei‖SI‖En‖Huawei‖
 Z‖huel‖SI‖En‖Huel‖
@@ -152,6 +162,8 @@ Z‖ietf‖SI‖En‖IETF‖
 *Z‖ietf/‖SI‖En‖Internet Engineering Task Force‖
 Z‖ihs‖SI‖En‖IHS‖
 Z*‖ikea‖SI‖En‖IKEA‖
+Z‖ilograph‖SI‖En‖Ilograph‖
+*Z‖ilograph/‖MSI‖En‖https://www.ilograph.com/¦sandbox: https://app.ilograph.com/demo.ilograph.Ilograph/Request¦manual: https://www.ilograph.com/docs/index.html‖
 Z‖incose‖SI‖En‖INCOSE‖
 *Z‖incose/‖SI‖En‖International Council on System Engineering‖
 Z‖inemo‖SI‖En‖iNEMO‖
@@ -201,6 +213,7 @@ Z‖markdown‖SI‖En‖Markdown‖
 Z‖mcu‖SI‖En‖MCU‖
 *Z‖mcu/‖SI‖En‖Micro Controller Unit‖
 Z*‖medicover‖SI‖En‖Medicover‖
+*Z‖mermaidjs/‖MSI‖En‖https://mermaid.js.org/¦sandbox: https://mermaid.live/edit¦manual: https://mermaid.js.org/ecosystem/tutorials.html‖
 *Z‖micropython‖SI‖En‖MicroPython‖
 Z*‖microsoft‖SI‖En‖Microsoft‖
 Z‖mioty‖SI‖En‖MIoTy‖
@@ -222,6 +235,7 @@ ZC‖netflix‖SI‖En‖Netflix‖
 *Z‖nintendo‖SI‖En‖Nintendo‖
 Z‖nist‖SI‖En‖NIST‖
 *Z‖nist/‖SI‖En‖National Institute of Standards and Technology‖
+*Z‖nodejs‖SI‖En‖Node.js‖
 *Z‖nokia‖SI‖En‖Nokia‖
 Z‖notepad++‖SI‖En‖Notepad{+}{+}‖
 Z‖nsis‖SI‖En‖NSIS‖
@@ -247,7 +261,8 @@ Z‖owasp‖SI‖En‖OWASP‖
 *Z‖pepsi‖SI‖En‖Pepsi‖
 *Z‖peugeot‖SI‖En‖Peugeot‖
 Z‖philips‖SI‖En‖Philips‖
-*Z‖plantuml‖SI‖En‖PlantUML‖
+Z‖plantuml‖SI‖En‖PlantUML‖
+*Z‖plantuml/‖MSI‖En‖https://plantuml.com/¦sandbox: https://editor.plantuml.com/uml/¦manual: https://plantuml.com/guide‖
 *Z‖playstation‖SI‖En‖PlayStation‖
 *Z‖polufka‖MSI‖En‖Polufka¦Polufka, ul. Leczkowa 18 wejście od bramy przy DS7`n80-432 Gdańsk-Wrzeszcz‖
 *Z‖postgresql‖SI‖En‖PostgreSQL‖
@@ -278,6 +293,7 @@ Z‖restful‖SI‖En‖RESTful‖
 *Z‖roswera‖SI‖En‖Roswera‖
 Z*‖rs232‖CL‖En‖RS232‖
 Z*‖rs485‖CL‖En‖RS485‖
+*Z‖rutinacea‖SI‖En‖Rutinacea‖
 Z*‖s49‖CL‖En‖S49‖
 *Z‖samsung‖SI‖En‖Samsung‖
 Z*‖santander‖SI‖En‖Santander‖
@@ -302,16 +318,18 @@ Z*‖sp/‖SI‖En‖Sharepoint‖
 *Z‖spotify‖SI‖En‖Spotify‖
 Z*‖strava‖SI‖En‖Strava‖
 Z‖structurizr‖SI‖En‖Structurizr‖
-*Z‖structurizr/‖MSI‖En‖Structurizr DSL¦Structurizr Domain-Specific Language¦https://structurizr.com/dsl¦https://docs.structurizr.com/quickstart‖
+*Z‖structurizr/‖MSI‖En‖Structurizr DSL¦Structurizr Domain-Specific Language¦https://structurizr.com/dsl¦sandbox: https://structurizr.com/dsl¦manual: https://docs.structurizr.com/quickstart‖
 *Z‖suzuki‖SI‖En‖Suzuki‖
 Z‖svn‖SI‖En‖SVN‖
 *Z‖svn/‖CL‖En‖versioning and revision control system‖
 Z*‖tales‖SI‖En‖Thales‖
 Z*‖thales‖SI‖En‖Thales‖
 *Z‖thinkpad‖SI‖En‖ThinkPad‖
+*Z‖tiktok‖SI‖En‖TikTok‖
 *Z‖timescaledb‖SI‖En‖TimescaleDB‖
 *Z‖tinymce‖SI‖En‖TinyMCE‖
 *Z‖toshiba‖SI‖En‖Toshiba‖
+*Z‖toyota‖SI‖En‖Toyota‖
 Z‖trello‖SI‖En‖Trello‖
 Z‖tsn‖SI‖En‖TSN‖
 *Z‖tsn/‖SI‖En‖Time Sensitive Networking‖
@@ -343,7 +361,8 @@ Z*?‖whatsapp‖SI‖En‖WhatsApp‖
 Z*‖wikipedia‖SI‖En‖Wikipedia‖
 Z*‖windows‖MSI‖En‖Windows¦windows‖
 *Z‖xbox‖SI‖En‖Xbox‖
-*Z‖youtube‖SI‖En‖YouTube‖
+Z‖youtube‖SI‖En‖YouTube‖
+*Z‖youtube/‖SI‖En‖https://www.youtube.‖
 *CZ‖yt/‖CL‖En‖YouTube‖
 Z‖ytd‖CL‖En‖YTD‖
 ZC‖ytd/‖CL‖En‖Year To Date‖
