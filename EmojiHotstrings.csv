@@ -34,7 +34,9 @@ Z*‖ad2res2/‖SI‖En‖✉‖
 Z*‖alcohol/‖SI‖En‖🍾🥃🍷🍸🍺‖U+1F376 | U+1F943 | U+1F377 | U+1F378 | U+1F37A
 Z*‖ambulance/‖SI‖En‖🚑‖{U+1F691}
 *Z‖ant/‖SI‖En‖🐜‖
+*Z‖antenna/‖SI‖En‖📡‖
 *Z‖apple/‖MSI‖En‖🍎¦🍏‖
+*Z‖axe/‖SI‖En‖🪓‖
 *Z‖banana/‖SI‖En‖🍌‖
 *Z‖bat/‖SI‖En‖🦇‖
 *Z‖bath/‖SI‖En‖🛀🛁‖
@@ -46,6 +48,7 @@ Z*‖bicycle/‖MSI‖En‖🚲¦🚴¦🚵¦🚳‖
 *Z‖blackrectangle‖SI‖En‖▬‖
 *Z‖blood/‖SI‖En‖🩸‖
 *Z‖blow/‖SI‖En‖💨‖
+*Z‖bomb/‖SI‖En‖💣‖
 *Z‖bone/‖SI‖En‖🦴‖
 *Z‖book/‖MSI‖En‖📚¦📕¦📖‖
 Z*‖box/‖SI‖En‖☐‖
@@ -66,6 +69,7 @@ Z*‖car/‖SI‖En‖🚙‖U+1F699
 Z*‖cars/‖SI‖En‖🚙🚐🚕🚑🚐🚗🚛🚚‖
 Z*‖cat/‖CL‖En‖🐈‖
 *CZ‖celebrate`n‖SI‖En‖🎉🍾🥂‖
+*Z‖chain/‖SI‖En‖⛓⛓️‍💥‖
 *Z‖chair/‖SI‖En‖🪑‖
 Z*‖chat/‖SI‖En‖🗪‖
 *Z‖checkbox/‖SI‖En‖▢‖
@@ -76,6 +80,7 @@ Z*‖christmas/‖MCL‖En‖Christmas¦🎄¦🎅🧦⛄❄🎄🎁🍪🌟¦__
 *Z‖circle/‖MSI‖En‖◯¦∘‖U+25EF
 *Z‖circledi/‖SI‖En‖ⓘ‖
 *Z‖circlei/‖SI‖En‖ⓘ‖
+*Z‖clamp/‖SI‖En‖🗜‖
 *Z‖clapping/‖SI‖En‖👏‖
 *Z‖clean/‖SI‖En‖🧹🧼🧽‖
 *Z‖clipboard/‖SI‖En‖📋‖
@@ -94,12 +99,16 @@ Z*‖comment/‖SI‖En‖🗫‖U+1F5EB
 *Z‖count/‖SI‖En‖🧮‖
 *Z‖courage/‖SI‖En‖🦁‖
 Z*‖cow/‖SI‖En‖🐄‖
+*Z‖crayon/‖SI‖En‖🖍‖
 *Z‖cry/‖SI‖En‖😢‖
 Z*‖def/‖SI‖En‖≝‖U+225D
+*Z‖dig/‖SI‖En‖🪏‖
 *CZ‖dinner/‖MSI‖En‖🍽¦🍴🍱‖
+*Z‖document/‖SI‖En‖🗎‖
 Z*‖dog/‖SI‖En‖🐕‖U+1F415
 *Z‖dragon/‖SI‖En‖🐉‖
 *Z‖duck/‖SI‖En‖🦆‖
+*Z‖dynamite/‖SI‖En‖🧨‖https://en.wikipedia.org/wiki/WebAssembly
 *Z‖eagle/‖SI‖En‖🦅‖
 *Z‖ear/‖SI‖En‖👂‖
 *CZ‖easter/‖SI‖En‖🙏🕆🐏🐰🥚🌱💦🔔⛪⸙🌿🍰🍫🐇🐣‖
@@ -107,6 +116,8 @@ Z*‖dog/‖SI‖En‖🐕‖U+1F415
 Z*‖elephant/‖SI‖En‖🐘‖U+1F418
 Z*‖email/‖SI‖En‖{BackSpace}📧‖
 *Z‖empower/‖SI‖En‖💪‖
+*Z‖explosion/‖MSI‖En‖💥¦🧨¦🧨💥‖https://en.wikipedia.org/wiki/WebAssembly
+*Z‖explosive/‖SI‖En‖🧨‖https://en.wikipedia.org/wiki/WebAssembly
 *Z‖eyes/‖SI‖En‖👀‖
 *Z‖facecry/‖SI‖En‖😢‖
 *Z‖facemask/‖SI‖En‖😷‖
@@ -127,6 +138,7 @@ Z*‖flower/‖SI‖En‖🌷‖
 Z*‖flowers/‖SI‖En‖💐: 🌹🍀🌻🌺🌸‖
 *Z‖fly/‖SI‖En‖🪰‖
 *Z‖fog/‖SI‖En‖🌫‖
+*Z‖folder/‖SI‖En‖🗀‖
 *Z‖food/‖MSI‖En‖🥫¦🍲¦🥘¦🥡¦🍛¦🥫🍲🥘🥡🍛‖
 *Z‖foot/‖SI‖En‖🦶‖
 *Z‖force/‖SI‖En‖💪‖
@@ -137,6 +149,7 @@ Z*‖flowers/‖SI‖En‖💐: 🌹🍀🌻🌺🌸‖
 *Z‖ghost/‖SI‖En‖👻‖
 *Z‖guitar/‖SI‖En‖🎸‖
 *Z‖halloween/‖SI‖En‖🎃😨😱😈☠👻🧙🧛🧟🦇🦉🕷🕸🍬🍭🔮🕯⚰‖
+*Z‖hammer/‖SI‖En‖🔨‖
 *Z‖handshake/‖SI‖En‖🤝‖
 Z*‖handup/‖SI‖En‖✋‖
 *Z‖handwave/‖SI‖En‖👋‖
@@ -163,7 +176,7 @@ Z*‖hospital/‖SI‖En‖🏥‖{U+1F3E5}
 *Z‖ill/‖SI‖En‖🤒‖
 *Z‖issue/‖SI‖En‖💬‖
 *Z‖jar/‖SI‖En‖jar/‖
-Z‖key/‖SI‖En‖🔑‖
+Z‖key/‖MSI‖En‖🔑¦🗝‖
 Z*‖keyboard/‖SI‖En‖🖮‖
 *Z‖kiss/‖SI‖En‖😗‖
 *Z‖ladder/‖SI‖En‖🪜‖
@@ -171,7 +184,10 @@ Z*‖keyboard/‖SI‖En‖🖮‖
 *Z‖ledger/‖SI‖En‖📒‖
 *Z‖leg/‖SI‖En‖🦵‖
 *CZ‖lightning/‖SI‖En‖⚡‖https://en.wikipedia.org/wiki/Design_Web_Format
+*Z‖link/‖SI‖En‖🔗‖
 *Z‖lion/‖SI‖En‖🦁‖
+*Z‖lock/‖SI‖En‖🔐‖
+*Z‖locked/‖SI‖En‖🔒‖
 *Z‖lollipop/‖SI‖En‖🍭‖
 *Z‖magic/‖SI‖En‖🪄‖
 *Z‖magicwand/‖SI‖En‖🪄‖
@@ -180,9 +196,11 @@ Z*‖male/‖SI‖En‖{U+2642}‖
 *Z‖man/‖SI‖En‖🚹🛉‖
 *Z‖math/‖SI‖En‖🧮‖
 *Z‖mathematics/‖SI‖En‖🧮‖
+*Z‖maximize/‖SI‖En‖🗖‖
 *CZ‖meal/‖MSI‖En‖🍽¦🍴🍱‖
 *Z‖mermaid/‖SI‖En‖🧜‍♀️‖
 *Z‖milk/‖SI‖En‖🥛‖
+*Z‖minimize/‖SI‖En‖🗕‖
 *Z‖mobilephone/‖SI‖En‖📱‖
 *Z‖money/‖SI‖En‖💰‖
 *Z‖moneywithwings/‖SI‖En‖💸‖
@@ -193,6 +211,7 @@ Z*‖male/‖SI‖En‖{U+2642}‖
 Z*‖mouse/‖SI‖En‖🖱‖
 *Z‖mouse`t‖SI‖En‖🐁‖
 *Z‖music/‖SI‖En‖🎼🎜🎝🎶🎻🎺🎷‖
+*Z‖nest/‖SI‖En‖🪹‖
 Z*‖network/‖SI‖En‖🖧‖
 Z*‖new/‖SI‖En‖🆕‖U+1F195
 *Z‖newyear/‖SI‖En‖🕛❶🥂🎊🎇🎆🎉✨🍷‖
@@ -201,18 +220,24 @@ Z*‖next/‖SI‖En‖⟳‖U+27F3
 Z*‖nok/‖CL‖En‖👎‖
 Z*‖notebo2k‖SI‖En‖💻‖
 *Z‖notebook/‖SI‖En‖📓‖
+*Z‖notepage/‖SI‖En‖🗉‖
 *Z‖octopus/‖SI‖En‖🐙‖
 *Z‖office/‖SI‖En‖🏢‖U+1F3E2
 *Z‖officework/‖SI‖En‖🗞🗟🗠‖
 Z*‖ok/‖CL‖En‖👍‖
 Z*‖ops/‖SI‖En‖¯\_(ツ)_/¯‖
 *Z‖otter/‖SI‖En‖🦦‖
+*Z‖overlap/‖SI‖En‖🗗‖
 *Z‖owl/‖SI‖En‖🦉‖
 Z*‖package/‖SI‖En‖📦‖U+1F4E6
+*Z‖page/‖SI‖En‖🗏‖
+*Z‖paintbrush/‖SI‖En‖🖌‖
 *Z‖parrot/‖SI‖En‖🦜‖
 *Z‖pc/‖MSI‖En‖🖥¦Personal Computer‖
 *Z‖peacock/‖SI‖En‖🦚‖
 *Z‖pedestrian/‖SI‖En‖🚶‖
+*Z‖pen/‖SI‖En‖🖊‖
+*Z‖pencil/‖SI‖En‖✏‖
 *Z‖penguin/‖SI‖En‖🐧‖
 *Z‖people/‖SI‖En‖👥🚻🚼🚶‖
 Z*‖phone/‖SI‖En‖☏‖
@@ -245,8 +270,13 @@ Z*‖runner/‖SI‖En‖🏃‖
 Z*‖sad/‖SI‖En‖😞‖
 *Z‖sailboat/‖SI‖En‖⛵‖
 *Z‖salt/‖SI‖En‖🧂‖
+*Z‖salute/‖SI‖En‖🫡‖
+*Z‖saw/‖SI‖En‖🪚‖
+*Z‖science/‖SI‖En‖📡‖
 *Z‖scooter/‖SI‖En‖🛴‖
 *Z‖screen/‖SI‖En‖🖵‖
+*Z‖screw/‖SI‖En‖🔩‖
+*Z‖screwdriver/‖SI‖En‖🪛‖
 *Z‖see/‖SI‖En‖👀‖
 *Z‖selfie/‖SI‖En‖🤳‖
 *Z‖sheep/‖SI‖En‖🐑‖
@@ -258,6 +288,7 @@ Z*‖sad/‖SI‖En‖😞‖
 *Z‖shoe/‖SI‖En‖👞👟‖
 *Z‖shop/‖SI‖En‖🛒‖
 *Z‖shopping/‖SI‖En‖🛒‖
+*Z‖shovel/‖SI‖En‖🪏‖
 Z*C‖shower/‖SI‖En‖🚿‖
 *Z‖skull/‖MSI‖En‖💀¦☠‖
 *Z‖sleep/‖SI‖En‖😴 🛌 💤‖
@@ -293,6 +324,7 @@ Z*‖tank/‖CL‖En‖░░░░░███████ ]▄▄▄▄▄▄ 
 *Z‖thermometer/‖SI‖En‖🌡‖
 *Z‖think/‖SI‖En‖🧠‖
 *Z‖thinking/‖SI‖En‖🤔‖
+*Z‖thrash/‖SI‖En‖🗑‖
 *Z‖ticket/‖SI‖En‖🎫‖
 Z*‖tiger/‖SI‖En‖🐅‖
 Z*‖time/‖SI‖Dis‖⌚‖{U+231A}
@@ -307,6 +339,7 @@ Z*‖train/‖SI‖En‖🚅‖
 *Z‖turkey/‖SI‖En‖🦃‖
 *Z‖ufo/‖MSI‖En‖🛸¦Unidentified Flying Object‖
 *Z‖umbrella/‖MSI‖En‖☔¦☂¦🌂¦🏖¦⛱‖
+*Z‖UNlocked/‖SI‖En‖🔓‖
 *Z‖vampire/‖SI‖En‖🧛‖
 *Z‖video/‖SI‖En‖📹‖
 *Z‖vomit/‖MSI‖En‖🤢¦🤮‖
@@ -325,5 +358,6 @@ Z*C‖wink/‖SI‖En‖😉‖
 *Z‖wolf/‖SI‖En‖🐺‖
 *Z‖woman/‖SI‖En‖🚺🛊‖
 *Z‖world/‖MSI‖En‖🗺¦🌐¦🌍¦🌏¦🌎¦🗺🌐🌍🌏🌎‖
+*Z‖wrench/‖SI‖En‖🔧‖
 Z*‖write/‖SI‖En‖✍‖U+270D
 *Z‖zombie/‖SI‖En‖🧟‖

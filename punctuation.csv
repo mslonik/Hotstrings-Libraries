@@ -15,9 +15,12 @@ Z*‖"/‖MSI‖En‖„”{left}¦“”{left}¦«»{left}¦""{left}‖Polish, 
 *Z‖-- ‖SI‖En‖— `‖
 Z*?‖...‖SI‖En‖…‖Horizontal Ellipsis {U+2026}
 *Z‖./‖SI‖En‖. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .‖
+*Z‖1cm/‖SI‖En‖28.3464566929 pt‖
+*Z‖1mm/‖SI‖En‖2.8346456693 pt‖
+*Z‖1pt/‖MSI‖En‖0.3527777778 millimeters (mm)¦0.0352777778 centimeters (cm)‖
 *Z‖5xspace‖SI‖En‖     `‖
-*Z‖<<‖SI‖En‖≪‖
-*Z‖>>‖SI‖En‖≫‖
+*Z‖<<<‖SI‖En‖≪‖
+*Z‖>>>‖SI‖En‖≫‖
 *Z‖ast/‖SI‖En‖*‖
 Z*‖bell/‖SI‖En‖{U+0007}‖
 Z*‖cgj/‖SI‖En‖{U+034F}‖Combining Grapheme Joiner
@@ -41,6 +44,7 @@ Z*?‖nbs/‖SI‖En‖{U+00A0}‖No-Break Space
 Z*‖newline/‖SI‖En‖{U+000A}‖
 Z*?‖nobreakspace/‖SI‖En‖{U+00A0}‖No-Break Space
 Z*‖nonbreakinghyphen/‖SI‖En‖‑‖
+*Z‖pagehole‖MSI‖En‖80 mm apart, diameter 6 ±0.5 mm, 105 mm from the nearest edge (top and bottom), 12 mm from the edge of the paper¦[source: ISO 838]‖
 *Z‖paragraphsign/‖SI‖En‖§‖paragraph symbol in Microsoft Word
 Z*‖pauza/‖SI‖En‖—‖
 *Z‖pilcrow/‖SI‖En‖¶‖paragraph symbol in Microsoft Word

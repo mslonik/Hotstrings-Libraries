@@ -47,9 +47,11 @@ CZ‖aes‖SI‖En‖AES‖
 *CZ‖aes/‖SI‖En‖Advanced Encryption Standard‖
 *Z‖aes128‖SI‖En‖AES128‖
 Z*‖afaik/‖CL‖En‖as far as I know‖
+Z‖agi‖SI‖En‖AGI‖
+*Z‖agi/‖MSI‖En‖Artificial General Intelligence¦Artificial Generative Intelligence‖
 *Z‖ahk/‖MSI‖En‖AutoHotkey¦https://github.com/mslonik¦https://www.autohotkey.com/docs/AutoHotkey.htm¦https://www.autohotkey.com/boards/‖https://www.autohotkey.com/
 Z‖ai‖SI‖En‖AI‖
-*Z‖ai/‖SI‖En‖Artificial Inteligence‖
+*Z‖ai/‖SI‖En‖Artificial Intelligence‖
 Z‖aids‖SI‖En‖AIDS‖
 *Z‖aids/‖SI‖En‖Acquired Immunodeficiency Syndrome‖https://en.wikipedia.org/wiki/HIV/AIDS
 *Z‖aka/‖SI‖En‖also known as‖
@@ -120,6 +122,8 @@ Z‖bbs‖SI‖En‖BBS‖
 *Z‖bbs/‖SI‖En‖Bulletin Board System‖
 Z‖bcm‖SI‖En‖BCM‖
 *Z‖bcm/‖SI‖En‖Business Continuity Management‖
+Z‖bga‖SI‖En‖BGA‖
+Z‖bga/‖SI‖En‖Ball Grid Array‖
 Z‖bi‖SI‖En‖BI‖
 *Z‖bi/‖MSI‖En‖Basic Integrity¦Basic Integrity / SIL0‖
 Z‖bia‖SI‖En‖BIA‖
@@ -393,6 +397,8 @@ Z‖ere‖SI‖En‖ERE‖
 Z*‖ere/‖CL‖En‖Explicit Risk Estimation‖
 Z‖erp‖SI‖En‖ERP‖
 Z*‖erp/‖CL‖En‖Enterprise Resource Planning‖
+Z‖esb‖SI‖En‖ESB‖
+*Z‖esb/‖MSI‖En‖Enhanced ShockBurst¦protocol that supports two-way data packet communication, including packet buffering, packet acknowledgment, and automatic retransmission of lost packets. ESB provides radio communication with low power consumption and is designed to be small in code size and easy to use.‖
 Z‖esd‖SI‖En‖ESD‖
 *Z‖esd/‖MSI‖En‖Electro Static Discharge¦wyładowania elektrostatyczne‖
 Z‖esg‖SI‖En‖ESG‖
@@ -413,6 +419,8 @@ Z‖eula‖SI‖En‖EULA‖
 Z*‖eula/‖SI‖En‖End User License Agreement‖
 Z‖eut‖SI‖En‖EUT‖
 Z*‖eut/‖SI‖En‖Equipment Under Test‖
+Z‖evp‖SI‖En‖EVP‖
+*Z‖evp/‖SI‖En‖Executive Vice President‖
 Z‖fai‖SI‖En‖FAI‖
 Z*‖fai/‖CL‖En‖First Article Inspection‖
 Z‖faq‖SI‖En‖FAQ‖
@@ -449,6 +457,8 @@ Z‖fir‖SI‖En‖FIR‖
 *Z‖fir/‖SI‖En‖Finite Impulse Response‖
 CZ‖fkk‖SI‖En‖FKK‖
 *CZ‖fkk/‖MSI‖En‖Freikörperkultur (ger.)¦free body kulture (eng.)‖
+Z‖flpr‖SI‖En‖FLPR‖
+*Z‖flpr/‖SI‖En‖Fast Lightweight Peripheral Processor‖
 Z‖fm‖SI‖En‖FM‖
 *Z‖fm/‖SI‖En‖Frequency Modulated‖
 Z‖fmea‖SI‖En‖FMEA‖
@@ -591,6 +601,8 @@ Z‖iq‖SI‖En‖IQ‖
 Z*‖iq/‖CL‖En‖Inteligence Quotient‖
 Z‖irda‖SI‖En‖IrDA‖
 *Z‖irda/‖SI‖En‖Infrared Data Association‖
+Z‖ireb‖SI‖En‖IREB‖
+*Z‖ireb/‖SI‖En‖International Requirements Engineering Board‖
 Z‖iris‖SI‖En‖IRIS‖
 Z*‖iris/‖CL‖En‖International Railway Industry Standard for the evaluation of railway management systems‖
 Z‖isa‖SI‖En‖ISA‖
@@ -647,7 +659,7 @@ Z*‖lad/‖CL‖En‖Logistic and Administrative Delay‖
 Z‖lan‖SI‖En‖LAN‖
 Z*‖lan/‖SI‖En‖Local Area Network‖
 *Z‖laser/‖SI‖En‖Light Amplification by Stimulated Emission of Radiation‖
-Z*C‖latex‖SI‖En‖LaTeX‖
+*Z‖latex‖SI‖En‖LaTeX‖
 Z‖lca‖SI‖En‖LCA‖
 Z*‖lca/‖MSI‖En‖Life Cycle Assessment¦środowiskowa ocena cyklu życia¦Life cycle assessment or LCA (also known as life cycle analysis) is a methodology for assessing environmental impacts associated with all the stages of the life cycle of a commercial product, process, or service. For instance, in the case of a manufactured product, environmental impacts are assessed from raw material extraction and processing (cradle), through the product's manufacture, distribution and use, to the recycling or final disposal of the materials composing it (grave).¦Środowiskowa ocena cyklu życia (ang. life cycle assessment, LCA) – ocena cyklu życia. Jest to technika z zakresu procesów zarządczych, mająca na celu ocenę potencjalnych zagrożeń środowiska. Istotą tej metody jest nastawienie nie tylko na ocenę wyniku końcowego danego procesu technologicznego, ale także oszacowanie i ocena konsekwencji całego procesu dla środowiska naturalnego.‖
 Z‖lcc‖SI‖En‖LCC‖
@@ -697,6 +709,8 @@ Z‖lte‖SI‖En‖LTE‖
 Z*‖lte/‖SI‖En‖Long-Term Evolution‖
 Z‖ltem‖SI‖En‖LTE-M‖
 *Z‖ltem/‖MSI‖En‖Long-Term Evolution Machine (Type Communication)¦Cat-M1‖
+Z‖lti‖SI‖En‖LTI‖
+*Z‖lti/‖MSI‖En‖Linear Time-Invariant¦liniowo niezmiennicze w czasie¦System, który jest liniowy ze względu na wszystkie swoje argumenty (czyli elementy) w dowolnej chwili czasu.‖
 Z‖lts‖SI‖En‖LTS‖
 *Z‖lts/‖SI‖En‖Long Time Support‖
 Z‖lvds‖SI‖En‖LVDS‖
@@ -715,7 +729,7 @@ Z*‖mba/‖SI‖En‖Master of Business Administration‖
 Z‖mbe‖SI‖En‖MBE‖
 *Z‖mbe/‖SI‖En‖Model Based Engineering‖
 Z‖mbse‖SI‖En‖MBSE‖
-*Z‖mbse/‖SI‖En‖Model Based System Engineering‖
+*Z‖mbse/‖MSI‖En‖Model Based System Engineering¦notation (language) {+} methodology (of design) {+} tool (design and test environment)‖
 Z‖mbti‖SI‖En‖MBTI‖
 *Z‖mbti/‖MSI‖En‖Myers−Briggs Type Indicator¦ENTJ: extraversion (E), intuition (N), thinking (T), judgment (J)`nISFP: introversion (I), sensing (S), feeling (F), perception (P)‖
 Z‖md5‖SI‖En‖MD5‖https://en.wikipedia.org/wiki/MD5
@@ -810,6 +824,8 @@ Z‖nobo‖SI‖En‖NoBo‖
 Z*‖nobo/‖SI‖En‖Notified Body‖
 *Z‖nosql‖SI‖En‖NoSQL‖
 *Z‖npm/‖SI‖En‖Node Package Manager‖
+Z‖npu‖SI‖En‖NPU‖
+*Z‖npu/‖SI‖En‖Neural Processing Unit‖
 Z‖nrem‖SI‖En‖NREM‖
 *Z‖nrem/‖SI‖En‖Non-Rapid Eye Movement‖
 CZ‖ntn‖SI‖En‖NTN‖
@@ -898,6 +914,8 @@ Z‖pep‖SI‖En‖PEP‖
 Z‖pet`t‖SI‖En‖PET‖
 Z‖pete‖SI‖En‖PETE‖
 *Z‖pete/‖SI‖En‖PolyEthylene Terephthalate‖
+Z‖pgf‖SI‖En‖PGF‖
+*Z‖pgf/‖SI‖En‖Portable Graphic Format‖
 Z‖pgp‖SI‖En‖PGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 Z*‖pgp/‖SI‖En‖Pretty Good Privacy‖
 Z‖phd‖SI‖En‖PhD‖
@@ -1150,6 +1168,8 @@ Z‖sql‖SI‖En‖SQL‖
 Z*‖sql/‖CL‖En‖Structured Query Language‖
 Z‖srac‖SI‖En‖SRAC‖Source: 3.75 → EN 50126-1:2017 (E)
 *Z‖srac/‖MSI‖En‖Safety Related Application Condition¦Those conditions which need to be met in order for a system to be safely integrated and safely operated. Note 1 to entry: Application conditions can for example be: operational restrictions (e.g. speed limit, maximum duration of use), operational rules, maintenance restrictions (e.g. requested maintenance intervals) or environmental conditions.¦warunki zastosowania związane z bezpieczeństwem (SRAC)‖
+Z‖srgb‖SI‖En‖sRGB‖
+*Z‖srgb/‖SI‖En‖standard Red Green Blue‖
 Z‖ssh‖SI‖En‖SSH‖
 Z*‖ssh/‖MSI‖En‖Secure Shell¦a cryptographic network protocol for operating network services securely over an unsecured network‖
 Z‖ssid‖SI‖En‖SSID‖

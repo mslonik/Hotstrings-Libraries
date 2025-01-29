@@ -15,7 +15,7 @@ Z*‖ADDD/‖SI‖En‖A_DDD‖Current day of the week's abbreviation in the cur
 Z*‖ADDDD/‖SI‖En‖A_DDDD‖Current day of the week's full name in the current user's language, e.g. Sunday
 Z*‖AHour‖SI‖En‖A_Hour‖Current 2-digit hour (00-23) in 24-hour time.
 Z*‖AMDay‖SI‖En‖A_MDay‖Current 2-digit day of the month (01-31).
-Z*‖AMin‖SI‖En‖A_Min‖Current 2-digit minute (00-59).
+Z‖AMin‖SI‖En‖A_Min‖Current 2-digit minute (00-59).
 Z*‖AMMM/‖SI‖En‖A_MMM‖Current month's abbreviation in the current user's language, e.g
 Z*‖AMMMM/‖SI‖En‖A_MMMM‖Current month's full name in the current user's language, e.g. J
 *CZ‖AMon‖SI‖En‖A_Mon‖Current 2-digit month (01-12).

@@ -24,6 +24,8 @@ Z‖aardc‖SI‖En‖Adobe Acrobat Reader DC‖
 *Z‖activex‖SI‖En‖ActiveX‖
 *Z‖adif‖SI‖En‖ADIF‖
 Z‖adobe‖SI‖En‖Adobe‖
+*Z‖adobef/‖SI‖En‖Adobe FrameMaker‖
+*Z‖adober/‖SI‖En‖Adobe Acrobat Reader‖
 Z‖aem‖SI‖En‖AEM‖
 *Z‖aem/‖SI‖En‖Adobe Experience Manager‖
 *Z‖afm‖SI‖En‖Adobe Framemaker‖
@@ -34,11 +36,14 @@ ZC‖allegro‖SI‖En‖Allegro‖
 *Z‖allianz‖SI‖En‖Allianz‖
 *Z‖amazon‖SI‖En‖Amazon‖
 *Z‖ant+‖SI‖En‖ANT{+}‖https://en.wikipedia.org/wiki/ANT_(network)
+*Z‖ant`t‖SI‖En‖ANT‖
 *Z‖antplus‖SI‖En‖ANT{+}‖
 Z‖archimate‖SI‖En‖ArchiMate‖
 *Z‖archimate/‖SI‖En‖ArchiMate is an open and independent enterprise architecture modeling language to support the description, analysis and visualization of architecture within and across business domains in an unambiguous way.‖https://en.wikipedia.org/wiki/ArchiMate
 *Z‖arduino‖SI‖En‖Arduino‖
+*Z‖asciidoc‖SI‖En‖AsciiDoc‖
 *Z‖atlassian‖SI‖En‖Atlassian‖
+*Z‖atmel‖SI‖En‖Atmel‖
 *Z‖auchan‖SI‖En‖Auchan‖
 Z*‖autocad‖CL‖En‖AutoCAD‖
 Z*‖autodesk‖SI‖En‖Autodesk‖
@@ -99,6 +104,7 @@ Z‖dkms‖SI‖En‖DKMS‖
 Z‖drawio‖SI‖En‖diagrams.net (former name: draw.io)‖
 *Z‖drawio/‖MSI‖En‖diagrams.net (former name: draw.io)¦https://www.drawio.com/¦https://app.diagrams.net/¦manual: https://www.drawio.com/doc/‖
 *Z‖dremel‖SI‖En‖Dremel‖
+*Z‖dymo‖SI‖En‖Dymo‖
 Z‖ea‖SI‖En‖EA‖https://en.wikipedia.org/wiki/ArchiMate
 Z‖ecb‖SI‖En‖ECB‖
 *Z‖ecb/‖SI‖En‖European Central Bank‖
@@ -106,6 +112,7 @@ Z‖ecb‖SI‖En‖ECB‖
 *Z‖elemnt‖SI‖En‖ELEMNT‖https://en.wikipedia.org/wiki/ANT_(network)
 *Z‖elk/‖MSI‖En‖Elasticsearch Logstash Kibana¦stack of open-source tools used together to collect, process, and visualize log data from various sources.‖
 *Z‖elk`t‖SI‖En‖ELK‖
+Z‖emscripten‖SI‖En‖Emscripten‖
 Z‖esa‖SI‖En‖ESA‖
 *Z‖esa/‖SI‖En‖European Space Agency‖
 *Z‖esp32‖SI‖En‖ESP32‖
@@ -124,6 +131,7 @@ Z‖fcc‖SI‖En‖FCC‖
 Z‖fortran‖SI‖En‖Fortran‖
 ZC‖framemaker‖MSI‖En‖FrameMaker¦https://www.adobe.com/pl/products/framemaker.html‖
 *Z‖freebsd‖SI‖En‖FreeBSD‖
+*Z‖garmin‖SI‖En‖Garmin‖
 Z‖gbp‖SI‖En‖GBP‖
 *Z‖gbp/‖SI‖En‖£‖
 Z‖gcf‖SI‖En‖GCF‖
@@ -171,6 +179,7 @@ Z‖inemo‖SI‖En‖iNEMO‖
 *Z‖inkscape‖SI‖En‖Inkscape‖
 *Z‖inpost‖SI‖En‖InPost‖
 Z*‖instagram‖SI‖En‖Instagram‖
+Z‖intel‖SI‖En‖Intel‖
 Z*‖internet‖SI‖En‖Internet‖
 Z*‖ios‖SI‖En‖iOS‖"peszel"
 Z*‖iphone‖SI‖En‖iPhone‖
@@ -200,11 +209,14 @@ Z‖kroki‖SI‖En‖Kroki{!}‖
 *Z‖lenovo‖SI‖En‖Lenovo‖
 *Z‖libreoffice‖SI‖En‖LibreOffice‖
 *Z‖lidl‖SI‖En‖Lidl‖
-Z*‖linkedin‖SI‖En‖LinkedIn‖
+Z‖linkedin‖SI‖En‖LinkedIn‖
 Z*‖linux‖SI‖En‖Linux‖
+Z‖llvm‖SI‖En‖LLVM‖
+*Z‖logitech‖SI‖En‖Logitech‖
 Z‖lora‖SI‖En‖LoRa‖
 *Z‖lora/‖SI‖En‖Long Range‖
 *Z‖lorawan‖SI‖En‖LoRaWAN‖
+Z‖lua‖SI‖En‖Lua‖https://en.wikipedia.org/wiki/Lua_(programming_language)
 *Z‖lufthansa‖SI‖En‖Lufthansa‖
 Z‖m365‖SI‖En‖M365‖
 *Z‖macos‖SI‖En‖macOS‖
@@ -213,6 +225,7 @@ Z‖markdown‖SI‖En‖Markdown‖
 Z‖mcu‖SI‖En‖MCU‖
 *Z‖mcu/‖SI‖En‖Micro Controller Unit‖
 Z*‖medicover‖SI‖En‖Medicover‖
+Z‖mermaidjs‖SI‖En‖Mermaid.js‖
 *Z‖mermaidjs/‖MSI‖En‖https://mermaid.js.org/¦sandbox: https://mermaid.live/edit¦manual: https://mermaid.js.org/ecosystem/tutorials.html‖
 *Z‖micropython‖SI‖En‖MicroPython‖
 Z*‖microsoft‖SI‖En‖Microsoft‖
@@ -222,6 +235,7 @@ Z‖mipi‖SI‖En‖MIPI‖
 *Z‖mipi/‖SI‖En‖Mobile Industry Processor Interface‖
 *Z‖mongodb‖SI‖En‖MongoDB‖
 *Z‖motorola‖SI‖En‖Motorola‖
+*Z‖mozilla‖SI‖En‖Mozilla‖
 Z‖msci‖SI‖En‖MSCI‖
 *Z‖msci/‖SI‖En‖Morgan Stanley Capital International‖
 *Z‖msword‖SI‖En‖Microsoft Word‖
@@ -242,8 +256,10 @@ Z‖nsis‖SI‖En‖NSIS‖
 *Z‖nsis/‖MSI‖En‖Nullsoft Scriptable Install Service¦https://nsis.sourceforge.io/Main_Page‖
 Z‖nyse‖SI‖En‖NYSE‖
 *Z‖nyse/‖SI‖En‖New York Stock Exchange‖
+*Z‖oasis/‖SI‖En‖Organization for the Advancement of Structural Information Standards‖https://en.wikipedia.org/wiki/OASIS_(organization)
+*Z‖oasis`t‖SI‖En‖OASIS‖https://en.wikipedia.org/wiki/OASIS_(organization)
 Z‖obi‖SI‖En‖OBI‖
-Z‖obs‖MSI‖En‖OBS Studio‖
+Z‖obs‖SI‖En‖OBS Studio‖
 *Z‖obs/‖MSI‖En‖Open Broadcaster Software¦https://obsproject.com/‖
 Z‖ocx‖SI‖En‖OCX‖
 *Z‖ocx/‖SI‖En‖Open Community eXperience of Eclipse Foundation‖
@@ -251,9 +267,12 @@ Z‖ocx‖SI‖En‖OCX‖
 Z*‖onedrive‖SI‖En‖OneDrive‖
 *Z‖onenote‖SI‖En‖OneNote‖
 *Z‖openai‖SI‖En‖OpenAI‖
+Z‖openapi‖SI‖En‖OpenAPI‖
 *Z‖openjdk‖SI‖En‖OpenJDK‖
 *Z‖openpgp‖SI‖En‖OpenPGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 *Z‖openssl‖SI‖En‖OpenSSL‖
+Z‖otrs‖SI‖En‖OTRS‖
+*Z‖otrs/‖MSI‖En‖Open-Source Ticket Request System¦Znuny‖
 Z‖owasp‖SI‖En‖OWASP‖
 *Z‖owasp/‖SI‖En‖Open Worldwide Application Security Project‖
 *Z‖ozempic‖SI‖En‖Ozempic‖
@@ -261,11 +280,14 @@ Z‖owasp‖SI‖En‖OWASP‖
 *Z‖pepsi‖SI‖En‖Pepsi‖
 *Z‖peugeot‖SI‖En‖Peugeot‖
 Z‖philips‖SI‖En‖Philips‖
+Z‖pikchr‖SI‖En‖Pikchr‖
+*Z‖pikchr/‖MSI‖En‖https://pikchr.org/home/doc/trunk/homepage.md¦https://pikchr.org/home/pikchrshow¦https://pikchr.org/home/doc/trunk/doc/userman.md¦https://pikchr.org/home/doc/trunk/doc/grammar.md‖
 Z‖plantuml‖SI‖En‖PlantUML‖
-*Z‖plantuml/‖MSI‖En‖https://plantuml.com/¦sandbox: https://editor.plantuml.com/uml/¦manual: https://plantuml.com/guide‖
+*Z‖plantuml/‖MSI‖En‖https://plantuml.com/sitemap¦sandbox: https://editor.plantuml.com/uml/¦manual: https://plantuml.com/guide‖
 *Z‖playstation‖SI‖En‖PlayStation‖
 *Z‖polufka‖MSI‖En‖Polufka¦Polufka, ul. Leczkowa 18 wejście od bramy przy DS7`n80-432 Gdańsk-Wrzeszcz‖
 *Z‖postgresql‖SI‖En‖PostgreSQL‖
+*Z‖postscript‖SI‖En‖PostScript‖
 Z*‖power point‖SI‖En‖PowerPoint‖
 Z*‖powerpoint‖SI‖En‖PowerPoint‖
 *Z‖powershell‖SI‖En‖PowerShell‖
@@ -284,6 +306,7 @@ Z‖rcp‖SI‖En‖RCP‖
 Z‖redca‖SI‖En‖REDCA‖
 *Z‖redca/‖SI‖En‖Radio Equipment Directive Compliance Association‖
 *Z‖reddit‖SI‖En‖Reddit‖
+*Z‖redhat‖SI‖En‖Red Hat‖
 Z‖redis‖SI‖En‖Redis‖
 *Z‖redis/‖SI‖En‖Remote Dictionary Server‖
 Z‖restful‖SI‖En‖RESTful‖
@@ -296,7 +319,7 @@ Z*‖rs485‖CL‖En‖RS485‖
 *Z‖rutinacea‖SI‖En‖Rutinacea‖
 Z*‖s49‖CL‖En‖S49‖
 *Z‖samsung‖SI‖En‖Samsung‖
-Z*‖santander‖SI‖En‖Santander‖
+*Z‖santander‖MSI‖En‖Santander¦Santander Bank Polska S.A.‖
 Z‖sap‖CL‖En‖SAP‖enterprise software to manage business operations and customer
 *CZ‖seat‖SI‖En‖Seat‖
 *Z‖segger‖SI‖En‖SEGGER‖
@@ -312,6 +335,8 @@ Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
 *CZ‖softsim‖SI‖En‖SoftSIM‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
 *Z‖sonarqube‖SI‖En‖SonarQube‖
+*Z‖sound blaster‖SI‖En‖Sound Blaster‖
+*Z‖soundblaster‖SI‖En‖Sound Blaster‖
 Z*‖sp/‖SI‖En‖Sharepoint‖
 *Z‖sparx‖SI‖En‖Sparx Systems‖
 *Z‖splitwise‖SI‖En‖Splitwise‖
@@ -326,6 +351,8 @@ Z*‖tales‖SI‖En‖Thales‖
 Z*‖thales‖SI‖En‖Thales‖
 *Z‖thinkpad‖SI‖En‖ThinkPad‖
 *Z‖tiktok‖SI‖En‖TikTok‖
+Z‖tikz‖SI‖En‖TikZ‖
+*Z‖tikz/‖MSI‖En‖TikZ is kein Zeichenprogramm (German for TikZ is not a drawing program)¦https://tikz.dev/¦manual: https://ctan.gust.org.pl/tex-archive/graphics/pgf/base/doc/pgfmanual.pdf¦sandbox: https://www.overleaf.com/login¦samples: https://texample.net/‖
 *Z‖timescaledb‖SI‖En‖TimescaleDB‖
 *Z‖tinymce‖SI‖En‖TinyMCE‖
 *Z‖toshiba‖SI‖En‖Toshiba‖
@@ -347,13 +374,17 @@ Z‖unix‖SI‖En‖Unix‖
 Z‖vesa‖SI‖En‖VESA‖
 *Z‖vesa/‖SI‖En‖Video Electronics Standards Association‖
 *Z‖viessmann‖SI‖En‖Viessmann‖
+Z‖vlc‖SI‖En‖VLC media player‖Current 2-digit minute (00-59).
+*Z‖vlc/‖SI‖En‖https://www.videolan.org/vlc/‖Current 2-digit minute (00-59).
 Z‖vod‖SI‖En‖VOD‖
 Z‖vod/‖SI‖En‖Video On Demand‖
 Z‖w3c‖SI‖En‖W3C‖
 *C2Z‖w3c/‖SI‖En‖World Wide Web Consortium‖
 *Z‖wacom‖SI‖En‖Wacom‖
 *Z‖wahoo‖SI‖En‖Wahoo‖
+Z‖wasm‖SI‖En‖Wasm‖https://en.wikipedia.org/wiki/WebAssembly
 Z‖wd40‖SI‖En‖WD40‖
+*Z‖webassembly‖SI‖En‖WebAssembly‖
 Z*‖webex‖SI‖En‖Webex‖
 Z*?‖whatsapp‖SI‖En‖WhatsApp‖
 *Z‖wifi‖SI‖En‖Wi-Fi‖
@@ -362,7 +393,7 @@ Z*‖wikipedia‖SI‖En‖Wikipedia‖
 Z*‖windows‖MSI‖En‖Windows¦windows‖
 *Z‖xbox‖SI‖En‖Xbox‖
 Z‖youtube‖SI‖En‖YouTube‖
-*Z‖youtube/‖SI‖En‖https://www.youtube.‖
+*Z‖youtube/‖SI‖En‖https://www.youtube.com‖
 *CZ‖yt/‖CL‖En‖YouTube‖
 Z‖ytd‖CL‖En‖YTD‖
 ZC‖ytd/‖CL‖En‖Year To Date‖
@@ -370,3 +401,4 @@ Z‖yubico‖SI‖En‖Yubico‖
 Z‖yubikey‖SI‖En‖YubiKey‖
 Z‖zabbix‖SI‖En‖Zabbix‖
 *CZ‖zigbee‖SI‖En‖Zigbee‖
+*Z‖znuny‖SI‖En‖Znuny‖
