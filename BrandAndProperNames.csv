@@ -35,6 +35,7 @@ Z‖aem‖SI‖En‖AEM‖
 ZC‖allegro‖SI‖En‖Allegro‖
 *Z‖allianz‖SI‖En‖Allianz‖
 *Z‖amazon‖SI‖En‖Amazon‖
+*Z‖amiga‖SI‖En‖Amiga‖
 *Z‖ant+‖SI‖En‖ANT{+}‖https://en.wikipedia.org/wiki/ANT_(network)
 *Z‖ant`t‖SI‖En‖ANT‖
 *Z‖antplus‖SI‖En‖ANT{+}‖
@@ -42,6 +43,7 @@ Z‖archimate‖SI‖En‖ArchiMate‖
 *Z‖archimate/‖SI‖En‖ArchiMate is an open and independent enterprise architecture modeling language to support the description, analysis and visualization of architecture within and across business domains in an unambiguous way.‖https://en.wikipedia.org/wiki/ArchiMate
 *Z‖arduino‖SI‖En‖Arduino‖
 *Z‖asciidoc‖SI‖En‖AsciiDoc‖
+*Z‖atari‖SI‖En‖Atari‖
 *Z‖atlassian‖SI‖En‖Atlassian‖
 *Z‖atmel‖SI‖En‖Atmel‖
 *Z‖auchan‖SI‖En‖Auchan‖
@@ -95,6 +97,8 @@ Z‖dcs‖SI‖En‖DCS‖
 *Z‖dcs/‖SI‖En‖Distributed Control System‖
 Z‖decathlon‖SI‖En‖DECATHLON‖
 *Z‖deepl‖SI‖En‖DeepL‖
+Z‖deepseek‖SI‖En‖DeepSeek‖
+*Z‖deepseek/‖SI‖En‖https://chat.deepseek.com/sign_in‖
 *Z‖dhl‖SI‖En‖DHL‖
 *Z‖discord‖SI‖En‖Discord‖
 *Z‖display port‖SI‖En‖DisplayPort‖

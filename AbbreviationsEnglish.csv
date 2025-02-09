@@ -310,6 +310,7 @@ Z‖dof‖SI‖En‖DOF‖
 Z*‖doors/‖SI‖En‖ Dynamic Object Oriented Requirements System‖
 *Z‖doors`t‖SI‖En‖IBM DOORS‖
 *Z‖dora/‖SI‖En‖DevOps Research and Assessment‖
+*Z‖dora`t‖SI‖En‖DORA‖
 Z‖dos‖SI‖En‖DoS‖
 Z*‖dos/‖SI‖En‖Denial of Service‖
 Z‖dpi‖SI‖En‖DPI‖
@@ -603,8 +604,8 @@ Z‖irda‖SI‖En‖IrDA‖
 *Z‖irda/‖SI‖En‖Infrared Data Association‖
 Z‖ireb‖SI‖En‖IREB‖
 *Z‖ireb/‖SI‖En‖International Requirements Engineering Board‖
-Z‖iris‖SI‖En‖IRIS‖
 Z*‖iris/‖CL‖En‖International Railway Industry Standard for the evaluation of railway management systems‖
+*Z‖iris`t‖SI‖En‖IRIS‖
 Z‖isa‖SI‖En‖ISA‖
 *Z‖isa/‖SI‖En‖Instruction Set Architecture‖
 Z‖isae‖SI‖En‖ISAE‖
@@ -841,7 +842,7 @@ Z‖nvme‖SI‖En‖NVMe‖
 Z‖ocd‖SI‖En‖OCD‖
 *Z‖ocd/‖SI‖En‖Obsessive-Compulsive Disorder‖
 Z‖ocr‖SI‖En‖OCR‖
-Z‖ocr/‖SI‖En‖Optical Character Recognition‖
+*Z‖ocr/‖SI‖En‖Optical Character Recognition‖
 Z‖odm‖SI‖En‖ODM‖
 *Z‖odm/‖SI‖En‖Original Design Manufacturer‖
 Z‖odr‖SI‖En‖ODR‖
