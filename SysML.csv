@@ -1,16 +1,25 @@
 ﻿*Z‖act/‖SI‖En‖Activity Diagram‖
 *Z‖act`t‖SI‖En‖ACT‖
+Z‖asal‖SI‖En‖ASAL‖
+*Z‖asal/‖SI‖En‖Atego Structured Action Language‖
 Z‖bdd‖SI‖En‖BDD‖
-*Z‖bdd/‖SI‖En‖Block Definition Diagram‖
+*Z‖bdd/‖MSI‖En‖Block Definition Diagram¦Behaviour Driven Development‖
 *Z‖behaviordiagrams/‖SI‖En‖Activity Diagram (act) {+} State Machine Diagram (stm) {+} Sequence Diagram (sd) {+} Use Case Diagram (uc)‖
 Z‖dsml‖SI‖En‖DSML‖
 *Z‖dsml/‖SI‖En‖Domain Specific Modeling Language‖
 *Z‖empik‖SI‖En‖Empik‖
+Z‖epbs‖SI‖En‖EPBS‖
+*Z‖epbs/‖SI‖En‖End Product Breakdown Structure‖
 Z‖ibd‖SI‖En‖IBD‖
 *Z‖ibd/‖SI‖En‖Internal Block Diagram‖
 Z‖magicgrid‖SI‖En‖MagicGrid‖
+*Z‖model/‖SI‖En‖a model is a representation of either a process, product or system that improves understanding and promotes discussions‖
 Z‖ocl‖SI‖En‖OCL‖
 *Z‖ocl/‖SI‖En‖Object Constrained Language‖
+Z‖ocsmp‖SI‖En‖OCSMP‖
+*Z‖ocsmp/‖SI‖En‖OMG-Certified Systems Modeling Professional‖
+Z‖oose‖SI‖En‖OOSE‖
+*Z‖oose/‖SI‖En‖Object Oriented Systems Engineering‖
 Z‖oosem‖SI‖En‖OOSEM‖
 *Z‖oosem/‖SI‖En‖Object Oriented Systems Engineering Method‖
 *Z‖par/‖SI‖En‖Parametric Diagram‖

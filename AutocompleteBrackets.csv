@@ -12,7 +12,7 @@ Example:		–
 
 *?Z‖"‖MSI‖En‖""{left}¦„”{left}¦""¦"¦«»{left}¦“”{left}‖
 *B0Z‖"/‖SI‖Dis‖{bs}‖
-*?Z‖(‖MSI‖En‖(){Left}¦[]{left}¦{{}{}}{left}¦<>{left}‖
+*?Z‖(‖MSI‖En‖(){Left}¦[]{left}¦{{}{}}{left}¦<>{left}¦()‖
 *?Z‖)‖MSI‖En‖]¦{}}¦>‖
 Z*B0‖<‖SI‖Dis‖>{left}‖
 Z*B0‖[‖SI‖Dis‖]{Left}‖

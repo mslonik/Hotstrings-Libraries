@@ -111,7 +111,7 @@ Z*‖dog/‖SI‖En‖🐕‖U+1F415
 *Z‖dynamite/‖SI‖En‖🧨‖https://en.wikipedia.org/wiki/WebAssembly
 *Z‖eagle/‖SI‖En‖🦅‖
 *Z‖ear/‖SI‖En‖👂‖
-*CZ‖easter/‖SI‖En‖🙏🕆🐏🐰🥚🌱💦🔔⛪⸙🌿🍰🍫🐇🐣‖
+*Z‖easter/‖SI‖En‖🙏🕆🐏🐰🥚🌱💦🔔⛪⸙🌿🍰🍫🐇🐣‖
 *CZ‖electricshock/‖SI‖En‖⚡‖https://en.wikipedia.org/wiki/Design_Web_Format
 Z*‖elephant/‖SI‖En‖🐘‖U+1F418
 Z*‖email/‖SI‖En‖{BackSpace}📧‖
@@ -142,6 +142,7 @@ Z*‖flowers/‖SI‖En‖💐: 🌹🍀🌻🌺🌸‖
 *Z‖food/‖MSI‖En‖🥫¦🍲¦🥘¦🥡¦🍛¦🥫🍲🥘🥡🍛‖
 *Z‖foot/‖SI‖En‖🦶‖
 *Z‖force/‖SI‖En‖💪‖
+*Z‖fox/‖SI‖En‖🦊‖
 *Z‖free/‖SI‖En‖🆓‖
 *Z‖frog/‖SI‖En‖🐸‖
 *Z‖fuel/‖SI‖En‖⛽‖
@@ -176,7 +177,7 @@ Z*‖hospital/‖SI‖En‖🏥‖{U+1F3E5}
 *Z‖ill/‖SI‖En‖🤒‖
 *Z‖issue/‖SI‖En‖💬‖
 *Z‖jar/‖SI‖En‖jar/‖
-Z‖key/‖MSI‖En‖🔑¦🗝‖
+*Z‖key/‖MSI‖En‖🔑¦🗝‖
 Z*‖keyboard/‖SI‖En‖🖮‖
 *Z‖kiss/‖SI‖En‖😗‖
 *Z‖ladder/‖SI‖En‖🪜‖
@@ -253,7 +254,7 @@ Z*‖pizza/‖MSI‖En‖🍕¦░░░░░░░░░░░░░░░░�
 Z*‖present/‖SI‖En‖🎁‖U+1F381
 Z*‖printer/‖SI‖En‖🖨‖
 *Z‖printscreen/‖SI‖En‖⎙‖
-*Z‖process`n‖SI‖En‖🔁‖
+*Z‖process/‖SI‖En‖🔁‖
 *Z‖puke/‖MSI‖En‖🤢¦🤮‖
 *Z‖puzzle/‖SI‖En‖🧩‖
 *Z‖rabbit/‖SI‖En‖🐇‖
@@ -308,6 +309,7 @@ Z*‖snowman/‖MSI‖En‖☃¦⛄‖
 *Z‖speech/‖MSI‖En‖💬¦🗩¦🗪¦🗫‖
 *Z‖spider/‖SI‖En‖🕷‖
 *Z‖sponge/‖SI‖En‖🧽‖
+*Z‖square/‖MSI‖En‖□¦▢‖
 *Z‖star/‖MSI‖En‖★¦☆¦✪‖
 Z*‖stop/‖SI‖En‖🛇‖
 *Z‖storm/‖SI‖En‖🌩‖
@@ -332,6 +334,7 @@ Z*‖time/‖SI‖Dis‖⌚‖{U+231A}
 *Z‖tool/‖SI‖En‖🛠‖U+1F6E0
 *Z‖toolbox/‖SI‖En‖🧰‖
 *Z‖tooth/‖SI‖En‖🦷‖
+*Z‖trafficlight/‖MSI‖En‖🚦¦🚥‖
 Z*‖train/‖SI‖En‖🚅‖
 *CZ‖trains/‖SI‖En‖🛲🚆🚇🚞🚆🚉🚄🚂🚅‖
 *Z‖tram/‖SI‖En‖🚋‖
@@ -343,6 +346,7 @@ Z*‖train/‖SI‖En‖🚅‖
 *Z‖vampire/‖SI‖En‖🧛‖
 *Z‖video/‖SI‖En‖📹‖
 *Z‖vomit/‖MSI‖En‖🤢¦🤮‖
+*CZ‖walentines/‖SI‖En‖❤♥♡❦💘💝💖💗💓💞💕💟❣💔❤🧡💛💚💜🖤🤎🤍`n🥰😍😘‖
 *Z‖walk/‖SI‖En‖🚶‖
 *Z‖wand/‖SI‖En‖🪄‖
 *Z‖watch/‖SI‖En‖⌚‖{U+231A}
@@ -351,6 +355,7 @@ Z*‖train/‖SI‖En‖🚅‖
 *Z‖weightlifting/‖SI‖En‖🏋‖
 *Z‖wheelchair/‖SI‖En‖🦽‖
 *Z‖widesmile/‖SI‖En‖😀‖
+*Z‖wind/‖SI‖En‖💨‖
 *Z‖window/‖SI‖En‖🪟‖
 Z*C‖wink/‖SI‖En‖😉‖
 *Z‖winktongue/‖SI‖En‖😜‖

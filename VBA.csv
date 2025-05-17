@@ -1,0 +1,28 @@
+﻿*Z‖bb/‖SI‖En‖BuildingBlocks‖
+*Z‖moduleheader‖MCL‖En‖    Dim macroName As String`n    Dim moduleName As String`n    Dim MsgBoxHeader As String`n`n    macroName = "CopyYourMacroNameHere"`n    If Not Application.VBE.ActiveCodePane Is Nothing Then`n        moduleName = Application.VBE.ActiveCodePane.CodeModule.Name`n    End If`n    MsgBoxHeader = macroName & " in module " & moduleName`n    `n    MsgBox _`n        Prompt:="Finished processing.", _`n        Buttons:=vbInformation + vbOKOnly, _`n        Title:=MsgBoxHeader¦    Dim macroName As String`n    Dim moduleName As String`n    Dim MsgBoxHeader As String`n`n    macroName = "CopyYourMacroNameHere"`n    If Not Application.VBE.ActiveCodePane Is Nothing Then`n        moduleName = Application.VBE.ActiveCodePane.CodeModule.Name`n    End If`n    MsgBoxHeader = macroName & " in module " & moduleName¦    MsgBox _`n        Prompt:="Finished processing.", _`n        Buttons:=vbInformation + vbOKOnly, _`n        Title:=MsgBoxHeader‖
+Z‖msgbox‖SI‖En‖MsgBox‖
+*Z‖msgbox/‖SI‖En‖    MsgBox _`n        Prompt:="", _`n        Buttons:=vbInformation {+} vbOKOnly, _`n        Title:="MsgBoxHeader"‖
+*Z‖msgboxtemplate‖SI‖En‖        MsgBox "" & vbNewLine _`n            , _`n            vbInformation, MsgBoxHeader‖
+*Z‖vba13‖SI‖En‖run-time error '13': type mismatch‖
+*Z‖vba4102‖CL‖En‖run-time error '4102': overflow‖
+*Z‖vba4120‖SI‖En‖run-time error '4120': bad parameter‖
+*Z‖vba424‖SI‖En‖run-time error '424': object required‖
+*Z‖vba438‖SI‖En‖run-time error '438': object doesn't support this poperty or method‖
+*Z‖vba4605‖CL‖En‖run-time error '4605': this method or property is not available because the object referes to the end of a table row‖
+*Z‖vba4694‖SI‖En‖run-time error '4694': this theme can't be found‖
+*Z‖vba5/‖SI‖En‖run-time error '5': invalid procedure call or argument‖
+*Z‖vba52‖SI‖En‖run-time error '52': bad-file name or number‖
+*Z‖vba5346‖SI‖En‖run-time error '5346': Word cannot change the function of the specified key‖
+*Z‖vba55/‖SI‖En‖run-time error '55': file already open‖
+*Z‖vba5560/‖SI‖En‖run-time error '5560': the find what text contains a pattern match expression which is not valid‖
+*Z‖vba5692‖SI‖En‖run-time error '5692': ^{$} is not a valid character for the find what box or is not supported when use wildcards check box is selected‖
+*Z‖vba5825‖SI‖En‖run-time error '5725': object has been deleted‖
+*Z‖vba5834‖CL‖En‖run-time error '5834': item with specified name does not exist‖
+*Z‖vba5852‖SI‖En‖run-time error '5852': requested object is not available‖
+*Z‖vba5853‖SI‖En‖run-time error '5853': invalid parameter‖
+*Z‖vba5894‖SI‖En‖run-time error '5894': command only available in print layout view‖
+*Z‖vba5937‖SI‖En‖run-time error '5937': cannot copy content between these two ranges‖
+*Z‖vba5941‖SI‖En‖run-time error '5941': the requested member of the collection does not exist‖
+*Z‖vba5991‖SI‖En‖run-time error '5991': cannot access individual rows in this collection because the table has vertically merged cells‖
+*Z‖vba91‖SI‖En‖run-time error '91': object variable or with block variable not set‖
+*Z‖vbabb‖SI‖En‖Building Blocks‖

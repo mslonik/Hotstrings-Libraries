@@ -116,6 +116,8 @@ Z‖awg‖SI‖En‖AWG‖
 Z*‖awg/‖SI‖En‖American Wire Gauge‖
 Z‖b2b‖SI‖En‖B2B‖
 Z*‖b2b/‖SI‖En‖Business-to-Business‖
+*Z‖basic/‖SI‖En‖Beginners' All-purpose Symbolic Instruction Code‖
+*Z‖basic`t‖SI‖En‖BASIC‖
 Z‖bbcode‖SI‖En‖BBCode‖
 *Z‖bbcode/‖SI‖En‖Bulletin Board Code‖
 Z‖bbs‖SI‖En‖BBS‖
@@ -124,8 +126,8 @@ Z‖bcm‖SI‖En‖BCM‖
 *Z‖bcm/‖SI‖En‖Business Continuity Management‖
 Z‖bga‖SI‖En‖BGA‖
 Z‖bga/‖SI‖En‖Ball Grid Array‖
-Z‖bi‖SI‖En‖BI‖
-*Z‖bi/‖MSI‖En‖Basic Integrity¦Basic Integrity / SIL0‖
+Z‖bi‖SI‖Dis‖BI‖
+*Z‖bi/‖MSI‖En‖Basic Integrity (BI)¦Basic Integrity (BI) / SIL0‖
 Z‖bia‖SI‖En‖BIA‖
 *Z‖bia/‖SI‖En‖Business Impact Analysis‖
 Z‖bios‖SI‖En‖BIOS‖
@@ -191,12 +193,14 @@ Z*‖ci/‖SI‖En‖Continuous Integration‖
 Z*‖ci`t‖SI‖En‖CI‖
 Z‖cicd‖SI‖En‖CI/CD‖
 *Z‖cicd/‖SI‖En‖Continuous Integration / Continuous Deployment (Delivery)‖
+Z‖cil‖SI‖En‖CIL‖
+*Z‖cil/‖SI‖En‖Common Intermediate Language‖
 Z‖cio‖SI‖En‖CIO‖
 *Z‖cio/‖SI‖En‖Chief Information Officer‖
 Z‖cisc‖SI‖En‖CISC‖
 *Z‖cisc/‖SI‖En‖Complex Instruction Set Computer‖
 Z‖cli‖SI‖En‖CLI‖
-Z*‖cli/‖SI‖En‖Command Line Interface‖
+*Z‖cli/‖MSI‖En‖Command Line Interface¦Common Language Infrastructure‖
 Z‖clo‖SI‖En‖CLO‖
 *Z‖clo/‖SI‖En‖Chief Legal Officer‖
 Z‖cms‖SI‖En‖CMS‖
@@ -253,6 +257,8 @@ Z‖cwd‖SI‖En‖CWD‖
 *Z‖cwd/‖SI‖En‖Current Working Directory‖
 Z‖daas‖SI‖En‖DaaS‖
 *Z‖daas/‖SI‖En‖Data as a Service‖
+Z‖dac‖SI‖En‖DAC‖
+*Z‖dac/‖SI‖En‖Digital to Analog Converter‖
 *Z‖dam/‖SI‖En‖Digital Asset Management‖
 Z‖dam`t‖SI‖En‖DAM‖
 Z‖dc‖SI‖En‖DC‖
@@ -277,6 +283,8 @@ Z‖dect‖SI‖En‖DECT‖
 *Z‖dect/‖SI‖En‖Digital Enhanced Cordless Telecommunication‖
 Z‖devops‖SI‖En‖DevOps‖
 *Z‖devops/‖MSI‖En‖Development and IT Operations¦DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the software development life cycle.‖
+Z‖dft‖SI‖En‖DFT‖
+*Z‖dft/‖SI‖En‖Discrete Fourier Transform‖
 Z‖dftba‖SI‖En‖DFTBA‖
 Z*‖dftba/‖SI‖En‖Don't Forget To Be Awsome‖
 Z‖dfu‖SI‖En‖DFU‖
@@ -308,7 +316,6 @@ Z‖dns‖SI‖En‖DNS‖https://en.wikipedia.org/wiki/Domain_Name_System
 Z‖dof‖SI‖En‖DOF‖
 *Z‖dof/‖SI‖En‖Degrees Of Freedom‖
 Z*‖doors/‖SI‖En‖ Dynamic Object Oriented Requirements System‖
-*Z‖doors`t‖SI‖En‖IBM DOORS‖
 *Z‖dora/‖SI‖En‖DevOps Research and Assessment‖
 *Z‖dora`t‖SI‖En‖DORA‖
 Z‖dos‖SI‖En‖DoS‖
@@ -329,6 +336,8 @@ Z‖dsl‖SI‖En‖DSL‖https://en.wikipedia.org/wiki/Digital_subscriber_line
 *Z‖dsl/‖MSI‖En‖Domain Specific Language¦Digital Subscriber Line‖
 Z‖dslr‖SI‖En‖DSLR‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z*‖dslr/‖SI‖En‖Digital Single-Lens Reflex camera‖
+Z‖dsm‖SI‖En‖DSM‖
+*CZ‖dsm/‖SI‖En‖Dependancy Structure Matrix‖
 Z‖dsp‖SI‖En‖DSP‖
 *Z‖dsp/‖SI‖En‖Digital Signal Processing‖
 Z‖dtd‖SI‖En‖DTD‖
@@ -485,6 +494,10 @@ Z‖frmcs‖SI‖En‖FRMCS‖
 Z‖ftp‖SI‖En‖FTP‖
 *Z‖ftp/‖SI‖En‖File Ttransfer Protocol‖https://en.wikipedia.org/wiki/File_Transfer_Protocol
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
+Z‖gddr‖SI‖En‖GDDR‖
+*Z‖gddr/‖SI‖En‖Graphics Double Data Rate Synchronous Dynamic Rrandom-Access Memory‖
+Z‖gddr6‖SI‖En‖GDDR6‖
+Z‖gddr7‖SI‖En‖GDDR7‖
 Z‖gdpr‖SI‖En‖GDPR‖
 *Z‖gdpr/‖MSI‖En‖General Data Protection Regulation¦Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to processing of personal data and the free movement of that data‖
 Z‖genai‖SI‖En‖GenAI‖
@@ -546,6 +559,12 @@ Z‖hpf‖SI‖En‖HPS‖
 *Z‖hpf/‖SI‖En‖High Pass Filter‖
 Z‖hrm‖SI‖En‖HRM‖
 *Z‖hrm/‖SI‖En‖Heart Rate Monitor‖
+Z‖hsb‖SI‖En‖HSB‖
+*Z‖hsb/‖SI‖En‖Hue Saturation Brightness‖
+Z‖hsi‖SI‖En‖HSI‖
+*Z‖hsi/‖SI‖En‖Hue Saturation Intensity‖
+Z‖hsl‖SI‖En‖HSL‖
+*Z‖hsl/‖SI‖En‖Hue Saturation Lightness‖
 Z‖http‖SI‖En‖HTTP‖
 *Z‖http/‖SI‖En‖HyperText Transfer Protocol‖
 *Z‖http2‖SI‖En‖HTTP/2‖
@@ -582,12 +601,14 @@ Z‖iir‖SI‖En‖IIR‖
 *Z‖iir/‖SI‖En‖Infinite Impulse Response‖
 Z‖iis‖SI‖En‖IIS‖
 *Z‖iis/‖SI‖En‖Internet Information Service‖
-CZ‖imei‖SI‖En‖IMEI‖
+Z‖imei‖SI‖En‖IMEI‖
 *CZ‖imei/‖SI‖En‖International Mobile Equipment Identity‖
 Z‖imsi‖SI‖En‖IMSI‖
 *Z‖imsi/‖SI‖En‖International Mobile Subscriber Identity‖
 Z‖imu‖SI‖En‖IMU‖
 *Z‖imu/‖MSI‖En‖Inertial Measurement Unit¦an electronic device that measures and reports a body's specific force, angular rate, and sometimes the orientation of the body, using a combination of accelerometers, gyroscopes, and sometimes magnetometers.‖https://en.wikipedia.org/wiki/Inertial_measurement_unit
+Z‖ins‖SI‖En‖INS‖
+*Z‖ins/‖SI‖En‖Inertial Navigation System‖
 Z‖iot‖SI‖En‖IoT‖
 Z*‖iot/‖SI‖En‖Internet of Things‖
 Z‖ip‖SI‖En‖IP‖
@@ -706,6 +727,8 @@ Z‖lru‖SI‖En‖LRU‖
 Z*‖lru/‖SI‖En‖Line Replacable Unit‖
 Z‖lsd‖SI‖En‖LSD‖
 *Z‖lsd/‖SI‖En‖Lysergic acid diethylamide‖https://en.wikipedia.org/wiki/LSD
+Z‖lssvm‖SI‖En‖LSSVM‖
+*Z‖lssvm/‖SI‖En‖Least Square Support Vector Machine‖
 Z‖lte‖SI‖En‖LTE‖
 Z*‖lte/‖SI‖En‖Long-Term Evolution‖
 Z‖ltem‖SI‖En‖LTE-M‖
@@ -739,6 +762,8 @@ Z‖mdt‖SI‖En‖MDT‖
 Z*‖mdt/‖CL‖En‖Mean Down Time‖
 Z‖mems‖SI‖En‖MEMS‖
 *Z‖mems/‖SI‖En‖Micro-ElectroMechanical System‖
+Z‖mes‖SI‖En‖MES‖
+Z‖mes/‖SI‖En‖Manufacturing Execution System‖
 Z‖mfa‖SI‖En‖MFA‖
 Z*‖mfa/‖SI‖En‖Multi Factor Authentication‖
 Z‖mhf4‖SI‖En‖MHF4‖
@@ -911,6 +936,8 @@ Z‖pe‖SI‖En‖PE‖
 Z*‖pe/‖SI‖En‖Protective Earth‖
 Z‖pep‖SI‖En‖PEP‖
 *Z‖pep/‖SI‖En‖Politically Exposed Person‖
+Z‖pert‖SI‖En‖PERT‖
+*Z‖pert/‖SI‖En‖Program Evaluation and Review Technique‖
 *Z‖pet/‖SI‖En‖PolyEthylene Terephthalate‖
 Z‖pet`t‖SI‖En‖PET‖
 Z‖pete‖SI‖En‖PETE‖
@@ -1006,7 +1033,7 @@ Z*‖r/‖SI‖En‖Reliability‖
 Z‖rac‖SI‖En‖RAC‖
 Z*‖rac/‖CL‖En‖Risk Acceptance Criteria‖
 Z‖raci‖SI‖En‖RACI‖
-*Z‖raci/‖MSI‖En‖Responsible Accountable Consultant Informed¦R = Responsible: Those who are responsible for the correct completion of the task.[7] There is at least one role with a participation type of responsible, although others can be delegated to assist in the work required.	`n`nA = Accountable (also approver or final approving authority): The one ultimately answerable for the correct and thorough completion of the deliverable or task, the one who ensures the prerequisites of the task are met and who delegates the work to those responsible.[7] In other words, an accountable must sign off (approve) work that responsible provides. There must be only one accountable specified for each task or deliverable.`n`nC = Consulted : Those whose opinions are sought, typically subject-matter experts, and with whom there is two-way communication.`n`nI = Informed : Those who are kept up-to-date on progress, often only on completion of the task or deliverable, and with whom there is just one-way communication.‖
+*Z‖raci/‖MSI‖En‖Responsible Accountable Consultant Informed¦R = Responsible: Those who are responsible for the correct completion of the task:`nThere is at least one role with a participation type of responsible, although others can be delegated to assist in the work required.	`n`nA = Accountable (also approver or final approving authority): `nThe one ultimately answerable for the correct and thorough completion of the deliverable or task, the one who ensures the prerequisites of the task are met and who delegates the work to those responsible. In other words, an accountable must sign off (approve) work that responsible provides. There must be only one accountable specified for each task or deliverable.`n`nC = Consulted: `nThose whose opinions are sought, typically subject-matter experts, and with whom there is two-way communication.`n`nI = Informed: `nThose who are kept up-to-date on progress, often only on completion of the task or deliverable, and with whom there is just one-way communication.‖
 Z‖radar‖SI‖En‖RADAR‖
 *Z‖radar/‖SI‖En‖RAdio Detection And Ranging‖
 Z‖ral‖SI‖En‖RAL‖
@@ -1133,6 +1160,8 @@ Z‖sku‖SI‖En‖SKU‖
 *Z‖sku/‖SI‖En‖Stock Keeping Unit‖
 Z‖sla‖SI‖En‖SLA‖
 Z*‖sla/‖CL‖En‖Service-Level Agreement‖
+Z‖slam‖SI‖En‖SLAM‖
+*Z‖slam/‖SI‖En‖Simultaneous Localization And Mapping‖
 CZ‖smd‖SI‖En‖SMD‖https://en.wikipedia.org/wiki/Surface-mount_technology
 *CZ‖smd/‖SI‖En‖Surface-Mount Device‖https://en.wikipedia.org/wiki/Surface-mount_technology
 Z‖smime‖SI‖En‖S/MIME‖https://en.wikipedia.org/wiki/S/MIME
@@ -1143,6 +1172,8 @@ Z‖smt‖SI‖En‖SMT‖
 *Z‖smt/‖SI‖En‖Surface Mount Technology‖
 Z‖snmp‖SI‖En‖SNMP‖https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
 Z*‖snmp/‖SI‖En‖Simple Network Management Protocol‖
+Z‖snr‖SI‖En‖SNR‖
+*Z‖snr/‖SI‖En‖Signal-to-Noise Ratio‖
 Z‖so-dimm‖SI‖En‖SO-DIMM‖
 *Z‖so-dimm/‖SI‖En‖Small Outline DIMM‖
 Z‖soc‖SI‖En‖SoC‖
@@ -1159,6 +1190,8 @@ Z‖spd‖SI‖En‖SPD‖
 Z*‖spd/‖SI‖En‖Surge Protection Device‖
 Z‖spdt‖SI‖En‖SPDT‖https://en.wikipedia.org/wiki/Switch
 *Z‖spdt/‖MSI‖En‖Single Pole Double Throw¦A simple break-before-make changeover switch¦Form C‖https://en.wikipedia.org/wiki/Switch
+Z‖spe‖SI‖En‖SPE‖
+*Z‖spe/‖SI‖En‖Single Pair Ethernet‖
 CZ‖spi‖SI‖En‖SPI‖
 *CZ‖spi/‖SI‖En‖Serial Peripheral Interface‖
 Z‖spst‖SI‖En‖SPST‖
@@ -1185,6 +1218,8 @@ Z‖sup‖SI‖En‖SUP‖
 *Z‖sup/‖SI‖En‖Stand Up Paddle‖
 Z‖suv‖SI‖En‖SUV‖
 Z*‖suv/‖SI‖En‖Sport Utility Vehicle‖
+Z‖svm‖SI‖En‖SVM‖
+*Z‖svm/‖SI‖En‖Support Vector Machine‖
 Z‖sw‖SI‖En‖SW‖
 Z*‖sw/‖SI‖En‖software‖
 Z‖swat‖SI‖En‖SWAT‖
@@ -1213,6 +1248,8 @@ Z‖ted‖SI‖En‖TED‖
 Z*‖ted/‖SI‖En‖Technology Entertainment Design‖
 Z‖tedx‖SI‖En‖TEDx‖
 Z*‖tedx/‖SI‖En‖independent event similar to TED presentation‖
+Z‖teg‖SI‖En‖TEG‖
+*Z‖teg/‖SI‖En‖Thermoelectric Generator‖
 Z‖tffr‖SI‖En‖TFFR‖
 *Z‖tffr/‖MSI‖En‖Tolerable Functional Failure Rate¦tolerowany wskaźnik awaryjności funkcjonalnej‖
 CZ‖tft‖SI‖En‖TFT‖
@@ -1233,6 +1270,8 @@ Z‖toc‖SI‖En‖ToC‖
 *Z‖toc/‖SI‖En‖Table of Content‖
 Z‖toefl‖SI‖En‖TOEFL‖
 *Z‖toefl/‖SI‖En‖Test of English as a Foreign Language‖https://en.wikipedia.org/wiki/Test_of_English_as_a_Foreign_Language
+Z‖tof‖SI‖En‖ToF‖
+*Z‖tof/‖SI‖En‖Time of Flight‖
 Z‖togaf‖SI‖En‖TOGAF‖
 *Z‖togaf/‖MSI‖En‖The Open Group Architecture Framework¦is the framework for enterprise architecture  that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture; a high-level approach to design. It is typically modeled at four levels: Business, Application, Data, and Technology. It relies heavily on modularization, standardization, and already existing, proven technologies and products.‖https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework
 Z‖totp‖SI‖En‖TOTP‖https://en.wikipedia.org/wiki/Time-based_One-Time_Password
@@ -1335,6 +1374,8 @@ Z‖vba‖SI‖En‖VBA‖
 Z*‖vba/‖CL‖En‖Visual Basic for Applications‖
 Z‖vcom‖SI‖En‖VCOM‖
 *Z‖vcom/‖MSI‖En‖Virtual COM Port¦Software interface taht emulates a physical COM port over USB, allowing serial communication between the development kit and a computer. This is commonly used for debuggin and programming purposes.‖
+Z‖vcsel‖SI‖En‖VCSEL‖
+*Z‖vcsel/‖SI‖En‖Vertical Cavity Surface-Emitting Laser‖
 Z‖vfs‖SI‖En‖VFS‖
 *Z‖vfs/‖SI‖En‖Virtual File System‖
 Z‖vga‖SI‖En‖VGA‖
@@ -1359,6 +1400,8 @@ Z‖vr‖CL‖En‖VR‖
 Z*‖vr/‖CL‖En‖Virtual Reality‖Visual Studio Code
 Z‖vsc‖SI‖En‖VSC‖Visual Studio Code
 *Z‖vsc/‖MSI‖En‖Visual Studio Code¦VS Code‖
+Z‖vsto‖SI‖En‖VSTO‖
+*Z‖vsto/‖SI‖En‖Visual Studio Tools for Office‖by Microsoft
 Z‖vtol‖SI‖En‖VTOL‖
 *Z‖vtol/‖SI‖En‖Vertical Take-Off and Landing‖
 CZ‖wan‖SI‖En‖WAN‖
@@ -1367,6 +1410,7 @@ Z‖wcag‖SI‖En‖WCAG‖https://en.wikipedia.org/wiki/Web_Content_Accessibil
 Z*‖wcag/‖SI‖En‖Web Content Accessibility Guidelines‖
 Z‖wcdma‖SI‖En‖WCDMA‖
 *Z‖wcdma/‖SI‖En‖Wideband Code-Division Multiple Access‖
+*Z‖webgui‖SI‖En‖WebGUI‖
 Z‖weee‖SI‖En‖WEEE‖
 *Z‖weee/‖SI‖En‖Waste from Electrical and Electronic Equipment‖
 *Z‖who/‖SI‖En‖World Health Organization‖https://en.wikipedia.org/wiki/World_Health_Organization
@@ -1391,6 +1435,8 @@ Z‖www‖SI‖En‖WWW‖
 Z*‖www/‖SI‖En‖World Wide Web‖
 Z‖wysiwyg‖SI‖En‖WYSIWYG‖
 Z*‖wysiwyg/‖SI‖En‖What You See Is What You Get‖1=U+00E5|2=U+00E4|3=U+00E2|4=U+00E0|5=U+00E1|6=U+0105|7=U+0101
+Z‖wysiwym‖SI‖En‖WYSIWYM‖
+*Z‖wysiwym/‖SI‖En‖What You See Is What You Mean‖
 Z‖xl‖SI‖En‖XL‖
 *Z‖xl/‖SI‖En‖eXtra Large‖
 Z‖xliff‖SI‖En‖XLIFF‖

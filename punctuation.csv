@@ -23,7 +23,12 @@ Z*?‖...‖SI‖En‖…‖Horizontal Ellipsis {U+2026}
 *Z‖>>>‖SI‖En‖≫‖
 *Z‖ast/‖SI‖En‖*‖
 Z*‖bell/‖SI‖En‖{U+0007}‖
+*Z‖blocks/‖MSI‖En‖▁▂▃▄▅▆▇█¦█ ▉ ▊ ▋ ▌ ▌ ▌ ▎ ▏¦█ ░▒▓¦▖▗▘▝▙▛▜▟▚▞‖
 Z*‖cgj/‖SI‖En‖{U+034F}‖Combining Grapheme Joiner
+*Z‖combconjoinline‖MSI‖En‖︦¦︭‖U+FE26 | U+FE2D
+*Z‖combiningcircle‖SI‖En‖⃝‖U+20DD
+*Z‖combiningsquare‖SI‖En‖⃞‖U+20DE
+*Z‖conjoincombline‖MSI‖En‖︦¦︭‖U+FE26 | U+FE2D
 Z‖cr‖SI‖En‖CR‖Carriage Return
 Z*C‖cr/‖MSI‖En‖Carriage Return¦{U+000D}¦␍‖
 ZC‖crlf‖SI‖En‖CRLF‖
@@ -43,7 +48,7 @@ Z*‖minus/‖SI‖En‖−‖
 Z*?‖nbs/‖SI‖En‖{U+00A0}‖No-Break Space
 Z*‖newline/‖SI‖En‖{U+000A}‖
 Z*?‖nobreakspace/‖SI‖En‖{U+00A0}‖No-Break Space
-Z*‖nonbreakinghyphen/‖SI‖En‖‑‖
+*Z‖nonbreakinghyphen/‖SI‖En‖‑‖U+2011
 *Z‖pagehole‖MSI‖En‖80 mm apart, diameter 6 ±0.5 mm, 105 mm from the nearest edge (top and bottom), 12 mm from the edge of the paper¦[source: ISO 838]‖
 *Z‖paragraphsign/‖SI‖En‖§‖paragraph symbol in Microsoft Word
 Z*‖pauza/‖SI‖En‖—‖

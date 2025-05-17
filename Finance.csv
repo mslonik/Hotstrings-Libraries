@@ -8,6 +8,7 @@ Z‖cagr‖SI‖En‖CAGR‖
 *Z‖cagr/‖SI‖En‖Compound Annual Growth Rate‖
 Z‖capex‖SI‖En‖CAPEX‖
 *Z‖capex/‖MSI‖En‖CAPital EXpenditure¦the money an organization or corporate entity spends to buy, maintain, or improve its fixed assets, such as buildings, vehicles, equipment, or land.‖https://en.wikipedia.org/wiki/Capital_expenditure
+*Z‖cashflow/‖SI‖En‖operating {+} investing {+} financing‖
 Z‖cfa‖SI‖En‖CFA‖
 *Z‖cfa/‖SI‖En‖Chartered Financial Analyst‖
 Z‖cfd‖SI‖En‖CFD‖
@@ -16,6 +17,8 @@ Z‖cgr‖SI‖En‖CGR‖
 *Z‖cgr/‖SI‖En‖Compound Growth Rate‖
 Z‖cit‖SI‖En‖CIT‖
 *Z‖cit/‖SI‖En‖Corporate Income Tax‖
+Z‖cogs‖SI‖En‖COGS‖
+*Z‖cogs/‖SI‖En‖Cost Of Goods Sold‖
 Z‖cpi‖SI‖En‖CPI‖
 *Z‖cpi/‖SI‖En‖Consumer Price Index‖
 Z‖crs‖SI‖En‖CRS‖
@@ -26,12 +29,12 @@ Z‖dba‖SI‖En‖DBA‖
 *Z‖dba/‖MSI‖En‖Doing Business As¦a name under which a corporation coducts business that is not the legal name of the corporation as shown i ints articles of incorporation‖
 Z‖duns‖MSI‖En‖DUNS¦D-U-N-S‖
 *Z‖duns/‖SI‖En‖Data Universal Numbering System‖
-ZC‖ebit‖SI‖En‖EBIT‖
+Z‖ebit‖SI‖En‖EBIT‖
 Z*‖ebit/‖SI‖En‖Earnings Before Interest and Taxes‖
 ZC‖ebitda‖SI‖En‖EBITDA‖https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_d
 Z*‖ebitda/‖SI‖En‖Earnings before interest, taxes, depreciation and amortization‖
 Z‖eea‖SI‖En‖EEA‖
-*Z‖eea/‖SI‖En‖European Economic Area‖
+*Z‖eea/‖MSI‖En‖European Economic Area¦European Environmental Agency‖
 Z‖etf‖SI‖En‖ETF‖https://en.wikipedia.org/wiki/Exchange-traded_fund
 Z*‖etf/‖SI‖En‖Exchange-Traded Fund‖https://en.wikipedia.org/wiki/Exchange-traded_fund
 Z‖fatca‖SI‖En‖FATCA‖
@@ -45,6 +48,7 @@ Z‖fy‖SI‖En‖FY‖
 *Z‖fy/‖SI‖En‖Financial Year‖
 Z‖gdp‖SI‖En‖GDP‖
 Z*‖gdp/‖SI‖En‖Gross Domestic Product‖https://en.wikipedia.org/wiki/Gross_domestic_product
+*Z‖grossmargin/‖SI‖En‖revenue − cost of goods sold: material, labor, manufacturing overhead‖
 Z‖gst‖SI‖En‖GST‖
 *Z‖gst/‖SI‖En‖General Sales Tax‖
 Z‖iban‖SI‖En‖IBAN‖https://en.wikipedia.org/wiki/International_Bank_Account_Number
@@ -63,8 +67,10 @@ Z‖mifid‖SI‖En‖MIFID‖
 *Z‖mifid/‖SI‖En‖Markets in Financial Instruments Directive‖
 CZ‖mor‖SI‖En‖MoR‖
 *CZ‖mor/‖MSI‖En‖Merchant of Record¦a term used to describe the legal entity selling goods or services to an end customer.`n`nWhen a customer makes a purchase, they are buying from the merchant of record. The merchant of record is responsible for handling all payments and takes responsibility for everything relating to the purchase, including collecting sales tax, processing refunds and chargebacks, and ensuring PCI compliance.‖
+*Z‖netincome‖SI‖En‖operating margin − interest − taxes‖
 Z‖npv‖SI‖En‖NPV‖
 Z*‖npv/‖SI‖En‖Net Present Value‖
+*Z‖operatingmargin‖MSI‖En‖gross margin − SG&A expense − R&D¦EBIT‖
 Z‖opex‖SI‖En‖OPEX‖https://en.wikipedia.org/wiki/Capital_expenditure
 *Z‖opex/‖MSI‖En‖OPerating EXpense¦an ongoing cost for running a product, business, or system.‖https://en.wikipedia.org/wiki/Capital_expenditure
 Z‖otc‖SI‖En‖OTC‖
@@ -77,7 +83,7 @@ Z‖pv‖SI‖En‖PV‖
 *Z‖pv/‖SI‖En‖Present Value‖
 Z‖roa‖SI‖En‖ROA‖
 Z*‖roa/‖SI‖En‖Return On Assets‖
-ZC‖roce‖SI‖En‖ROCE‖https://en.wikipedia.org/wiki/Return_on_capital_employed
+Z‖roce‖SI‖En‖ROCE‖https://en.wikipedia.org/wiki/Return_on_capital_employed
 ZC1*‖roce/‖SI‖En‖Return on Capital Employed‖
 Z‖roe‖SI‖En‖ROE‖
 Z*‖roe/‖SI‖En‖Return On Equity‖
@@ -89,6 +95,8 @@ ZZ‖rrso‖SI‖En‖RRSO‖
 Z*Z‖rrso/‖SI‖En‖Rzeczywista Roczna Stopa Oprocentowania‖
 Z‖sepa‖SI‖En‖SEPA‖https://pl.wikipedia.org/wiki/WIBOR
 Z*‖sepa/‖SI‖En‖Single Euro Payments Area‖https://en.wikipedia.org/wiki/Single_Euro_Payments_Area
+Z‖sg&a‖SI‖En‖SG&A‖
+*Z‖sg&a/‖SI‖En‖Selling General & Administrative‖
 Z‖snp500‖SI‖En‖S&P 500‖
 *Z‖snp500/‖SI‖En‖Standard and Poor's 500‖
 Z‖srri‖SI‖En‖SRRI‖
