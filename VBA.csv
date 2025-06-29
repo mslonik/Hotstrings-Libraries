@@ -2,11 +2,12 @@
 *Z‖moduleheader‖MCL‖En‖    Dim macroName As String`n    Dim moduleName As String`n    Dim MsgBoxHeader As String`n`n    macroName = "CopyYourMacroNameHere"`n    If Not Application.VBE.ActiveCodePane Is Nothing Then`n        moduleName = Application.VBE.ActiveCodePane.CodeModule.Name`n    End If`n    MsgBoxHeader = macroName & " in module " & moduleName`n    `n    MsgBox _`n        Prompt:="Finished processing.", _`n        Buttons:=vbInformation + vbOKOnly, _`n        Title:=MsgBoxHeader¦    Dim macroName As String`n    Dim moduleName As String`n    Dim MsgBoxHeader As String`n`n    macroName = "CopyYourMacroNameHere"`n    If Not Application.VBE.ActiveCodePane Is Nothing Then`n        moduleName = Application.VBE.ActiveCodePane.CodeModule.Name`n    End If`n    MsgBoxHeader = macroName & " in module " & moduleName¦    MsgBox _`n        Prompt:="Finished processing.", _`n        Buttons:=vbInformation + vbOKOnly, _`n        Title:=MsgBoxHeader‖
 Z‖msgbox‖SI‖En‖MsgBox‖
 *Z‖msgbox/‖SI‖En‖    MsgBox _`n        Prompt:="", _`n        Buttons:=vbInformation {+} vbOKOnly, _`n        Title:="MsgBoxHeader"‖
-*Z‖msgboxtemplate‖SI‖En‖        MsgBox "" & vbNewLine _`n            , _`n            vbInformation, MsgBoxHeader‖
+*Z‖msgboxtemplate‖SI‖En‖MsgBox _`n	Prompt:="Line 1" & vbNewLine & _`n	"Line 2", _`n	Buttons:=vbCritical + vbOKOnly, _`n	Title:=MsgBoxHeader‖
 *Z‖vba13‖SI‖En‖run-time error '13': type mismatch‖
 *Z‖vba4102‖CL‖En‖run-time error '4102': overflow‖
 *Z‖vba4120‖SI‖En‖run-time error '4120': bad parameter‖
-*Z‖vba424‖SI‖En‖run-time error '424': object required‖
+*Z‖vba424/‖SI‖En‖run-time error '424': object required‖
+*Z‖vba4248/‖SI‖En‖this command is not available because no document is open‖
 *Z‖vba438‖SI‖En‖run-time error '438': object doesn't support this poperty or method‖
 *Z‖vba4605‖CL‖En‖run-time error '4605': this method or property is not available because the object referes to the end of a table row‖
 *Z‖vba4694‖SI‖En‖run-time error '4694': this theme can't be found‖

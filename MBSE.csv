@@ -1,0 +1,133 @@
+﻿*Z‖act/‖SI‖En‖Activity Diagram‖
+*Z‖act`t‖SI‖En‖ACT‖
+Z‖asal‖SI‖En‖ASAL‖
+*Z‖asal/‖SI‖En‖Atego Structured Action Language‖
+Z‖bdd‖SI‖En‖BDD‖
+*Z‖bdd/‖MSI‖En‖Block Definition Diagram¦Behaviour Driven Development‖
+*Z‖behaviordiagrams/‖SI‖En‖Activity Diagram (act) {+} State Machine Diagram (stm) {+} Sequence Diagram (sd) {+} Use Case Diagram (uc)‖
+Z‖cdb‖SI‖En‖CDB‖
+*Z‖cdb/‖SI‖En‖Class Diagram Blank‖
+Z‖cdi‖SI‖En‖CDI‖
+*Z‖cdi/‖SI‖En‖Component Detailed Interface‖
+Z‖cei‖SI‖En‖CEI‖
+*Z‖cei/‖SI‖En‖Component External Interface‖
+Z‖cibd‖SI‖En‖CIBD‖
+*Z‖cibd/‖SI‖En‖Configuration Item BreakDown‖
+Z‖csa‖SI‖En‖CSA‖
+*Z‖csa/‖SI‖En‖Contextual System Actors‖
+Z‖dodaf‖SI‖En‖DoDAF‖
+*Z‖dodaf/‖SI‖En‖Department of Defence Architecture Framework‖
+Z‖dsml‖SI‖En‖DSML‖
+*Z‖dsml/‖SI‖En‖Domain Specific Modeling Language‖
+Z‖eab‖SI‖En‖EAB‖
+*Z‖eab/‖SI‖En‖EPBS Architecture Blank‖
+Z‖eis‖SI‖En‖EIS‖Arcadia / Capella
+*Z‖eis/‖SI‖En‖EPBS Interface Scenario‖Arcadia / Capella
+*Z‖empik‖SI‖En‖Empik‖
+Z‖epbs‖SI‖En‖EPBS‖
+*Z‖epbs/‖SI‖En‖End Product Breakdown Structure‖
+Z‖ibd‖SI‖En‖IBD‖
+*Z‖ibd/‖SI‖En‖Internal Block Diagram‖
+Z‖idef0‖SI‖En‖IDEF0‖
+*Z‖idef0/‖SI‖En‖Icam (Integrated Computer Aided Manufacturing) DEFinition for Function Modeling‖
+Z‖ivv‖SI‖En‖IVV‖Arcadia / Capella
+*Z‖ivv/‖SI‖En‖Integration Verification & Validation‖Arcadia / Capella
+Z‖lab‖SI‖En‖LAB‖
+*Z‖lab/‖SI‖En‖Logical Architecture Blank‖
+Z‖lcbd‖SI‖En‖LCBD‖
+*Z‖lcbd/‖SI‖En‖Logical Components BreakDown‖
+Z‖ldfb‖SI‖En‖LDFB‖
+*Z‖ldfb/‖SI‖En‖Logical Data Functions Blank‖
+Z‖les‖SI‖En‖LES‖Arcadia / Capella
+*Z‖les/‖SI‖En‖Logical Exchanges Scenario‖Arcadia / Capella
+Z‖lfbd‖SI‖En‖LFBD‖
+*Z‖lfbd/‖SI‖En‖Logical Function BreakDown‖
+Z‖lfs‖SI‖En‖LFS‖Arcadia / Capella
+*Z‖lfs/‖SI‖En‖Logical Functions Scenario‖Arcadia / Capella
+*Z‖lis/‖SI‖En‖Logical Interfaces Scenario‖Arcadia / Capella
+*Z‖lis`t‖SI‖En‖LIS‖Arcadia / Capella
+Z‖magicgrid‖SI‖En‖MagicGrid‖
+Z‖mcb‖SI‖En‖MCB‖
+*Z‖mcb/‖SI‖En‖Missions and Capabilities Blank‖
+*Z‖model/‖SI‖En‖a model is a representation of either a process, product or system that improves understanding and promotes discussions‖
+Z‖msm‖SI‖En‖MSM‖
+*Z‖msm/‖SI‖En‖Mode State Machine‖
+Z‖naf‖SI‖En‖NAF‖
+*Z‖naf/‖SI‖En‖NATO Architecture Framework‖
+Z‖oab‖SI‖En‖OAB‖
+*Z‖oab/‖SI‖En‖Operational Architecture Blank‖
+Z‖oabd‖SI‖En‖OABD‖
+*Z‖oabd/‖SI‖En‖Operational Activities BreakDown‖
+Z‖oaib‖SI‖En‖OAIB‖
+*Z‖oaib/‖SI‖En‖Operational Activites and Interactions Blank‖
+Z‖oas‖SI‖En‖OAS‖Arcadia / Capella
+*Z‖oas/‖SI‖En‖Operational Activity Scenario‖Arcadia / Capella
+Z‖ocb‖SI‖En‖OCB‖
+*Z‖ocb/‖SI‖En‖Operational Capabilities Blank‖
+Z‖ocl‖SI‖En‖OCL‖
+*Z‖ocl/‖SI‖En‖Object Constrained Language‖
+Z‖ocsmp‖SI‖En‖OCSMP‖
+*Z‖ocsmp/‖SI‖En‖OMG-Certified Systems Modeling Professional‖
+Z‖oebd‖SI‖En‖OEBD‖
+*Z‖oebd/‖SI‖En‖Operational Entities BreakDown‖
+Z‖oes‖SI‖En‖OES‖Arcadia / Capella
+*Z‖oes/‖SI‖En‖Operational Entity Scenario‖Arcadia / Capella
+Z‖oose‖SI‖En‖OOSE‖
+*Z‖oose/‖SI‖En‖Object Oriented Systems Engineering‖
+Z‖oosem‖SI‖En‖OOSEM‖
+*Z‖oosem/‖SI‖En‖Object Oriented Systems Engineering Method‖
+Z‖orb‖SI‖En‖ORB‖
+*Z‖orb/‖SI‖En‖Operational Roles Blank‖
+Z‖pab‖SI‖En‖PAB‖
+*Z‖pab/‖SI‖En‖Physical Architecture Blank‖
+*Z‖par/‖SI‖En‖Parametric Diagram‖
+Z‖par`t‖SI‖En‖PAR‖
+Z‖pcbd‖SI‖En‖PCBD‖
+*Z‖pcbd/‖SI‖En‖Physical Component BreakDown‖
+Z‖pdfb‖SI‖En‖PDFB‖
+*Z‖pdfb/‖SI‖En‖Physical Data Flow Blank‖
+Z‖pes‖SI‖En‖PES‖Arcadia / Capella
+*Z‖pes/‖SI‖En‖Physical Exchange Scenario‖Arcadia / Capella
+Z‖pfbd‖SI‖En‖PFBD‖
+*Z‖pfbd/‖SI‖En‖Physical Function BreakDown‖
+Z‖pfs‖SI‖En‖PFS‖Arcadia / Capella
+*Z‖pfs/‖SI‖En‖Physical Functions Scenario‖Arcadia / Capella
+Z‖pis‖SI‖En‖PIS‖Arcadia / Capella
+*Z‖pis/‖SI‖En‖Physical Interface Scenario‖Arcadia / Capella
+Z‖pkg‖SI‖En‖PKG‖
+*Z‖pkg/‖SI‖En‖Package Diagram‖
+Z‖rec‖SI‖En‖REC‖
+*Z‖rec/‖SI‖En‖Replicable Element Collection‖
+Z‖req‖SI‖En‖REQ‖
+*Z‖req/‖SI‖En‖Requirement Diagram‖
+Z‖rpl‖SI‖En‖RPL‖
+*Z‖rpl/‖SI‖En‖RePLica‖
+Z‖sab‖SI‖En‖SAB‖
+*Z‖sab/‖SI‖En‖System Architecture Blank‖
+Z‖sadt‖SI‖En‖SADT‖
+*Z‖sadt/‖SI‖En‖Structured Analysis and Design Technique‖
+Z‖sd‖SI‖En‖SD‖
+*Z‖sd/‖SI‖En‖Sequence Diagram‖
+Z‖sdfb‖SI‖En‖SDFB‖
+*Z‖sdfb/‖SI‖En‖System Data Flow Blank‖
+Z‖ses‖SI‖En‖SES‖Arcadia / Capella
+*Z‖ses/‖SI‖En‖System Exchanges Scenario‖Arcadia / Capella
+Z‖sfbd‖SI‖En‖SFBD‖
+*Z‖sfbd/‖SI‖En‖System Function BreakDown‖
+Z‖sfs‖SI‖En‖SFS‖Arcadia / Capella
+*Z‖sfs/‖SI‖En‖System Functions Scenario‖Arcadia / Capella
+Z‖sis‖SI‖En‖SIS‖Arcadia / Capella
+*Z‖sis/‖SI‖En‖System Interfaces Scenario‖Arcadia / Capella
+Z‖stm‖SI‖En‖STM‖
+*Z‖stm/‖SI‖En‖State Machine Diagram‖
+*Z‖sysmlcompartment/‖SI‖En‖parts / references / values / constraints / operations / receptions / standard ports / flow ports / full ports / proxy ports / flow properties / structure‖
+*Z‖sysmldiagrams‖SI‖En‖Structure Diagrams `n	Block Definition Diagram (bdd) (8)`n	Internal Block Diagram (ibd) (9)`nBehavior Diagrams `n	Activity Diagram (act) (1)`n	Sequence Diagram (sd) (2)`n	State Machine Diagram (stm) (3)`n	Use Case Diagram (uc) (4)`nRequirement Diagram (req) (5)`nPackage Diagram (pkg) (6)`nParametric Diagram (par) (7)‖
+*Z‖sysmlheader/‖SI‖En‖diagram kind [model element type] model element name [diagram name]‖
+*Z‖sysmlmodelelementtype/‖SI‖En‖package / model / modelLibrary / view / block / constraintBlock‖
+*Z‖sysmlpartproperty/‖SI‖En‖<part name> : <type> [<multiplicity>]‖
+*Z‖sysmlport/‖SI‖En‖port is a kind of property that represents a distinct interaction point at the boundary of a structure through which external entities can interact with that structure – either to provide or request a service or to exchange matter, energy or data.‖
+*Z‖sysmlreference/‖SI‖En‖<reference name> : <type> [<multiplicity>]‖
+*Z‖sysmlstructurediagrams/‖SI‖En‖Block Definition Diagram (bdd) {+} Internal Block Diagram (ibd)‖
+*Z‖sysmlvalue/‖MSI‖En‖<value name> : <type> [<multiplicity>] = <default value>¦(/) in front of its name convey that a value property is derived‖
+Z‖uc‖SI‖En‖UC‖
+*Z‖uc/‖SI‖En‖Use Case Diagram‖

@@ -35,6 +35,7 @@ ZB0?‖.pdf‖SI‖En‖‖only for extensions
 *B0?Z‖.pfx‖SI‖En‖‖only for file extenstions
 ZB0?‖.png‖SI‖En‖‖
 B0?Z‖.pptx‖SI‖En‖‖only for extensions
+B0?Z‖.reqif‖SI‖En‖‖template of Microsoft Word, without macros
 ZCB0?‖.rtf‖SI‖En‖‖
 B0?Z‖.sgml‖SI‖En‖‖
 ZB0?‖.svg‖SI‖En‖‖only for extensions
@@ -96,6 +97,8 @@ Z‖pfx‖SI‖En‖PFX‖only for file extenstions
 Z‖png‖SI‖En‖PNG‖
 Z‖pptx‖SI‖En‖PPTX‖
 *Z‖pptx/‖SI‖En‖Microsoft PowerPoint presentation file‖
+*Z‖reqif/‖SI‖En‖Requirements Interchange Format‖
+CZ‖requif‖SI‖En‖ReqIF‖Microsoft Word template file, without macros
 Z‖rtf‖SI‖En‖RTF‖
 ZC‖rtf/‖SI‖En‖Rich Text Format‖
 Z‖sgml‖SI‖En‖SGML‖

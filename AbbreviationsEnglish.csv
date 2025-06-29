@@ -80,6 +80,8 @@ Z‖api‖SI‖En‖API‖
 *Z‖apis‖SI‖En‖APIs‖
 CZ‖apn‖SI‖En‖APN‖
 *CZ‖apn/‖MSI‖En‖Acess Point Name¦gateway between mobile networks and frequently the Internet‖
+Z‖aql‖SI‖En‖AQL‖
+*Z‖aql/‖SI‖En‖Acceleo Query Language‖EMF models (Eclipse Modeling Framework)
 Z‖ar‖SI‖En‖AR‖
 Z*‖ar/‖SI‖En‖Augmented Reality‖
 *Z‖arcadia/‖SI‖En‖Architecture Analysis and Design Integrated Approach‖
@@ -216,6 +218,8 @@ Z‖com‖SI‖Dis‖COM‖
 Z*‖com/‖MCL‖En‖a serial port interface on IBM PC-compatible computers¦Component Object Model, a Microsoft software interface technology‖
 Z*‖com`t‖SI‖En‖COM‖https://en.wikipedia.org/wiki/Com
 *Z‖configuration/‖SI‖En‖Configuration represents the individual (customer) requirements for a specific application. The structuring and interconnection of hardware and software of a system for its intended application. Example: a system whose generic software is pre-configured for a generic railway application by a set of application algorithms, and which is then further configured to each specific installation by instantiation and interconnection of the application algorithms and by a set of configuration data.‖
+C2Z‖conops‖SI‖En‖ConOps‖
+*C2Z‖conops/‖MSI‖En‖Concept of Operations¦IEEE 1362-1998, Guide for Information Technology — System Definition — Concept of Operations (ConOps) Document‖
 Z‖coo‖SI‖En‖COO‖https://en.wikipedia.org/wiki/Chief_operating_officer
 Z*‖coo/‖SI‖En‖Chief Operating Officer‖https://en.wikipedia.org/wiki/Chief_operating_officer
 Z‖cop‖SI‖En‖CoP‖
@@ -370,7 +374,7 @@ Z‖efta‖SI‖En‖EFTA‖
 *Z‖efta/‖SI‖En‖European Free Trade Association‖
 Z*‖eg/‖SI‖En‖exempli gratia‖
 Z‖ei‖SI‖En‖EI‖
-Z*‖ei/‖CL‖En‖Emotional Intelligence‖
+*Z‖ei/‖MSI‖En‖Emotional Intelligence¦Exchange Item‖
 Z‖eiopa‖SI‖En‖EIOPA‖
 *Z‖eiopa/‖SI‖En‖European Insurance and Occupational Pensions Authority‖
 Z‖eirp‖SI‖En‖EIRP‖
@@ -595,6 +599,8 @@ Z‖iec‖SI‖En‖IEC‖
 Z*‖iec/‖MSI‖En‖International Electrotechnical Commission¦https://www.iec.ch/homepage‖
 Z‖ielts‖SI‖En‖IELTS‖
 *Z‖ielts/‖SI‖En‖International English Language Testing System‖https://en.wikipedia.org/wiki/International_English_Language_Testing_System
+Z‖igbt‖SI‖En‖IGBT‖
+*Z‖igbt/‖SI‖En‖Insulated-Gate Bipolar Transistor‖
 Z‖iIoT‖SI‖En‖IIoT‖
 *Z‖iioT/‖SI‖En‖Industrial Internet of Things‖
 Z‖iir‖SI‖En‖IIR‖
@@ -734,7 +740,7 @@ Z*‖lte/‖SI‖En‖Long-Term Evolution‖
 Z‖ltem‖SI‖En‖LTE-M‖
 *Z‖ltem/‖MSI‖En‖Long-Term Evolution Machine (Type Communication)¦Cat-M1‖
 Z‖lti‖SI‖En‖LTI‖
-*Z‖lti/‖MSI‖En‖Linear Time-Invariant¦liniowo niezmiennicze w czasie¦System, który jest liniowy ze względu na wszystkie swoje argumenty (czyli elementy) w dowolnej chwili czasu.‖
+*Z‖lti/‖MSI‖En‖Linear Time-Invariant¦liniowo niezmiennicze w czasie¦System, który jest liniowy ze względu na wszystkie swoje argumenty (czyli elementy) w dowolnej chwili czasu.`n`nLiniowy - spełnia zasadę superpozycji (odpowiedź na sumę pobudzeń jest sumą odpowiedzi na każde z pobudzeń)`nStacjonarny (niezmienny w czasie) — właściwości nie zmieniają się w czasie, czyli odpowiedź systemu na pobudzenie jest taka sama niezależnie od momentu jego podania`nSkupione (skończonego zasięgu) — ma ograniczenia w czasie lub przestrzeni‖
 Z‖lts‖SI‖En‖LTS‖
 *Z‖lts/‖SI‖En‖Long Time Support‖
 Z‖lvds‖SI‖En‖LVDS‖
@@ -889,6 +895,8 @@ Z‖ole`t‖SI‖En‖OLE‖
 Z‖oled‖SI‖En‖OLED‖
 *Z‖oled/‖SI‖En‖Organic Light-Emitting Diode‖https://en.wikipedia.org/wiki/OLED
 Z‖omg‖SI‖En‖OMG‖
+Z‖oop‖SI‖En‖OOP‖
+*Z‖oop/‖SI‖En‖Object Oriented Programming‖
 Z‖opc‖SI‖En‖OPC‖
 *Z‖opc/‖SI‖En‖Open Platform Communications‖
 *Z‖opcit/‖MSI‖En‖opus citatum, opere citato¦dzieło cytowane, z cytowanego dzieła‖
@@ -1052,6 +1060,8 @@ Z‖rcd‖SI‖En‖RCD‖
 Z*‖rcd/‖SI‖En‖Residual Current Device‖
 Z‖rda‖SI‖En‖RDA‖
 Z*‖rda/‖SI‖En‖Robotics Desktop Automation‖
+Z‖rdp‖SI‖En‖RDP‖
+*Z‖rdp/‖SI‖En‖Remote Desktop Protocol‖
 Z‖rem‖SI‖En‖REM‖
 *Z‖rem/‖SI‖En‖Rapid Eye Movement‖
 *Z‖rest/‖SI‖En‖REpresentational State Transfer‖https://en.wikipedia.org/wiki/Representational_state_transfer
@@ -1339,7 +1349,7 @@ Z‖upcs‖SI‖En‖UPCS‖
 Z‖ups‖SI‖En‖UPS‖
 *Z‖ups/‖MSI‖En‖Uninterruptable Power Supply¦zasilacz awaryjny‖
 Z‖uri‖SI‖En‖URI‖
-*C2Z‖uri/‖SI‖En‖uniform resource identifier‖
+*C2Z‖uri/‖SI‖En‖Uniform Resource Identifier‖
 Z‖url‖SI‖En‖URL‖https://en.wikipedia.org/wiki/URL
 Z*‖url/‖SI‖En‖Uniform Resource Locator‖
 CZ‖urllc‖SI‖En‖URLLC‖
@@ -1406,6 +1416,8 @@ Z‖vtol‖SI‖En‖VTOL‖
 *Z‖vtol/‖SI‖En‖Vertical Take-Off and Landing‖
 CZ‖wan‖SI‖En‖WAN‖
 *CZ‖wan/‖SI‖En‖Wide Area Network‖
+Z‖wbs‖SI‖En‖WBS‖
+*Z‖wbs/‖SI‖En‖Work Breakdown Structure‖
 Z‖wcag‖SI‖En‖WCAG‖https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
 Z*‖wcag/‖SI‖En‖Web Content Accessibility Guidelines‖
 Z‖wcdma‖SI‖En‖WCDMA‖

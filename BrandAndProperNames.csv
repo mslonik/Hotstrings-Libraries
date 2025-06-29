@@ -30,6 +30,8 @@ Z‖aem‖SI‖En‖AEM‖
 *Z‖aem/‖SI‖En‖Adobe Experience Manager‖
 *Z‖afm‖SI‖En‖Adobe Framemaker‖
 *Z‖aleve‖MSI‖En‖Aleve¦naproksen sodowy¦odwracalne hamowanie syntezy prostaglandyn‖
+Z‖algol‖SI‖En‖ALGOL‖
+*Z‖algol/‖SI‖En‖ALGOrithmic Language‖
 *Z‖aliexpress‖SI‖En‖AliExpress‖
 *‖alior‖SI‖En‖Alior‖
 ZC‖allegro‖SI‖En‖Allegro‖
@@ -71,7 +73,7 @@ Z‖bmw‖CL‖En‖BMW‖
 *Z‖bosch‖SI‖En‖Bosch‖
 *Z‖broadcom‖SI‖En‖Broadcom‖
 Z*‖canon‖MSI‖En‖Canon¦canon‖
-*Z‖capella`t‖SI‖En‖Capella‖
+*Z‖capella‖MCL‖En‖Capella¦https://forum.mbse-capella.org/¦https://github.com/eclipse-capella/capella/wiki/User-manual#online-version‖
 *Z‖castorama‖SI‖En‖Castorama‖only for extensions
 Z‖cbs‖SI‖En‖CBS‖
 Z‖cbs/‖SI‖En‖CBS Boradcasting Inc.‖
@@ -81,6 +83,8 @@ Z‖ces‖SI‖En‖CES‖
 *Z‖ces/‖SI‖En‖Consumer Electronics Show‖
 Z‖chatgpt‖SI‖En‖ChatGPT‖
 *Z‖cmake‖SI‖En‖CMake‖
+Z‖cobol‖SI‖En‖COBOL‖
+*Z‖cobol/‖SI‖En‖COmmon Business Oriented Language‖
 *Z‖cocacola‖SI‖En‖Coca-Cola‖
 *Z‖convertkit‖SI‖En‖ConvertKit‖
 *Z‖cpanel‖SI‖En‖cPanel‖
@@ -121,6 +125,8 @@ Z‖ecb‖SI‖En‖ECB‖
 *Z‖elk/‖MSI‖En‖Elasticsearch Logstash Kibana¦stack of open-source tools used together to collect, process, and visualize log data from various sources.‖
 *Z‖elk`t‖SI‖En‖ELK‖
 Z‖emscripten‖SI‖En‖Emscripten‖
+Z‖epl‖SI‖En‖EPL‖
+*Z‖epl/‖SI‖En‖Eclipse Public License‖
 Z‖esa‖SI‖En‖ESA‖
 *Z‖esa/‖SI‖En‖European Space Agency‖
 *Z‖esp32‖SI‖En‖ESP32‖
@@ -136,7 +142,8 @@ Z‖fcc‖SI‖En‖FCC‖
 *Z‖fido2‖SI‖En‖FIDO2‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 *Z‖figma‖SI‖En‖Figma‖
 *Z‖firefox‖SI‖En‖Firefox‖
-Z‖fortran‖SI‖En‖Fortran‖
+Z‖fortran‖SI‖En‖FORTRAN‖
+*Z‖fortran/‖SI‖En‖FORmula TRANslation‖
 ZC‖framemaker‖MSI‖En‖FrameMaker¦https://www.adobe.com/pl/products/framemaker.html‖
 *Z‖freebsd‖SI‖En‖FreeBSD‖
 *Z‖garmin‖SI‖En‖Garmin‖
@@ -173,6 +180,8 @@ Z‖hbr‖SI‖En‖HBR‖
 Z‖huel‖SI‖En‖Huel‖
 *Z‖huion‖SI‖En‖Huion‖
 *Z‖ibm‖SI‖En‖IBM‖
+Z‖icao‖SI‖En‖ICAO‖
+*Z‖icao/‖SI‖En‖International Civil Aviation Organization‖
 *Z‖icloud‖SI‖En‖iCloud‖
 Z‖ieee‖SI‖En‖IEEE‖
 *Z‖ieee/‖SI‖En‖Institute of Electrical and Electronics Engineers‖
@@ -183,7 +192,7 @@ Z*‖ikea‖SI‖En‖IKEA‖
 Z‖ilograph‖SI‖En‖Ilograph‖
 *Z‖ilograph/‖MSI‖En‖https://www.ilograph.com/¦sandbox: https://app.ilograph.com/demo.ilograph.Ilograph/Request¦manual: https://www.ilograph.com/docs/index.html‖
 Z‖incose‖SI‖En‖INCOSE‖
-*Z‖incose/‖SI‖En‖International Council on System Engineering‖
+*Z‖incose/‖MSI‖En‖International Council on System Engineering¦https://yammer.com/INCOSE.net‖
 Z‖inemo‖SI‖En‖iNEMO‖
 *Z‖inemo/‖MSI‖En‖inertial modules¦iNEMO system-in-packages (SiP) combine an accelerometer and a gyroscope in a monolithic 6-axis solution‖
 *Z‖inkscape‖SI‖En‖Inkscape‖
@@ -304,6 +313,7 @@ Z‖plantuml‖SI‖En‖PlantUML‖
 *Z‖plantuml/‖MSI‖En‖https://plantuml.com/sitemap¦sandbox: https://editor.plantuml.com/uml/¦manual: https://plantuml.com/guide‖
 *Z‖playstation‖SI‖En‖PlayStation‖
 *Z‖polufka‖MSI‖En‖Polufka¦Polufka, ul. Leczkowa 18 wejście od bramy przy DS7`n80-432 Gdańsk-Wrzeszcz‖
+*C2Z‖porsche‖SI‖En‖Porsche‖
 *Z‖postgresql‖SI‖En‖PostgreSQL‖
 *Z‖postscript‖SI‖En‖PostScript‖
 Z*‖power point‖SI‖En‖PowerPoint‖
@@ -313,6 +323,7 @@ Z‖priip‖SI‖En‖PRIIP‖kolor voestalpine | nagłówek tabeli | wiersz tab
 *Z‖priip/‖SI‖En‖Packaged Retail Investment and Insurance Products‖kolor voestalpine | nagłówek tabeli | wiersz tabeli
 Z‖ptcrb‖SI‖En‖PTCRB‖
 *Z‖ptcrb/‖SI‖En‖Personal Communications Service Type Certification Review Board‖
+*Z‖putty‖SI‖En‖PuTTY‖
 *Z‖qnap‖SI‖En‖QNAP‖
 Z*‖qnx‖CL‖En‖QNX‖
 *Z‖qualcomm‖SI‖En‖Qualcomm‖

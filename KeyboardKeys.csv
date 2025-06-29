@@ -28,7 +28,7 @@ Z‖backspace‖SI‖En‖Backspace‖
 ?*Z‖ccbracket/‖SI‖En‖{}}‖
 ?*Z‖colon/‖SI‖En‖:‖
 ?*Z‖coma/‖SI‖En‖,‖
-?*Z‖context/‖SI‖En‖{appskey}‖
+*?Z‖contextmenu/‖SI‖En‖{appskey}‖
 ?*Z‖control/‖SI‖En‖{control}‖
 ?*Z‖csbracket/‖SI‖En‖]‖
 ?*Z‖ctrd/‖SI‖En‖{control down}‖
@@ -116,6 +116,8 @@ Z‖lshift‖SI‖En‖LShift‖
 ?Z*‖numlock/‖SI‖En‖{NumLock}‖
 ?*Z‖obracket/‖SI‖En‖(‖
 ?*Z‖ocbracket/‖SI‖En‖{{}‖
+Z‖omt‖SI‖En‖OMT‖
+*Z‖omt/‖SI‖En‖Object Modeling Technique‖
 ?*Z‖one/‖SI‖Dis‖1‖
 ?*Z‖osbracket/‖SI‖En‖[‖
 ?Z*‖pause/‖SI‖En‖{Pause}‖
