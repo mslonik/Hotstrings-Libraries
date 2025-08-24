@@ -82,6 +82,7 @@ Z‖cenelec‖SI‖En‖CENELEC‖
 Z‖ces‖SI‖En‖CES‖
 *Z‖ces/‖SI‖En‖Consumer Electronics Show‖
 Z‖chatgpt‖SI‖En‖ChatGPT‖
+*CZ‖clickup‖SI‖En‖ClickUp‖
 *Z‖cmake‖SI‖En‖CMake‖
 Z‖cobol‖SI‖En‖COBOL‖
 *Z‖cobol/‖SI‖En‖COmmon Business Oriented Language‖
@@ -113,6 +114,7 @@ Z‖dei‖SI‖En‖DEI‖
 *Z‖displayport‖SI‖En‖DisplayPort‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
 Z‖dkms‖SI‖En‖DKMS‖
+*Z‖dow jones‖SI‖En‖Dow Jones‖
 Z‖drawio‖SI‖En‖diagrams.net (former name: draw.io)‖
 *Z‖drawio/‖MSI‖En‖diagrams.net (former name: draw.io)¦https://www.drawio.com/¦https://app.diagrams.net/¦manual: https://www.drawio.com/doc/‖
 *Z‖dremel‖SI‖En‖Dremel‖
@@ -146,6 +148,8 @@ Z‖fortran‖SI‖En‖FORTRAN‖
 *Z‖fortran/‖SI‖En‖FORmula TRANslation‖
 ZC‖framemaker‖MSI‖En‖FrameMaker¦https://www.adobe.com/pl/products/framemaker.html‖
 *Z‖freebsd‖SI‖En‖FreeBSD‖
+*Z‖ftdi‖SI‖En‖FTDI‖
+*Z‖ftdi/‖SI‖En‖Future Technology Devices International Ltd‖
 *Z‖garmin‖SI‖En‖Garmin‖
 Z‖gbp‖SI‖En‖GBP‖
 *Z‖gbp/‖SI‖En‖£‖
@@ -349,6 +353,7 @@ Z*‖rs485‖CL‖En‖RS485‖
 Z‖rtx‖SI‖En‖RTX‖
 *Z‖rtx/‖SI‖En‖Ray Tracing Texel eXtreme‖
 *Z‖rutinacea‖SI‖En‖Rutinacea‖
+*Z‖s&p‖SI‖En‖S&P Global‖
 Z*‖s49‖CL‖En‖S49‖
 *Z‖samsung‖SI‖En‖Samsung‖
 *Z‖santander‖MSI‖En‖Santander¦Santander Bank Polska S.A.‖
@@ -365,6 +370,7 @@ Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
 *Z‖skoda‖SI‖En‖Škoda‖
 *Z‖skycash‖SI‖En‖SkyCash‖
 *Z‖skype‖SI‖En‖Skype‖
+*Z‖snp‖SI‖En‖S&P Global‖
 *CZ‖softsim‖SI‖En‖SoftSIM‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
 *Z‖sonarqube‖SI‖En‖SonarQube‖
@@ -380,6 +386,7 @@ Z‖structurizr‖SI‖En‖Structurizr‖
 *Z‖suzuki‖SI‖En‖Suzuki‖
 Z‖svn‖SI‖En‖SVN‖
 *Z‖svn/‖CL‖En‖versioning and revision control system‖
+*Z‖syson‖SI‖En‖SysON‖
 Z*‖tales‖SI‖En‖Thales‖
 Z*‖thales‖SI‖En‖Thales‖
 *Z‖thinkpad‖SI‖En‖ThinkPad‖

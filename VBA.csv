@@ -1,8 +1,7 @@
 ﻿*Z‖bb/‖SI‖En‖BuildingBlocks‖
-*Z‖moduleheader‖MCL‖En‖    Dim macroName As String`n    Dim moduleName As String`n    Dim MsgBoxHeader As String`n`n    macroName = "CopyYourMacroNameHere"`n    If Not Application.VBE.ActiveCodePane Is Nothing Then`n        moduleName = Application.VBE.ActiveCodePane.CodeModule.Name`n    End If`n    MsgBoxHeader = macroName & " in module " & moduleName`n    `n    MsgBox _`n        Prompt:="Finished processing.", _`n        Buttons:=vbInformation + vbOKOnly, _`n        Title:=MsgBoxHeader¦    Dim macroName As String`n    Dim moduleName As String`n    Dim MsgBoxHeader As String`n`n    macroName = "CopyYourMacroNameHere"`n    If Not Application.VBE.ActiveCodePane Is Nothing Then`n        moduleName = Application.VBE.ActiveCodePane.CodeModule.Name`n    End If`n    MsgBoxHeader = macroName & " in module " & moduleName¦    MsgBox _`n        Prompt:="Finished processing.", _`n        Buttons:=vbInformation + vbOKOnly, _`n        Title:=MsgBoxHeader‖
+*Z‖moduleheader‖CL‖En‖    Dim FileName As String`n    FileName = C_F_Macros`n    `n    Dim ModuleName As String`n    ModuleName = C_M_Macros`n    `n    Dim MacroName As String`n    MacroName = "YourMacroName"`n    `n    Dim MsgBoxTitle As String`n    MsgBoxTitle = FileName & " : " & ModuleName & " : " & MacroName‖
 Z‖msgbox‖SI‖En‖MsgBox‖
-*Z‖msgbox/‖SI‖En‖    MsgBox _`n        Prompt:="", _`n        Buttons:=vbInformation {+} vbOKOnly, _`n        Title:="MsgBoxHeader"‖
-*Z‖msgboxtemplate‖SI‖En‖MsgBox _`n	Prompt:="Line 1" & vbNewLine & _`n	"Line 2", _`n	Buttons:=vbCritical + vbOKOnly, _`n	Title:=MsgBoxHeader‖
+*Z‖msgboxtemplate‖CL‖En‖MsgBox _`n	Prompt:="Line 1" & vbNewLine & _`n	"Line 2", _`n	Buttons:=vbCritical + vbOKOnly, _`n	Title:=MsgBoxTitle‖
 *Z‖vba13‖SI‖En‖run-time error '13': type mismatch‖
 *Z‖vba4102‖CL‖En‖run-time error '4102': overflow‖
 *Z‖vba4120‖SI‖En‖run-time error '4120': bad parameter‖
@@ -25,5 +24,6 @@ Z‖msgbox‖SI‖En‖MsgBox‖
 *Z‖vba5937‖SI‖En‖run-time error '5937': cannot copy content between these two ranges‖
 *Z‖vba5941‖SI‖En‖run-time error '5941': the requested member of the collection does not exist‖
 *Z‖vba5991‖SI‖En‖run-time error '5991': cannot access individual rows in this collection because the table has vertically merged cells‖
+*Z‖vba6316/‖SI‖En‖run-time error '6136': cannot insert text into a table cell which has been merged into another cell.‖
 *Z‖vba91‖SI‖En‖run-time error '91': object variable or with block variable not set‖
 *Z‖vbabb‖SI‖En‖Building Blocks‖

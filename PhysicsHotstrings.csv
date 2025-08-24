@@ -11,7 +11,7 @@ Examples:	Greek alphabet letters, physics unit names and many more.
 */
 
 Z*‖%%‖SI‖En‖‰‖
-*Z‖***‖MSI‖En‖·¦×‖** overlaps with Markdown for bold
+*?Z‖***‖MSI‖En‖·¦×‖** overlaps with Markdown for bold
 Z*‖**/‖MSI‖En‖·¦×‖U+00B7 | U+00D7
 Z*‖*/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 Z*‖+-‖CL‖En‖±‖
@@ -77,6 +77,7 @@ Z‖gb‖SI‖En‖GB‖
 Z‖Ghz‖SI‖En‖GHz‖
 Z‖gIb‖SI‖En‖GiB‖
 *Z‖gIb/‖MSI‖En‖gibibyte¦2³⁰ = 1024³‖
+*Z‖h2o‖SI‖En‖H₂O‖
 Z‖hz‖SI‖En‖Hz‖
 Z‖infinity‖SI‖En‖∞‖
 Z‖kamp‖CL‖En‖kA‖

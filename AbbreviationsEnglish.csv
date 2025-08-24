@@ -287,6 +287,8 @@ Z‖dect‖SI‖En‖DECT‖
 *Z‖dect/‖SI‖En‖Digital Enhanced Cordless Telecommunication‖
 Z‖devops‖SI‖En‖DevOps‖
 *Z‖devops/‖MSI‖En‖Development and IT Operations¦DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the software development life cycle.‖
+Z‖dfmea‖SI‖En‖DFMEA‖
+*Z‖dfmea/‖SI‖En‖Design Failure Mode and Effects Analysis‖
 Z‖dft‖SI‖En‖DFT‖
 *Z‖dft/‖SI‖En‖Discrete Fourier Transform‖
 Z‖dftba‖SI‖En‖DFTBA‖
@@ -370,6 +372,8 @@ Z‖eeg‖SI‖En‖EEG‖
 *Z‖eeg/‖SI‖En‖Electroencephalography‖
 Z‖eeprom‖SI‖En‖EEPROM‖
 Z*‖eeprom/‖SI‖En‖Electrically Erasable Programmable Read-Only Memory‖
+Z‖eft‖SI‖En‖EFT‖
+*Z‖eft/‖SI‖En‖Electrical Fast Transient‖
 Z‖efta‖SI‖En‖EFTA‖
 *Z‖efta/‖SI‖En‖European Free Trade Association‖
 Z*‖eg/‖SI‖En‖exempli gratia‖
@@ -423,6 +427,7 @@ Z‖esma‖SI‖En‖ESMA‖
 *Z‖esma/‖SI‖En‖European Securities and Markets Authority‖
 Z‖eta‖SI‖En‖ETA‖
 Z*‖eta/‖SI‖En‖Estimated Time to Arrival‖
+*Z‖eta/‖MSI‖En‖Estimated Time to Arrival¦Event Tree Analysis‖
 Z‖eto‖SI‖En‖ETO‖
 *Z‖eto/‖MSI‖En‖Engineer to Order¦to complete an order, redesign effort is required, potentially including tests and certification.‖
 Z‖etsi‖SI‖En‖ETSI‖
@@ -441,7 +446,7 @@ Z‖faq‖SI‖En‖FAQ‖
 Z*‖faq/‖CL‖En‖Frequently Asked Questions‖
 Z‖fas‖SI‖En‖FAS‖
 *Z‖fas/‖SI‖En‖Fetal Alcohol Syndrome‖
-*Z‖fat/‖SI‖En‖File Allocation Table‖
+*Z‖fat/‖MSI‖En‖Factory Acceptance Test¦File Allocation Table‖
 *Z‖fat16‖SI‖En‖FAT16‖
 *Z‖fat32‖SI‖En‖FAT32‖
 *Z‖fat`t‖SI‖En‖FAT‖
@@ -476,9 +481,11 @@ Z‖flpr‖SI‖En‖FLPR‖
 Z‖fm‖SI‖En‖FM‖
 *Z‖fm/‖SI‖En‖Frequency Modulated‖
 Z‖fmea‖SI‖En‖FMEA‖
-Z*‖fmea/‖CL‖En‖Failure Mode and Effects Analysis‖
+*Z‖fmea/‖MSI‖En‖Failure Mode and Effects Analysis¦Fault (cause) → Failure Mode (how it fails) → Failure (loss of function)  → Effect (consequence)‖
 Z‖fmeca‖SI‖En‖FMECA‖
 *Z‖fmeca/‖MSI‖En‖Failure Mode Effects and Criticality Analysis¦module`nfunction`nfailure mode`nseverity of failure effects: local (module)`nprobability of failure: local (module)`ncriticality: local (module) = severity × probability`nseverity of failure effects: global (system)`nprobability of failure: global (system)`ncriticality: global (system) = severity × probability`n`ncorrective / mitigation actions¦| module or<br>function | failure <br>mode | severity of<br>failure effects:<br>local (module) | probability of<br>failure<br>local (module) | criticality:<br>local (module)<br>severity × probability | severity of<br>failure effects:<br>global (system) | probability of<br>failure<br>global (system) | criticality:<br>local (module)<br>severity × probability | corrective /<br>mitigation<br>actions |`n|:---------------------:|:----------------:|:-------------------------------------------------:|:-------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------:|`n|        module 1       |   power supply   |                         3                         |                      1                      |                             3                            |                          0                         |                       0                      |                             0                            |                  (…)                  |`n|        module 1       |   communication  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |`n|        module 1       |   configuration  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |`n|        module 1       |   el. component  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |`n| function 1            |                  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |‖
+Z‖fmes‖SI‖En‖FMES‖
+*Z‖fmes/‖SI‖En‖Failure Mode Effects Summary‖
 Z‖fo‖SI‖En‖FO‖
 Z*‖fo/‖SI‖En‖Fiber Optics‖Generic Application
 Z‖foss‖SI‖En‖FOSS‖
@@ -495,6 +502,10 @@ Z‖fpu‖SI‖En‖FPU‖
 *Z‖fpu/‖SI‖En‖Floating-Point Unit‖
 Z‖frmcs‖SI‖En‖FRMCS‖
 *Z‖frmcs/‖SI‖En‖Future Railway Mobile Communication System‖
+Z‖fta‖SI‖En‖FTA‖
+*Z‖fta/‖SI‖En‖Fault Tree Analysis‖
+Z‖fte‖SI‖En‖FTE‖
+*Z‖fte/‖SI‖En‖Full-Time Equivalent‖
 Z‖ftp‖SI‖En‖FTP‖
 *Z‖ftp/‖SI‖En‖File Ttransfer Protocol‖https://en.wikipedia.org/wiki/File_Transfer_Protocol
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
@@ -586,6 +597,8 @@ Z‖iana‖SI‖En‖IANA‖
 *Z‖iana/‖SI‖En‖Internet Assigned Numbers Authority‖
 Z‖iarc‖SI‖En‖IARC‖
 *Z‖iarc/‖SI‖En‖International Age Rating Coalition‖
+Z‖iata‖SI‖En‖IATA‖
+*Z‖iata/‖SI‖En‖International Air Transport Association‖
 *‖ibid/‖MSI‖En‖ibidem¦tamże, w tym samym miejscu‖
 Z‖ic‖SI‖En‖IC‖
 Z*‖ic/‖CL‖En‖Interoperability Constituent‖
@@ -950,6 +963,8 @@ Z‖pert‖SI‖En‖PERT‖
 Z‖pet`t‖SI‖En‖PET‖
 Z‖pete‖SI‖En‖PETE‖
 *Z‖pete/‖SI‖En‖PolyEthylene Terephthalate‖
+Z‖pfmea‖SI‖En‖PFMEA‖
+*Z‖pfmea/‖SI‖En‖Process Failure Mode and Effects Analysis‖
 Z‖pgf‖SI‖En‖PGF‖
 *Z‖pgf/‖SI‖En‖Portable Graphic Format‖
 Z‖pgp‖SI‖En‖PGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
@@ -982,6 +997,8 @@ Z‖pnp‖SI‖En‖PnP‖https://en.wikipedia.org/wiki/Plug_and_play
 Z*‖pnp/‖MSI‖En‖device with a specification that facilitates the discovery of a hardware component in a system without the need for physical device configuration or user intervention in resolving resource conflicts¦Plug and Play‖
 Z‖poc‖SI‖En‖PoC‖
 Z*‖poc/‖CL‖En‖Proof of Concept‖
+Z‖podl‖SI‖En‖PoDL‖
+*Z‖podl/‖SI‖En‖Power over Data Line‖
 Z‖poe‖SI‖En‖PoE‖
 Z*‖poe/‖SI‖En‖Power over Ethernet‖
 Z‖pov‖SI‖En‖POV‖
@@ -1054,8 +1071,10 @@ Z‖ramss‖SI‖En‖RAMSS‖
 *Z‖ramss/‖CL‖En‖Reliability, Availability, Maintainability, Safety and Security‖
 Z‖rap‖SI‖En‖RAP‖
 Z*‖rap/‖CL‖En‖Risk Acceptance Principle‖
+Z‖rbd‖SI‖En‖RBD‖
+*Z‖rbd/‖SI‖En‖Reliability Block Diagram‖
 Z‖rca‖SI‖En‖RCA‖
-*Z‖rca/‖MSI‖En‖Reference CCS Architecture¦Reference Control-Command and Signalling Architecture‖
+*Z‖rca/‖SI‖En‖Root Cause Analysis‖
 Z‖rcd‖SI‖En‖RCD‖
 Z*‖rcd/‖SI‖En‖Residual Current Device‖
 Z‖rda‖SI‖En‖RDA‖
@@ -1070,6 +1089,8 @@ CZ‖rf‖SI‖En‖RF‖
 *CZ‖rf/‖SI‖En‖Radio Frequency‖
 Z‖rfc‖SI‖En‖RFC‖
 *Z‖rfc/‖MSI‖En‖Request For Comments¦Request For Change‖
+Z‖rfi‖SI‖En‖RFI‖
+*Z‖rfi/‖SI‖En‖Radio Frequency Interference‖
 Z‖rfid‖SI‖En‖RFID‖
 Z*‖rfid/‖SI‖En‖Radio Frequency Identification‖
 Z‖rfp‖SI‖En‖RFP‖
@@ -1092,6 +1113,8 @@ Z‖rpa‖SI‖En‖RPA‖
 Z*‖rpa/‖SI‖En‖Robotics Process Automation‖
 Z‖rpm‖SI‖En‖RPM‖
 *Z‖rpm/‖SI‖En‖Rotation Per Minute‖
+Z‖rpn‖SI‖En‖RPN‖
+*Z‖rpn/‖MSI‖En‖Risk Priority Number¦Severity (of the event) × Probability (of the event occuring) × Detection (probability that the event would not be detected before the user was aware of it)‖
 Z‖rpu‖SI‖En‖RPU‖"peszel"
 Z*‖rpu/‖SI‖En‖Reinforced Polyurethane Hose‖
 CZ‖rrc‖SI‖En‖RRC‖
@@ -1152,8 +1175,8 @@ Z‖sfp‖SI‖En‖SFP‖
 *Z‖sfp/‖SI‖En‖Small Form-factor Pluggable tranceiver‖
 Z‖sfpplus‖SI‖En‖SFP{+}‖
 *Z‖sfpplus/‖SI‖En‖enhanced Small Form-factor Pluggable transceiver‖
-Z‖sftp‖SI‖En‖SFTP‖
-*Z‖sftp/‖SI‖En‖SSH File Transfer Protocol‖https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
+Z‖sftp‖MSI‖En‖SFTP¦S/FTP‖
+*Z‖sftp/‖MSI‖En‖SSH File Transfer Protocol¦Shielded / Foiled Twisted Pair‖https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
 Z‖shf‖SI‖En‖SHF‖
 *Z‖shf/‖SI‖En‖Super High Frequency‖
 Z‖sibo‖SI‖En‖SIBO‖
@@ -1238,6 +1261,8 @@ Z‖swd‖SI‖En‖SWD‖
 *Z‖swd/‖SI‖En‖Serial Wire Debug‖
 Z‖sysml‖SI‖En‖SysML‖
 *Z‖sysml/‖SI‖En‖System Modeling Language‖
+Z‖t1l‖SI‖En‖T1L‖
+*Z‖t1l/‖SI‖En‖T1: single Twisted pair (1 pair of wires), L: Long reach‖
 Z*‖tbc/‖CL‖En‖to be continued‖
 Z‖tbd‖SI‖En‖TBD‖
 Z*‖tbd/‖MSI‖En‖to be decided¦to be defined‖
@@ -1286,6 +1311,8 @@ Z‖togaf‖SI‖En‖TOGAF‖
 *Z‖togaf/‖MSI‖En‖The Open Group Architecture Framework¦is the framework for enterprise architecture  that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture; a high-level approach to design. It is typically modeled at four levels: Business, Application, Data, and Technology. It relies heavily on modularization, standardization, and already existing, proven technologies and products.‖https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework
 Z‖totp‖SI‖En‖TOTP‖https://en.wikipedia.org/wiki/Time-based_One-Time_Password
 Z*‖totp/‖SI‖En‖Time-based One-time Password‖
+Z‖tpm‖SI‖En‖TPM‖
+*Z‖tpm/‖SI‖En‖Trusted Platform Module‖
 Z‖tpu‖SI‖En‖TPU‖
 *Z‖tpu/‖SI‖En‖Thermoplastic Polyurethane‖https://en.wikipedia.org/wiki/Thermoplastic_polyurethane
 Z‖trrs‖SI‖En‖TRRS‖
@@ -1296,6 +1323,8 @@ Z‖tsi‖SI‖En‖TSI‖
 Z*‖tsi/‖MCL‖En‖Technical Specifications for Interoperability¦„techniczne specyfikacje interoperacyjności” (TSI) oznaczają specyfikacje przyjęte zgodnie z niniejszą dyrektywą, obejmujące każdy z podsystemów lub część podsystemu celem spełnienia zasadniczych wymagań oraz zapewnienia interoperacyjności systemu kolei Unii [ŹRÓDŁO: Dyrektywa (UE) 2016/797, art. 2, 11)]‖
 Z‖ttl‖SI‖En‖TTL‖
 *Z‖ttl/‖SI‖En‖Time-To-Live‖
+Z‖tvs‖SI‖En‖TVS‖
+*Z‖tvs/‖SI‖En‖Transient Voltage Suppression‖
 Z‖twi‖SI‖En‖TWI‖
 *Z‖twi/‖SI‖En‖Two Wire Interface‖
 Z‖u2f‖SI‖En‖U2F‖https://en.wikipedia.org/wiki/Universal_2nd_Factor
@@ -1363,6 +1392,8 @@ Z‖usp‖SI‖En‖USP‖
 Z*‖usp/‖SI‖En‖Unique Selling Point‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z‖utc‖SI‖En‖UTC‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 Z*‖utc/‖SI‖En‖Coordinated Universal Time‖
+Z‖uteg‖SI‖En‖uTEG‖
+*Z‖uteg/‖SI‖En‖Ultra-Low Power Thermoelectric Generator‖
 Z‖utf‖SI‖En‖UTF‖
 Z*‖utf/‖CL‖En‖Unicode Transformation Format‖
 *Z‖utf8‖SI‖En‖UTF-8‖
