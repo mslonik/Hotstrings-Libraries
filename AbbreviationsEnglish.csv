@@ -30,7 +30,7 @@ Z*‖a/‖SI‖Dis‖Availability‖
 Z*‖a3‖MSI‖En‖A3¦297 × 420 [mm]‖size of paper sheet in Europe
 Z*‖a4‖MSI‖En‖A4¦210 × 297 [mm]‖
 Z‖abs‖CL‖En‖ABS‖
-*Z‖abs/‖CL‖En‖Anti-lock Braking System‖
+*Z‖abs/‖MSI‖En‖Anti-lock Braking System¦Acrylonitrile Butadiene Styrene¦(C8H8)x·​(C4H6)y·​(C3H3N)z)‖
 Z‖ac‖SI‖En‖AC‖
 Z*‖ac/‖MSI‖En‖Alternating Current¦Axle Counter‖
 Z‖acl‖SI‖En‖ACL‖
@@ -84,7 +84,7 @@ Z‖aql‖SI‖En‖AQL‖
 *Z‖aql/‖SI‖En‖Acceleo Query Language‖EMF models (Eclipse Modeling Framework)
 Z‖ar‖SI‖En‖AR‖
 Z*‖ar/‖SI‖En‖Augmented Reality‖
-*Z‖arcadia/‖SI‖En‖Architecture Analysis and Design Integrated Approach‖
+*Z‖arcadia/‖MSI‖En‖Architecture Analysis and Design Integrated Approach¦Operational Analysis`nSystem Need Analysis`nLogical Architecture`nPhysical Architecture`nEnd Product Breakdown Structure (EPBS)‖
 Z‖arema‖SI‖En‖AREMA‖
 *Z‖arema/‖MSI‖En‖American Railway Engineering and Maintenance-of-Way  Association¦https://www.arema.org/‖
 Z‖arq‖SI‖En‖ARQ‖
@@ -110,14 +110,16 @@ Z‖atacms‖SI‖En‖ATACMS‖
 Z‖atm‖SI‖En‖ATM‖
 *Z‖atm/‖SI‖En‖Automatic Teller Machine‖
 Z‖ato‖SI‖En‖ATO‖
-Z‖ato‖SI‖En‖ATO‖
 *Z‖ato/‖MSI‖En‖Assembly to Order¦to complete an order, typical or standard modules are applied‖
+*Z‖ato/‖MSI‖En‖Assembly to Order¦to complete an order, typical or standard modules are applied¦Automatic Train Operation‖
+*Z‖ato/‖MSI‖En‖Assembly to Order¦to complete an order, typical or standard modules are applied¦Automatic Train Operation¦The subsystem within Automatic Train Control system whichperforms the functions of speed regulation, programmedstopping, and door operation.‖
 Z*‖av/‖SI‖En‖Availability‖
 *Z‖avr‖SI‖En‖AVR‖
 Z‖awg‖SI‖En‖AWG‖
 Z*‖awg/‖SI‖En‖American Wire Gauge‖
 Z‖b2b‖SI‖En‖B2B‖
 Z*‖b2b/‖SI‖En‖Business-to-Business‖
+*Z‖Ball Grid Array‖SI‖En‖Ball Grid Array‖
 *Z‖basic/‖SI‖En‖Beginners' All-purpose Symbolic Instruction Code‖
 *Z‖basic`t‖SI‖En‖BASIC‖
 Z‖bbcode‖SI‖En‖BBCode‖
@@ -132,6 +134,7 @@ Z‖bi‖SI‖Dis‖BI‖
 *Z‖bi/‖MSI‖En‖Basic Integrity (BI)¦Basic Integrity (BI) / SIL0‖
 Z‖bia‖SI‖En‖BIA‖
 *Z‖bia/‖SI‖En‖Business Impact Analysis‖
+Z‖bim‖SI‖En‖BIM‖
 Z‖bios‖SI‖En‖BIOS‖
 Z*‖bios/‖SI‖En‖Basic Input/Output System‖https://en.wikipedia.org/wiki/BIOS
 Z‖bldc‖SI‖En‖BLDC‖
@@ -172,7 +175,7 @@ Z*‖cat/‖CL‖En‖Computer Assisted Translation‖https://en.wikipedia.org/w
 Z‖cbbs‖SI‖En‖CBBS‖
 *Z‖cbbs/‖SI‖En‖Computer Board Bulletin System‖
 Z‖cbm‖SI‖En‖CBM‖
-*Z‖cbm/‖SI‖En‖Condition Based Monitoring‖
+*Z‖cbm/‖SI‖En‖Condition Based Maintenance‖
 Z*‖cc/‖MSI‖En‖CC0 (Creative Commons "No Rights Reserved")¦CC BY (Creative Commons Attribution)¦CC BY-SA (Creative Commons Attribution-ShareAlike)¦CC BY-NC (Creative Commons Attribution-NonCommercial)¦BY-NC-SA (Creative Commons NonCommercial-ShareAlike)¦BY-ND (Creative Commons Attribution-NoDerivatives)¦BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)‖https://en.wikipedia.org/wiki/Creative_Commons_license
 CZ‖ccm‖SI‖En‖CCM‖
 *CZ‖ccm/‖SI‖En‖counter with cipher block chaining message authentication code‖
@@ -211,6 +214,8 @@ Z‖cmyk‖SI‖En‖CMYK‖
 *Z‖cmyk/‖SI‖En‖Cyan Magenta Yellow Key (black)‖
 Z‖cnc‖SI‖En‖CNC‖
 *Z‖cnc/‖SI‖En‖Computer Numerical Control‖
+Z‖cng‖SI‖En‖CNG‖
+*Z‖cng/‖SI‖En‖Compressed Natural Gas‖
 Z‖cny‖SI‖En‖CNY‖
 Z‖coap‖SI‖En‖CoAP‖
 *Z‖coap/‖SI‖En‖Constrained Application Protocol‖
@@ -359,6 +364,7 @@ Z*‖dxf/‖SI‖En‖Drawing Exchange Format‖
 Z*‖dyi/‖SI‖En‖do it yourself‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
 Z‖e/e/pe‖SI‖En‖E/E/PE‖
 *Z‖e/e/pe/‖SI‖En‖electrical / electronic / programmable electronic‖
+*Z‖e27‖SI‖En‖E27‖
 Z‖e2e‖SI‖En‖E2E‖
 *Z‖e2e/‖SI‖En‖End-to-End‖testing procedure
 *Z‖ea/‖SI‖En‖Enterprise architecture (EA) is a business function concerned with the structures and behaviors of a business, especially business roles and processes that create and use business data. The international definition according to the Federation of Enterprise Architecture Professional Organizations is "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a comprehensive approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes."‖https://en.wikipedia.org/wiki/Enterprise_architecture
@@ -409,12 +415,12 @@ Z‖eprom‖SI‖En‖EPROM‖
 *Z‖eprom/‖SI‖En‖Erasable Programmable Read-Only Memory‖
 Z‖eq‖SI‖En‖EQ ‖
 Z*‖eq/‖CL‖En‖Emotional Quotient‖
-Z‖era‖SI‖En‖ERA‖
 *Z‖era/‖MSI‖En‖European Union Agency for Railways¦https://www.era.europa.eu/‖
+*Z‖era`t‖SI‖En‖ERA‖
 Z‖ere‖SI‖En‖ERE‖
 Z*‖ere/‖CL‖En‖Explicit Risk Estimation‖
 Z‖erp‖SI‖En‖ERP‖
-Z*‖erp/‖CL‖En‖Enterprise Resource Planning‖
+*Z‖erp/‖MSI‖En‖Enterprise Resource Planning¦Effective Radiated Power‖
 Z‖esb‖SI‖En‖ESB‖
 *Z‖esb/‖MSI‖En‖Enhanced ShockBurst¦protocol that supports two-way data packet communication, including packet buffering, packet acknowledgment, and automatic retransmission of lost packets. ESB provides radio communication with low power consumption and is designed to be small in code size and easy to use.‖
 Z‖esd‖SI‖En‖ESD‖
@@ -454,6 +460,8 @@ Z‖fbi‖SI‖En‖FBI‖
 *Z‖fbi/‖SI‖En‖Federal Bureau of Investigation‖
 Z‖fbx‖SI‖En‖FBX‖
 Z*‖fbx/‖SI‖En‖(Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006‖
+Z‖fda‖SI‖En‖FDA‖
+*Z‖fda/‖SI‖En‖Fused Deposition Modeling‖
 Z‖fdma‖SI‖En‖FDMA‖
 *Z‖fdma/‖SI‖En‖Frequency Division Multiple Access‖
 Z‖fea‖SI‖En‖FEA‖https://en.wikipedia.org/wiki/LSD
@@ -484,6 +492,8 @@ Z‖fmea‖SI‖En‖FMEA‖
 *Z‖fmea/‖MSI‖En‖Failure Mode and Effects Analysis¦Fault (cause) → Failure Mode (how it fails) → Failure (loss of function)  → Effect (consequence)‖
 Z‖fmeca‖SI‖En‖FMECA‖
 *Z‖fmeca/‖MSI‖En‖Failure Mode Effects and Criticality Analysis¦module`nfunction`nfailure mode`nseverity of failure effects: local (module)`nprobability of failure: local (module)`ncriticality: local (module) = severity × probability`nseverity of failure effects: global (system)`nprobability of failure: global (system)`ncriticality: global (system) = severity × probability`n`ncorrective / mitigation actions¦| module or<br>function | failure <br>mode | severity of<br>failure effects:<br>local (module) | probability of<br>failure<br>local (module) | criticality:<br>local (module)<br>severity × probability | severity of<br>failure effects:<br>global (system) | probability of<br>failure<br>global (system) | criticality:<br>local (module)<br>severity × probability | corrective /<br>mitigation<br>actions |`n|:---------------------:|:----------------:|:-------------------------------------------------:|:-------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------:|`n|        module 1       |   power supply   |                         3                         |                      1                      |                             3                            |                          0                         |                       0                      |                             0                            |                  (…)                  |`n|        module 1       |   communication  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |`n|        module 1       |   configuration  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |`n|        module 1       |   el. component  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |`n| function 1            |                  |                                                   |                                             |                                                          |                                                    |                                              |                                                          |                                       |‖
+Z‖fmeda‖SI‖En‖FMEDA‖
+*Z‖fmeda/‖MSI‖En‖Failure Modes, Effects, and Diagnostic Analysis¦quantitative reliability and safety analysis technique used to evaluate how individual component failures affect the overall system and how well those failures can be detected by diagnostics.‖
 Z‖fmes‖SI‖En‖FMES‖
 *Z‖fmes/‖SI‖En‖Failure Mode Effects Summary‖
 Z‖fo‖SI‖En‖FO‖
@@ -509,6 +519,8 @@ Z‖fte‖SI‖En‖FTE‖
 Z‖ftp‖SI‖En‖FTP‖
 *Z‖ftp/‖SI‖En‖File Ttransfer Protocol‖https://en.wikipedia.org/wiki/File_Transfer_Protocol
 Z*‖fyi/‖SI‖En‖for your information‖https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
+Z‖gan‖SI‖En‖GaN‖
+*Z‖gan/‖SI‖En‖Gallium Nitride‖
 Z‖gddr‖SI‖En‖GDDR‖
 *Z‖gddr/‖SI‖En‖Graphics Double Data Rate Synchronous Dynamic Rrandom-Access Memory‖
 Z‖gddr6‖SI‖En‖GDDR6‖
@@ -572,6 +584,8 @@ Z‖hp‖SI‖En‖HP‖
 Z*‖hp/‖MSI‖En‖Horizontal Pitch¦1x HP = 0.2 '' = 5.08 mm¦1x HP is a unit of length defined by the Eurocard printed circuit board standard used to measure the horizontal width of rack mounted electronic equipment‖https://en.wikipedia.org/wiki/Horizontal_pitch
 Z‖hpf‖SI‖En‖HPS‖
 *Z‖hpf/‖SI‖En‖High Pass Filter‖
+Z‖hpv‖SI‖En‖HPV‖
+*Z‖hpv/‖SI‖En‖Human PapillomaVirus infection‖
 Z‖hrm‖SI‖En‖HRM‖
 *Z‖hrm/‖SI‖En‖Heart Rate Monitor‖
 Z‖hsb‖SI‖En‖HSB‖
@@ -717,6 +731,8 @@ CZ‖le‖SI‖En‖LE‖
 *CZ‖le/‖SI‖En‖Low Energy‖
 Z‖led‖SI‖En‖LED‖
 Z*‖led/‖CL‖En‖Light Emitting Diode‖
+Z‖lga‖SI‖En‖LGA‖
+*Z‖lga/‖SI‖En‖Land Grid Array‖
 Z‖lgbt‖SI‖En‖LGBT‖
 Z*‖lgbt/‖SI‖En‖Lesbian Gay Bisexual Transgender‖
 Z‖lidar‖SI‖En‖LIDAR‖
@@ -731,6 +747,8 @@ Z‖lms‖SI‖En‖LMS‖https://en.wikipedia.org/wiki/Learning_management_syst
 Z*‖lms/‖SI‖En‖Learning Management System‖
 Z‖lnd‖SI‖En‖L&D‖
 Z*‖lnd/‖SI‖En‖Learning and Development‖
+Z‖lng‖SI‖En‖LNG‖
+*Z‖lng/‖SI‖En‖Liquid Natural Gas‖
 Z‖lop‖SI‖En‖LOP‖
 Z*‖lop/‖CL‖En‖List of Open Points‖
 Z‖lpddr‖SI‖En‖LPDDR‖
@@ -738,6 +756,8 @@ Z‖lpddr‖SI‖En‖LPDDR‖
 Z‖lpddr4‖SI‖En‖LPDDR4‖
 Z‖lpf‖SI‖En‖LPF‖
 *Z‖lpf/‖SI‖En‖Low Pass Filter‖
+Z‖lpg‖SI‖En‖LPG‖
+*Z‖lpg/‖SI‖En‖Liquefied Petroleum Gas‖
 CZ‖lpwa‖SI‖En‖LPWA‖
 *CZ‖lpwa/‖SI‖En‖Low Power Wide Area Network‖
 Z‖lpwan‖SI‖En‖LPWAN‖
@@ -775,6 +795,8 @@ Z‖mbse‖SI‖En‖MBSE‖
 *Z‖mbse/‖MSI‖En‖Model Based System Engineering¦notation (language) {+} methodology (of design) {+} tool (design and test environment)‖
 Z‖mbti‖SI‖En‖MBTI‖
 *Z‖mbti/‖MSI‖En‖Myers−Briggs Type Indicator¦ENTJ: extraversion (E), intuition (N), thinking (T), judgment (J)`nISFP: introversion (I), sensing (S), feeling (F), perception (P)‖
+Z‖mcp‖SI‖En‖MCP‖
+*Z‖mcp/‖SI‖En‖Model Context Protocol‖
 Z‖md5‖SI‖En‖MD5‖https://en.wikipedia.org/wiki/MD5
 Z*‖md5/‖MSI‖En‖Message-Digest Algorithm¦hash function producing a 128-bit hash value‖
 Z‖mdt‖SI‖En‖MDT‖
@@ -787,6 +809,7 @@ Z‖mfa‖SI‖En‖MFA‖
 Z*‖mfa/‖SI‖En‖Multi Factor Authentication‖
 Z‖mhf4‖SI‖En‖MHF4‖
 *Z‖mhf4/‖MSI‖En‖Micro High-Frequency 4¦a type of miniature RF (Radio Frequency) coaxial connector used for high-frequency signals, typically up to 6 GHz‖
+*Z‖microsd‖SI‖En‖microSD‖
 Z‖midi‖SI‖En‖MIDI‖
 *Z‖midi/‖SI‖En‖Musical Instrument Digital Interface‖
 Z‖mii‖SI‖En‖MII‖
@@ -861,8 +884,11 @@ Z‖ngo‖SI‖En‖NGO‖
 *Z‖ngo/‖SI‖En‖Nongovermental Organization‖
 Z*‖nic/‖SI‖En‖Network Interface Card‖
 Z*‖nic`t‖SI‖En‖NIC‖
+*Z‖nimh‖SI‖En‖NiMH‖
 Z‖nkro‖SI‖En‖NKRO‖
 *Z‖nkro/‖SI‖En‖n-key rollover; n is a mathematical way to say that the number of items is not defined. n can be anything between zero and infinity; each keyboard key is scanned completely independently by the keyboard hardware, so that each keypress is correctly detected regardless of how many other keys are being pressed or held down at the time‖https://en.wikipedia.org/wiki/Key_rollover
+Z‖nlc‖SI‖En‖nlc‖
+*Z‖nlc/‖MSI‖En‖Networked Lighting Control¦interoperable Bluetooth wireless lighting control systems‖
 Z‖nlp‖SI‖En‖NLP‖
 *Z‖nlp/‖SI‖En‖Neuro-Linguistic Programming‖
 Z‖nobo‖SI‖En‖NoBo‖
@@ -910,11 +936,15 @@ Z‖oled‖SI‖En‖OLED‖
 Z‖omg‖SI‖En‖OMG‖
 Z‖oop‖SI‖En‖OOP‖
 *Z‖oop/‖SI‖En‖Object Oriented Programming‖
+Z‖ooxml‖SI‖En‖OOXML‖Mastercard
+*Z‖ooxml/‖MSI‖En‖Office Open XML¦ISO/IEC 29500‖Mastercard
 Z‖opc‖SI‖En‖OPC‖
 *Z‖opc/‖SI‖En‖Open Platform Communications‖
 *Z‖opcit/‖MSI‖En‖opus citatum, opere citato¦dzieło cytowane, z cytowanego dzieła‖
 Z‖opcua‖SI‖En‖OPC UA‖
 Z*‖opcua/‖SI‖En‖Open Platform Communication Unified Architecture‖
+Z‖openocd‖SI‖En‖OpenOCD‖
+*Z‖openocd/‖SI‖En‖Open On Chip Debugger‖
 Z‖osh‖SI‖En‖OSH‖
 *Z‖osh/‖SI‖En‖Occupational Safety and Health‖
 Z‖osi‖SI‖Dis‖OSI‖
@@ -925,6 +955,8 @@ Z‖osint‖SI‖En‖OSINT‖
 *Z‖osint/‖SI‖En‖Open Source INTelligence‖
 Z‖oslc‖SI‖En‖OSLC‖
 *Z‖oslc/‖SI‖En‖Open Services for Lifecycle Collaboration‖https://en.wikipedia.org/wiki/Open_Services_for_Lifecycle_Collaboration
+Z‖osm‖SI‖En‖OSM‖
+*Z‖osm/‖SI‖En‖Open Standard Module‖
 Z‖oss‖SI‖En‖OSS‖
 *Z‖oss/‖SI‖En‖Open-Source Software‖
 Z‖ostree‖SI‖En‖OSTree‖
@@ -977,12 +1009,16 @@ Z‖phy‖SI‖En‖PHY‖
 *Z‖phy/‖SI‖En‖Physical Layer‖
 Z‖pin‖SI‖En‖PIN‖
 Z*‖pin/‖SI‖En‖Personal Identification Number‖
+Z‖pir‖SI‖En‖PIR‖
+*Z‖pir/‖SI‖En‖Passive InfraRed sensor‖
 Z‖pit‖SI‖En‖PIT‖
 Z*‖pit/‖SI‖En‖Personal Income Tax‖
 CZ‖pki‖SI‖En‖PKI‖
 *CZ‖pki/‖SI‖En‖Public Key Infrastructure‖
 Z‖pkm‖SI‖En‖PKM‖
 *Z‖pkm/‖SI‖En‖Personal Knowledge Management‖
+Z‖pla‖SI‖En‖PLA‖
+*Z‖pla/‖SI‖En‖Polyactic acid, polylactide‖
 Z‖plc‖SI‖En‖PLC‖https://en.wikipedia.org/wiki/Programmable_logic_controller
 Z*‖plc/‖SI‖En‖Programmable Logic Controller‖
 Z‖ple‖SI‖En‖PLE‖
@@ -990,6 +1026,7 @@ Z‖ple‖SI‖En‖PLE‖
 Z‖plm‖SI‖En‖PLM‖
 Z*‖plm/‖CL‖En‖Product Lifecycle Management‖
 *Z‖pm/‖MSI‖En‖Post Meridiem¦Phase Modulated‖
+*Z‖pm/‖MSI‖En‖Point Machine¦Post Meridiem¦Phase Modulated‖
 Z‖pmic‖SI‖En‖PMIC‖
 *Z‖pmic/‖SI‖En‖Power Management Integrated Circuit‖
 Z*‖png/‖SI‖En‖Portable Network Graphics‖
@@ -1148,7 +1185,7 @@ Z‖sbc‖SI‖En‖SBC‖
 Z‖scada‖SI‖En‖SCADA‖https://en.wikipedia.org/wiki/SCADA
 Z*‖scada/‖SI‖En‖Supervisory Control and Data Acquisition‖
 Z‖scm‖SI‖En‖SCM‖
-*Z‖scm/‖MSI‖En‖Supply Chain Management¦Source Code Management‖
+*Z‖scm/‖MSI‖En‖Supply Chain Management¦Source Code Management¦Switch Condition Monitoring‖
 Z‖scorm‖SI‖En‖SCORM‖https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_
 Z*‖scorm/‖SI‖En‖Sharable Content Object Reference Model‖
 Z‖scss‖SI‖En‖SCSS‖
@@ -1195,18 +1232,22 @@ Z‖sla‖SI‖En‖SLA‖
 Z*‖sla/‖CL‖En‖Service-Level Agreement‖
 Z‖slam‖SI‖En‖SLAM‖
 *Z‖slam/‖SI‖En‖Simultaneous Localization And Mapping‖
+Z‖sma‖SI‖En‖SMA‖
+*Z‖sma/‖MSI‖En‖SubMiniature version A¦semi-precision coaxial RF connectors‖
 CZ‖smd‖SI‖En‖SMD‖https://en.wikipedia.org/wiki/Surface-mount_technology
 *CZ‖smd/‖SI‖En‖Surface-Mount Device‖https://en.wikipedia.org/wiki/Surface-mount_technology
 Z‖smime‖SI‖En‖S/MIME‖https://en.wikipedia.org/wiki/S/MIME
 Z*‖smime/‖SI‖En‖Secure/Multipurpose Internet Mail Extensions‖
 Z‖sms‖SI‖En‖SMS‖
-Z*‖sms/‖CL‖En‖Short Message Service‖
+*Z‖sms/‖MSI‖En‖Short Message Service¦Safety Management System‖
 Z‖smt‖SI‖En‖SMT‖
 *Z‖smt/‖SI‖En‖Surface Mount Technology‖
 Z‖snmp‖SI‖En‖SNMP‖https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
 Z*‖snmp/‖SI‖En‖Simple Network Management Protocol‖
 Z‖snr‖SI‖En‖SNR‖
 *Z‖snr/‖SI‖En‖Signal-to-Noise Ratio‖
+Z‖sntp‖SI‖En‖SNTP‖
+*Z‖sntp/‖SI‖En‖Simple Network Time Protocol‖
 Z‖so-dimm‖SI‖En‖SO-DIMM‖
 *Z‖so-dimm/‖SI‖En‖Small Outline DIMM‖
 Z‖soc‖SI‖En‖SoC‖
@@ -1490,3 +1531,4 @@ Z‖xxxl‖SI‖En‖XXXL‖
 *Z‖xxxl/‖SI‖En‖3x eXtra Large‖
 Z‖yaml‖SI‖En‖YAML‖
 *Z‖yaml/‖SI‖En‖YAML Ain't Markup Language‖
+Z‖znal‖SI‖En‖ZnAl‖

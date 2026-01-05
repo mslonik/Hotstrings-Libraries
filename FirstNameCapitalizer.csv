@@ -16,7 +16,9 @@ Example:		filip → Filip
 *Z‖agata‖CL‖En‖Agata‖
 Z*‖agnieszka‖SI‖En‖Agnieszka‖
 *Z‖albert‖SI‖En‖Albert‖
+*Z‖aleksan‖SI‖En‖Aleksan‖
 *Z‖alfred‖SI‖En‖Alfred‖
+*Z‖andrea‖SI‖En‖Andrea‖
 *Z‖angelik‖SI‖En‖Angelik‖
 Z‖anna‖SI‖En‖Anna‖
 Z‖arcadia‖SI‖En‖Arcadia‖
@@ -35,6 +37,7 @@ Z*‖bolesław‖SI‖En‖Bolesław‖
 Z‖cezary‖SI‖En‖Cezary‖
 *Z‖charlie‖SI‖En‖Charlie‖
 Z‖christ‖SI‖En‖Christ‖
+*Z‖christian‖SI‖En‖Christian‖
 *Z‖christoph‖SI‖En‖Christoph‖
 *Z‖chrystus‖SI‖En‖Chrystus‖
 *Z‖clair‖SI‖En‖Clair‖
@@ -42,6 +45,7 @@ Z‖christ‖SI‖En‖Christ‖
 Z*‖daniel‖SI‖En‖Daniel‖https://en.wikipedia.org/wiki/Network_Time_Protocol
 *Z‖danut‖SI‖En‖Danut‖
 *Z‖darius‖SI‖En‖Darius‖
+*Z‖darka‖SI‖En‖Darka‖
 *Z‖david‖SI‖En‖David‖
 *Z‖derek‖SI‖En‖Derek‖
 Z‖dino‖SI‖En‖Dino‖
@@ -63,6 +67,7 @@ CZ‖eli‖SI‖En‖Eli‖
 Z*‖filip‖SI‖En‖Filip‖
 *Z‖florian‖SI‖En‖Florian‖Dieter Rams
 *Z‖franz‖SI‖En‖Franz‖
+*Z‖gerald‖SI‖En‖Gerald‖
 *Z‖grazyn‖SI‖En‖Grażyn‖Dieter Rams
 *Z‖grażyn‖SI‖En‖Grażyn‖Dieter Rams
 *Z‖grzegorz‖SI‖En‖Grzegorz‖Dieter Rams
@@ -78,6 +83,7 @@ Z*‖heinrich‖SI‖En‖Heinrich‖Current 1-digit day of the week (1-7). 1 is
 *Z‖helmut‖SI‖En‖Helmut‖
 *CZ‖hendrik‖SI‖En‖Hendrik‖
 *Z‖henryk‖SI‖En‖Henryk‖
+*Z‖hubert‖SI‖En‖Hubert‖
 *Z‖iga‖SI‖En‖Iga‖
 Z‖irena‖SI‖En‖Irena‖
 *Z‖ireneusz‖SI‖En‖Ireneusz‖
@@ -150,6 +156,7 @@ Z‖marzen‖SI‖En‖Marzen‖
 *Z‖mateusz‖SI‖En‖Mateusz‖Dieter Rams
 *Z‖mathias‖SI‖En‖Mathias‖
 Z*‖matthias‖SI‖En‖Matthias‖
+*Z‖michael‖SI‖En‖Michael‖
 *Z‖mieczyslaw‖SI‖En‖Mieczysław‖
 *Z‖mieczysław‖SI‖En‖Mieczysław‖
 *Z‖mikolaj‖SI‖En‖Mikołaj‖
@@ -182,6 +189,9 @@ Z‖rene‖SI‖En‖René‖
 *Z‖Roksan‖SI‖En‖Roksan‖
 Z‖rysiowi‖SI‖En‖Rysiowi‖
 *Z‖ryszard‖SI‖En‖Ryszard‖https://en.wikipedia.org/wiki/HIV/AIDS
+*Z‖salambo‖SI‖En‖Salambo‖
+*Z‖sandr‖SI‖En‖Sandr‖
+*Z‖sascha‖SI‖En‖Sascha‖
 Z*‖sebastian‖SI‖En‖Sebastian‖
 *Z‖silvi‖SI‖En‖Silvi‖
 *Z‖slawomir‖SI‖En‖Sławomir‖

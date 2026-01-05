@@ -177,6 +177,7 @@ Z*‖hospital/‖SI‖En‖🏥‖{U+1F3E5}
 *Z‖ice/‖SI‖En‖🧊‖
 *Z‖icircle/‖SI‖En‖ⓘ‖
 *Z‖ill/‖SI‖En‖🤒‖
+*Z‖information/‖SI‖En‖ℹ‖
 *Z‖issue/‖SI‖En‖💬‖
 *Z‖jar/‖SI‖En‖jar/‖
 *Z‖key/‖MSI‖En‖🔑¦🗝‖
@@ -237,7 +238,7 @@ Z*‖package/‖SI‖En‖📦‖U+1F4E6
 *Z‖page/‖SI‖En‖🗏‖
 *Z‖paintbrush/‖SI‖En‖🖌‖
 *Z‖parrot/‖SI‖En‖🦜‖
-*Z‖pc/‖MSI‖En‖🖥¦Personal Computer‖
+*Z‖pc/‖MSI‖En‖🖥¦Personal Computer¦Profit Center‖
 *Z‖peacock/‖SI‖En‖🦚‖
 *Z‖pedestrian/‖SI‖En‖🚶‖
 *Z‖pen/‖SI‖En‖🖊‖
@@ -266,6 +267,7 @@ Z*‖printer/‖SI‖En‖🖨‖
 *Z‖ramemoji/‖SI‖En‖🐏‖
 *Z‖rat/‖SI‖En‖🐀‖
 *Z‖recycle/‖SI‖En‖♻🚮‖
+*Z‖replacement/‖SI‖En‖�‖
 Z*‖reserved/‖SI‖En‖Ⓡ‖https://en.wikipedia.org/wiki/SCADA
 *Z‖rocket/‖SI‖En‖🚀‖
 *Z‖rollingstock/‖SI‖En‖🚅‖

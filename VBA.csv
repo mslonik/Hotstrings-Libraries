@@ -1,18 +1,22 @@
-﻿*Z‖bb/‖SI‖En‖BuildingBlocks‖
-*Z‖moduleheader‖CL‖En‖    Dim FileName As String`n    FileName = C_F_Macros`n    `n    Dim ModuleName As String`n    ModuleName = C_M_Macros`n    `n    Dim MacroName As String`n    MacroName = "YourMacroName"`n    `n    Dim MsgBoxTitle As String`n    MsgBoxTitle = FileName & " : " & ModuleName & " : " & MacroName‖
+﻿*Z‖activedocument‖SI‖En‖ActiveDocument‖
+*Z‖bb/‖SI‖En‖BuildingBlocks‖
 Z‖msgbox‖SI‖En‖MsgBox‖
 *Z‖msgboxtemplate‖CL‖En‖MsgBox _`n	Prompt:="Line 1" & vbNewLine & _`n	"Line 2", _`n	Buttons:=vbCritical + vbOKOnly, _`n	Title:=MsgBoxTitle‖
+*Z‖subheader‖CL‖En‖    Dim FileName As String:		FileName = C_F_Macros    `n    Dim ModuleName As String:	ModuleName = C_M_Macros    `n    Dim MacroName As String:    MacroName = "YourMacroName"    `n    Dim MsgBoxTitle As String:	MsgBoxTitle = FileName & " : " & ModuleName & " : " & MacroName‖
 *Z‖vba13‖SI‖En‖run-time error '13': type mismatch‖
 *Z‖vba4102‖CL‖En‖run-time error '4102': overflow‖
 *Z‖vba4120‖SI‖En‖run-time error '4120': bad parameter‖
+*Z‖vba4198/‖SI‖En‖Run-time error '4198': Command failed‖
 *Z‖vba424/‖SI‖En‖run-time error '424': object required‖
 *Z‖vba4248/‖SI‖En‖this command is not available because no document is open‖
-*Z‖vba438‖SI‖En‖run-time error '438': object doesn't support this poperty or method‖
+*Z‖vba438‖SI‖En‖run-time error '438': object doesn't support this property or method‖
 *Z‖vba4605‖CL‖En‖run-time error '4605': this method or property is not available because the object referes to the end of a table row‖
 *Z‖vba4694‖SI‖En‖run-time error '4694': this theme can't be found‖
 *Z‖vba5/‖SI‖En‖run-time error '5': invalid procedure call or argument‖
+*Z‖vba5173/‖SI‖En‖run-time error '5173': this style name already exists or is reserved for a built-in style‖
 *Z‖vba52‖SI‖En‖run-time error '52': bad-file name or number‖
 *Z‖vba5346‖SI‖En‖run-time error '5346': Word cannot change the function of the specified key‖
+*Z‖vba5362‖CL‖En‖run-time error '5362': Line spacing must be at least {e}‖
 *Z‖vba55/‖SI‖En‖run-time error '55': file already open‖
 *Z‖vba5560/‖SI‖En‖run-time error '5560': the find what text contains a pattern match expression which is not valid‖
 *Z‖vba5692‖SI‖En‖run-time error '5692': ^{$} is not a valid character for the find what box or is not supported when use wildcards check box is selected‖
@@ -20,10 +24,15 @@ Z‖msgbox‖SI‖En‖MsgBox‖
 *Z‖vba5834‖CL‖En‖run-time error '5834': item with specified name does not exist‖
 *Z‖vba5852‖SI‖En‖run-time error '5852': requested object is not available‖
 *Z‖vba5853‖SI‖En‖run-time error '5853': invalid parameter‖
+*Z‖vba5890/‖SI‖En‖run-time error '5890': this list name is already being used. Please choose another one.‖
 *Z‖vba5894‖SI‖En‖run-time error '5894': command only available in print layout view‖
+*Z‖vba5904/‖SI‖En‖run-time error '5904': cannot edit Range‖
 *Z‖vba5937‖SI‖En‖run-time error '5937': cannot copy content between these two ranges‖
 *Z‖vba5941‖SI‖En‖run-time error '5941': the requested member of the collection does not exist‖
+*Z‖vba5974/‖SI‖En‖run-time error '5974': bullet format strings cannot have number placeholders‖
 *Z‖vba5991‖SI‖En‖run-time error '5991': cannot access individual rows in this collection because the table has vertically merged cells‖
 *Z‖vba6316/‖SI‖En‖run-time error '6136': cannot insert text into a table cell which has been merged into another cell.‖
 *Z‖vba91‖SI‖En‖run-time error '91': object variable or with block variable not set‖
 *Z‖vbabb‖SI‖En‖Building Blocks‖
+Z‖vbe‖SI‖En‖VBE‖
+*Z‖vbe/‖SI‖En‖Visual Basic Editor‖

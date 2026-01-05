@@ -21,6 +21,8 @@ ZC‖cntk‖SI‖En‖CNTK‖
 Z*‖cntk/‖CL‖En‖Centrum Naukowo-Techniczne Kolejnictwa‖
 ZC‖dtr‖SI‖En‖DTR‖
 Z*‖dtr/‖MCL‖En‖Dokumentacja Techniczno-Ruchowa¦System Operation and Maintenance Manual¦Operation and Maintenance Manual‖
+Z‖edo‖SI‖En‖EDO‖
+*Z‖edo/‖SI‖En‖Emerytalne Dziesięcioletnie Oszczędnościowe‖
 ZC‖ekg‖SI‖En‖EKG‖
 Z*‖ekg/‖SI‖En‖Elektrokardiografia‖https://pl.wikipedia.org/wiki/Elektrokardiografia
 Z‖ezt‖SI‖En‖EZT‖
@@ -70,6 +72,8 @@ ZC‖ue‖SI‖En‖UE‖
 Z*‖ue/‖SI‖En‖Unia Europejska‖
 Z‖uodo‖SI‖En‖UODO‖
 *Z‖uodo/‖SI‖En‖Urząd Ochrony Danych Osobowych‖
+Z‖uokik‖SI‖En‖UOKiK‖
+*Z‖uokik/‖SI‖En‖Urząd Ochrony Konkurencji i Konsumentów‖
 Z‖usg‖SI‖En‖USG‖
 *Z‖usg/‖SI‖En‖ultrasonografia‖
 ZC‖utk‖SI‖En‖UTK‖
