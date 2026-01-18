@@ -19,6 +19,7 @@ Z‖msgbox‖SI‖En‖MsgBox‖
 *Z‖vba5362‖CL‖En‖run-time error '5362': Line spacing must be at least {e}‖
 *Z‖vba55/‖SI‖En‖run-time error '55': file already open‖
 *Z‖vba5560/‖SI‖En‖run-time error '5560': the find what text contains a pattern match expression which is not valid‖
+*Z‖vba5648/‖SI‖En‖run-time error 5648: the built-in styles Normal and Default Paragraph Font cannot be based on any style‖
 *Z‖vba5692‖SI‖En‖run-time error '5692': ^{$} is not a valid character for the find what box or is not supported when use wildcards check box is selected‖
 *Z‖vba5825‖SI‖En‖run-time error '5725': object has been deleted‖
 *Z‖vba5834‖CL‖En‖run-time error '5834': item with specified name does not exist‖

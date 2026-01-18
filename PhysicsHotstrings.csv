@@ -31,6 +31,7 @@ Z*‖/=‖CL‖En‖≠‖
 *Z‖1/9‖SI‖En‖⅑‖
 *Z‖2/3‖SI‖En‖⅔‖
 *Z‖2/5‖SI‖En‖⅖‖
+*CZ‖230vac‖SI‖En‖230 V AC‖
 *Z‖3/4‖SI‖En‖¾‖
 *Z‖3/5‖SI‖En‖⅗‖
 *Z‖3/8‖SI‖En‖⅜‖
@@ -102,8 +103,10 @@ Z‖mbit‖SI‖En‖Mbit‖
 *Z‖mbit/‖SI‖En‖megabit 1000²‖
 Z‖mbps‖SI‖En‖Mbps‖
 *Z‖mbps/‖MSI‖En‖Mbit/s¦megabit per second¦10⁶‖
+*Z‖mcg/‖MSI‖En‖microgram¦10⁻⁶ g‖
 Z‖mhz‖SI‖En‖MHz‖
 Z‖mib‖SI‖En‖MiB‖
+*Z‖microg‖SI‖En‖μg‖
 Z*‖minusplus‖CL‖En‖±‖
 C1Z‖mj‖SI‖En‖MJ‖
 Z*‖mkropka‖MSI‖En‖·¦×‖U+00B7 | U+00D7
@@ -122,7 +125,7 @@ Z‖nm‖SI‖En‖Nm‖Newton-metre
 *Z‖notin/‖SI‖En‖∉‖
 *?Z‖oddo‖CL‖En‖÷‖
 Z*?‖ohm‖CL‖En‖Ω‖
-*Z‖paragraph/‖SI‖En‖§‖
+*Z‖paragraph/‖MSI‖En‖§¦¶‖
 Z*‖per mille‖SI‖En‖‰‖
 Z‖ph‖SI‖En‖pH‖
 Z*‖plusminus‖CL‖En‖±‖

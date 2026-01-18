@@ -54,6 +54,7 @@ Z‖ai‖SI‖En‖AI‖
 *Z‖ai/‖SI‖En‖Artificial Intelligence‖
 Z‖aids‖SI‖En‖AIDS‖
 *Z‖aids/‖SI‖En‖Acquired Immunodeficiency Syndrome‖https://en.wikipedia.org/wiki/HIV/AIDS
+Z‖aiml‖SI‖En‖AI/ML‖
 *Z‖aka/‖SI‖En‖also known as‖
 Z‖altgr‖SI‖En‖AltGr‖
 Z*‖altgr/‖MSI‖En‖alternate graphics¦LControl & RAlt‖
@@ -186,6 +187,8 @@ Z*‖cctv/‖CL‖En‖Closed-Circuit Television‖
 Z‖ce‖SI‖En‖CE‖
 Z*‖ce/‖MSI‖En‖Conformité Européenne¦The CE mark indicates that the product may be sold freely in any part of the European Economic Area, regardless of its country of origin.‖
 Z*‖ce/‖MSI‖En‖Conformité Européenne¦The CE mark indicates that the product may be sold freely in any part of the European Economic Area, regardless of its country of origin.¦Znak CE wskazuje, że produkt może zostać wprowadzony do obrotu w każdym z państw europejskiej  wspólnoty gospodarczej, bez względu na jego kraj pochodzenia.‖
+CZ‖cefr‖SI‖En‖CEFR‖
+*CZ‖cefr/‖SI‖En‖Common European Framework of Reference for Languages‖
 Z‖ceo‖SI‖En‖CEO‖
 Z*‖ceo/‖CL‖En‖Chief Executive Officer‖
 Z‖cfo‖SI‖En‖CFO‖
@@ -261,7 +264,7 @@ Z*‖css/‖SI‖En‖Cascading Style Sheets‖
 Z‖cto‖SI‖En‖CTO‖
 *Z‖cto/‖SI‖En‖Chief Technical Officer‖
 Z‖cv‖SI‖En‖CV‖course of life
-Z‖cv/‖SI‖En‖Curriculum Vitae‖
+*Z‖cv/‖SI‖En‖Curriculum Vitae‖
 Z‖cwd‖SI‖En‖CWD‖
 *Z‖cwd/‖SI‖En‖Current Working Directory‖
 Z‖daas‖SI‖En‖DaaS‖
@@ -510,6 +513,8 @@ Z‖fps‖SI‖En‖FPS‖
 *Z‖fps/‖SI‖En‖Frames Per Seconds‖
 Z‖fpu‖SI‖En‖FPU‖
 *Z‖fpu/‖SI‖En‖Floating-Point Unit‖
+Z‖fracas‖SI‖En‖FRACAS‖
+*Z‖fracas/‖SI‖En‖Failure Reporting, Analysis, and Corrective Action System‖
 Z‖frmcs‖SI‖En‖FRMCS‖
 *Z‖frmcs/‖SI‖En‖Future Railway Mobile Communication System‖
 Z‖fta‖SI‖En‖FTA‖
@@ -615,7 +620,7 @@ Z‖iata‖SI‖En‖IATA‖
 *Z‖iata/‖SI‖En‖International Air Transport Association‖
 *‖ibid/‖MSI‖En‖ibidem¦tamże, w tym samym miejscu‖
 Z‖ic‖SI‖En‖IC‖
-Z*‖ic/‖CL‖En‖Interoperability Constituent‖
+*Z‖ic/‖MSI‖En‖Interoperability Constituent¦Integrated Circuit‖
 Z‖icbm‖SI‖En‖ICBM‖
 *Z‖icbm/‖SI‖En‖InterContinental Ballistic Missile‖
 *Z‖id`t‖SI‖En‖ID‖
@@ -687,6 +692,8 @@ Z‖itsm‖SI‖En‖ITSM‖
 *Z‖itsm/‖SI‖En‖IT Service Management‖
 Z‖itu‖SI‖En‖ITU‖
 *Z‖itu/‖SI‖En‖International Telecommunication Union‖
+Z‖iu‖SI‖En‖IU‖
+*Z‖iu/‖SI‖En‖International Units‖
 Z‖javac/‖SI‖En‖Java compiler‖
 Z*‖javascript‖SI‖En‖JavaScript‖
 Z‖jdk‖SI‖En‖JDK‖
@@ -820,6 +827,8 @@ Z‖mime‖SI‖En‖MIME‖
 *Z‖mimo`t‖SI‖En‖MIMO‖
 Z‖mit‖SI‖En‖MIT‖
 *Z‖mit/‖SI‖En‖Massachusetts Institute of Technology‖
+*Z‖ml/‖SI‖En‖Machine Learning‖
+*Z‖ml`t‖SI‖En‖ML‖
 Z‖mmc‖SI‖En‖MMC‖
 *Z‖mmc/‖SI‖En‖Multi Media Card‖
 CZ‖mmtc‖SI‖En‖mMTC‖
@@ -831,6 +840,8 @@ Z‖mom‖SI‖En‖MoM‖
 Z*‖mom/‖SI‖En‖Minutes of Meeting‖
 Z‖mosFET‖SI‖En‖MOSFET‖
 *Z‖mosfet/‖SI‖En‖Metal-Oxide-Semiconductor Field-Effect Transistor‖
+Z‖mpls‖SI‖En‖MPLS‖
+*Z‖mpls/‖SI‖En‖Multiprotocol Label Switching‖
 Z‖mqtt‖SI‖En‖MQTT‖
 *Z‖mqtt/‖MSI‖En‖Message Quenue Telemetry Transport¦lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service. It is designed for connections with remote locations that have devices with resource constraints or limited network bandwidth, such as in the Internet of Things (IoT). It must run over a transport protocol that provides ordered, lossless, bi-directional connections—typically, TCP/IP,[1] but also possibly over QUIC.It is an open OASIS standard and an ISO recommendation (ISO/IEC 20922).‖
 Z‖mri‖SI‖En‖MRI‖
@@ -1516,7 +1527,7 @@ Z‖wta‖SI‖En‖WTA‖
 Z‖wwf‖SI‖En‖WWF‖
 *Z‖wwf/‖SI‖En‖World Wide Fund for Nature‖https://en.wikipedia.org/wiki/World_Wide_Fund_for_Nature
 Z‖www‖SI‖En‖WWW‖
-Z*‖www/‖SI‖En‖World Wide Web‖
+*Z‖www/‖MSI‖En‖World Wide Web¦🌐‖
 Z‖wysiwyg‖SI‖En‖WYSIWYG‖
 Z*‖wysiwyg/‖SI‖En‖What You See Is What You Get‖1=U+00E5|2=U+00E4|3=U+00E2|4=U+00E0|5=U+00E1|6=U+0105|7=U+0101
 Z‖wysiwym‖SI‖En‖WYSIWYM‖

@@ -50,7 +50,7 @@ Z*‖newline/‖SI‖En‖{U+000A}‖
 Z*?‖nobreakspace/‖SI‖En‖{U+00A0}‖No-Break Space
 *Z‖nonbreakinghyphen/‖SI‖En‖‑‖U+2011
 *Z‖pagehole‖MSI‖En‖80 mm apart, diameter 6 ±0.5 mm, 105 mm from the nearest edge (top and bottom), 12 mm from the edge of the paper¦[source: ISO 838]‖
-*Z‖paragraphsign/‖SI‖En‖§‖paragraph symbol in Microsoft Word
+*Z‖paragraphsign/‖MSI‖En‖§¦¶‖paragraph symbol in Microsoft Word
 Z*‖pauza/‖SI‖En‖—‖
 *Z‖pilcrow/‖SI‖En‖¶‖paragraph symbol in Microsoft Word
 Z*‖półpauza/‖SI‖En‖–‖

@@ -107,6 +107,8 @@ Z‖svg‖SI‖En‖SVG‖
 Z*‖svg/‖SI‖En‖Scalable Vector Graphics‖
 Z‖txt‖SI‖En‖TXT‖
 *Z‖txt/‖SI‖En‖TeXT file‖
+Z‖vcf‖SI‖En‖VCF‖
+*Z‖vcf/‖SI‖En‖Virtual Contact File‖
 Z‖wav‖SI‖En‖WAV‖
 *Z‖wav/‖SI‖En‖audio file format standard, developed by IBM and Microsoft, for storing an audio bitstream on personal computers.‖https://en.wikipedia.org/wiki/WAV
 Z‖xlsx‖SI‖En‖XLSX‖
