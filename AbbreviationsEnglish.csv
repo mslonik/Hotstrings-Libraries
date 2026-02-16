@@ -12,6 +12,7 @@ Examples:	Special triggerstrings: d(t, o, h): d(.ahk, B0?, ) (empty hotstring), 
 
 *Z‖-/‖MCL‖En‖_¦- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¦-----------------------------------------------------------------------------------------¦= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =¦===========================================================¦# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #¦____________________________________________________‖
 *Z‖101/‖SI‖En‖beginner's guide‖
+Z‖1d‖MSI‖En‖1D¦one-dimensional‖
 Z*‖2d‖MSI‖En‖2D¦two-dimensional‖
 Z‖2fa‖SI‖En‖2FA‖
 Z*‖2fa/‖SI‖En‖Two-Factor Authentication‖
@@ -398,6 +399,8 @@ CZ‖embb‖SI‖En‖eMBB‖
 *CZ‖embb/‖SI‖En‖enhanced Mobile Broadbend‖
 Z‖emc‖SI‖En‖EMC‖
 Z*‖emc/‖CL‖En‖Electro-Magnetic Compatibility‖
+Z‖emcd‖SI‖En‖EMCD‖
+*Z‖emcd/‖SI‖En‖Electromagnetic Compatibility Directive (Directive 2014/30/EU)‖
 Z‖emea‖SI‖En‖EMEA‖
 *Z‖emea/‖SI‖En‖Europe, the Middle East and Africa‖
 Z‖emf‖SI‖En‖EMF‖https://en.wikipedia.org/wiki/Windows_Metafile#EMF
@@ -471,6 +474,8 @@ Z‖fea‖SI‖En‖FEA‖https://en.wikipedia.org/wiki/LSD
 *Z‖fea/‖SI‖En‖Finite Element Analysis‖https://en.wikipedia.org/wiki/LSD
 Z‖fem‖SI‖En‖FEM‖
 *Z‖fem/‖MSI‖En‖Front End Module¦In a radio receiver circuit, the RF front end, short for radio frequency front end, is a generic term for all the circuitry between a receiver’s antenna input up to and including the mixer stage2. It consists of all the components in the receiver that process the signal at the original incoming radio frequency (RF), before it is converted to a lower intermediate frequency (IF).`n`nKey components of an RF FEM often include:`n`nA band-pass filter (BPF) to reduce image response. This removes any signals at the image frequency, which would otherwise interfere with the desired signal. It also prevents strong out-of-band signals from saturating the input stages.`nAn RF amplifier, often called the low-noise amplifier (LNA). Its primary responsibility is to increase the sensitivity of the receiver by amplifying weak signals without contaminating them with noise, so that they can stay above the noise level in succeeding stages. It must have a very low noise figure (NF).`nA local oscillator (LO) which generates a radio frequency signal at an offset from the incoming signal, which is mixed with the incoming signal.`nThe mixer, which mixes the incoming signal with the signal from the local oscillator to convert the signal to the intermediate frequency (IF).‖
+Z‖feram‖SI‖En‖FeRAM‖
+*Z‖feram/‖SI‖En‖Ferroelectric RAM‖
 Z‖fet‖SI‖En‖FET‖
 *Z‖fet/‖SI‖En‖Field-Effect Transistor‖
 Z‖fft‖SI‖En‖FFT‖https://en.wikipedia.org/wiki/Inertial_measurement_unit
@@ -515,6 +520,8 @@ Z‖fpu‖SI‖En‖FPU‖
 *Z‖fpu/‖SI‖En‖Floating-Point Unit‖
 Z‖fracas‖SI‖En‖FRACAS‖
 *Z‖fracas/‖SI‖En‖Failure Reporting, Analysis, and Corrective Action System‖
+Z‖fram‖SI‖En‖FRAM‖
+*Z‖fram/‖SI‖En‖Ferroelectric RAM‖
 Z‖frmcs‖SI‖En‖FRMCS‖
 *Z‖frmcs/‖SI‖En‖Future Railway Mobile Communication System‖
 Z‖fta‖SI‖En‖FTA‖
@@ -554,6 +561,8 @@ Z‖gpo‖SI‖En‖GPO‖
 *Z‖gpo/‖SI‖En‖General Purpose Output‖
 Z‖gps‖SI‖En‖GPS‖
 Z*‖gps/‖CL‖En‖Global Positioning System‖
+Z‖gpsd‖SI‖En‖GPSD‖
+*Z‖gpsd/‖SI‖En‖General Product Safety Directive 2001/95/EC‖
 Z‖gpt‖SI‖En‖GPT‖
 Z*‖gpt/‖SI‖En‖Generative Pre-trained Transformer‖
 Z‖gpu‖SI‖En‖GPU‖
@@ -623,6 +632,8 @@ Z‖ic‖SI‖En‖IC‖
 *Z‖ic/‖MSI‖En‖Interoperability Constituent¦Integrated Circuit‖
 Z‖icbm‖SI‖En‖ICBM‖
 *Z‖icbm/‖SI‖En‖InterContinental Ballistic Missile‖
+Z‖ict‖SI‖En‖ICT‖
+*Z‖ict/‖SI‖En‖Information and Communication Technologies‖
 *Z‖id`t‖SI‖En‖ID‖
 Z‖ide‖SI‖En‖IDE‖
 Z*‖ide/‖SI‖En‖Integrated Development Environment‖
@@ -664,7 +675,7 @@ Z‖irda‖SI‖En‖IrDA‖
 Z‖ireb‖SI‖En‖IREB‖
 *Z‖ireb/‖SI‖En‖International Requirements Engineering Board‖
 Z*‖iris/‖CL‖En‖International Railway Industry Standard for the evaluation of railway management systems‖
-*Z‖iris`t‖SI‖En‖IRIS‖
+*Z‖iris`t‖MSI‖En‖Iris¦IRIS‖
 Z‖isa‖SI‖En‖ISA‖
 *Z‖isa/‖SI‖En‖Instruction Set Architecture‖
 Z‖isae‖SI‖En‖ISAE‖
@@ -673,6 +684,8 @@ Z‖isbn‖SI‖En‖ISBN‖
 Z*‖isbn/‖SI‖En‖International Standard Book Number‖https://en.wikipedia.org/wiki/ISBN
 Z‖isdn‖SI‖En‖ISDN‖
 *Z‖isdn/‖SI‖En‖Integrated Services Digital Network‖
+Z‖isim‖SI‖En‖iSIM‖
+*Z‖isim/‖SI‖En‖integrated SIM‖
 Z‖isis‖SI‖En‖ISIS‖
 *Z‖isis/‖SI‖En‖Islamic State of Iraq and Syria‖
 Z‖ism‖SI‖En‖ISM‖
@@ -747,7 +760,7 @@ Z‖lidar‖SI‖En‖LIDAR‖
 Z‖lifo‖SI‖En‖LIFO‖
 *Z‖lifo/‖SI‖En‖Last-In, First-Out‖
 Z‖llc‖SI‖En‖LLC‖
-*Z‖llc/‖MSI‖En‖Life Cycle Cost¦Limited Liability Company‖
+*Z‖llc/‖MSI‖En‖Life Cycle Cost¦Limited Liability Company¦Lobical Link Control‖
 Z‖llm‖SI‖En‖LLM‖
 *Z‖llm/‖SI‖En‖Large Language Model‖
 Z‖lms‖SI‖En‖LMS‖https://en.wikipedia.org/wiki/Learning_management_system
@@ -791,7 +804,7 @@ Z‖lzma‖SI‖En‖LZMA‖
 *Z‖lzma/‖SI‖En‖Lempel-ZivMArkov chain algorithm‖
 Z‖lzma2‖SI‖En‖LZMA2‖
 Z‖mac‖SI‖En‖MAC‖https://en.wikipedia.org/wiki/MAC_address
-*Z‖mac/‖SI‖En‖Media Access Control‖
+*Z‖mac/‖SI‖En‖Medium Access Control‖
 Z‖marte‖SI‖En‖MARTE‖
 *Z‖marte/‖SI‖En‖Modeling and Analysis of Real-Time and Embedded systems‖
 Z‖mba‖SI‖En‖MBA‖
@@ -875,6 +888,8 @@ Z‖mvne‖SI‖En‖MVNE‖
 *Z‖mvne/‖SI‖En‖Mobile Virtual Network Enabler‖
 Z‖mvno‖SI‖En‖MVNO‖
 *Z‖mvno/‖SI‖En‖Mobile Virtual Network Operator‖
+Z‖mvp‖SI‖En‖MVP‖
+*Z‖mvp/‖MSI‖En‖Most Valuable Person¦Minimum Valuable Product‖
 Z*‖n/a/‖SI‖En‖not applicable‖
 Z*‖na/‖SI‖En‖not applicable‖
 Z*‖nas/‖SI‖En‖Network Attached Storage‖
@@ -940,6 +955,7 @@ Z‖ohsas‖SI‖En‖OHSAS‖https://pl.wikipedia.org/wiki/OHSAS_18001
 Z*‖ohsas/‖SI‖En‖Occupational Health and Safety Assessment Series‖
 Z‖ojeu‖SI‖En‖OJEU‖
 *Z‖ojeu/‖SI‖En‖Official Journal of European Union‖
+*Z‖ok`t‖SI‖En‖OK‖
 *Z‖ole/‖SI‖En‖Object Linking & Embedding‖
 Z‖ole`t‖SI‖En‖OLE‖
 Z‖oled‖SI‖En‖OLED‖
@@ -996,6 +1012,8 @@ Z‖pda‖SI‖En‖PDA‖
 *Z‖pda/‖SI‖En‖Personal Digital Assistant‖
 Z‖pdn‖SI‖En‖PDN‖
 *Z‖pdn/‖SI‖En‖Product Discontinuance Notification‖
+Z‖pdu‖SI‖En‖PDU‖
+*Z‖pdu/‖SI‖En‖Protocol Data Unit‖
 Z‖pe‖SI‖En‖PE‖
 Z*‖pe/‖SI‖En‖Protective Earth‖
 Z‖pep‖SI‖En‖PEP‖
@@ -1119,6 +1137,8 @@ Z‖ramss‖SI‖En‖RAMSS‖
 *Z‖ramss/‖CL‖En‖Reliability, Availability, Maintainability, Safety and Security‖
 Z‖rap‖SI‖En‖RAP‖
 Z*‖rap/‖CL‖En‖Risk Acceptance Principle‖
+Z‖rasci‖SI‖En‖RASCI‖
+*Z‖rasci/‖MSI‖En‖Responsible Accountable Consultant Supporting Informed¦R = Responsible: Those who are responsible for the correct completion of the task:`nThere is at least one role with a participation type of responsible, although others can be delegated to assist in the work required.	`n`nA = Accountable (also approver or final approving authority): `nThe one ultimately answerable for the correct and thorough completion of the deliverable or task, the one who ensures the prerequisites of the task are met and who delegates the work to those responsible. In other words, an accountable must sign off (approve) work that responsible provides. There must be only one accountable specified for each task or deliverable.`n`nC = Consulted: `nThose whose opinions are sought, typically subject-matter experts, and with whom there is two-way communication.`n`nI = Informed: `nThose who are kept up-to-date on progress, often only on completion of the task or deliverable, and with whom there is just one-way communication.`nSupporting; refers to teams or individuals who assist the Responsible party by providing resources, expertise, or hands-on help but are not the primary drivers of the task‖
 Z‖rbd‖SI‖En‖RBD‖
 *Z‖rbd/‖SI‖En‖Reliability Block Diagram‖
 Z‖rca‖SI‖En‖RCA‖
@@ -1129,6 +1149,8 @@ Z‖rda‖SI‖En‖RDA‖
 Z*‖rda/‖SI‖En‖Robotics Desktop Automation‖
 Z‖rdp‖SI‖En‖RDP‖
 *Z‖rdp/‖SI‖En‖Remote Desktop Protocol‖
+Z‖relu‖SI‖En‖ReLU‖
+*Z‖relu/‖SI‖En‖Rectifier Linear Unit‖
 Z‖rem‖SI‖En‖REM‖
 *Z‖rem/‖SI‖En‖Rapid Eye Movement‖
 *Z‖rest/‖SI‖En‖REpresentational State Transfer‖https://en.wikipedia.org/wiki/Representational_state_transfer
@@ -1261,6 +1283,8 @@ Z‖sntp‖SI‖En‖SNTP‖
 *Z‖sntp/‖SI‖En‖Simple Network Time Protocol‖
 Z‖so-dimm‖SI‖En‖SO-DIMM‖
 *Z‖so-dimm/‖SI‖En‖Small Outline DIMM‖
+Z‖soa‖SI‖En‖SOA‖
+*Z‖soa/‖SI‖En‖Service-Oriented Architecture‖
 Z‖soc‖SI‖En‖SoC‖
 *Z‖soc/‖SI‖En‖System on a Chip‖
 Z‖sodimm‖SI‖En‖SODIMM‖
@@ -1314,7 +1338,7 @@ Z‖swd‖SI‖En‖SWD‖
 Z‖sysml‖SI‖En‖SysML‖
 *Z‖sysml/‖SI‖En‖System Modeling Language‖
 Z‖t1l‖SI‖En‖T1L‖
-*Z‖t1l/‖SI‖En‖T1: single Twisted pair (1 pair of wires), L: Long reach‖
+*Z‖t1l/‖SI‖En‖Ethernet over twisted-pair; T1: single Twisted pair (1 pair of wires), L: Long reach‖
 Z*‖tbc/‖CL‖En‖to be continued‖
 Z‖tbd‖SI‖En‖TBD‖
 Z*‖tbd/‖MSI‖En‖to be decided¦to be defined‖
@@ -1372,7 +1396,7 @@ Z‖trrs‖SI‖En‖TRRS‖
 CZ‖tsh‖SI‖En‖TSH‖
 *CZ‖tsh/‖SI‖En‖Thyroid-Stimulating Hormone‖https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone
 Z‖tsi‖SI‖En‖TSI‖
-Z*‖tsi/‖MCL‖En‖Technical Specifications for Interoperability¦„techniczne specyfikacje interoperacyjności” (TSI) oznaczają specyfikacje przyjęte zgodnie z niniejszą dyrektywą, obejmujące każdy z podsystemów lub część podsystemu celem spełnienia zasadniczych wymagań oraz zapewnienia interoperacyjności systemu kolei Unii [ŹRÓDŁO: Dyrektywa (UE) 2016/797, art. 2, 11)]‖
+*Z‖tsi/‖MCL‖En‖Technical Specifications for Interoperability¦„techniczne specyfikacje interoperacyjności” (TSI) oznaczają specyfikacje przyjęte zgodnie z niniejszą dyrektywą, obejmujące każdy z podsystemów lub część podsystemu celem spełnienia zasadniczych wymagań oraz zapewnienia interoperacyjności systemu kolei Unii [ŹRÓDŁO: Dyrektywa (UE) 2016/797, art. 2, 11)]¦TSI (The interoperability of the rail system within the European Union, 2016/797)‖
 Z‖ttl‖SI‖En‖TTL‖
 *Z‖ttl/‖SI‖En‖Time-To-Live‖
 Z‖tvs‖SI‖En‖TVS‖

@@ -78,6 +78,8 @@ Z*‖canon‖MSI‖En‖Canon¦canon‖
 *Z‖castorama‖SI‖En‖Castorama‖only for extensions
 Z‖cbs‖SI‖En‖CBS‖
 Z‖cbs/‖SI‖En‖CBS Boradcasting Inc.‖
+Z‖cen‖SI‖En‖CEN‖
+*Z‖cen/‖MSI‖En‖European Committee for Standardization¦Comité Européen de Normalisation‖
 Z‖cenelec‖SI‖En‖CENELEC‖
 *Z‖cenelec/‖MSI‖En‖Comité Européen de Normalisation Électrotechnique¦European Committee for Electrotechnical Standardization‖https://www.cenelec.eu/
 Z‖ces‖SI‖En‖CES‖
@@ -118,6 +120,7 @@ Z‖dei‖SI‖En‖DEI‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
 Z‖dkms‖SI‖En‖DKMS‖
 *Z‖dow jones‖SI‖En‖Dow Jones‖
+*Z‖dpd‖SI‖En‖DPD‖
 Z‖drawio‖SI‖En‖diagrams.net (former name: draw.io)‖
 *Z‖drawio/‖MSI‖En‖diagrams.net (former name: draw.io)¦https://www.drawio.com/¦https://app.diagrams.net/¦manual: https://www.drawio.com/doc/‖
 *Z‖dremel‖SI‖En‖Dremel‖
@@ -230,7 +233,6 @@ Z‖kindle‖SI‖En‖Kindle‖
 Z‖kotlin‖SI‖En‖Kotlin‖
 Z‖kpmg‖SI‖En‖KPMG‖
 *Z‖kpmg/‖SI‖En‖Klynveld Peat Marvick Goerdeler‖
-Z‖kroki‖SI‖En‖Kroki{!}‖
 *Z‖kroki`t‖SI‖En‖Kroki{!}‖
 *Z‖kubernetes‖SI‖En‖Kubernetes‖
 *Z‖labview‖SI‖En‖LabVIEW‖
@@ -382,6 +384,7 @@ Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
 *Z‖skoda‖SI‖En‖Škoda‖
 *Z‖skycash‖SI‖En‖SkyCash‖
 *Z‖skype‖SI‖En‖Skype‖
+*Z‖skyshowtime‖SI‖En‖SkyShowtime‖paragraph symbol in Microsoft Word
 *Z‖snp‖SI‖En‖S&P Global‖
 *CZ‖softsim‖SI‖En‖SoftSIM‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
@@ -418,8 +421,8 @@ Z*‖twitter‖SI‖En‖Twitter‖
 *Z‖udemy‖SI‖En‖Udemy‖
 Z‖unesco‖SI‖En‖UNESCO‖
 *Z‖unesco/‖SI‖En‖United Nations Educational, Scientific and Cultural Organization‖
-Z*‖unicode‖SI‖En‖Unicode‖
-ZC‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
+Z‖unicode‖SI‖En‖Unicode‖
+*Z‖unicode/‖SI‖En‖https://unicode-table.com/en/‖
 Z‖unix‖SI‖En‖Unix‖
 *Z‖usba‖SI‖En‖USB-A‖
 *Z‖usbc‖SI‖En‖USB-C‖

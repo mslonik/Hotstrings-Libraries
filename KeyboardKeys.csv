@@ -42,8 +42,8 @@ Z‖ctrl‖SI‖En‖Ctrl‖
 ?*Z‖down/‖SI‖En‖{down}‖
 ?*Z‖eight/‖SI‖En‖8‖
 ?Z*‖end/‖SI‖En‖{end}‖
-Z‖enter‖SI‖En‖Enter‖
 ?*Z‖enter/‖SI‖En‖{enter}‖
+*Z‖enter`t‖SI‖En‖Enter‖
 ?*Z‖equal/‖SI‖En‖=‖
 Z‖esc‖SI‖En‖Esc‖
 ?Z*‖esc/‖SI‖En‖{esc}‖
@@ -109,7 +109,7 @@ Z‖lctl‖SI‖En‖LCtl‖
 ?*Z‖lessthan/‖SI‖En‖<‖
 Z‖lshift‖SI‖En‖LShift‖
 ?*Z‖lwindows/‖SI‖En‖{lwin}‖
-?*Z‖menu/‖SI‖En‖{appskey}‖
+*Z‖menu/‖SI‖En‖{appskey}‖
 ?*Z‖nine/‖SI‖En‖9‖
 ?*Z‖number/‖SI‖En‖{#}‖
 ?Z‖numlock‖SI‖En‖NumLock‖
@@ -142,8 +142,8 @@ Z‖shift‖SI‖En‖Shift‖
 ?*Z‖shiftd/‖SI‖En‖{shift down}‖
 ?*Z‖six/‖SI‖En‖6‖
 ?*Z‖slash/‖SI‖En‖/‖
-Z‖tab‖SI‖En‖Tab‖
 ?Z*‖tab/‖MSI‖En‖{tab}¦{Space 5}‖
+*Z‖tab`t‖SI‖En‖Tab‖
 ?*Z‖three/‖SI‖En‖3‖
 ?*Z‖tick/‖SI‖En‖``‖
 ?*Z‖tilde/‖SI‖En‖~‖
