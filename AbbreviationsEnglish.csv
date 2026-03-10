@@ -440,6 +440,8 @@ Z‖esma‖SI‖En‖ESMA‖
 Z‖eta‖SI‖En‖ETA‖
 Z*‖eta/‖SI‖En‖Estimated Time to Arrival‖
 *Z‖eta/‖MSI‖En‖Estimated Time to Arrival¦Event Tree Analysis‖
+Z‖ethercat‖SI‖En‖EtherCAT‖
+*Z‖ethercat/‖SI‖En‖Ethernet for Control Automation Technology‖
 Z‖eto‖SI‖En‖ETO‖
 *Z‖eto/‖MSI‖En‖Engineer to Order¦to complete an order, redesign effort is required, potentially including tests and certification.‖
 Z‖etsi‖SI‖En‖ETSI‖
@@ -851,6 +853,7 @@ Z‖mno‖SI‖En‖MNO‖
 Z‖modbus‖SI‖En‖Modbus‖
 Z‖mom‖SI‖En‖MoM‖
 Z*‖mom/‖SI‖En‖Minutes of Meeting‖
+*Z‖moq‖SI‖En‖Minimum Order Quantity‖
 Z‖mosFET‖SI‖En‖MOSFET‖
 *Z‖mosfet/‖SI‖En‖Metal-Oxide-Semiconductor Field-Effect Transistor‖
 Z‖mpls‖SI‖En‖MPLS‖
@@ -1301,7 +1304,7 @@ Z‖spdt‖SI‖En‖SPDT‖https://en.wikipedia.org/wiki/Switch
 *Z‖spdt/‖MSI‖En‖Single Pole Double Throw¦A simple break-before-make changeover switch¦Form C‖https://en.wikipedia.org/wiki/Switch
 Z‖spe‖SI‖En‖SPE‖
 *Z‖spe/‖SI‖En‖Single Pair Ethernet‖
-CZ‖spi‖SI‖En‖SPI‖
+Z‖spi‖SI‖En‖SPI‖
 *CZ‖spi/‖SI‖En‖Serial Peripheral Interface‖
 Z‖spst‖SI‖En‖SPST‖
 *Z‖spst/‖SI‖En‖Single Pole Single Throw‖https://en.wikipedia.org/wiki/Switch
