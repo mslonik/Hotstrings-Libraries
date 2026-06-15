@@ -73,8 +73,10 @@ Z‖bmw‖CL‖En‖BMW‖
 *Z‖boox‖SI‖En‖BOOX‖
 *Z‖bosch‖SI‖En‖Bosch‖
 *Z‖broadcom‖SI‖En‖Broadcom‖
-Z*‖canon‖MSI‖En‖Canon¦canon‖
-*Z‖capella‖MCL‖En‖Capella¦https://forum.mbse-capella.org/¦https://github.com/eclipse-capella/capella/wiki/User-manual#online-version‖
+*Z‖campingaz‖SI‖En‖Campingaz‖
+*Z‖canon`t‖SI‖En‖Canon‖
+*Z‖canonical`t‖SI‖En‖Canonical‖
+*Z‖capella‖MCL‖En‖Capella¦https://forum.mbse-capella.org/¦https://github.com/eclipse-capella/capella/wiki/User-manual#online-version¦https://mbse-capella.org/arcadia.html‖
 *Z‖castorama‖SI‖En‖Castorama‖only for extensions
 Z‖cbs‖SI‖En‖CBS‖
 Z‖cbs/‖SI‖En‖CBS Boradcasting Inc.‖
@@ -119,6 +121,7 @@ Z‖dei‖SI‖En‖DEI‖
 *Z‖displayport‖SI‖En‖DisplayPort‖
 Z*‖ditaexchange‖CL‖En‖DitaExchange‖
 Z‖dkms‖SI‖En‖DKMS‖
+*Z‖docbook‖SI‖En‖DocBook‖
 *Z‖dow jones‖SI‖En‖Dow Jones‖
 *Z‖dpd‖SI‖En‖DPD‖
 Z‖drawio‖SI‖En‖diagrams.net (former name: draw.io)‖
@@ -144,7 +147,7 @@ Z‖euicc‖SI‖En‖eUICC‖
 Z‖excalidraw‖SI‖En‖Excalidraw‖
 *Z‖excalidraw/‖MSI‖En‖https://excalidraw.com/¦https://github.com/excalidraw/excalidraw‖
 Z‖excel‖SI‖En‖Excel‖
-Z*‖facebook‖SI‖En‖Facebook‖
+Z‖facebook‖SI‖En‖Facebook‖
 Z‖fcc‖SI‖En‖FCC‖
 *Z‖fcc/‖SI‖En‖Federal Communications Commission‖
 *Z‖fido2‖SI‖En‖FIDO2‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
@@ -154,6 +157,7 @@ Z‖fortran‖SI‖En‖FORTRAN‖
 *Z‖fortran/‖SI‖En‖FORmula TRANslation‖
 ZC‖framemaker‖MSI‖En‖FrameMaker¦https://www.adobe.com/pl/products/framemaker.html‖
 *Z‖freebsd‖SI‖En‖FreeBSD‖
+*Z‖freecad‖MCL‖En‖FreeCAD¦https://www.freecad.org/‖
 *Z‖ftdi‖SI‖En‖FTDI‖
 *Z‖ftdi/‖SI‖En‖Future Technology Devices International Ltd‖
 *Z‖garmin‖SI‖En‖Garmin‖
@@ -163,10 +167,11 @@ Z‖gcf‖SI‖En‖GCF‖
 *Z‖gcf/‖SI‖En‖Global Certification Forum‖
 *Z‖geforce‖SI‖En‖GeForce‖
 *Z‖gemini‖SI‖En‖Gemini‖
-Z‖git‖SI‖En‖Git‖
+Z‖git‖MCL‖En‖Git¦https://git-scm.com/‖
 Z‖github‖SI‖En‖GitHub‖
 *Z‖github/‖SI‖En‖https://github.com/‖
 *Z‖gitlab‖SI‖En‖GitLab‖
+*Z‖gmail‖SI‖En‖Gmail‖
 Z‖google‖SI‖En‖Google‖
 *Z‖googlemail‖CL‖En‖https://mail.google.com/mail/u/0/#inbox‖
 Z*‖gopro‖SI‖En‖GoPro‖
@@ -186,9 +191,11 @@ Z‖hbr‖SI‖En‖HBR‖
 *Z‖hbr/‖SI‖En‖Harvard Business Review‖
 *Z‖hendi‖SI‖En‖Hendi‖
 *Z‖hezbollah‖SI‖En‖Hezbollah‖
+*Z‖honeywell‖SI‖En‖Honeywell‖
 *Z‖huawei‖SI‖En‖Huawei‖
 Z‖huel‖SI‖En‖Huel‖
 *Z‖huion‖SI‖En‖Huion‖
+*Z‖hyland‖SI‖En‖Hyland‖
 *Z‖ibm‖SI‖En‖IBM‖
 Z‖icao‖SI‖En‖ICAO‖
 *Z‖icao/‖SI‖En‖International Civil Aviation Organization‖
@@ -219,6 +226,7 @@ CZ‖itur‖SI‖En‖ITU-R‖
 *CZ‖itur/‖SI‖En‖ITU Radiocommunication Sector‖
 Z‖jedec‖SI‖En‖JEDEC‖
 *Z‖jedec/‖SI‖En‖Joint Electron Device Engineering Council‖
+*Z‖jekyll‖SI‖En‖Jekyll‖
 *Z‖jenkins‖SI‖En‖Jenkins‖
 *Z‖jira‖SI‖En‖Jira‖
 *CZ‖jlcpcb‖SI‖En‖JLCPCB‖
@@ -235,6 +243,7 @@ Z‖kpmg‖SI‖En‖KPMG‖
 *Z‖kpmg/‖SI‖En‖Klynveld Peat Marvick Goerdeler‖
 *Z‖kroki`t‖SI‖En‖Kroki{!}‖
 *Z‖kubernetes‖SI‖En‖Kubernetes‖
+*Z‖kubuntu‖SI‖En‖Kubuntu‖
 *Z‖labview‖SI‖En‖LabVIEW‖
 *Z‖lenovo‖SI‖En‖Lenovo‖
 *Z‖libreoffice‖SI‖En‖LibreOffice‖
@@ -242,6 +251,7 @@ Z‖kpmg‖SI‖En‖KPMG‖
 Z‖linkedin‖SI‖En‖LinkedIn‖
 Z*‖linux‖SI‖En‖Linux‖
 Z‖llvm‖SI‖En‖LLVM‖
+*Z‖llvm/‖SI‖En‖Low Level Virtual Machine‖
 *Z‖logitech‖SI‖En‖Logitech‖
 Z‖lora‖SI‖En‖LoRa‖
 *Z‖lora/‖SI‖En‖Long Range‖
@@ -275,6 +285,7 @@ Z‖msci‖SI‖En‖MSCI‖
 *Z‖msci/‖SI‖En‖Morgan Stanley Capital International‖
 *Z‖msword‖SI‖En‖Microsoft Word‖
 *Z‖mysql‖SI‖En‖MySQL‖
+*Z‖myst‖SI‖En‖MyST‖https://mystmd.org/
 Z‖nando‖SI‖En‖NANDO‖
 *Z‖nando/‖MSI‖En‖New Approach Notified and Designated Organisations information system¦https://www.europeansources.info/record/nando-new-approach-notified-and-designated-organisations-information-system/‖
 Z‖nasa‖SI‖En‖NASA‖
@@ -296,7 +307,7 @@ Z‖nyse‖SI‖En‖NYSE‖
 Z‖obi‖SI‖En‖OBI‖
 Z‖obs‖SI‖En‖OBS Studio‖
 *Z‖obs/‖MSI‖En‖Open Broadcaster Software¦https://obsproject.com/‖
-*Z‖obsidian`t‖SI‖En‖Obsidian‖
+*Z‖obsidian`t‖MCL‖En‖Obsidian¦https://obsidian.md/‖
 Z‖ocx‖SI‖En‖OCX‖
 *Z‖ocx/‖SI‖En‖Open Community eXperience of Eclipse Foundation‖
 Z‖office365‖SI‖En‖Microsoft Office 365‖
@@ -307,21 +318,26 @@ Z*‖onedrive‖SI‖En‖OneDrive‖
 *Z‖onenote‖SI‖En‖OneNote‖
 *Z‖openai‖SI‖En‖OpenAI‖
 Z‖openapi‖SI‖En‖OpenAPI‖
+*Z‖openclaw‖MCL‖En‖OpenClaw¦https://openclaw.ai/‖
 *Z‖openjdk‖SI‖En‖OpenJDK‖
 *Z‖openpgp‖SI‖En‖OpenPGP‖https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 *Z‖openssl‖SI‖En‖OpenSSL‖
+*Z‖orlen‖SI‖En‖ORLEN‖
 Z‖otrs‖SI‖En‖OTRS‖
 *Z‖otrs/‖MSI‖En‖Open-Source Ticket Request System¦Znuny‖
 Z‖owasp‖SI‖En‖OWASP‖
 *Z‖owasp/‖SI‖En‖Open Worldwide Application Security Project‖
 *Z‖ozempic‖SI‖En‖Ozempic‖
+*Z‖parktool‖SI‖En‖ParkTool‖
 *Z‖paypal‖SI‖En‖PayPal‖
 *Z‖pdfxchange‖SI‖En‖PDF-XChange‖
 *Z‖pepsi‖SI‖En‖Pepsi‖
+*Z‖perl`t‖SI‖En‖Perl‖
 *Z‖peugeot‖SI‖En‖Peugeot‖
 Z‖philips‖SI‖En‖Philips‖
 Z‖pikchr‖SI‖En‖Pikchr‖
 *Z‖pikchr/‖MSI‖En‖https://pikchr.org/home/doc/trunk/homepage.md¦https://pikchr.org/home/pikchrshow¦https://pikchr.org/home/doc/trunk/doc/userman.md¦https://pikchr.org/home/doc/trunk/doc/grammar.md‖
+*Z‖pilos‖SI‖En‖Pilos‖
 Z‖plantuml‖SI‖En‖PlantUML‖
 *Z‖plantuml/‖MSI‖En‖https://plantuml.com/sitemap¦sandbox: https://editor.plantuml.com/uml/¦manual: https://plantuml.com/guide‖
 *Z‖playstation‖SI‖En‖PlayStation‖
@@ -337,9 +353,11 @@ Z*‖powerpoint‖SI‖En‖PowerPoint‖
 *Z‖powershell‖SI‖En‖PowerShell‖
 Z‖priip‖SI‖En‖PRIIP‖kolor voestalpine | nagłówek tabeli | wiersz tabeli
 *Z‖priip/‖SI‖En‖Packaged Retail Investment and Insurance Products‖kolor voestalpine | nagłówek tabeli | wiersz tabeli
+*Z‖psychomedic‖SI‖En‖PsychoMedic‖
 Z‖ptcrb‖SI‖En‖PTCRB‖
 *Z‖ptcrb/‖SI‖En‖Personal Communications Service Type Certification Review Board‖
 *Z‖putty‖SI‖En‖PuTTY‖
+*Z‖python`t‖SI‖En‖Python‖
 *Z‖qnap‖SI‖En‖QNAP‖
 Z*‖qnx‖CL‖En‖QNX‖
 *Z‖qualcomm‖SI‖En‖Qualcomm‖
@@ -380,11 +398,13 @@ ZC‖shimano‖SI‖En‖Shimano‖
 *Z‖shipify/‖SI‖En‖Shopify‖U+1F3E2
 *Z‖shopify‖SI‖En‖Shopify‖
 Z‖siemens‖MSI‖En‖Siemens¦Siemens Mobility SAS‖
+*Z‖signal`t‖SI‖En‖Signal‖
 *Z‖simulink‖SI‖En‖Simulink‖
 *Z‖skoda‖SI‖En‖Škoda‖
 *Z‖skycash‖SI‖En‖SkyCash‖
 *Z‖skype‖SI‖En‖Skype‖
 *Z‖skyshowtime‖SI‖En‖SkyShowtime‖paragraph symbol in Microsoft Word
+*Z‖smarthost‖SI‖En‖Smarthost‖
 *Z‖snp‖SI‖En‖S&P Global‖
 *CZ‖softsim‖SI‖En‖SoftSIM‖
 Z*‖solidworks‖MSI‖En‖SOLIDWORKS¦https://discover.solidworks.com/solidworks-products‖
@@ -400,7 +420,7 @@ Z‖structurizr‖SI‖En‖Structurizr‖
 *Z‖structurizr/‖MSI‖En‖Structurizr DSL¦Structurizr Domain-Specific Language¦https://structurizr.com/dsl¦sandbox: https://structurizr.com/dsl¦manual: https://docs.structurizr.com/quickstart‖
 *Z‖suzuki‖SI‖En‖Suzuki‖
 Z‖svn‖SI‖En‖SVN‖
-*Z‖svn/‖CL‖En‖versioning and revision control system‖
+*Z‖svn/‖MCL‖En‖versioning and revision control system¦https://tortoisesvn.net/‖
 *Z‖syson‖SI‖En‖SysON‖
 Z*‖tales‖SI‖En‖Thales‖
 Z*‖thales‖SI‖En‖Thales‖
@@ -455,5 +475,6 @@ ZC‖ytd/‖CL‖En‖Year To Date‖
 Z‖yubico‖SI‖En‖Yubico‖
 Z‖yubikey‖SI‖En‖YubiKey‖
 Z‖zabbix‖SI‖En‖Zabbix‖
+Z‖zen‖SI‖En‖Zen‖
 *CZ‖zigbee‖SI‖En‖Zigbee‖
 *Z‖znuny‖SI‖En‖Znuny‖

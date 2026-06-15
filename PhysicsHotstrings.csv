@@ -50,11 +50,14 @@ Z*‖approx/‖CL‖En‖≈‖
 *Z‖arrows/‖MSI‖En‖↕¦↖¦↗¦↘¦↙¦↩¦↪‖
 *Z‖arrowsdouble/‖MSI‖En‖⇐¦⇑¦⇒¦⇓¦⇔¦⇕‖
 *Z‖arrowswhite/‖MSI‖En‖⇦¦⇧¦⇨¦⇩¦⇳‖
+*Z‖B12‖SI‖En‖B₁₂‖
 *CZ‖belongsto‖SI‖En‖∈‖
 Z*‖bullets/‖MSI‖En‖•¦»¦‣¦⦿¦⦾¦◘¦▪‖
 Z*‖cent/‖SI‖En‖¢‖U+00A2
 *Z‖co2‖SI‖En‖CO₂‖
 *Z‖crc16‖SI‖En‖CRC-16‖
+*Z‖d2‖SI‖En‖D₂‖
+*Z‖d3‖SI‖En‖D₃‖
 Z‖dbi‖SI‖En‖dBi‖
 *Z‖dbi/‖SI‖En‖antenna gain unit (in comparison to isotropic antenna)‖
 Z‖dbm‖SI‖En‖dBm‖

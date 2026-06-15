@@ -11,6 +11,7 @@ Examples:	Ad. 1. svg/ → Scalable Vector Graphics. Ad 2. Filename.txt ← hotst
 ZB0?‖.ahk‖SI‖En‖‖only for extensions
 ZB0?‖.csv‖SI‖En‖‖only for extensions
 B0?Z‖.dll‖SI‖En‖‖only for extensions
+B0?Z‖.docm‖SI‖En‖‖only for extensions
 ZB0?‖.docx‖SI‖En‖‖only for extensions
 *CB0?Z‖.dotm‖SI‖En‖‖
 B0?Z‖.dotx‖SI‖En‖‖template of Microsoft Word, without macros
@@ -23,6 +24,7 @@ ZB0?‖.exe‖SI‖En‖‖
 ZB0?‖.fbx‖SI‖En‖‖only for file extensions
 ZB0?‖.gif‖SI‖En‖‖
 B0?Z‖.html‖SI‖En‖‖only for extensions
+B0?Z‖.ics‖SI‖En‖‖only for extensions
 B0?Z‖.jpeg‖SI‖En‖‖only for extensions
 B0?Z‖.jpg‖SI‖En‖‖only for extensions
 B0?Z‖.json‖SI‖En‖‖only for extensions
@@ -39,6 +41,7 @@ B0?Z‖.reqif‖SI‖En‖‖template of Microsoft Word, without macros
 ZCB0?‖.rtf‖SI‖En‖‖
 B0?Z‖.sgml‖SI‖En‖‖
 ZB0?‖.svg‖SI‖En‖‖only for extensions
+B0?Z‖.ttf‖SI‖En‖‖
 B0?Z‖.txt‖SI‖En‖‖only for extensions
 B0?Z‖.wav‖SI‖En‖‖only for extensions
 ZB0?‖.xlsx‖SI‖En‖‖only for extensions
@@ -50,6 +53,7 @@ Z‖csv‖SI‖En‖CSV‖
 Z*‖csv/‖SI‖En‖Comma Separated Values‖https://en.wikipedia.org/wiki/Comma-separated_values
 Z‖dll‖SI‖En‖DLL‖
 *Z‖dll/‖SI‖En‖Dynamically Linked Libraries‖
+CZ‖docm‖SI‖En‖DOCM‖
 OZ‖docx‖SI‖En‖DOCX‖https://en.wikipedia.org/wiki/Office_Open_XML
 CZ‖dotm‖SI‖En‖DOTM‖
 *Z‖dotm/‖SI‖En‖DOTM‖Microsoft Windows template with macros
@@ -72,6 +76,8 @@ Z‖gif‖SI‖En‖GIF‖
 Z*‖gif/‖SI‖En‖Graphics Interchange Format‖
 Z‖html‖SI‖En‖HTML‖
 Z*‖html/‖SI‖En‖HyperText Markup Language‖
+Z‖ics‖SI‖En‖ICS‖
+*Z‖ics/‖SI‖En‖ Internet Calendaring and Scheduling Core Object Specification (iCalendar)‖
 Z‖jpeg‖SI‖En‖JPEG‖
 *Z‖jpeg/‖SI‖En‖Joint Photographic Experts Group‖https://en.wikipedia.org/wiki/JPEG
 Z‖jpg‖SI‖En‖JPG‖
@@ -105,6 +111,8 @@ Z‖sgml‖SI‖En‖SGML‖
 *Z‖sgml/‖SI‖En‖Standard Generalized Markup Language‖https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language
 Z‖svg‖SI‖En‖SVG‖
 Z*‖svg/‖SI‖En‖Scalable Vector Graphics‖
+OZ‖ttf‖SI‖En‖TTF‖
+*CZ‖ttf/‖SI‖En‖TrueType Font‖
 Z‖txt‖SI‖En‖TXT‖
 *Z‖txt/‖SI‖En‖TeXT file‖
 Z‖vcf‖SI‖En‖VCF‖

@@ -50,7 +50,7 @@ CZ‖aes‖SI‖En‖AES‖
 Z*‖afaik/‖CL‖En‖as far as I know‖
 Z‖agi‖SI‖En‖AGI‖
 *Z‖agi/‖MSI‖En‖Artificial General Intelligence¦Artificial Generative Intelligence‖
-*Z‖ahk/‖MSI‖En‖AutoHotkey¦https://github.com/mslonik¦https://www.autohotkey.com/docs/AutoHotkey.htm¦https://www.autohotkey.com/boards/‖https://www.autohotkey.com/
+*Z‖ahk/‖MSI‖En‖AutoHotkey¦https://github.com/mslonik¦https://www.autohotkey.com/docs/AutoHotkey.htm¦https://www.autohotkey.com/boards/¦https://www.autohotkey.com/‖https://www.autohotkey.com/
 Z‖ai‖SI‖En‖AI‖
 *Z‖ai/‖SI‖En‖Artificial Intelligence‖
 Z‖aids‖SI‖En‖AIDS‖
@@ -65,6 +65,8 @@ Z‖alu‖SI‖En‖ALU‖
 *Z‖am`t‖SI‖En‖AM‖
 Z‖ami‖SI‖En‖AMI‖
 *Z‖ami/‖SI‖En‖Advanced Metering Infrastructure‖
+Z‖amoled‖SI‖En‖AMOLED‖
+Z‖amoled/‖SI‖En‖Active Matrix Organic Light-Emitting Diode‖
 Z‖amqp‖SI‖En‖AMQP‖
 *Z‖amqp/‖SI‖En‖Advanced Message Queuing Protocol‖
 Z‖amr‖SI‖En‖AMR‖
@@ -137,6 +139,7 @@ Z‖bi‖SI‖Dis‖BI‖
 Z‖bia‖SI‖En‖BIA‖
 *Z‖bia/‖SI‖En‖Business Impact Analysis‖
 Z‖bim‖SI‖En‖BIM‖
+*Z‖bim/‖SI‖En‖Building Information Modeling‖
 Z‖bios‖SI‖En‖BIOS‖
 Z*‖bios/‖SI‖En‖Basic Input/Output System‖https://en.wikipedia.org/wiki/BIOS
 Z‖bldc‖SI‖En‖BLDC‖
@@ -145,6 +148,8 @@ Z‖ble‖SI‖En‖BLE‖
 *Z‖ble/‖SI‖En‖Bluetooth Low Energy‖
 Z‖bleu‖SI‖En‖BLEU‖
 *Z‖bleu/‖SI‖En‖Bilingual Evaluation Understudy‖
+CZ‖bmi‖SI‖En‖BMI‖
+*CZ‖bmi/‖SI‖En‖Body Mass Index‖
 Z‖bmm‖SI‖En‖BMM‖
 *Z‖bmm/‖SI‖En‖BASIC Meta-Model‖
 Z‖bom‖SI‖En‖BOM‖
@@ -178,6 +183,8 @@ Z‖cbbs‖SI‖En‖CBBS‖
 *Z‖cbbs/‖SI‖En‖Computer Board Bulletin System‖
 Z‖cbm‖SI‖En‖CBM‖
 *Z‖cbm/‖SI‖En‖Condition Based Maintenance‖
+Z‖cbt‖SI‖En‖CBT‖
+*Z‖cbt/‖SI‖En‖Cognitive Behavioral Therapy‖
 Z*‖cc/‖MSI‖En‖CC0 (Creative Commons "No Rights Reserved")¦CC BY (Creative Commons Attribution)¦CC BY-SA (Creative Commons Attribution-ShareAlike)¦CC BY-NC (Creative Commons Attribution-NonCommercial)¦BY-NC-SA (Creative Commons NonCommercial-ShareAlike)¦BY-ND (Creative Commons Attribution-NoDerivatives)¦BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)‖https://en.wikipedia.org/wiki/Creative_Commons_license
 CZ‖ccm‖SI‖En‖CCM‖
 *CZ‖ccm/‖SI‖En‖counter with cipher block chaining message authentication code‖
@@ -199,7 +206,6 @@ Z*‖cgi/‖SI‖En‖Computer-Generated Imagery‖
 Z‖chf‖SI‖En‖CHF‖
 Z‖ci‖SI‖Dis‖CI‖
 Z*‖ci/‖SI‖En‖Continuous Integration‖
-Z*‖ci`t‖SI‖En‖CI‖
 Z‖cicd‖SI‖En‖CI/CD‖
 *Z‖cicd/‖SI‖En‖Continuous Integration / Continuous Deployment (Delivery)‖
 Z‖cil‖SI‖En‖CIL‖
@@ -376,6 +382,8 @@ Z‖ecg‖SI‖En‖ECG‖
 *Z‖ecg/‖SI‖En‖ELectrocardiogram‖https://en.wikipedia.org/wiki/Electrocardiography
 Z‖ecm‖SI‖En‖ECM‖
 Z*‖ecm/‖SI‖En‖Enterprise Content Management‖
+Z‖edc‖SI‖En‖EDC‖
+*Z‖edc/‖SI‖En‖EveryDay Carry‖
 Z‖edrx‖SI‖En‖eDRX‖
 *Z‖edrx/‖SI‖En‖extended Discontinuous Reception‖
 Z‖eeg‖SI‖En‖EEG‖
@@ -575,6 +583,8 @@ Z‖gsm‖SI‖En‖GSM‖
 Z*‖gsm/‖CL‖En‖Global System for Mobile Communications‖
 *Z‖gsmr‖SI‖En‖GSM-R‖
 *Z‖gsmr/‖SI‖En‖GSM for Railways‖
+Z‖gtd‖SI‖En‖GTD‖
+*Z‖gtd/‖SI‖En‖Getting Things Done‖
 Z‖gui‖SI‖En‖GUI‖
 Z*‖gui/‖CL‖En‖Graphical User Interface‖
 Z‖guid‖SI‖En‖GUID‖
@@ -672,6 +682,7 @@ CZ‖ipr‖SI‖En‖IPR‖
 *Z‖ipv6‖SI‖En‖IPv6‖
 Z‖iq‖SI‖En‖IQ‖
 Z*‖iq/‖CL‖En‖Inteligence Quotient‖
+CZ‖irb‖SI‖En‖IRB‖
 Z‖irda‖SI‖En‖IrDA‖
 *Z‖irda/‖SI‖En‖Infrared Data Association‖
 Z‖ireb‖SI‖En‖IREB‖
@@ -736,7 +747,7 @@ Z*‖lad/‖CL‖En‖Logistic and Administrative Delay‖
 Z‖lan‖SI‖En‖LAN‖
 Z*‖lan/‖SI‖En‖Local Area Network‖
 *Z‖laser/‖SI‖En‖Light Amplification by Stimulated Emission of Radiation‖
-*Z‖latex‖SI‖En‖LaTeX‖
+*Z‖latex‖MSI‖En‖LaTeX¦https://www.latex-project.org/‖
 Z‖lca‖SI‖En‖LCA‖
 Z*‖lca/‖MSI‖En‖Life Cycle Assessment¦środowiskowa ocena cyklu życia¦Life cycle assessment or LCA (also known as life cycle analysis) is a methodology for assessing environmental impacts associated with all the stages of the life cycle of a commercial product, process, or service. For instance, in the case of a manufactured product, environmental impacts are assessed from raw material extraction and processing (cradle), through the product's manufacture, distribution and use, to the recycling or final disposal of the materials composing it (grave).¦Środowiskowa ocena cyklu życia (ang. life cycle assessment, LCA) – ocena cyklu życia. Jest to technika z zakresu procesów zarządczych, mająca na celu ocenę potencjalnych zagrożeń środowiska. Istotą tej metody jest nastawienie nie tylko na ocenę wyniku końcowego danego procesu technologicznego, ale także oszacowanie i ocena konsekwencji całego procesu dla środowiska naturalnego.‖
 Z‖lcc‖SI‖En‖LCC‖
@@ -821,6 +832,8 @@ Z‖mcp‖SI‖En‖MCP‖
 *Z‖mcp/‖SI‖En‖Model Context Protocol‖
 Z‖md5‖SI‖En‖MD5‖https://en.wikipedia.org/wiki/MD5
 Z*‖md5/‖MSI‖En‖Message-Digest Algorithm¦hash function producing a 128-bit hash value‖
+Z‖mdma‖SI‖En‖MDMA‖
+*Z‖mdma/‖MSI‖En‖3,4-Methylenedioxymethamphetamine¦ecstasy‖
 Z‖mdt‖SI‖En‖MDT‖
 Z*‖mdt/‖CL‖En‖Mean Down Time‖
 Z‖mems‖SI‖En‖MEMS‖
@@ -901,6 +914,8 @@ Z‖nato‖SI‖En‖NATO‖
 Z*‖nato/‖SI‖En‖North Atlantic Treaty Organization‖
 Z‖nb-iot‖SI‖En‖NB-IoT‖
 *Z‖nb-iot/‖SI‖En‖NarrowBand Internet of Things‖
+Z‖nba‖SI‖En‖NBA‖
+*Z‖nba/‖SI‖En‖National Basketball Association‖
 Z‖nbiot‖SI‖En‖NB-IoT‖
 *Z‖nbiot/‖MSI‖En‖NarrowBand Internet of Things¦Cat-NB1‖
 Z‖ncr‖SI‖En‖NCR‖
@@ -924,6 +939,8 @@ Z‖nobo‖SI‖En‖NoBo‖
 Z*‖nobo/‖SI‖En‖Notified Body‖
 *Z‖nosql‖SI‖En‖NoSQL‖
 *Z‖npm/‖SI‖En‖Node Package Manager‖
+Z‖nps‖SI‖En‖NPS‖
+*Z‖nps/‖SI‖En‖Net Promoter Score‖
 Z‖npu‖SI‖En‖NPU‖
 *Z‖npu/‖SI‖En‖Neural Processing Unit‖
 Z‖nrem‖SI‖En‖NREM‖
@@ -1077,6 +1094,8 @@ Z‖pp‖SI‖En‖pp.‖
 Z‖ppi‖SI‖En‖PPI‖
 Z*‖ppi/‖SI‖En‖Point Per Inch‖
 *Z‖pps/‖SI‖En‖Packet Per Second‖
+Z‖prc‖SI‖En‖PRC‖
+*Z‖prc/‖MSI‖En‖Product Representation Compact¦ISO 14739-1:2014¦standard used to represent 3D model geometry‖
 Z‖pri‖SI‖En‖PRI‖
 *Z‖pri/‖SI‖En‖Package Resource Index‖
 Z‖prp‖SI‖En‖PRP‖
@@ -1093,6 +1112,8 @@ Z‖psoc‖SI‖En‖PSoC‖
 *Z‖psoc/‖SI‖En‖Programmable System on a Chip‖
 Z‖ptfe‖SI‖En‖PTFE‖
 *Z‖ptfe/‖SI‖En‖polytetrafluoroethylene‖https://en.wikipedia.org/wiki/Polytetrafluoroethylene
+Z‖ptsd‖SI‖En‖PTSD‖
+*Z‖ptsd/‖SI‖En‖Post Traumatic Stress Disorder‖
 Z‖puk‖SI‖En‖PUK‖
 Z*‖puk/‖SI‖En‖PIN Unlock Key‖
 Z‖pvc‖SI‖En‖PVC‖
@@ -1156,8 +1177,8 @@ Z‖relu‖SI‖En‖ReLU‖
 *Z‖relu/‖SI‖En‖Rectifier Linear Unit‖
 Z‖rem‖SI‖En‖REM‖
 *Z‖rem/‖SI‖En‖Rapid Eye Movement‖
-*Z‖rest/‖SI‖En‖REpresentational State Transfer‖https://en.wikipedia.org/wiki/Representational_state_transfer
-*Z‖rest`t‖SI‖En‖REST‖
+*Z‖rest/‖MSI‖En‖REpresentational State Transfer¦reStructuredText‖https://en.wikipedia.org/wiki/Representational_state_transfer
+*Z‖rest`t‖MSI‖En‖REST¦ReST¦reST‖
 CZ‖rf‖SI‖En‖RF‖
 *CZ‖rf/‖SI‖En‖Radio Frequency‖
 Z‖rfc‖SI‖En‖RFC‖
@@ -1200,6 +1221,7 @@ Z‖rss‖SI‖En‖RSS‖
 *Z‖rss/‖MSI‖En‖Really Simple Syndication¦Really Simple Syndication (RSS) a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format. Subscribing to RSS feeds can allow a user to keep track of many different websites in a single news aggregator, which constantly monitor sites for new content, removing the need for the user to manually check them.‖https://en.wikipedia.org/wiki/RSS
 Z‖rssi‖SI‖En‖RSSI‖
 *Z‖rssi/‖SI‖En‖Received Signal Strength Indicator‖
+Z‖rst‖SI‖En‖RST‖
 Z‖rtc‖SI‖En‖RTC‖
 Z*‖rtc/‖SI‖En‖Real Time Clock‖
 Z‖rtf‖SI‖En‖RTF‖
@@ -1322,8 +1344,8 @@ Z‖ssid‖SI‖En‖SSID‖
 *Z‖ssid/‖SI‖En‖Service Set IDentifier‖
 Z‖ssl‖SI‖En‖SSL‖
 Z*‖ssl/‖SI‖En‖Secure Sockets Layer‖
-Z‖stem‖SI‖En‖STEM‖
 Z*‖stem/‖SI‖En‖Science Technology Engineering and Mathematics‖
+*Z‖stem`t‖SI‖En‖STEM‖
 Z‖sti‖SI‖En‖STI‖
 *Z‖sti/‖SI‖En‖Sexually Transmitted Infection‖
 Z‖sup‖SI‖En‖SUP‖
@@ -1374,6 +1396,8 @@ CZ‖tht‖SI‖En‖THT‖https://en.wikipedia.org/wiki/Through-hole_technology
 *CZ‖tht/‖SI‖En‖Through-Hole Technology‖https://en.wikipedia.org/wiki/Through-hole_technology
 Z‖tir‖SI‖En‖TIR‖
 *Z‖tir/‖SI‖En‖Transports Internationaux Routiers‖
+Z‖tkl‖SI‖En‖TKL‖
+*Z‖tkl/‖MSI‖En‖Tenkeyless¦standard keyboard that has had the number pad (the "Numpad" on the far right) chopped off‖
 Z‖tls‖SI‖En‖TLS‖https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_
 Z*‖tls/‖SI‖En‖Transport Layer Security‖
 Z‖tlv‖SI‖En‖TLV‖
@@ -1402,6 +1426,8 @@ Z‖tsi‖SI‖En‖TSI‖
 *Z‖tsi/‖MCL‖En‖Technical Specifications for Interoperability¦„techniczne specyfikacje interoperacyjności” (TSI) oznaczają specyfikacje przyjęte zgodnie z niniejszą dyrektywą, obejmujące każdy z podsystemów lub część podsystemu celem spełnienia zasadniczych wymagań oraz zapewnienia interoperacyjności systemu kolei Unii [ŹRÓDŁO: Dyrektywa (UE) 2016/797, art. 2, 11)]¦TSI (The interoperability of the rail system within the European Union, 2016/797)‖
 Z‖ttl‖SI‖En‖TTL‖
 *Z‖ttl/‖SI‖En‖Time-To-Live‖
+Z‖tui‖SI‖En‖TUI‖
+*Z‖tui/‖SI‖En‖Text-based User Interface‖
 Z‖tvs‖SI‖En‖TVS‖
 *Z‖tvs/‖SI‖En‖Transient Voltage Suppression‖
 Z‖twi‖SI‖En‖TWI‖
@@ -1428,6 +1454,8 @@ Z‖uefi‖SI‖En‖UEFI‖
 *Z‖uefi/‖SI‖En‖Unified Extensible Firmware Interface‖
 Z‖ufl‖SI‖En‖uFL‖
 *Z‖ufl/‖MSI‖En‖Ultra-Fine Line¦a type of miniature RF (Radio Frequency) coaxial connector used for high-frequency signals, typically up to 6 GHz.‖
+Z‖ugv‖SI‖En‖UGV‖
+*Z‖ugv/‖SI‖En‖Unmanned Ground Vehicle‖
 CZ‖uhf‖SI‖En‖UHF‖
 *CZ‖uhf/‖SI‖En‖Ultra High Frequency‖
 Z‖uht‖SI‖En‖UHT‖
@@ -1537,6 +1565,7 @@ Z‖weee‖SI‖En‖WEEE‖
 *Z‖weee/‖SI‖En‖Waste from Electrical and Electronic Equipment‖
 *Z‖who/‖SI‖En‖World Health Organization‖https://en.wikipedia.org/wiki/World_Health_Organization
 Z‖who`t‖SI‖En‖WHO‖
+*Z‖winkey‖SI‖En‖WinKey‖
 CZ‖wlan‖SI‖En‖WLAN‖
 *CZ‖wlan/‖SI‖En‖Wireless Local Area Network‖
 Z‖wlcsp‖SI‖En‖WLCSP‖

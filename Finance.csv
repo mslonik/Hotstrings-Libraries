@@ -70,6 +70,8 @@ Z‖mifid‖SI‖En‖MIFID‖
 CZ‖mor‖SI‖En‖MoR‖
 *CZ‖mor/‖MSI‖En‖Merchant of Record¦a term used to describe the legal entity selling goods or services to an end customer.`n`nWhen a customer makes a purchase, they are buying from the merchant of record. The merchant of record is responsible for handling all payments and takes responsibility for everything relating to the purchase, including collecting sales tax, processing refunds and chargebacks, and ensuring PCI compliance.‖
 *Z‖netincome‖SI‖En‖operating margin − interest − taxes‖
+Z‖nft‖SI‖En‖NFT‖
+*Z‖nft/‖SI‖En‖Non-Fungible Tokens‖
 Z‖npv‖SI‖En‖NPV‖
 Z*‖npv/‖SI‖En‖Net Present Value‖
 *Z‖operatingmargin‖MSI‖En‖gross margin − SG&A expense − R&D¦EBIT‖

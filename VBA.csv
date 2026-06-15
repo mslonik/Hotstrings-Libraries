@@ -1,8 +1,11 @@
 ﻿*Z‖activedocument‖SI‖En‖ActiveDocument‖
-*Z‖bb/‖SI‖En‖BuildingBlocks‖
+*Z‖autocorrect‖SI‖En‖AutoCorrect‖
+*CZ‖autotext‖SI‖En‖AutoText‖
+*Z‖bb/‖MSI‖En‖BuildingBlocks¦Building Block¦building block‖
 Z‖msgbox‖SI‖En‖MsgBox‖
 *Z‖msgboxtemplate‖CL‖En‖MsgBox _`n	Prompt:="Line 1" & vbNewLine & _`n	"Line 2", _`n	Buttons:=vbCritical + vbOKOnly, _`n	Title:=MsgBoxTitle‖
 *Z‖subheader‖CL‖En‖    Dim FileName As String:		FileName = C_F_Macros    `n    Dim ModuleName As String:	ModuleName = C_M_Macros    `n    Dim MacroName As String:    MacroName = "YourMacroName"    `n    Dim MsgBoxTitle As String:	MsgBoxTitle = FileName & " : " & ModuleName & " : " & MacroName‖
+*Z‖thisdocument‖SI‖En‖ThisDocument‖
 *Z‖vba13‖SI‖En‖run-time error '13': type mismatch‖
 *Z‖vba4102‖CL‖En‖run-time error '4102': overflow‖
 *Z‖vba4120‖SI‖En‖run-time error '4120': bad parameter‖
